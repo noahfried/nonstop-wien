@@ -1,0 +1,734 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>nonstop Wien</title>
+<meta name="robots" content="noindex">
+<meta name="apple-mobile-web-app-title" content="nonstop">
+<meta name="theme-color" content="#f6f4ef">
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f6f4ef;
+  --surface: #fffefb;
+  --surface-2: #efece4;
+  --line: #e2ded3;
+  --line-strong: #cbc6b8;
+  --ink: #17161a;
+  --ink-2: #514f57;
+  --ink-3: #85828b;
+  --accent: #c2410c;
+  --today: #fff6e8;
+  --chip: #f3f0e8;
+  --chip-hover: #e7e2d6;
+  --lang-DF: #2a78d6;
+  --lang-OV: #eb6834;
+  --lang-OmdU: #1baf7a;
+  --lang-OmeU: #8a6bd1;
+  --block-ink: #ffffff;
+  --shadow: 0 6px 24px rgba(20, 18, 10, .14);
+  --film-col: 300px;
+  --day-col: 150px;
+  --label-col: 150px;
+  --hour: 88px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #121214;
+    --surface: #1a1a1d;
+    --surface-2: #232327;
+    --line: #2c2c31;
+    --line-strong: #3d3d44;
+    --ink: #f2f1ee;
+    --ink-2: #c3c2bb;
+    --ink-3: #8d8c93;
+    --accent: #fb923c;
+    --today: #221c15;
+    --chip: #26262b;
+    --chip-hover: #33333a;
+    --lang-DF: #3987e5;
+    --lang-OV: #d95926;
+    --lang-OmdU: #199e70;
+    --lang-OmeU: #9085e9;
+    --shadow: 0 6px 24px rgba(0, 0, 0, .5);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121214;
+  --surface: #1a1a1d;
+  --surface-2: #232327;
+  --line: #2c2c31;
+  --line-strong: #3d3d44;
+  --ink: #f2f1ee;
+  --ink-2: #c3c2bb;
+  --ink-3: #8d8c93;
+  --accent: #fb923c;
+  --today: #221c15;
+  --chip: #26262b;
+  --chip-hover: #33333a;
+  --lang-DF: #3987e5;
+  --lang-OV: #d95926;
+  --lang-OmdU: #199e70;
+  --lang-OmeU: #9085e9;
+  --shadow: 0 6px 24px rgba(0, 0, 0, .5);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font: 14px/1.4 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; }
+button, input, select { font: inherit; color: inherit; }
+[hidden] { display: none !important; }
+
+.wrap { max-width: 1600px; margin: 0 auto; padding: 16px 20px 40px; }
+
+/* ---------- header ---------- */
+header.top {
+  display: flex; flex-wrap: wrap; align-items: flex-end; gap: 8px 24px;
+  padding-top: env(safe-area-inset-top, 0px);
+  margin-bottom: 14px;
+}
+.brand h1 { margin: 0; font-size: 22px; letter-spacing: -.01em; line-height: 1.1; }
+.brand h1 b { color: var(--accent); }
+.brand .sub { color: var(--ink-3); font-size: 12.5px; margin-top: 3px; }
+.stats { display: flex; gap: 18px; margin-left: auto; align-items: flex-end; }
+.stat { text-align: right; }
+.stat .n { font-size: 22px; font-weight: 650; font-variant-numeric: tabular-nums; line-height: 1; }
+.stat .l { font-size: 11.5px; color: var(--ink-3); text-transform: uppercase; letter-spacing: .05em; margin-top: 4px; }
+.stale { color: var(--accent); font-weight: 600; }
+
+/* ---------- toolbar ---------- */
+.toolbar {
+  display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  padding: 10px 12px; margin-bottom: 12px;
+}
+.seg { display: inline-flex; background: var(--surface-2); border-radius: 8px; padding: 3px; gap: 2px; }
+.seg button {
+  border: 0; background: transparent; padding: 5px 11px; border-radius: 6px; cursor: pointer;
+  color: var(--ink-2); font-weight: 550; white-space: nowrap;
+}
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0,0,0,.12); }
+.views button { font-size: 14px; padding: 6px 14px; }
+.search {
+  flex: 1 1 200px; min-width: 0; max-width: 340px;
+  border: 1px solid var(--line-strong); background: var(--surface); border-radius: 8px; padding: 6px 10px;
+}
+.search:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.pill.filters-toggle { display: none; }
+
+.filters { display: contents; }
+.fgroup { display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.fgroup > .flabel { font-size: 11.5px; color: var(--ink-3); text-transform: uppercase; letter-spacing: .05em; }
+.pill {
+  border: 1px solid var(--line-strong); background: var(--surface); border-radius: 999px;
+  padding: 3px 10px; cursor: pointer; color: var(--ink-2); font-size: 13px; white-space: nowrap;
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.pill:hover { background: var(--chip); }
+.pill[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+.pill .sw { width: 8px; height: 8px; border-radius: 2px; flex: none; }
+.pill.en { border-style: dashed; }
+select.time {
+  border: 1px solid var(--line-strong); background: var(--surface); border-radius: 8px; padding: 4px 8px;
+}
+
+/* cinema multi-select */
+.ms { position: relative; }
+.ms > summary {
+  list-style: none; cursor: pointer; border: 1px solid var(--line-strong); border-radius: 8px;
+  padding: 5px 28px 5px 10px; background: var(--surface); white-space: nowrap; position: relative;
+}
+.ms > summary::-webkit-details-marker { display: none; }
+.ms > summary::after { content: "▾"; position: absolute; right: 10px; color: var(--ink-3); }
+.ms .panel {
+  position: absolute; z-index: 30; top: calc(100% + 6px); left: 0; width: 260px; max-height: 60vh; overflow: auto;
+  background: var(--surface); border: 1px solid var(--line-strong); border-radius: 10px; box-shadow: var(--shadow);
+  padding: 6px;
+}
+.ms .panel .row { display: flex; gap: 6px; padding: 4px 4px 8px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
+.ms .panel .row button { flex: 1; border: 1px solid var(--line-strong); background: var(--surface-2); border-radius: 6px; padding: 3px; cursor: pointer; font-size: 12.5px; }
+.ms label { display: flex; align-items: center; gap: 8px; padding: 5px 6px; border-radius: 6px; cursor: pointer; }
+.ms label:hover { background: var(--chip); }
+.ms label .c { margin-left: auto; color: var(--ink-3); font-variant-numeric: tabular-nums; font-size: 12px; }
+.reset { border: 0; background: none; color: var(--accent); cursor: pointer; padding: 4px 6px; font-weight: 550; }
+
+.subbar { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; margin: 0 2px 10px; color: var(--ink-2); font-size: 13px; }
+.subbar .grow { flex: 1; }
+.legend { display: inline-flex; gap: 12px; flex-wrap: wrap; font-size: 12.5px; color: var(--ink-2); }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+/* ---------- week grid ---------- */
+.scroller {
+  overflow: auto; background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  max-height: calc(100vh - 210px); max-height: calc(100dvh - 210px);
+  overscroll-behavior: contain;
+}
+table.grid { border-collapse: separate; border-spacing: 0; width: max-content; min-width: 100%; }
+.grid th, .grid td { border-bottom: 1px solid var(--line); vertical-align: top; }
+.grid thead th {
+  position: sticky; top: 0; z-index: 3; background: var(--surface);
+  text-align: left; font-weight: 600; font-size: 12.5px; padding: 8px 8px 7px;
+  border-bottom: 1px solid var(--line-strong);
+}
+.grid thead th .dn { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-3); font-weight: 600; }
+.grid thead th .dd { font-size: 15px; font-variant-numeric: tabular-nums; }
+.grid thead th.today { background: var(--today); }
+.grid thead th.today .dn { color: var(--accent); }
+.grid th.film, .grid td.film {
+  position: sticky; left: 0; z-index: 2; background: var(--surface);
+  width: var(--film-col); min-width: var(--film-col); max-width: var(--film-col);
+  border-right: 1px solid var(--line-strong);
+}
+.grid thead th.film { z-index: 4; vertical-align: bottom; color: var(--ink-3); font-weight: 500; }
+.grid td.day { width: var(--day-col); min-width: var(--day-col); padding: 6px; border-right: 1px solid var(--line); }
+.grid td.day.today { background: var(--today); }
+.grid td.day.none, .grid th.none { width: 52px; min-width: 52px; max-width: 52px; }
+.grid th.none .dd { font-size: 12px; }
+.grid td.later { min-width: 116px; padding: 8px; color: var(--ink-3); font-size: 12.5px; }
+.grid tbody tr:hover td.film { background: var(--surface-2); }
+
+.fcell { display: flex; gap: 10px; padding: 8px 10px; }
+.poster {
+  width: 44px; height: 64px; flex: none; border-radius: 4px; object-fit: cover; background: var(--surface-2);
+  display: block;
+}
+.fmeta { min-width: 0; flex: 1; }
+.ftitle { font-weight: 650; font-size: 14px; line-height: 1.25; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.ftitle:hover { text-decoration: underline; }
+.fsub { color: var(--ink-3); font-size: 12px; margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.badges { display: flex; flex-wrap: wrap; gap: 3px; margin-top: 4px; }
+.badge {
+  font-size: 10.5px; font-weight: 600; letter-spacing: .02em; padding: 1px 6px; border-radius: 4px;
+  border: 1px solid var(--line-strong); color: var(--ink-2); white-space: nowrap; background: var(--surface);
+}
+.badge.count { border-color: transparent; background: var(--surface-2); color: var(--ink-2); }
+.badge.fdw { border-color: var(--accent); color: var(--accent); }
+
+.chips { display: flex; flex-direction: column; gap: 4px; }
+.chip {
+  display: flex; align-items: baseline; gap: 4px; padding: 3px 6px; border-radius: 6px; overflow: hidden;
+  background: var(--chip); text-decoration: none; font-size: 12.5px; white-space: nowrap;
+  border-left: 3px solid var(--lc, var(--line-strong));
+}
+.chip:hover, .chip:focus-visible { background: var(--chip-hover); outline: none; }
+.chip b { font-variant-numeric: tabular-nums; font-weight: 650; flex: none; }
+.chip .cv { color: var(--ink-2); overflow: hidden; text-overflow: ellipsis; min-width: 0; flex: 0 1 auto; }
+.chip .lg { color: var(--ink-3); font-size: 11.5px; flex: none; }
+.chip .tk { font-size: 10px; font-weight: 700; color: var(--accent); flex: none; }
+
+.empty { padding: 40px 20px; text-align: center; color: var(--ink-3); }
+
+/* ---------- day timeline ---------- */
+.daypick { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+.daybtn {
+  border: 1px solid var(--line-strong); background: var(--surface); border-radius: 8px; padding: 5px 10px;
+  cursor: pointer; text-align: center; line-height: 1.15; min-width: 64px;
+}
+.daybtn .dn { display: block; font-size: 10.5px; text-transform: uppercase; letter-spacing: .06em; color: var(--ink-3); font-weight: 600; }
+.daybtn .dd { font-weight: 650; font-variant-numeric: tabular-nums; }
+.daybtn .dc { display: block; font-size: 10.5px; color: var(--ink-3); }
+.daybtn[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+.daybtn[aria-pressed="true"] .dn, .daybtn[aria-pressed="true"] .dc { color: inherit; opacity: .75; }
+.daybtn:disabled { opacity: .4; cursor: default; }
+
+.tl { position: relative; width: max-content; min-width: 100%; }
+.tl-head, .tl-row { display: flex; }
+.tl-head { position: sticky; top: 0; z-index: 3; background: var(--surface); border-bottom: 1px solid var(--line-strong); }
+.tl-label {
+  position: sticky; left: 0; z-index: 2; width: var(--label-col); min-width: var(--label-col);
+  background: var(--surface); border-right: 1px solid var(--line-strong); padding: 8px 10px;
+  font-weight: 600; font-size: 13px; line-height: 1.2;
+}
+.tl-label small { display: block; color: var(--ink-3); font-weight: 450; font-size: 11.5px; margin-top: 2px; }
+.tl-head .tl-label { z-index: 4; color: var(--ink-3); font-weight: 500; font-size: 12px; }
+.tl-axis, .tl-track { position: relative; }
+.tl-axis { height: 30px; }
+.tl-axis .tick { position: absolute; top: 0; bottom: 0; border-left: 1px solid var(--line); padding: 7px 0 0 5px; font-size: 11.5px; color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.tl-row { border-bottom: 1px solid var(--line); }
+.tl-track { background-image: repeating-linear-gradient(to right, var(--line) 0 1px, transparent 1px var(--hour)); }
+.tl-track .shade { position: absolute; top: 0; bottom: 0; left: 0; background: color-mix(in srgb, var(--surface-2) 70%, transparent); pointer-events: none; }
+.blk {
+  position: absolute; height: 40px; border-radius: 6px; padding: 4px 7px; overflow: hidden;
+  background: var(--lc); color: var(--block-ink); text-decoration: none; font-size: 12px; line-height: 1.25;
+  box-shadow: 0 0 0 2px var(--surface);
+}
+.blk:hover, .blk:focus-visible { filter: brightness(1.08); z-index: 5; outline: none; box-shadow: 0 0 0 2px var(--surface), var(--shadow); }
+.blk .bt { font-weight: 650; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
+.blk .bm { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; opacity: .92; font-variant-numeric: tabular-nums; }
+.blk.est { -webkit-mask-image: linear-gradient(to right, #000 60%, rgba(0,0,0,.35)); mask-image: linear-gradient(to right, #000 60%, rgba(0,0,0,.35)); }
+.now { position: absolute; top: 0; bottom: 0; width: 2px; background: var(--accent); z-index: 1; pointer-events: none; }
+
+/* ---------- tooltip ---------- */
+.tip {
+  position: fixed; z-index: 100; pointer-events: none; max-width: 320px;
+  background: var(--surface); color: var(--ink); border: 1px solid var(--line-strong); border-radius: 10px;
+  box-shadow: var(--shadow); padding: 10px 12px; font-size: 12.5px;
+}
+.tip .tt { font-weight: 650; font-size: 14px; margin-bottom: 2px; }
+.tip .tm { color: var(--ink-2); }
+.tip .ts { color: var(--ink-3); margin-top: 6px; display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; }
+.tip .tl2 { margin-top: 6px; color: var(--ink-3); font-size: 11.5px; }
+
+footer { color: var(--ink-3); font-size: 12px; margin-top: 14px; }
+
+/* ---------- narrow screens ---------- */
+@media (max-width: 760px) {
+  :root { --film-col: 132px; --day-col: 128px; --label-col: 92px; --hour: 64px; }
+  .wrap { padding: 12px 16px 32px; }
+  .brand h1 { font-size: 19px; }
+  .stats { margin-left: 0; gap: 14px; width: 100%; justify-content: flex-start; }
+  .stat { text-align: left; }
+  .stat .n { font-size: 18px; }
+  .toolbar { gap: 8px; padding: 8px; }
+  .search { max-width: none; flex-basis: 100%; order: 3; }
+  .pill.filters-toggle { display: inline-flex; margin-left: auto; }
+  .filters { display: none; }
+  .filters.open { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; width: 100%; order: 4; }
+  .fcell { padding: 6px; gap: 0; flex-direction: column; }
+  .poster { width: 36px; height: 52px; margin-bottom: 4px; }
+  .ftitle { font-size: 13px; -webkit-line-clamp: 3; }
+  .fsub { white-space: normal; }
+  .chip { font-size: 12px; padding: 3px 5px; }
+  .chip .lg { font-size: 11px; }
+  .scroller { max-height: 75vh; max-height: 75dvh; }
+  .tl-label { font-size: 12px; padding: 6px 8px; }
+  .ms .panel { width: min(300px, calc(100vw - 48px)); }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <h1><b>nonstop</b> Wien</h1>
+      <div class="sub" id="updated"></div>
+    </div>
+    <div class="stats" aria-live="polite">
+      <div class="stat"><div class="n" id="nFilms">–</div><div class="l">films</div></div>
+      <div class="stat"><div class="n" id="nScreenings">–</div><div class="l">screenings</div></div>
+      <div class="stat"><div class="n" id="nCinemas">–</div><div class="l">cinemas</div></div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="seg views" role="group" aria-label="View">
+      <button type="button" data-view="week">Week</button>
+      <button type="button" data-view="day">Day</button>
+    </div>
+    <input class="search" id="q" type="search" placeholder="Search film, director, cast…" autocomplete="off">
+    <button type="button" class="pill filters-toggle" id="filtersToggle" aria-expanded="false">Filters</button>
+    <div class="filters" id="filters">
+      <details class="ms" id="cinemaMs">
+        <summary id="cinemaSummary">All cinemas</summary>
+        <div class="panel">
+          <div class="row"><button type="button" data-ms="all">All</button><button type="button" data-ms="none">None</button></div>
+          <div id="cinemaList"></div>
+        </div>
+      </details>
+      <div class="fgroup" id="langGroup"><span class="flabel">Lang</span></div>
+      <div class="fgroup"><span class="flabel">From</span><select class="time" id="fromTime" aria-label="Earliest start time"></select></div>
+      <div class="fgroup" id="tagGroup"></div>
+      <button type="button" class="reset" id="reset">Reset</button>
+    </div>
+  </div>
+
+  <section id="weekView">
+    <div class="subbar">
+      <div class="seg" role="group" aria-label="Sort films">
+        <button type="button" data-sort="count">Most screenings</button>
+        <button type="button" data-sort="az">A–Z</button>
+        <button type="button" data-sort="tonight">Playing tonight</button>
+      </div>
+      <span class="grow"></span>
+      <span id="weekNote"></span>
+    </div>
+    <div class="scroller" id="weekScroller"></div>
+  </section>
+
+  <section id="dayView" hidden>
+    <div class="daypick" id="dayPick"></div>
+    <div class="subbar"><span id="dayNote"></span><span class="grow"></span><span class="legend" id="legend"></span></div>
+    <div class="scroller" id="dayScroller"></div>
+  </section>
+
+  <footer id="footer"></footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+const TZ = "Europe/Vienna";
+const LANGS = [
+  { code: "DF", name: "German dub" },
+  { code: "OV", name: "Original, no subtitles" },
+  { code: "OmdU", name: "Original, German subtitles" },
+  { code: "OmeU", name: "Original, English subtitles" },
+];
+const ENGLISH = ["OV", "OmeU"];
+const TAGS = ["Film der Woche", "Festival", "Q&A", "Retrospektive", "Open Air"];
+// screening-specific events get a marker on the chip; film-level tags live in the film column
+const TAG_SHORT = { "Festival": "FEST", "Q&A": "Q&A", "Open Air": "OA" };
+const SHORT = {
+  "Actors Studio": "Actors", "Admiral Kino": "Admiral", "Bellaria Kino": "Bellaria",
+  "Breitenseer Lichtspiele": "Breitensee", "Burg Kino": "Burg", "Gartenbaukino": "Gartenbau",
+  "Haydn Kino": "Haydn", "Metro Kinokulturhaus": "Metro", "Stadtkino Wien": "Stadtkino",
+  "Votiv Kino": "Votiv", "Burghofkino": "Burghof", "Kino wie noch nie": "KWNN", "URANIA": "Urania",
+};
+const DISPLAY = { "URANIA CEE🧡NEMA": "URANIA" };
+const cinemaName = (c) => DISPLAY[c] || c;
+const shortName = (c) => SHORT[cinemaName(c)] || cinemaName(c);
+
+// ---------- dates (everything keyed by Vienna local date strings) ----------
+const fmtKey = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" });
+const fmtHM = new Intl.DateTimeFormat("en-GB", { timeZone: TZ, hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+const todayKey = () => fmtKey.format(new Date());
+const addDays = (key, n) => {
+  const d = new Date(key + "T12:00:00Z");
+  d.setUTCDate(d.getUTCDate() + n);
+  return d.toISOString().slice(0, 10);
+};
+const dayName = (key, style = "short") => new Date(key + "T12:00:00Z").toLocaleDateString("en-GB", { weekday: style, timeZone: "UTC" });
+const dayNum = (key) => { const [, m, d] = key.split("-"); return `${+d}.${+m}.`; };
+const longDate = (key) => new Date(key + "T12:00:00Z").toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" });
+const minsOf = (t) => { const [h, m] = t.split(":").map(Number); return h * 60 + m; };
+const hm = (mins) => `${String(Math.floor(mins / 60) % 24).padStart(2, "0")}:${String(mins % 60).padStart(2, "0")}`;
+
+// ---------- data prep ----------
+const films = new Map(DATA ? DATA.films.map((f) => [f.slug, f]) : []);
+const fold = (s) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+const ALL = (DATA ? DATA.screenings : []).map((s, i) => ({
+  ...s, i,
+  date: s.start.slice(0, 10),
+  time: s.start.slice(11, 16),
+  mins: minsOf(s.start.slice(11, 16)),
+  ts: Date.parse(s.start),
+  f: films.get(s.film),
+}));
+const filmText = new Map([...films.values()].map((f) => [f.slug, fold([f.title, f.director, f.cast].join(" "))]));
+const CINEMAS = [...new Set(ALL.map((s) => s.cinema))].sort((a, b) => cinemaName(a).localeCompare(cinemaName(b), "de"));
+const PRESENT_TAGS = TAGS.filter((t) => ALL.some((s) => s.tags.includes(t)));
+
+// ---------- state ----------
+const DEFAULT = { view: "week", sort: "count", q: "", cinemas: [], langs: [], from: 0, tags: [], day: null };
+let state = { ...DEFAULT };
+try { Object.assign(state, JSON.parse(localStorage.getItem("nonstop-wien") || "{}")); } catch (e) { /* storage unavailable */ }
+state.cinemas = (state.cinemas || []).filter((c) => CINEMAS.includes(c) || c === "__none__");
+state.tags = (state.tags || []).filter((t) => PRESENT_TAGS.includes(t));
+state.q = "";
+const save = () => { try { localStorage.setItem("nonstop-wien", JSON.stringify({ ...state, q: "" })); } catch (e) { /* ignore */ } };
+
+function filtered() {
+  const now = Date.now();
+  const q = fold(state.q.trim());
+  return ALL.filter((s) =>
+    s.ts > now &&
+    (!q || filmText.get(s.film).includes(q)) &&
+    (!state.cinemas.length || state.cinemas.includes(s.cinema)) &&
+    (!state.langs.length || state.langs.includes(s.lang)) &&
+    (!state.from || s.mins >= state.from * 60) &&
+    (!state.tags.length || state.tags.every((t) => s.tags.includes(t)))
+  );
+}
+
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const linkOf = (s) => s.booking || s.f.url;
+const langVar = (l) => `var(--lang-${LANGS.some((x) => x.code === l) ? l : "OV"})`;
+const plural = (n, w) => `${n} ${w}${n === 1 ? "" : "s"}`;
+
+// ---------- controls ----------
+const $ = (id) => document.getElementById(id);
+const toggle = (arr, v) => (arr.includes(v) ? arr.filter((x) => x !== v) : [...arr, v]);
+const isEnglish = () => state.langs.length === ENGLISH.length && ENGLISH.every((l) => state.langs.includes(l));
+
+function buildControls() {
+  $("langGroup").insertAdjacentHTML("beforeend",
+    LANGS.map((l) => `<button type="button" class="pill" data-lang="${l.code}" title="${l.name}"><span class="sw" style="background:${langVar(l.code)}"></span>${l.code}</button>`).join("") +
+    `<button type="button" class="pill en" data-english title="OV + OmeU">English-friendly</button>`);
+  $("tagGroup").innerHTML = PRESENT_TAGS.length
+    ? `<span class="flabel">Tags</span>` + PRESENT_TAGS.map((t) => `<button type="button" class="pill" data-tag="${esc(t)}">${esc(t)}</button>`).join("")
+    : "";
+  let opts = `<option value="0">Any time</option>`;
+  for (let h = 10; h <= 23; h++) opts += `<option value="${h}">from ${String(h).padStart(2, "0")}:00</option>`;
+  $("fromTime").innerHTML = opts;
+  const counts = {};
+  ALL.forEach((s) => (counts[s.cinema] = (counts[s.cinema] || 0) + 1));
+  $("cinemaList").innerHTML = CINEMAS.map((c) =>
+    `<label><input type="checkbox" value="${esc(c)}"> ${esc(cinemaName(c))}<span class="c">${counts[c]}</span></label>`).join("");
+
+  document.querySelectorAll("[data-view]").forEach((b) => b.onclick = () => { state.view = b.dataset.view; update(); });
+  document.querySelectorAll("[data-sort]").forEach((b) => b.onclick = () => { state.sort = b.dataset.sort; update(); });
+  document.querySelectorAll("[data-lang]").forEach((b) => b.onclick = () => { state.langs = toggle(state.langs, b.dataset.lang); update(); });
+  document.querySelector("[data-english]").onclick = () => { state.langs = isEnglish() ? [] : [...ENGLISH]; update(); };
+  document.querySelectorAll("[data-tag]").forEach((b) => b.onclick = () => { state.tags = toggle(state.tags, b.dataset.tag); update(); });
+  $("fromTime").onchange = (e) => { state.from = +e.target.value; update(); };
+  let qt;
+  $("q").oninput = (e) => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value; update(); }, 120); };
+  $("cinemaList").onchange = () => {
+    state.cinemas = [...$("cinemaList").querySelectorAll("input:checked")].map((i) => i.value);
+    if (state.cinemas.length === CINEMAS.length) state.cinemas = [];
+    else if (!state.cinemas.length) state.cinemas = ["__none__"];
+    update();
+  };
+  document.querySelector('[data-ms="all"]').onclick = () => { state.cinemas = []; update(); };
+  document.querySelector('[data-ms="none"]').onclick = () => { state.cinemas = ["__none__"]; update(); };
+  document.addEventListener("click", (e) => { if (!$("cinemaMs").contains(e.target)) $("cinemaMs").open = false; });
+  $("reset").onclick = () => { state = { ...DEFAULT, view: state.view, sort: state.sort, day: state.day }; update(); };
+  $("filtersToggle").onclick = () => {
+    const open = $("filters").classList.toggle("open");
+    $("filtersToggle").setAttribute("aria-expanded", open);
+  };
+}
+
+function syncControls() {
+  document.querySelectorAll("[data-view]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.view === state.view));
+  document.querySelectorAll("[data-sort]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.sort === state.sort));
+  document.querySelectorAll("[data-lang]").forEach((b) => b.setAttribute("aria-pressed", state.langs.includes(b.dataset.lang)));
+  document.querySelector("[data-english]").setAttribute("aria-pressed", isEnglish());
+  document.querySelectorAll("[data-tag]").forEach((b) => b.setAttribute("aria-pressed", state.tags.includes(b.dataset.tag)));
+  $("fromTime").value = state.from;
+  if ($("q").value !== state.q) $("q").value = state.q;
+  $("cinemaList").querySelectorAll("input").forEach((i) => (i.checked = !state.cinemas.length || state.cinemas.includes(i.value)));
+  const sel = state.cinemas.filter((c) => CINEMAS.includes(c));
+  $("cinemaSummary").textContent = !state.cinemas.length ? "All cinemas" : sel.length === 1 ? cinemaName(sel[0]) : `${sel.length} cinemas`;
+  const active = (state.cinemas.length ? 1 : 0) + (state.langs.length ? 1 : 0) + (state.from ? 1 : 0) + state.tags.length;
+  $("filtersToggle").textContent = active ? `Filters · ${active}` : "Filters";
+  $("reset").hidden = !active && !state.q;
+  $("weekView").hidden = state.view !== "week";
+  $("dayView").hidden = state.view !== "day";
+}
+
+// ---------- header ----------
+function renderHeader(list) {
+  $("nFilms").textContent = new Set(list.map((s) => s.film)).size;
+  $("nScreenings").textContent = list.length;
+  $("nCinemas").textContent = new Set(list.map((s) => s.cinema)).size;
+  const upd = new Date(DATA.updated);
+  const ageH = (Date.now() - upd) / 36e5;
+  const when = upd.toLocaleString("en-GB", { timeZone: TZ, weekday: "short", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
+  const range = ALL.length ? `${dayNum(ALL[0].date)} – ${dayNum(ALL[ALL.length - 1].date)}` : "";
+  $("updated").innerHTML = `Kinoabo screenings in Vienna · ${range} · updated <span class="${ageH > 36 ? "stale" : ""}">${esc(when)}${ageH > 36 ? " — run update.py" : ""}</span>`;
+}
+
+// ---------- week grid ----------
+function renderWeek(list) {
+  const today = todayKey();
+  const days = Array.from({ length: 7 }, (_, i) => addDays(today, i));
+  const end = addDays(today, 7);
+  const byFilm = new Map();
+  for (const s of list) {
+    if (!byFilm.has(s.film)) byFilm.set(s.film, { f: s.f, week: [], later: [] });
+    (s.date < end ? byFilm.get(s.film).week : byFilm.get(s.film).later).push(s);
+  }
+  const tonightStart = Math.max(17 * 60, minsOf(fmtHM.format(new Date())));
+  const rows = [...byFilm.values()].filter((r) => r.week.length);
+  const laterOnly = byFilm.size - rows.length;
+  rows.forEach((r) => {
+    const t = r.week.find((s) => s.date === today && s.mins >= tonightStart);
+    r.tonight = t ? t.mins : Infinity;
+  });
+  const az = (a, b) => a.f.title.localeCompare(b.f.title, "de", { sensitivity: "base" });
+  if (state.sort === "az") rows.sort(az);
+  else if (state.sort === "tonight") rows.sort((a, b) => a.tonight - b.tonight || b.week.length - a.week.length || az(a, b));
+  else rows.sort((a, b) => b.week.length - a.week.length || az(a, b));
+
+  const nTonight = rows.filter((r) => r.tonight < Infinity).length;
+  $("weekNote").textContent = state.sort === "tonight"
+    ? `${plural(nTonight, "film")} still playing tonight (from ${hm(tonightStart)}), listed first`
+    : laterOnly ? `+ ${plural(laterOnly, "film")} playing only after ${dayNum(days[6])} (see Day view → Later)` : "";
+
+  if (!rows.length) {
+    $("weekScroller").innerHTML = `<div class="empty">No screenings match these filters in the next 7 days.</div>`;
+    return;
+  }
+  const busy = new Set(rows.flatMap((r) => r.week.map((s) => s.date)));
+  const cls = (d) => [d === today ? "today" : "", busy.has(d) ? "" : "none"].join(" ");
+  const head = `<thead><tr><th class="film">${plural(rows.length, "film")}</th>` +
+    days.map((d) => `<th class="${cls(d)}" title="${busy.has(d) ? "" : "nothing (left) on this day"}"><span class="dn">${d === today ? "Today" : dayName(d)}</span><span class="dd">${dayNum(d)}</span></th>`).join("") +
+    `<th><span class="dn">&nbsp;</span>Later</th></tr></thead>`;
+  const body = rows.map((r) => {
+    const f = r.f;
+    const tags = TAGS.filter((t) => r.week.some((s) => s.tags.includes(t)) || r.later.some((s) => s.tags.includes(t)));
+    const sub = [f.director, f.year].filter(Boolean).join(", ") + (f.runtime ? `${f.director || f.year ? " · " : ""}${f.runtime}′` : "");
+    const cells = days.map((d) => {
+      const ss = r.week.filter((s) => s.date === d);
+      return `<td class="day ${cls(d)}">${ss.length ? `<div class="chips">${ss.map(chip).join("")}</div>` : ""}</td>`;
+    }).join("");
+    const later = r.later.length ? `${r.later.length}× · next ${dayName(r.later[0].date)} ${dayNum(r.later[0].date)}` : "";
+    return `<tr><td class="film"><div class="fcell">` +
+      (f.poster ? `<img class="poster" src="${esc(f.poster)}" alt="" loading="lazy">` : `<div class="poster"></div>`) +
+      `<div class="fmeta"><a class="ftitle" href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title)}</a>` +
+      `<div class="fsub" title="${esc(sub)}">${esc(sub)}</div>` +
+      `<div class="badges"><span class="badge count" title="screenings in the next 7 days">${r.week.length}×</span>` +
+      tags.map((t) => `<span class="badge ${t === "Film der Woche" ? "fdw" : ""}">${esc(t)}</span>`).join("") +
+      `</div></div></div></td>${cells}<td class="later">${later}</td></tr>`;
+  }).join("");
+  $("weekScroller").innerHTML = `<table class="grid">${head}<tbody>${body}</tbody></table>`;
+}
+
+function chip(s) {
+  const marks = s.tags.filter((t) => TAG_SHORT[t]).map((t) => `<span class="tk">${TAG_SHORT[t]}</span>`).join("");
+  return `<a class="chip" style="--lc:${langVar(s.lang)}" href="${esc(linkOf(s))}" target="_blank" rel="noopener" data-i="${s.i}">` +
+    `<b>${s.time}</b><span class="cv">${esc(shortName(s.cinema))}</span><span class="lg">· ${esc(s.lang)}</span>${marks}</a>`;
+}
+
+// ---------- day timeline ----------
+const DEFAULT_RUNTIME = 100;
+const endOf = (s) => s.mins + (s.f.runtime || DEFAULT_RUNTIME);
+
+function renderDay(list) {
+  const today = todayKey();
+  const counts = {};
+  list.forEach((s) => (counts[s.date] = (counts[s.date] || 0) + 1));
+  const week = Array.from({ length: 7 }, (_, i) => addDays(today, i));
+  const laterDates = Object.keys(counts).filter((d) => d >= addDays(today, 7)).sort();
+  if (!state.day || state.day < today) state.day = week.find((d) => counts[d]) || today;
+
+  $("dayPick").innerHTML = week.map((d) =>
+    `<button type="button" class="daybtn" data-day="${d}" aria-pressed="${d === state.day}" ${counts[d] || d === state.day ? "" : "disabled"}>` +
+    `<span class="dn">${d === today ? "Today" : dayName(d)}</span><span class="dd">${dayNum(d)}</span><span class="dc">${counts[d] || 0}</span></button>`).join("") +
+    (laterDates.length ? `<select class="time" id="laterDay" aria-label="Later dates"><option value="">Later…</option>${laterDates.map((d) =>
+      `<option value="${d}" ${d === state.day ? "selected" : ""}>${dayName(d)} ${dayNum(d)} (${counts[d]})</option>`).join("")}</select>` : "");
+  $("dayPick").querySelectorAll("[data-day]").forEach((b) => b.onclick = () => { state.day = b.dataset.day; update(); });
+  if ($("laterDay")) $("laterDay").onchange = (e) => { if (e.target.value) { state.day = e.target.value; update(); } };
+
+  const day = list.filter((s) => s.date === state.day);
+  $("legend").innerHTML = LANGS.map((l) => `<span title="${l.name}"><i style="background:${langVar(l.code)}"></i>${l.code}</span>`).join("") +
+    `<span title="Runtime unknown; block assumes ${DEFAULT_RUNTIME} min">faded end = runtime unknown</span>`;
+  $("dayNote").textContent = `${longDate(state.day)} · ${plural(new Set(day.map((s) => s.film)).size, "film")} · ${plural(day.length, "screening")}`;
+  if (!day.length) {
+    $("dayScroller").innerHTML = `<div class="empty">No screenings match these filters on this day.</div>`;
+    return;
+  }
+
+  const startH = Math.min(10, Math.floor(Math.min(...day.map((s) => s.mins)) / 60));
+  const endH = Math.min(27, Math.max(24, Math.ceil(Math.max(...day.map(endOf)) / 60)));
+  const hourPx = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--hour")) || 88;
+  const width = (endH - startH) * hourPx;
+  const x = (mins) => ((mins - startH * 60) / 60) * hourPx;
+  const LANE = 44;
+
+  const byCinema = new Map();
+  for (const s of day) {
+    if (!byCinema.has(s.cinema)) byCinema.set(s.cinema, []);
+    byCinema.get(s.cinema).push(s);
+  }
+  const cinemas = [...byCinema.keys()].sort((a, b) => cinemaName(a).localeCompare(cinemaName(b), "de"));
+  const step = hourPx < 70 ? 2 : 1;
+  let ticks = "";
+  for (let h = startH; h < endH; h += step) ticks += `<div class="tick" style="left:${x(h * 60)}px">${String(h % 24).padStart(2, "0")}:00</div>`;
+
+  const nowM = minsOf(fmtHM.format(new Date()));
+  const nowX = state.day === today && nowM >= startH * 60 && nowM <= endH * 60 ? x(nowM) : null;
+
+  const rows = cinemas.map((c) => {
+    const ss = byCinema.get(c).sort((a, b) => a.mins - b.mins);
+    const lanes = []; // right edge of the last block in each lane (multi-screen cinemas stack)
+    const placed = ss.map((s) => {
+      const left = x(s.mins);
+      const w = Math.max(54, x(endOf(s)) - left - 2);
+      let lane = lanes.findIndex((edge) => edge <= left);
+      if (lane < 0) { lane = lanes.length; lanes.push(0); }
+      lanes[lane] = left + w + 3;
+      return { s, left, w, lane };
+    });
+    const h = Math.max(48, lanes.length * LANE + 4);
+    const blocks = placed.map(({ s, left, w, lane }) => {
+      const marks = s.tags.filter((t) => TAG_SHORT[t]).map((t) => " · " + TAG_SHORT[t]).join("");
+      return `<a class="blk ${s.f.runtime ? "" : "est"}" style="--lc:${langVar(s.lang)};left:${left}px;top:${lane * LANE + 4}px;width:${w}px" href="${esc(linkOf(s))}" target="_blank" rel="noopener" data-i="${s.i}">` +
+        `<span class="bt">${esc(s.f.title)}</span><span class="bm">${s.time}${s.f.runtime ? "–" + hm(endOf(s)) : ""} · ${esc(s.lang)}${marks}</span></a>`;
+    }).join("");
+    return `<div class="tl-row"><div class="tl-label">${esc(cinemaName(c))}<small>${plural(ss.length, "screening")}</small></div>` +
+      `<div class="tl-track" style="width:${width}px;height:${h}px">` +
+      (nowX != null ? `<div class="shade" style="width:${nowX}px"></div><div class="now" style="left:${nowX}px"></div>` : "") +
+      `${blocks}</div></div>`;
+  }).join("");
+  $("dayScroller").innerHTML = `<div class="tl"><div class="tl-head"><div class="tl-label">Cinema</div><div class="tl-axis" style="width:${width}px">${ticks}</div></div>${rows}</div>`;
+
+  // bring the interesting part into view: now (today) or the first screening
+  const focus = nowX != null ? nowX - hourPx : x(Math.min(...day.map((s) => s.mins))) - hourPx / 2;
+  $("dayScroller").scrollLeft = Math.max(0, focus);
+}
+
+// ---------- tooltip ----------
+function setupTooltip() {
+  const tip = $("tip");
+  const place = (cx, cy) => {
+    const r = tip.getBoundingClientRect();
+    let left = cx + 14, top = cy + 16;
+    if (left + r.width > innerWidth - 8) left = cx - r.width - 14;
+    if (top + r.height > innerHeight - 8) top = cy - r.height - 12;
+    tip.style.left = Math.max(8, left) + "px";
+    tip.style.top = Math.max(8, top) + "px";
+  };
+  const show = (el, cx, cy) => {
+    const s = ALL[+el.dataset.i];
+    const f = s.f;
+    const lang = LANGS.find((l) => l.code === s.lang);
+    const facts = [f.director, f.year, f.runtime && f.runtime + " min"].filter(Boolean).join(" · ");
+    tip.innerHTML = `<div class="tt">${esc(f.title)}</div>` +
+      `<div class="tm">${dayName(s.date, "long")} ${dayNum(s.date)} · ${s.time}${f.runtime ? "–" + hm(endOf(s)) : ""} · ${esc(cinemaName(s.cinema))}</div>` +
+      `<div class="tm">${esc(s.lang)}${lang ? " — " + esc(lang.name) : ""}${f.spoken ? ` (${esc(f.spoken)})` : ""}</div>` +
+      (s.tags.length ? `<div class="badges">${s.tags.map((t) => `<span class="badge">${esc(t)}</span>`).join("")}</div>` : "") +
+      (facts ? `<div class="tm" style="margin-top:4px">${esc(facts)}</div>` : "") +
+      (f.synopsis ? `<div class="ts">${esc(f.synopsis)}</div>` : "") +
+      `<div class="tl2">Click: ${s.booking ? "cinema ticket page" : "nonstop film page"} ↗</div>`;
+    tip.hidden = false;
+    place(cx, cy);
+  };
+  document.addEventListener("pointerover", (ev) => {
+    if (ev.pointerType === "touch") return;
+    const el = ev.target.closest("[data-i]");
+    if (el) show(el, ev.clientX, ev.clientY); else tip.hidden = true;
+  });
+  document.addEventListener("pointermove", (ev) => { if (!tip.hidden && ev.pointerType !== "touch") place(ev.clientX, ev.clientY); });
+  document.addEventListener("scroll", () => (tip.hidden = true), true);
+  document.addEventListener("focusin", (ev) => {
+    const el = ev.target.closest && ev.target.closest("[data-i]");
+    if (!el || el.matches(":hover")) return;
+    const r = el.getBoundingClientRect();
+    show(el, r.left, r.bottom);
+  });
+  document.addEventListener("focusout", () => (tip.hidden = true));
+}
+
+// ---------- main ----------
+let lastCount = -1, lastDay = "";
+function update() {
+  syncControls();
+  const list = filtered();
+  lastCount = list.length;
+  lastDay = todayKey();
+  renderHeader(list);
+  if (state.view === "week") renderWeek(list); else renderDay(list);
+  save();
+}
+
+if (!DATA) {
+  document.querySelector(".wrap").innerHTML = "<p>No data embedded — run <code>python3 update.py</code>.</p>";
+} else {
+  $("footer").innerHTML = `Source: <a href="${esc(DATA.source)}" target="_blank" rel="noopener">nonstopkino.at/programm</a>. ` +
+    `Chips open the cinema's ticket page when nonstop links one, otherwise the nonstop film page. Times are Europe/Vienna. ` +
+    `Language colours: ${LANGS.map((l) => `${l.code} = ${l.name}`).join(", ")}.`;
+  buildControls();
+  setupTooltip();
+  update();
+  let rt;
+  addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { if (state.view === "day") update(); }, 150); });
+  // drop screenings that start while the tab stays open, and move the now-line
+  // (only re-render when the visible set actually changed, so scroll position isn't lost)
+  setInterval(() => { if (filtered().length !== lastCount || todayKey() !== lastDay) update(); }, 60 * 1000);
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+# generated locally / in CI
+dashboard.html
+cache/
+__pycache__/
+.DS_Store

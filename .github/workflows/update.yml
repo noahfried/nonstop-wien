@@ -1,0 +1,60 @@
+name: Update dashboard
+
+on:
+  schedule:
+    # 03:30 UTC = 04:30/05:30 in Vienna, before anyone plans their evening
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["update.py", "template.html", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write   # commit data.json (also keeps the schedule from going dormant)
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # film detail pages are cached between runs to keep requests to nonstopkino.at minimal
+      - uses: actions/cache@v4
+        with:
+          path: cache
+          key: nonstop-cache-${{ github.run_id }}
+          restore-keys: nonstop-cache-
+
+      - name: Fetch programme and build dashboard
+        run: python update.py --no-open
+
+      - name: Commit data.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "Update programme data $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Prepare site
+        run: mkdir -p _site && cp dashboard.html _site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
