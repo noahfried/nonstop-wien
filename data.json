@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T22:25+02:00",
+ "updated": "2026-10-12T13:10+02:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -1681,6 +1681,18 @@
    "runtime": 85,
    "spoken": "Dänisch",
    "synopsis": "Kurz vor ihrem zwölften Geburtstag fühlt sich Mira noch ganz und gar nicht bereit, bald Teenagerin zu sein. Das verspielte Mädchen zeichnet gerne und gestaltet verrückte Kunstwerke mit ihren besten Freund:innen Naja und Louis. Als die gleichaltrige Influencerin Beate in die Klasse kommt und sich Naja immer mehr für Makeup und Verliebtsein interessiert, nimmt sich Mira vor, weniger kindisch zu sein und Teil des coolen Love Clubs zu werden. Es kann doch nicht so schwer sein, sich in den besten Freund zu verlieben. Fantasievoll und mit animierten Tagebucheinträgen gibt der Film einen lebensnahen Einblick in die manchmal verwirrende Gefühlswelt an der Schwelle zum Erwachsenwerden: Wer bin ich und wer will ich sein? Im Rahmen des internationalen Kinderfilmfestivals 2026 wird die Originalfassung gezeigt und live im Kino deutsch eingesprochen."
+  },
+  {
+   "slug": "mission-maeusejagd-chaos-unterm-weihnachtsbaum",
+   "title": "Mission Mäusejagd: Chaos unterm Weihnachtsbaum",
+   "url": "https://nonstopkino.at/movies/mission-maeusejagd-chaos-unterm-weihnachtsbaum/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/bdca48f7-0dd6-4801-98e4-ae841e8a5654.jpg?fit=max&w=120",
+   "director": "Henrik M. Dahlsbakken",
+   "cast": "",
+   "year": 2025,
+   "runtime": 77,
+   "spoken": "Norwegisch (Nynorsk)",
+   "synopsis": "Von den Machern des norwegischen Publikumshits „Ein Weihnachtsfest für Teddy“ kommt heuer eine neue tierische Charme-Offensive, die das Zeug zum Weihnachtsklassiker hat. Eine Mäusefamilie freut sich auf das Weihnachtsfest in ihrem Ferienhaus. Während sie sich auf die Feiertage vorbereitet, wird die Freude jäh gestoppt, als Gestalten mit viel größerem Weihnachtsschmuck auftauchen: Menschen. Auch sie sind wegen des gemütlichen Landsitzes hier, aber die sturen Mäuse weigern sich, so einfach aufzugeben. Ein epischer Machtkampf zwischen Mäusen und Menschen beginnt – mit viel Action und Humor!"
   },
   {
    "slug": "mit-aesten-bis-zum-himmel",
@@ -7916,6 +7928,14 @@
    "tags": [
     "Q&A"
    ],
+   "booking": ""
+  },
+  {
+   "film": "mission-maeusejagd-chaos-unterm-weihnachtsbaum",
+   "start": "2026-12-11T15:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
    "booking": ""
   }
  ]
