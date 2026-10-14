@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T12:51+02:00",
+ "updated": "2026-10-14T10:53+02:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -99,18 +99,6 @@
    "synopsis": "1936 spielt sich in Japan ein berühmter Skandal ab: Kichizō und seine Geisha Abe Sada sind derart ineinander vernarrt, dass sie die Welt um sich vergessen. Ihre Leidenschaft steigert sich in Wahnsinn, der seinen Höhepunkt darin findet, dass er sich von ihr strangulieren lässt und sie ihm seinen Penis abschneidet … Noch bei der Premiere auf der Berlinale 1976 kommt es zum Eklat: Der Film läuft im Forum, wird aber im Anschluss von der Staatsanwaltschaft aufgrund von Pornografieverdacht beschlagnahmt und erst zwei Jahre später freigegeben. Der Skandal macht zumindest den »Tabubrecher« Ōshima, einen der zentralen Erneuerer des japanischen Kinos, auch im Westen bekannt. Heute gilt AI NO KORĪDA als subversiver Meilenstein, der sowohl politische als auch sexuelle Moralvorstellungen hinterfragt. (Florian Widegger)"
   },
   {
-   "slug": "all-the-lovers-in-the-night",
-   "title": "All The Lovers In The Night",
-   "url": "https://nonstopkino.at/movies/all-the-lovers-in-the-night/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/9bc2f4e1-a3db-44e3-82c0-dc9a36cfe923.jpg?fit=max&w=120",
-   "director": "Yukiko Sode",
-   "cast": "Yukino Kishii, Tadanobu Asano, Misato Morita, Mai Fukagawa, Akihisa Shiono",
-   "year": 2026,
-   "runtime": 139,
-   "spoken": "Japanisch",
-   "synopsis": "Fuyuko arbeitet von zu Hause aus als freiberufliche Lektorin und spürt in Manuskripten die ganz kniffligen Fehler auf, die anderen nie auffallen würden. Ihre Tage unterscheiden sich kaum voneinander. Sie meidet Gesellschaft, trägt übergroße Kleidung und ist eher wortkarg in der Kommunikation. Eine soziale Außenseiterin, für die nur ihre Kollegin Hijiri so etwas wie eine Freundin darstellt. Was sie jedoch liebt, ist, spät nachts durch Tokyo zu spazieren, dann wenn selbst in der Metropole alle Welt zu schlafen scheint. In einem ungünstigen Moment taucht Mitsutsuka, ein Physiklehrer, auf und hilft ihr aus einer Verlegenheit heraus. Sie beginnen sich zu treffen – in Restaurants, Cafés, gefolgt von langen Spaziergängen. Er erklärt ihr seine Leidenschaft, die Faszination von Teilchen und das Verhalten von Licht; sie erzählt ihm von den winzigen Fehlern, die nur sie sehen kann. Zwischen den beiden entsteht etwas Zartes, das neben der persönlichen Verletzlichkeit vorsichtig gedeihen kann. Doch versteckte Unwahrheiten und die verborgen gehaltene Vergangenheit melden sich zurück und fordern ihren Tribut."
-  },
-  {
    "slug": "all-you-need-is-kill",
    "title": "All You Need Is Kill",
    "url": "https://nonstopkino.at/movies/all-you-need-is-kill/",
@@ -121,6 +109,18 @@
    "runtime": 82,
    "spoken": "Japanisch",
    "synopsis": "Malerisch bunte Sci-Fi-Animation trifft auf blutigen Timeloop-Splatter. Das mag erstmal etwas widersprüchlich klingen, fließt aber im Laufe des immer wiederkehrenden Loops stimmig in eine kohärente Handlung über. Ausgangspunkt ist das plötzliche Auftauchen einer gigantischen, aber vor allem außerirdischen Pflanze in einem futuristischen Japan, die elektromagnetische Wellen emittiert und ihre Umgebung ins Chaos stürzt. Rita ist Teil einer Spezialeinheit, die seit diesem Ereignis für nationale Sicherheit sorgen soll. Doch als die mysteriöse Pflanze sich ein Jahr später als Brutstätte aggressiver Monster entpuppt, die in Hochgeschwindigkeit jedes menschliche Leben auslöscht, gerät die Situation komplett außer Kontrolle. Rita versucht diese mörderische Spezies verbissen zu bekämpfen – vergeblich. Immer wieder scheitert sie, bis sie in ihrem Bett erwacht und feststellt, dass sich derselbe Tag endlos wiederholt. Je öfter sie das Massaker durchlebt, desto stärker stößt sie an ihre körperlichen und psychischen Grenzen. Hoffnung keimt erst auf, als Rita auf Keiji trifft – den einzigen, der wie sie weiß, dass sie in einer Zeitschleife gefangen sind. Doch auch er wirkt unsicher und überfordert, und die Rettung der Menschheit scheint trotz ihrer Allianz fast unmöglich."
+  },
+  {
+   "slug": "alte-liebe",
+   "title": "Alte Liebe",
+   "url": "https://nonstopkino.at/movies/alte-liebe/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/bb04f78f-54b8-49f9-a54a-a738b33826ff.jpg?fit=max&w=120",
+   "director": "Andreas Dresen",
+   "cast": "Dagmar Manzel, Joachim Król",
+   "year": 2026,
+   "runtime": 110,
+   "spoken": "Deutsch",
+   "synopsis": "Lore (Dagmar Manzel) und Harry (Joachim Król) sind seit fast 40 Jahren verheiratet, und zwischen ihnen herrscht selten Ruhe. Alte Geschichten, verpasste Chancen und die Unsicherheiten des Ruhestands sorgen regelmäßig für hitzige Diskussionen. Lore fürchtet, neben dem frisch pensionierten Harry im Garten zu versauern, während er sich nach Beständigkeit und innerer Ruhe sehnt. Einzig bei einem Thema sind sie sich einig: Ihre Tochter Gloria hat in Liebesdingen wenig Glück. Nun will sie zum dritten Mal heiraten – diesmal einen wohlhabenden Mann, der fast wie ein Vater für Harry wirkt. Basiert auf dem gleichnamigen Roman von Elke Heidenreich."
   },
   {
    "slug": "amarga-navidad-bitteres-fest",
@@ -363,6 +363,18 @@
    "synopsis": "Fanny und Tom sind seit über 20 Jahren glücklich verheiratet. Tom, ein Ingenieur mit Perfektionismus-Passion, tüftelt am liebsten an Erfindungen. Die Familienkasse ist leer, das Haus samt geliebter Werkstatt soll verkauft werden. Es könnte insgesamt besser laufen, als ihm eines Tages Fanny ein Geheimnis anvertraut: sie hatte noch nie in ihrem Leben einen Orgasmus. Inspiriert von ihrer extrem engagierten Sexualtherapeutin will sie das nun dringend ändern und entsprechend ins Training einsteigen. Tom ist schockiert, doch was folgt, ist keine Krise, sondern ein Pakt. Der Ingenieur nimmt die Sache selbstverständlich persönlich – und wörtlich. Fanny und Tom forschen, lachen, scheitern, streiten, flüchten vor der Polizei, klauen ihrer Tochter den gesamten Drogenvorrat und entdecken einander und ihre Liebe völlig neu."
   },
   {
+   "slug": "chopin-eine-sonate-in-paris",
+   "title": "Chopin – Eine Sonate in Paris",
+   "url": "https://nonstopkino.at/movies/chopin-eine-sonate-in-paris/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/4c3dd0d7-6f0a-403b-bb83-558037ef8e86.jpeg?fit=max&w=120",
+   "director": "Michal Kwiecinski",
+   "cast": "Eryk Kulm, Joséphine de La Baume, Victor Meutelet, Lambert Wilson",
+   "year": 2025,
+   "runtime": 114,
+   "spoken": "Polnisch, Französisch, Spanisch",
+   "synopsis": "Paris, 1835. Frédéric Chopin ist 25 Jahre alt und bereits ein gefeierter Star der Pariser Gesellschaft. Während seine Musik mit ihrer poetischen und virtuosen Kraft begeistert, kämpft der junge Komponist mit seiner angeschlagenen Gesundheit und der Sehnsucht nach seiner polnischen Heimat. Die Begegnung mit der unkonventionellen Schriftstellerin George Sand eröffnet ihm eine leidenschaftliche, aber auch von Krisen geprägte Beziehung. Zwischen Liebe, Krankheit und künstlerischem Schaffensdrang findet Chopin immer stärker zu einer eigenen musikalischen Sprache. Michał Kwiecińskis atmosphärisches Biopic zeichnet das Porträt eines außergewöhnlichen Künstlers und eines zutiefst verletzlichen Menschen, dessen Musik bis heute nachhallt."
+  },
+  {
    "slug": "cinema-next-filme-der-bmwkms-startstipendiatinnen-2026",
    "title": "Cinema Next: Filme der BMWKMS-StartstipendiatInnen 2026",
    "url": "https://nonstopkino.at/movies/cinema-next-filme-der-bmwkms-startstipendiatinnen-2026/",
@@ -385,6 +397,18 @@
    "runtime": 119,
    "spoken": "Tschechisch",
    "synopsis": "Wie sieht Macht aus, wenn sie plötzlich in den Händen eines ehemaligen Dissidenten liegt? CITIZEN HAVEL begleitet Václav Havel über mehr als ein Jahrzehnt – vom ersten Präsidenten der neu gegründeten Tschechischen Republik bis zu den Höhen und Tiefen seiner Amtszeit. Regisseur Pavel Koutecký erhielt einen Zugang, von dem heutige Dokumentarfilmemachende nur träumen können: Er ist dabei, wenn Havel Staatsgäste empfängt, mit Bill Clinton im Jazzclub sitzt, die Rolling Stones auf der Prager Burg begrüßt oder in stillen Momenten um seine Frau Olga trauert. Hinter verschlossenen Türen, zwischenpolitischen Krisen und privaten Entscheidungen, entsteht das intime Porträt eines Mannes, der vom Systemgegner zum Staatsoberhaupt wurde – und plötzlich selbst mit Kritik, Kompromissen und Verantwortung umgehen muss. Nach Kouteckýs tragischem Tod vollendete Miroslav Janek aus über hundert Stunden Material einen einzigartigen Dokumentarfilm, der Geschichte nicht aus der Distanz erzählt, sondern mitten im Geschehen erlebbar macht. CITIZEN HAVEL ist weit mehr als eine politische Biografie: Es ist ein faszinierender Blick auf Demokratie im Entstehen, auf die Zerbrechlichkeit von Idealen und auf einen außergewöhnlichen Menschen in einer außergewöhnlichen Zeit."
+  },
+  {
+   "slug": "city-lights-lichter-der-grossstadt",
+   "title": "City Lights (Lichter der Großstadt)",
+   "url": "https://nonstopkino.at/movies/city-lights-lichter-der-grossstadt/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b751d802-54cc-49d0-aaa3-436ba14382ca.jpeg?fit=max&w=120",
+   "director": "Charlie Chaplin",
+   "cast": "Charlie Chaplin, Virginia Cherrill, Florence Lee, Harry Myers",
+   "year": 1931,
+   "runtime": 81,
+   "spoken": "",
+   "synopsis": "Die Lichter der Großstadt zeigen ein Kafka-ähnliches Heldenleben. Ein Clochard wird zum Retter und Gönner eines blinden Mädchens: Der Unvermögende besorgt das Vermögen, das sie braucht, um wieder sehen zu können. Und als sie ihn sieht, gleicht er so gar nicht dem “Traum” vom strahlenden Retter. (…)"
   },
   {
    "slug": "classic-sneak",
@@ -471,6 +495,18 @@
    "synopsis": "Emma Harwood (Zendaya) und Charlie Thompson (Robert Pattinson) sind zwei, die sich gefunden haben. Er kommt aus London und verdient sein Geld als Museumsdirektor. Sie ist Buchhändlerin aus dem US-amerikanischen Süden. Die beiden sind nicht nur ineinander verliebt, sondern mittlerweile auch glücklich verlobt. Bis zur großen Hochzeit sind es nur noch eine Handvoll von Tagen. Doch plötzlich gerät ein sprichwörtlicher Stock zwischen die Planungsspeichen und die ganze Feier droht zu platzen. Denn Emma und Charlie müssen sich auf einmal Wahrheiten stellen, die sie auch ihre gesamte Beziehung noch mal unter anderem Licht betrachten lassen…"
   },
   {
+   "slug": "das-kleine-gespenst",
+   "title": "Das kleine Gespenst",
+   "url": "https://nonstopkino.at/movies/das-kleine-gespenst/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/660db7ac-a8aa-40f2-846e-c761d4cdba71.jpg?fit=max&w=120",
+   "director": "Curt Linda",
+   "cast": "",
+   "year": 1992,
+   "runtime": 86,
+   "spoken": "Deutsch",
+   "synopsis": "Die liebevoll gezeichnete Zeichentrickverfilmung des beliebten Kinderbuchs von Otfried Preußler: Ein kleines weißes Nachtgespenst, das seit Jahrhunderten jede Nacht durch Burg Eulenstein spukt, hat einen großen Traum: einmal bei Tageslicht durch die Hallen zu wandeln. Und tatsächlich geht der Wunsch eines Tages durch einen Zufall in Erfüllung. Doch durch die Sonnenstrahlen wird das kleine Gespenst pechschwarz und verbreitet so Angst und Schrecken unter den Bewohnern des Städtchens. Erst als sich die Kinder des Apothekers, die sich als einzige nicht fürchten, des kleinen Gespenstes annehmen, kann alles wieder in Ordnung kommen und das Gespenst zu seinem „Nacht-Spuk-Rhythmus“ zurückfinden."
+  },
+  {
    "slug": "dead-for-a-dollar",
    "title": "Dead for a Dollar",
    "url": "https://nonstopkino.at/movies/dead-for-a-dollar/",
@@ -529,6 +565,18 @@
    "runtime": 128,
    "spoken": "Französisch",
    "synopsis": "Jan Bojarski (Reda Kateb) ist ein junger polnischer Ingenieur, welcher während des Krieges nach Frankreich flüchtet. Dort setzt er seine technischen Fähigkeiten ein, um während der deutschen Besatzung falsche Ausweise herzustellen. Nach Kriegsende steht er jedoch ohne offizielle Identität da – und damit auch ohne Möglichkeit, seine zahlreichen Erfindungen patentieren zu lassen. Statt Ruhm und Anerkennung erwartet ihn ein Leben voller Enttäuschung und Gelegenheitsarbeiten, bis ihm ein Gangster anbietet, sein Talent in den Dienst der Fälschung von Geldscheinen zu stellen."
+  },
+  {
+   "slug": "der-perfekte-urlaub",
+   "title": "Der perfekte Urlaub",
+   "url": "https://nonstopkino.at/movies/der-perfekte-urlaub/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/710c4533-c729-4e9d-9dd8-4c87730adfea.jpeg?fit=max&w=120",
+   "director": "Bora Dagtekin",
+   "cast": "Elyas M’Barek, Karoline Herfurth, Jessica Schwarz, Florian David Fitz, Jella Haase, Frederick Lau u.",
+   "year": 2026,
+   "runtime": 117,
+   "spoken": "Deutsch",
+   "synopsis": "Was gibt es schöneres als ein Abend unter Freunden? Einen gemeinsamen Urlaub mit diesen Freunden in Mallorca. Das hat Eskalationspotential. Nach turbulenten Enthüllungen wagt die Truppe einen gemeinsamen Kurztrip in den sonnigen Süden. So wollen sie den Schaden ihres vergangenen katastrophalen Abendessens mildern. Doch aus den geplanten entspannten Urlaubstagen wird schnell ein äußerst schräges Durcheinander. Es häufen sich die Missverständnisse und alte Wunden brechen wieder auf. Ein neues Geheimnis sorgt für zusätzlichen Zündstoff. Auch mit wunderschönen Sonnenuntergängen und Sangria-Abenden lässt sich eine wichtige Frage nicht mehr ausblenden: Ist nach der Wahrheit in der Freundestruppe überhaupt noch Platz für Vertrauen?"
   },
   {
    "slug": "der-verlorene-mann",
@@ -601,18 +649,6 @@
    "runtime": 119,
    "spoken": "Deutsch, Französisch",
    "synopsis": "Nachdem die Blutgräfin (Isabelle Huppert) aus ihrem langen Schönheitsschlaf erwacht und aus der Unterwelt emporsteigt, begibt sie sich mit ihrer ergebenen Zofe (Birgit Minichmayr) auf eine aberwitzige Jagd durch Wien. Auf der Suche nach dem roten Elixier des Lebens und der Geschichte ihrer Ahnen ist Eile geboten: ein mysteriöses Buch bedroht das Vampirreich, sollte es dessen Feinden in die Hände fallen. Ihnen dicht auf den Fersen sind der vegetarische Neffe (Thomas Schubert), sein Psychotherapeut (Lars Eidinger), zwei Vampirologen (André Jung und Marco Lorenzini), ein Polizeiinspektor (Karl Markovics) und weitere schillernde Figuren (wie Tom Neuwirth aka Conchita Wurst) in dieser rasenden und humorvollen Vampirgeschichte. In zentralen, weiteren Rollen sind Thomas Schubert, Lars Eidinger, André Jung, Marco Lorenzini, Maresi Riegner, Karl Markovics, Inge Maux, Tom Neuwirth aka Conchita Wurst, Noah Saavedra, Valentin Postlmayr und Burghart Klaußner zu sehen. Dialoge unter Mitwirkung von Literaturnobelpreisträgern Elfriede Jelinek."
-  },
-  {
-   "slug": "die-eine-singt-die-andere-nicht",
-   "title": "Die eine singt, die andere nicht",
-   "url": "https://nonstopkino.at/movies/die-eine-singt-die-andere-nicht/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/46e3f648-7a40-44a1-aa50-6306ebfd8fb3.jpeg?fit=max&w=120",
-   "director": "Agnès Varda",
-   "cast": "Thérèse Liotard, Valérie Mairesse, Ali Rafie, Robert Dadiès",
-   "year": 1977,
-   "runtime": 120,
-   "spoken": "Französisch",
-   "synopsis": "Zwei Frauen begegnen sich im Frankreich der 1970er-Jahre und entwickeln trotz ihrer unterschiedlichen Lebenswege eine lebenslange Freundschaft. Pomme ist eine junge Sängerin, die sich für ein selbstbestimmtes Leben entscheidet, während Suzanne als Mutter von zwei Kindern mit einer ungewollten Schwangerschaft und schwierigen Lebensumständen kämpft. Ihre Begegnung wird zum Ausgangspunkt einer Freundschaft, die über Jahrzehnte hinweg von gemeinsamen Erfahrungen, politischen Kämpfen und persönlichen Veränderungen geprägt ist. Agnès Vardas feministischer Klassiker erzählt mit Wärme, Humor und großer Leichtigkeit von weiblicher Selbstbestimmung, Solidarität und dem Recht, über das eigene Leben und den eigenen Körper zu entscheiden."
   },
   {
    "slug": "die-kinder-der-toten",
@@ -783,18 +819,6 @@
    "synopsis": "„Wunderkind, Skandalautorin, Vaterlandsverräterin, Feministin, Modeliebhaberin, Kommunistin, Sprachterroristin, Rebellin, Enfant terrible, Nestbeschmutzerin, geniale, verletzliche Künstlerin“. Claudia Müllers Film über Elfriede Jelinek, die 2004 als erste österreichische Schriftstellerin mit dem Nobelpreis für Literatur ausgezeichnet wurde, stellt ihren künstlerischen Umgang mit Sprache in den Mittelpunkt. Vielschichtig und assoziativ nähert er sich der Kunst seiner Protagonistin mit ihren eigenen sprachkompositorischen Verfahren. Unter Mitwirkung und mit den Stimmen von Ilse Ritter, Sandra Hüller, Stefanie Reinsperger, Sophie Rois, Maren Kroymann und Martin Wuttke ist ein vielschichtiges und faszinierendes Filmporträt entstanden."
   },
   {
-   "slug": "erwarte-nicht-zu-viel-vom-ende-der-welt",
-   "title": "Erwarte nicht zu viel vom Ende der Welt",
-   "url": "https://nonstopkino.at/movies/erwarte-nicht-zu-viel-vom-ende-der-welt/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/6d74fefe-cdc5-44d3-b648-c1fdd18e1059.jpeg?fit=max&w=120",
-   "director": "Radu Jude",
-   "cast": "Nina Hoss, Ilinca Manolache, Ovidiu Pîrșan, Dorina Lazar",
-   "year": 2023,
-   "runtime": 163,
-   "spoken": "Rumänisch, Englisch, Deutsch, Ungarisch, Italienisch",
-   "synopsis": "Radu Judes neuester satirisch-experimenteller Streich ist ein kapitalismuskritisches Porträt des heutigen Rumänien: Angela arbeitet als Produktionsassistentin für ein österreichisches, multinationales Medienunternehmen in Bukarest. Ihre aktuelle Aufgabe ist es, Menschen zu finden, die von Arbeitsunfällen versehrt wurden. Dafür ist sie, ständig überarbeitet und unterbezahlt, immerzu mit dem Auto unterwegs. Zwischendurch lässt sie Druck ab, indem sie auf Instagram mit einem Filter, der sie als Mann zeigt, obszöne Videos aufnimmt. Eine wilde Fahrt durch die moderne Gig-Economy. (FALTER)"
-  },
-  {
    "slug": "everytime",
    "title": "Everytime",
    "url": "https://nonstopkino.at/movies/everytime/",
@@ -805,6 +829,18 @@
    "runtime": 123,
    "spoken": "Deutsch",
    "synopsis": "Das letzte Foto, das Jessie gemacht hat, zeigt die Sonne über Berlin. Sie hängt da, als wäre nichts geschehen. Aber Ella hat ihre Tochter verloren. Was ihr bleibt, ist Jessies kleine Schwester und die komplizierte Beziehung zu dem Jungen, dem alle die Schuld geben. Das merkwürdige Trio landet in einem Familienurlaub, den es so nie gab. Unter der flirrenden Sonne Teneriffas verweben sich Erinnerung und Gegenwart unauflöslich ineinander. Die Geister sind überall."
+  },
+  {
+   "slug": "exit-8",
+   "title": "Exit 8",
+   "url": "https://nonstopkino.at/movies/exit-8/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/740eabd2-51fe-46a7-9dd5-14ed997f1358.jpg?fit=max&w=120",
+   "director": "Genki Kawamura",
+   "cast": "Kazunari Ninomiya, Yamato Kochi, Naru Asanuma, Kotone Hanase",
+   "year": 2025,
+   "runtime": 95,
+   "spoken": "Japanisch",
+   "synopsis": "Nachdem er auf dem Weg zur Arbeit die U-Bahn verlässt, findet sich ein junger Mann in einem merkwürdig sterilen Gang wieder, der sich wie eine Endlosschleife permanent wiederholt. Um zu entkommen, muss er den Ausgang 8 finden. Die Regeln seiner Suche sind einfach: Wenn du eine Anomalie siehst, kehre sofort um. Wenn nicht, gehe weiter. Doch selbst die kleinste Unachtsamkeit wirft ihn zurück an den Anfang. Wird er jemals sein Ziel erreichen und diesem unendlichen Korridor entkommen?"
   },
   {
    "slug": "filme-von-josef-dabernig-1989-2024",
@@ -1335,6 +1371,18 @@
    "synopsis": "Ohne Farben wäre das Leben ganz schön langweilig. Und so lässt die kleine Schnecke alle Farben des Regenbogens auf der weißen Kinoleinwand durcheinanderwirbeln. Im Land der bunten Fabeltiere folgt Freundschaft einem besonderen Groove. Im dichten Regenwald führt ein prächtiger Paradiesvogel eindrucksvolle Tänze auf. In Afrika bekommt ein kleiner Junge Post aus der Ferne – und plötzlich ist sein Dorf mit Schnee bedeckt. Dieses musikalische Farbspektakel ist großes Ohrenkino! (Lisa Mai) Programm: Kleine Schnecke Kunterbunt (Pužić slikar) Manuela Vladić-Maštruko, 7 min, HR Hüpffrosch (Pryg-skok) Leonid Shmelkov, 5 min, RU Nest Sonja Rohleder, 4 min, DE Schneeflocke (Snejinka) Natalia Chernysheva, 6 min, RU"
   },
   {
+   "slug": "kino-fuer-die-kleinsten-oh-was-hast-du-denn-entdeckt",
+   "title": "Kino für die Kleinsten: Oh, Was hast du denn entdeckt?",
+   "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-oh-was-hast-du-denn-entdeckt/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/20fe8129-d904-496f-9a45-b40b308a1904.jpg?fit=max&w=120",
+   "director": "Diverse",
+   "cast": "",
+   "year": null,
+   "runtime": 60,
+   "spoken": "Deutsch",
+   "synopsis": "Ist es möglich, an Orten, die man sehr gut kennt, etwas Aufregendes zu erleben? Wir sagen: Ja! Denn manchmal gibt es auch im eigenen Garten oder beim Spaziergang durch vertraute Gassen etwas Interessantes zu entdecken. Und mit einer Kamera in der Hand geht das noch mal besser. Denn wenn man durch sie schaut, findet man bestimmt etwas, das man so noch nie gesehen hat! (Stefan Huber) Exercise – die kleinen Füchse Andrew Brand, GB 2015, DCP, Farbe, 2 min Schau! Stefanie & Moritz Weberhofer, AT 2024, DCP, Farbe, 3 min Novembre Marjorlaine Perreten, FR 2015, DCP, Farbe, 4 min One Two Tree Yulia Aronova, FR 2015, DCP, Farbe, 7 min Posjet iz svemira (A Visit from Space) Zlatko Grgić, YU 1964, DCP, Farbe, 11 min"
+  },
+  {
    "slug": "kino-fuer-die-kleinsten-platz-fuer-alle",
    "title": "Kino für die Kleinsten: Platz für alle!",
    "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-platz-fuer-alle/",
@@ -1815,6 +1863,18 @@
    "synopsis": "Worte, die seit mehr als 800 Jahren Grenzen überschreiten. NIZAMI: DIE INNERE WELT lädt zu einer kinematischen Entdeckung des Lebens, Denkens und Nachwirkens von Nizami Ganjavi (ca.1141–1209) ein. Der in Ganja im Südkaukasus wirkende Dichter zählt zu den bedeutendsten Stimmen der persischen Literatur und prägte mit seinen poetischen Epen die literarische Kultureiner ganzen Region. Der englischsprachige Dokumentarfilm gibt historische Einblicke und beleuchtet Perspektiven renommierter Historiker*innen sowie Persönlichkeiten aus Literatur und Kultur. Im Mittelpunkt steht Nizamis zeitlose Auseinandersetzung mit Liebe, Macht, Ethik, Wissen und dem menschlichen Dasein – Themen, die auch Jahrhunderte später erstaunlich nah wirken. Besonders sein berühmtes „Khamsa“ (Quintett) entfaltet ein Panorama aus Legenden, Geschichte und Philosophie, das den Kaukasus mit der kulturellen Welt von Persien bis weit darüber hinaus verbindet. Manuskripte seiner Werke werden heute in Bibliotheken und Museen rund um den Globus bewahrt."
   },
   {
+   "slug": "no-good-men",
+   "title": "No Good Men",
+   "url": "https://nonstopkino.at/movies/no-good-men/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5ff2c6db-4a02-4152-9898-d0e7404b8fb4.jpg?fit=max&w=120",
+   "director": "Shahrbanoo Sadat",
+   "cast": "Mohammad Anwar Hashimi, Ghawgha Taban",
+   "year": 2026,
+   "runtime": 103,
+   "spoken": "Persisch",
+   "synopsis": "Die romantische Komödie aus Afghanistan spielt vor der Machtübernahme der Taliban im Jahr 2021. Naru, Kamerafrau beim Fernsehen, hasst alle Männer, nachdem sie von ihrem immer wieder betrogen wurde. Nun wohnt sie zusammen mit ihrem Sohn in der Einzimmerwohnung der Eltern in Kabul, doch der Sohn gehört nach afghanischem Recht dem Vater. Bei der Arbeit verliebt sie sich in den verheirateten Qodrat – ist er ein Ebenbild ihres Ex-Mannes oder gibt es tatsächlich einen guten Mann in Afghanistan? Und gelingt es Naru, ihren Sohn zu behalten?"
+  },
+  {
    "slug": "noestlinger-sowieso-und-ueberhaupt",
    "title": "Nöstlinger – Sowieso und überhaupt",
    "url": "https://nonstopkino.at/movies/noestlinger-sowieso-und-ueberhaupt/",
@@ -2115,6 +2175,18 @@
    "synopsis": "Marina, 18, ist nach dem frühen Tod ihrer Eltern bei der Familie ihrer Mutter in Katalonien aufgewachsen. Weil sie Dokumente für einen Stipendienantrag benötigt, reist sie nach Vigo an die spanische Atlantikküste zur Familie ihres Vaters , die sie nie kennengelernt hat. Marina taucht ein in eine verwirrende, schwirrende Welt voller neuer Tanten, Onkeln, Cousins und Geschichten, die auf seltsame Weise von dem abweichen, was sie zu wissen glaubte. Ihre Ankunft rührt lange verschüttete Emotionen auf, verdrängte Gefühle, Scham, Schmerz und Zärtlichkeit. Für Marina beginnt, begleitet vom Tagebuch ihrer Mutter, eine aufwühlende Reise in das Leben ihrer Eltern und ihre eigenen Träume."
   },
   {
+   "slug": "rose",
+   "title": "Rose",
+   "url": "https://nonstopkino.at/movies/rose/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/ae11ab86-67e1-47e9-8d22-96d6319507e9.jpeg?fit=max&w=120",
+   "director": "Markus Schleinzer",
+   "cast": "Sandra Hüller, Caro Braun, Marisa Growaldt, Godehard Giese",
+   "year": 2026,
+   "runtime": 110,
+   "spoken": "Deutsch",
+   "synopsis": "In den Wirren des 30-jährigen Krieges erscheint ein fremder Soldat (ROSE) in einem abgeschiedenen, protestantischen Dorf und behauptet, der Erbe eines seit langem verwaisten Gutshofes zu sein. Ein vorgelegtes Dokument belegt seinen Anspruch, sehr zum Missfallen der Gemeinde. Doch der Fremde setzt alles daran seinen Wunsch in die Tat umzusetzen, ein neues Leben zu beginnen. Er tut sein Möglichstes, um von der Gemeinschaft anerkannt und aufgenommen zu werden. Lässt sich selbst auf eine arrangierte Ehe mit der Tochter eines Großbauern ein. Und setzt damit alles aufs Spiel. Denn er ist mit falscher Identität, unter falschem Namen und unter Vortäuschung eines falschen Geschlechts in dieses Dorf gekommen."
+  },
+  {
    "slug": "salo-or-the-120-days-of-sodom",
    "title": "Salò, or the 120 Days of Sodom",
    "url": "https://nonstopkino.at/movies/salo-or-the-120-days-of-sodom/",
@@ -2307,6 +2379,18 @@
    "synopsis": "Um die blutige Fehde zwischen ihren Familien zu beenden, wird Berivan (Melike Demirag) von ihren Brüdern als Zeichen des Friedens mit Şivan (Tarik Akan) verheiratet. Doch das Überstellen einer Schafherde nach Ankara reißt die Familie – bedingt durch eine von Korruption und Gewalt geprägte türkischen Gesellschaft – in den Abgrund. An die Stelle traditioneller Lebensweise tritt Ausbeutung, die auf individueller Gier und Gerissenheit beruht. Yılmaz Güney schrieb das Drehbuch in der Haft und sein Vertrauter Zeki Ökten übernahm die Regie: \"Während meiner gesamten Arbeit musste ich indirekte Mittel einsetzen, um meine Gedanken auszudrücken. Das wesentliche Merkmal dieser Werke besteht darin, dass sie Kompromisse darstellen. Sürü ist im Grunde genommen die Geschichte des kurdischen Volkes\". Die bloße Existenz eines solchen Films stellt einen sowohl künstlerischen als auch politischen Triumph dar."
   },
   {
+   "slug": "sunny-dancer",
+   "title": "Sunny Dancer",
+   "url": "https://nonstopkino.at/movies/sunny-dancer/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/40627944-3faf-41ea-9a89-eaaf5bc8234f.jpeg?fit=max&w=120",
+   "director": "George Jaques",
+   "cast": "Bella Ramsey, Daniel Quinn-Toye, Ruby Stokes, Earl Cave, Jasmine Elcock, Conrad Khan, Neil Patrick Harris",
+   "year": 2026,
+   "runtime": 106,
+   "spoken": "Englisch",
+   "synopsis": "Partys, Freunde, große Freiheit – die Sommerferien eines typischen Teenagers. Aber nicht für die eigenbrötlerische Ivy, die sich nach ihrer überstandenen Krebserkrankung lieber zurückzieht. Aus diesem Grund melden ihre überfürsorglichen Eltern die 17-Jährige für einen vierwöchigen Aufenthalt im Children Run Free Camp für krebskranke Jugendliche an. Überzeugt, dass ihr die schlimmste Zeit ihres Lebens bevorsteht, bezieht Ivy ihre Unterkunft im „Chemo-Camp“ und findet unerwartet Gleichgesinnte in einer Gruppe von Außenseiter:innen, aus denen schnell Freund:innen werden. Gemeinsam feiern sie das Leben und einen Sommer, den sie nie vergessen werden. Eine warmherzige Coming-of-Age-Geschichte, die mitten ins Herz trifft."
+  },
+  {
    "slug": "taitai-wansui-long-live-the-missis",
    "title": "Taitai wansui (Long Live the Missis)",
    "url": "https://nonstopkino.at/movies/taitai-wansui-long-live-the-missis/",
@@ -2329,18 +2413,6 @@
    "runtime": 112,
    "spoken": "Englisch",
    "synopsis": "You had me at Gillian Anderson."
-  },
-  {
-   "slug": "teresas-koerper",
-   "title": "Teresas Körper (Teresas Body)",
-   "url": "https://nonstopkino.at/movies/teresas-koerper/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/7e725cea-705d-4e67-a977-10167cbc5024.jpg?fit=max&w=120",
-   "director": "Magdalena Chmielewska",
-   "cast": "Teersa Chmielewska, Aleksandra Chmielewska - Grzegorzek, Magdalena Chmielewska, et.al",
-   "year": 2026,
-   "runtime": 76,
-   "spoken": "Deutsch, Polnisch",
-   "synopsis": "„Meine Wirbelsäule wird jeden Moment brechen.“ Teresa lebt mit einem Körper, der die Spuren von Schmerz und Gewalt trägt. Ihre Tochter Magda nähert sich ihr in einer poetischen Mischung aus Fiktion, Erinnerung und dokumentarischer Beobachtung. Zwischen den beiden Frauen öffnen sich Räume, in denen Vergangenheit und Gegenwart, Traum und Realität ineinander fließen. Unter dem Weichselbaum, dessen blutrote Früchte zum wiederkehrenden Symbol werden, suchen Magda und ihre Schwester Ola nach einem Ausweg aus der Geschichte ihrer Familie. Tanz wird dabei zur Möglichkeit, den eigenen Körper zurückzugewinnen. Während Teresa von den Folgen patriarchaler Gewalt und alten Traumata gezeichnet ist, suchen die Töchter nach Freiheit und Selbstbestimmung. In ihrem eindringlichen Langfilmdebüt macht Magdalena Chmielewska den Körper zum Erinnerungsort: Rücken, Knie, Hände und Haut erzählen von Verletzlichkeit, aber auch von Widerstand. TERESAS KÖRPER ist ein ungewöhnlicher, atmosphärisch dichter Film über familiäre Prägungen, weibliche Erfahrung und den Versuch, sich aus den Fesseln der Vergangenheit zu lösen."
   },
   {
    "slug": "tevi-her-tisti-trotz-alldem",
@@ -2461,18 +2533,6 @@
    "runtime": 108,
    "spoken": "Englisch",
    "synopsis": "Ein unglückliches Ehepaar, das kurz vor einer Krise steht, lädt seine exzentrischen, sexuell freizügigen Nachbarn aus dem Obergeschoss zu einer spontanen Dinnerparty ein. Was als angespannter, unangenehmer Abend mit höflicher Konversation beginnt, gerät schnell ins Chaos, als die Gäste einen unerwarteten, provokanten Vorschlag machen und die zerrütteten Gastgeber dazu zwingen, sich mit ihren tief verdrängten Gefühlen und ihrer festgefahrenen Beziehung auseinanderzusetzen."
-  },
-  {
-   "slug": "the-last-blossom",
-   "title": "The Last Blossom",
-   "url": "https://nonstopkino.at/movies/the-last-blossom/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/47122ca0-af4b-4803-85f6-2002989058b5.jpg?fit=max&w=120",
-   "director": "Baku Kinoshita",
-   "cast": "Kaoru Kobayashi, Junki Tozuka, Hikari Mitsushima, Yoshiko Miyazaki, Pierre Taki",
-   "year": 2025,
-   "runtime": 90,
-   "spoken": "Japanisch",
-   "synopsis": "Als ein gealterter Ex-Yakuza im Gefängnis könnte Akutsus Leben auf viele Weisen zu Ende gehen, aber die wenigsten würden vermuten, dass er in seiner Zelle mit einer sprechenden Balsam Pflanze (Hosenka) in Erinnerungen schwelgt und die aufmüpfige kleine Pflanze ihm wiederholt widerspricht. Allen voran mit der Aussage, dass der 73-jährige Insasse ein armseliges Leben geführt hat, was Akutsu selbst nur bedingt so sieht. Um dies zu berichtigen beginnt er zu erzählen: von Nana und dem kleinen Kensuke damals in den 80ern, von dem Haus umgeben von Balsam Blumen, von seiner Zeit als Yakuza und davon, was ihn schlussendlich in diese Gefängniszelle gebracht hat. Dabei führt er uns in eine Vergangenheit, die manchmal sanft, manchmal turbulent und manchmal engstirnig war, aber nicht unbedingt armselig."
   },
   {
    "slug": "the-life-aquatic-with-steve-zissou",
@@ -2679,6 +2739,18 @@
    "synopsis": "Während seine Familie nicht in der Stadt ist, trifft Professor Wanley eines Nachts auf eine schöne Unbekannte, deren Porträt in einem Schaufenster ausgestellt ist. Warum also nicht einmal über die Stränge schlagen und ja sagen, zu ein paar Drinks und zu ihrer Einladung nach Hause? Ihre Zweisamkeit wird allerdings von einem plötzlich hereinstürmenden Liebhaber gestört. Und nur wenige Augenblicke später muss Wanley eine Leiche loswerden … In dem mit allerhand satirischen Elementen und Freud-Verweisen verzierten Film noir legt Lang in einem Mo- ment der Versuchung eine Falle. Mit jedem Versuch, seine Tat zu verbergen, vermehrt unser Biedermann seine Spuren, ohne dass er dabei jemals verdächtigt wird: vielleicht der eigentliche Albtraum, den er durchlebt. (Florian Widegger)"
   },
   {
+   "slug": "thelma-louise",
+   "title": "Thelma & Louise",
+   "url": "https://nonstopkino.at/movies/thelma-louise/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/7e06731e-33bd-4c2a-9361-fb9799b99a3c.jpg?fit=max&w=120",
+   "director": "Ridley Scott",
+   "cast": "Susan Sarandon, Geena Davis, Harvey Keitel u.a.,",
+   "year": 1991,
+   "runtime": 130,
+   "spoken": "Englisch",
+   "synopsis": "Thelma (Geena Davis) und Louise (Susan Sarandon) sind in ihren respektiven Existenzen gefangen – Thelma in einer repressiven Ehe, Louise in einem monotonen, perspektivlosen Job. Ihr geplanter Wochenendausflug mutiert rasch zu einer Flucht vor dem Gesetz, nachdem ein schicksalhafter Vorfall auf einem Roadhouse-Parkplatz eskaliert. Ihre Reise durch die endlosen Weiten der Wüste wird zur existenziellen Flucht. Als die Konzeption von THELMA & LOUISE Ende der 1980er noch ausschließlich in der Vorstellung von Drehbuchautorin Callie Khouri keimte, war die Umsetzung mit zwei Frauen in den Hauptrollen eines Roadmovies ein kühnes Unterfangen. Die erste Bedingung des Studios nährte allerdings gleich Zweifel daran, dass hier eine Frauengeschichte auch aus weiblicher Sicht erzählt werden sollte. Denn man gab der jungen Autorin nicht die Chance, bei der Verfilmung ihres Stoffs selbst Regie zu führen. Stattdessen übernahm Produzent Ridley Scott selbst den Posten. Man ist aber beinahe gewillt, über dieses Versäumnis hinwegzusehen, ist dem Regisseur doch in enger Zusammenarbeit mit Khouri eine beeindruckend einfühlsame Umsetzung des Stoffes gelungen."
+  },
+  {
    "slug": "tian-generation-farmfluencer",
    "title": "TiAN – Generation Farmfluencer",
    "url": "https://nonstopkino.at/movies/tian-generation-farmfluencer/",
@@ -2871,30 +2943,6 @@
    "synopsis": "WAS HABEN WIR GELACHT erzählt die Geschichte des Unterhaltungsfernsehens der 90er und früher 00er Jahre erstmals aus Frauenperspektive. Maren Kroymann, Hella von Sinnen, Bettina Böttinger, Gaby Köster und Esther Schweins blicken zurück auf ihr Werk und eine Zeit, in der Frauen im Fernsehen vor allem Beiwerk waren, als Pointen dienten und weiblicher Humor als Quotenkiller galt. Eine ganze Generation wurde so vor allem durch männliche Unterhalter sozialisiert – durch „Wetten, dass…?“, die „Harald Schmidt Show“ und später „TV total“. Wie hat uns diese Zeit geprägt? Und was haben Humor, Witz und Unterhaltung mit Macht und Gleichberechtigung zu tun? Dieser Film ist eine Zeitreise zurück zu den Lachern der 90er und 00er. „Was haben wir gelacht“ – oder vielleicht doch nicht?"
   },
   {
-   "slug": "was-ist-film-programm-13",
-   "title": "Was ist Film – Programm 13",
-   "url": "https://nonstopkino.at/movies/was-ist-film-programm-13/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/f22a1cdc-8bc7-458a-a1a0-8ad0310e84b2.jpeg?fit=max&w=120",
-   "director": "Jean Vigo / Kenneth Anger, Michael Snow",
-   "cast": "",
-   "year": 1967,
-   "runtime": 102,
-   "spoken": "",
-   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film aus-einandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums um 9 Euro erhältlich. Programm 13 Jean Vigo Zéro de conduite 1932/33, 35mm, 43 min Französische OF/Übersetzung liegt auf Kenneth Anger Fireworks 1947, 16mm, 14 min Michael Snow Wavelength 1967, 16mm, 45 min Foto: Österreichisches Filmmuseum"
-  },
-  {
-   "slug": "was-ist-film-programm-14",
-   "title": "Was ist Film – Programm 14",
-   "url": "https://nonstopkino.at/movies/was-ist-film-programm-14/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/6a73d9be-e985-4c35-aabf-cf35342fea80.jpeg?fit=max&w=120",
-   "director": "Dziga Vertov / Luis Buñuel",
-   "cast": "",
-   "year": 1930,
-   "runtime": 130,
-   "spoken": "",
-   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film aus-einandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österrei-chischen Filmmuseum – ist an der Kassa des Filmmuseums um 9 Euro erhältlich. Programm 14 Dziga Vertov Ėntuziazm (Simfonija Donbassa) 1930, 35mm, 68 min. Russisch/Übersetzung liegt auf Luis Buñuel L’Age d’or 1930, 35mm, 62 min. Französische ZT/Übersetzung liegt auf Foto: Österreichisches Filmmuseum"
-  },
-  {
    "slug": "was-ist-film-programm-15",
    "title": "Was ist Film – Programm 15",
    "url": "https://nonstopkino.at/movies/was-ist-film-programm-15/",
@@ -2955,18 +3003,6 @@
    "synopsis": "Durch das Territorium der Oglala wird ein singender Draht gezogen. So nennen die Oglala die Telegrafenleitung der Western Union durch den US-Mittelwesten. Für die einen ist sie ein Kommunikationsweg zwischen Himmel und Erde, der zu animistischen Tänzen einlädt, um Regen zu bringen; für die anderen die Fortsetzung der Trecks und Trails, die nunmehr auf elektrischen Wegen Daten überträgt. Beide setzen immaterielle Kräfte zu materiellen Zwecken ein. Die Indigenen glauben, ihre Lebensgrundlage zu sichern, der Trust glaubt mehr an die Macht der Telekommunikation und ihre Geld- und Datenströme. Was im Draht singt, fließt über die Köpfe der Oglala hinweg, ausschließlich im Dienst der Telegrafengesellschaft und der Gesellschaft, der diese entstammt. Dazu setzt der Trust auf Vertrauen. Bis heute verkauft er sichere Wege für sichere Geschäfte. Eines der ersten schließt ein Outlaw mit dem Unternehmensgründer Creighton ab: „I trust you.“ Western Union ist mehr bildpolitische Mediengeschichtsschreibung als US-Gründungsmythos: Der Western begleitet und beleuchtet die Entmaterialisierung der Bahnung. (Karl Sierek) Einführung von Karl Sierek am 7. November 2024 Courtesy George Eastman Museum Foto: Österreichisches Filmmuseum"
   },
   {
-   "slug": "when-you-open-the-door",
-   "title": "When You Open the Door",
-   "url": "https://nonstopkino.at/movies/when-you-open-the-door/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/d0469fd7-d5dc-4ec9-a854-a6f862ae2738.jpg?fit=max&w=120",
-   "director": "Eriko Katagiri",
-   "cast": "Serena Motola, Shinsuke Kato, Ayano Moriguchi, Mutsuo Yoshioka",
-   "year": 2026,
-   "runtime": 86,
-   "spoken": "Japanisch",
-   "synopsis": "Miki arbeitet in einem Architekturbüro. Wenn man sich ihren fehlenden Elan und ihren müden Blick so ansieht, merkt man aber, dass sie dieser Job nicht wirklich zu erfüllen scheint. Stattdessen lebt sie eher verträumt und geistesabwesend in ihren Alltag hinein. Doch nach einem äußerst seltsamen Vorfall in ihrer Mittagspause gerät ihre Realität ins Wanken. Sie wird von einem Biest blutig attackiert, doch als sie ihrem Freund am Abend davon erzählt, sind ihre Wunden verschwunden. Miki weiß bald genauso wenig wie wir im Kinosaal, was eigentlich nur geträumt und was tatsächlich erlebt wurde. Das Verschwimmen der Bewusstseinsebenen führt zu einer immer surrealeren Handlung, die von Werwölfen und weiblicher Sehnsucht durchdrungen wird, bis schließlich Mikis wahre Gestalt zum Vorschein kommt."
-  },
-  {
    "slug": "wild-horse-nine",
    "title": "Wild Horse Nine",
    "url": "https://nonstopkino.at/movies/wild-horse-nine/",
@@ -3001,18 +3037,6 @@
    "runtime": 108,
    "spoken": "Chinesisch",
    "synopsis": "Als einer der ersten Filme, die nach dem Sieg der Kommunisten im Jahr 1949 erschienen, zeigt This Life of Mine, wie das chinesische Kino auf die neuen Verhältnisse reagierte. Regisseur und Hauptdarsteller Shi Hui schildert darin vier Jahrzehnte chinesischer Revolutionsgeschichte aus der Perspektive eines Pekinger Polizisten, dessen Pflichtgefühl gegenüber den ständig wechselnden Regimes ihn in schwere Gewissenskonflikte stürzt: Die Chronik reicht von der republikanischen Revolution von 1911 über die fortschrittliche Bewegung des vierten Mai und die Verwüstungen unter der korrupten Herrschaft rivalisierender Militärmachthaber bis hin zur brutalen japanischen Besatzung, die noch korruptere Herrschaft der Nationalisten nach 1945 und zum schließlichen Sieg der Kommunisten im Jahr 1949. Shis Film besticht durch eine authentische Pekinger Umgangssprache, kontrastierende Noir-Stil-Lichtstimmungen und eine verblüffend kreative Montage. Shi selbst wurde 1957 während Maos Anti-Rechts-Bewegung in den Tod getrieben."
-  },
-  {
-   "slug": "wundersames-kiental",
-   "title": "Wundersames Kiental",
-   "url": "https://nonstopkino.at/movies/wundersames-kiental/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/bf710c26-fff2-48ff-96f0-5fff0f639714.jpg?fit=max&w=120",
-   "director": "Christina Zurbrügg & Michael Hudecek",
-   "cast": "",
-   "year": 2023,
-   "runtime": 52,
-   "spoken": "",
-   "synopsis": "Ein kleines Dorf in den Schweizer Bergen: Kiental. Lenin hielt hier eine Geheimsitzung ab und Friedrich Dürrenmatt diente das Dorf als Inspiration für sein Theaterstück „Der Besuch der alten Dame”. Der geheimnisvoll unbekannte Kameramann Landtwing filmte dort in den 1950er Jahren. Die Sängerin und Filmemacherin Christina Zurbrügg ist in Kiental geboren und hat aus den gut erhaltenen Filmrollen einen Heimatfilm voller Poesie und Humor, zwischen Erinnerung und Jetzt gemacht. Als Found-Footage-Remix verbindet der Film eine unglaubliche Archivarbeit mit literarischer Dorfkomik."
   },
   {
    "slug": "wuya-yu-maque-crows-and-sparrows",
@@ -3087,18 +3111,6 @@
    "synopsis": "Trotz der strengen Zensur in der frühen Volksrepublik China gelang es einigen Filmen, den humanitären Geist des Goldenen Zeitalters des Shanghaier Kinos weiterzutragen. Einer davon war Xie Tielis vieldeutiger Film Early Spring. In den 1920er Jahren nimmt Xiao Jianqiu, ein junger Intellektueller aus der Stadt, die Stelle eines Dorfschullehrers im Osten Chinas an. Durchdrungen vom revolutionären Idealismus versucht er der Familie einer armen Witwe zu helfen, deren Ehemann er von früher kannte. Gleichzeitig fühlt er sich zur lebhaften, unabhängigen Tao Lan (Xie Fang, die auch in Two Stage Sisters zu sehen ist) hingezogen, der Schwester des Schulleiters. Als Freigeist, deren einziger Glaube der \"Individualismus\" ist, scheint sie die perfekte geistige Ergänzung zu Xiao zu sein. Das Ende des Films – das offensichtliche Fehlen parteitreuer Held*innen – war damals umstritten. Während der Kulturrevolution wurde Early Spring als \"giftiges Unkraut\" bezeichnet."
   },
   {
-   "slug": "zeit-bilder",
-   "title": "Zeit-Bilder",
-   "url": "https://nonstopkino.at/movies/zeit-bilder/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/3315f8ce-d7ec-48fa-b600-09125c435a4a.png?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": 89,
-   "spoken": "",
-   "synopsis": "1976 erhält Elfriede Jelinek die Einladung, einen Beitrag in der ORF-Reihe VIELGELIEBTES ÖSTERREICH zu gestalten. Getragen von den Sprachbildern und der Präsenz der Autorin, die in hellsichtiger Weise die ökonomisch-historischen Strukturen der Provinz beschreibt und den Wandel bäuerlicher Kultur vor dem Hintergrund des ansteigenden Massentourismus reflektiert, ist »Ramsau am Dachstein« ein bis heute gültiges Schlüsselwerk der österreichischen Filmgeschichte. Bei seiner Erstausstrahlung kommt es zu Protesten vonseiten des Bauernbundes und der ÖVP. Am Donnerstag, den 18.8.1988, sitzt Jelinek vor einer Kamera und kommentiert die Abendnachrichten: Geiseldrama in der BRD, der Flugzeugabsturz des pakistanischen Präsidenten, Jörg Haider – nur drei der Themen, die an diesem heißen Augustabend im wahrsten Sinne »besprochen« werden. (Florian Widegger) Programm: »Ramsau am Dachstein« Regie: Claus Homschak/Elfriede Jelinek Land: AT Jahr: 1976 Buch: Elfriede Jelinek Kamera: Laszlo Nemeth, Harald Mittermüller Mit: Elfriede Jelinek (Präsentation) Format: digital, Farbe Fassung: Deutsche Originalfassung Länge: 59 min Elfriede Jelinek. News from Home 18.8.88 Regie: VALIE EXPORT Land: AT Jahr: 1988 Format: digital, Farbe Fassung: Deutsche Originalfassung mit englischen Untertiteln Länge: 30 min"
-  },
-  {
    "slug": "zusammen-finden",
    "title": "Zusammen finden",
    "url": "https://nonstopkino.at/movies/zusammen-finden/",
@@ -3112,704 +3124,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-13T15:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-13T15:30:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-13T15:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-13T15:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-13T16:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-13T16:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-13T16:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-13T16:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-13T16:30:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-13T16:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-13T16:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-third-man",
-   "start": "2026-10-13T16:40:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-13T16:45:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "news-from-home",
-   "start": "2026-10-13T17:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-13T17:15:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "im-spiegel-meiner-mutter",
-   "start": "2026-10-13T17:30:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-13T17:30:00+02:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-13T17:30:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "spider-man-brand-new-day",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-13T17:45:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "muss-das-pferd-auch-arbeiten",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-last-blossom",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "was-ist-film-programm-13",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "ninja-motherfcking-destruction",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "mr-nobody-against-putin",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teresas-koerper",
-   "start": "2026-10-13T18:00:00+02:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-13T18:15:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T18:20:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "luegen-ueber-meine-mutter",
-   "start": "2026-10-13T18:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "luegen-ueber-meine-mutter",
-   "start": "2026-10-13T18:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "zeit-bilder",
-   "start": "2026-10-13T18:30:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-13T18:40:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-13T18:45:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-13T18:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-13T19:15:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-13T19:30:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "romcom-bingo",
-   "start": "2026-10-13T19:30:00+02:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wundersames-kiental",
-   "start": "2026-10-13T19:30:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-13T19:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-13T19:45:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "all-the-lovers-in-the-night",
-   "start": "2026-10-13T19:45:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "obsession",
-   "start": "2026-10-13T19:45:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-13T19:45:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "erwarte-nicht-zu-viel-vom-ende-der-welt",
-   "start": "2026-10-13T19:45:00+02:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "das-drama-noch-mal-auf-anfang",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-eine-singt-die-andere-nicht",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "hangmen-also-die",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "highway-to-hofburg",
-   "start": "2026-10-13T20:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-13T20:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-13T20:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T20:15:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "was-ist-film-programm-14",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "resident-evil",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "matewan",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-13T20:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-13T20:45:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "lebensansichten-eines-huhns-%ce%ba%cf%8c%cf%84%ce%b1",
-   "start": "2026-10-13T21:30:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-13T22:00:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wax-gold",
-   "start": "2026-10-13T22:00:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "when-you-open-the-door",
-   "start": "2026-10-13T22:20:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wellen-wende",
-   "start": "2026-10-14T10:00:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
   {
    "film": "ecce-homo-der-verlorene-caravaggi",
    "start": "2026-10-14T15:00:00+02:00",
@@ -3895,9 +3209,7 @@
    "start": "2026-10-14T16:45:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4171,9 +3483,7 @@
    "start": "2026-10-14T18:40:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4403,9 +3713,7 @@
    "start": "2026-10-14T20:30:00+02:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4581,9 +3889,7 @@
    "start": "2026-10-15T16:00:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4602,9 +3908,7 @@
    "start": "2026-10-15T16:15:00+02:00",
    "cinema": "Bellaria Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4636,9 +3940,7 @@
    "start": "2026-10-15T16:45:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4816,9 +4118,7 @@
    "start": "2026-10-15T18:00:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4943,9 +4243,7 @@
    "start": "2026-10-15T19:15:00+02:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5190,9 +4488,7 @@
    "start": "2026-10-15T20:45:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5254,6 +4550,78 @@
    "booking": ""
   },
   {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-16T13:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-16T13:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T14:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "cheri-ich-komme-die-erfindung-der-lust-pour-le-plaisir",
+   "start": "2026-10-16T14:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-16T14:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-16T15:15:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-16T15:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-16T15:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T15:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "practical-magic-2",
    "start": "2026-10-16T15:30:00+02:00",
    "cinema": "Haydn Kino",
@@ -5278,6 +4646,22 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "primetime",
+   "start": "2026-10-16T15:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-16T15:45:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "coyote-vs-acme",
    "start": "2026-10-16T15:45:00+02:00",
    "cinema": "Haydn Kino",
@@ -5286,10 +4670,10 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
-   "film": "naza",
+   "film": "the-social-reckoning",
    "start": "2026-10-16T16:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [
     "Film der Woche"
    ],
@@ -5297,12 +4681,50 @@
   },
   {
    "film": "naza",
+   "start": "2026-10-16T16:00:00+02:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
    "start": "2026-10-16T16:20:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-16T16:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-10-16T16:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-16T16:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-16T16:45:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -5331,6 +4753,22 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "coyote-vs-acme",
+   "start": "2026-10-16T17:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-16T17:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -5374,6 +4812,30 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-16T17:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-16T17:45:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-social-reckoning",
    "start": "2026-10-16T17:45:00+02:00",
    "cinema": "Haydn Kino",
@@ -5392,9 +4854,25 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T17:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-10-16T18:00:00+02:00",
    "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T18:00:00+02:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -5442,13 +4920,19 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-16T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-10-16T18:15:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5458,6 +4942,38 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-10-16T18:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-16T18:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-16T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-16T18:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
   },
   {
    "film": "cloak-and-dagger",
@@ -5493,9 +5009,7 @@
    "start": "2026-10-16T19:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5515,10 +5029,50 @@
    "booking": ""
   },
   {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-16T19:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "pressure-2026",
+   "start": "2026-10-16T19:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
    "start": "2026-10-16T19:45:00+02:00",
    "cinema": "Top Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-16T20:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T20:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-16T20:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -5567,6 +5121,14 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-16T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "brust-oder-keule-laile-ou-la-cuisse",
    "start": "2026-10-16T20:10:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
@@ -5574,6 +5136,30 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-16T20:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-16T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-16T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -5597,6 +5183,30 @@
    "start": "2026-10-16T20:30:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-16T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-16T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-16T20:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -5625,6 +5235,16 @@
    "lang": "OV",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-16T20:35:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
    ],
    "booking": ""
   },
@@ -5703,10 +5323,66 @@
    "booking": ""
   },
   {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-17T13:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-17T13:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sich-langsam-naehern",
+   "start": "2026-10-17T14:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "mumbo-jumbo",
    "start": "2026-10-17T14:00:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T14:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-17T14:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-17T14:45:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-17T15:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -5719,6 +5395,46 @@
     "Retrospektive"
    ],
    "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T15:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sunny-dancer",
+   "start": "2026-10-17T15:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-17T15:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-17T15:15:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-17T15:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "bruno-der-junge-kreisky",
@@ -5761,6 +5477,24 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-17T15:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-17T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "coyote-vs-acme",
    "start": "2026-10-17T15:45:00+02:00",
    "cinema": "Haydn Kino",
@@ -5769,13 +5503,27 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "adams-acht",
+   "start": "2026-10-17T15:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "adams-acht",
+   "start": "2026-10-17T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-10-17T16:00:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5797,6 +5545,22 @@
    "booking": ""
   },
   {
+   "film": "primetime",
+   "start": "2026-10-17T16:20:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-17T16:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-noch-unbekannten-tage",
    "start": "2026-10-17T16:45:00+02:00",
    "cinema": "Stadtkino Wien",
@@ -5805,13 +5569,51 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-10-17T17:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-17T17:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-17T17:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "naza",
    "start": "2026-10-17T17:20:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-10-17T17:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-10-17T17:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -5841,6 +5643,30 @@
    "booking": ""
   },
   {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-17T17:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-17T17:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-social-reckoning",
    "start": "2026-10-17T17:45:00+02:00",
    "cinema": "Haydn Kino",
@@ -5862,6 +5688,14 @@
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-17T18:00:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T18:00:00+02:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -5935,12 +5769,44 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-17T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "digger",
    "start": "2026-10-17T18:15:00+02:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T18:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-17T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-17T18:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
   },
   {
    "film": "before-sunrise",
@@ -5956,6 +5822,14 @@
    "film": "mr-nobody-against-putin",
    "start": "2026-10-17T18:30:00+02:00",
    "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-17T18:45:00+02:00",
+   "cinema": "Bellaria Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -5984,9 +5858,7 @@
    "start": "2026-10-17T19:00:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5998,12 +5870,36 @@
    "booking": ""
   },
   {
+   "film": "jim-queen",
+   "start": "2026-10-17T19:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "backrooms-everything-must-go-extended-version",
+   "start": "2026-10-17T19:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "the-piano-tuner",
    "start": "2026-10-17T19:30:00+02:00",
    "cinema": "Top Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-10-17T19:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "bruno-der-junge-kreisky",
@@ -6017,6 +5913,22 @@
    "film": "obsession",
    "start": "2026-10-17T19:45:00+02:00",
    "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-17T20:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-17T20:00:00+02:00",
+   "cinema": "De France",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -6048,6 +5960,30 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-17T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-17T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "verity",
    "start": "2026-10-17T20:15:00+02:00",
    "cinema": "Haydn Kino",
@@ -6064,10 +6000,42 @@
    "booking": ""
   },
   {
+   "film": "the-invite",
+   "start": "2026-10-17T20:30:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-perfekte-schein-der-fall-bojarski",
    "start": "2026-10-17T20:30:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-17T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-17T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-17T20:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -6116,6 +6084,14 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-17T20:35:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "primetime",
    "start": "2026-10-17T20:40:00+02:00",
    "cinema": "Burg Kino",
@@ -6146,6 +6122,14 @@
    "start": "2026-10-17T21:00:00+02:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "exit-8",
+   "start": "2026-10-17T21:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6186,9 +6170,7 @@
    "start": "2026-10-17T22:15:00+02:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6278,9 +6260,7 @@
    "start": "2026-10-18T12:55:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6288,6 +6268,14 @@
    "start": "2026-10-18T13:00:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "amarga-navidad-bitteres-fest",
+   "start": "2026-10-18T13:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6328,6 +6316,22 @@
    "booking": ""
   },
   {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-18T13:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T13:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "inglourious-basterds",
    "start": "2026-10-18T13:30:00+02:00",
    "cinema": "Metro Kinokulturhaus",
@@ -6335,6 +6339,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-18T13:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6346,13 +6358,21 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "the-social-reckoning",
+   "start": "2026-10-18T14:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-10-18T14:00:00+02:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6380,10 +6400,34 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "vaterland",
+   "start": "2026-10-18T14:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-18T14:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-third-man",
    "start": "2026-10-18T14:30:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-10-18T14:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6412,13 +6456,85 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-18T15:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-10-18T15:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wax-gold",
+   "start": "2026-10-18T15:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "romeria",
+   "start": "2026-10-18T15:15:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-18T15:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "thelma-louise",
+   "start": "2026-10-18T15:30:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
    "tags": [
-    "Film der Woche"
+    "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-18T15:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-18T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "adams-acht",
+   "start": "2026-10-18T15:45:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6430,10 +6546,26 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-18T15:50:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "steckerlfischfiasko",
    "start": "2026-10-18T16:00:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-18T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -6468,6 +6600,14 @@
    "start": "2026-10-18T16:00:00+02:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-10-18T16:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -6531,12 +6671,36 @@
    "booking": ""
   },
   {
+   "film": "jim-queen",
+   "start": "2026-10-18T17:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "das-drama-noch-mal-auf-anfang",
+   "start": "2026-10-18T17:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "verity",
    "start": "2026-10-18T17:15:00+02:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T17:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "sense-and-sensibility-2026",
@@ -6553,6 +6717,30 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-18T17:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T17:35:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-18T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "the-social-reckoning",
@@ -6583,6 +6771,14 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-18T17:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-18T17:50:00+02:00",
    "cinema": "Filmhaus",
@@ -6591,9 +6787,25 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-18T18:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-18T18:00:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T18:00:00+02:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -6633,6 +6845,38 @@
    "booking": ""
   },
   {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-18T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-10-18T18:15:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-18T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-18T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "ninja-motherfcking-destruction",
    "start": "2026-10-18T18:30:00+02:00",
    "cinema": "Schikaneder",
@@ -6653,9 +6897,15 @@
    "start": "2026-10-18T18:40:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-18T18:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6681,9 +6931,7 @@
    "start": "2026-10-18T19:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6695,6 +6943,14 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "pressure-2026",
+   "start": "2026-10-18T19:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "verity",
    "start": "2026-10-18T19:30:00+02:00",
    "cinema": "Haydn Kino",
@@ -6703,10 +6959,52 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "naza",
+   "start": "2026-10-18T19:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "adams-acht",
+   "start": "2026-10-18T19:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-18T20:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "vaterland",
    "start": "2026-10-18T20:00:00+02:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-18T20:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-18T20:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6769,6 +7067,30 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-18T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-18T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-18T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "sense-and-sensibility",
    "start": "2026-10-18T20:15:00+02:00",
    "cinema": "Filmhaus",
@@ -6791,6 +7113,30 @@
    "start": "2026-10-18T20:30:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-18T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-18T20:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -6853,6 +7199,14 @@
    "booking": ""
   },
   {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-10-18T21:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "gentle-monster",
    "start": "2026-10-18T21:30:00+02:00",
    "cinema": "Top Kino",
@@ -6877,13 +7231,125 @@
    "booking": ""
   },
   {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-19T14:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-19T15:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-19T15:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-19T15:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "rose",
+   "start": "2026-10-19T15:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "cheri-ich-komme-die-erfindung-der-lust-pour-le-plaisir",
+   "start": "2026-10-19T15:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "adams-acht",
+   "start": "2026-10-19T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-19T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "romeria",
+   "start": "2026-10-19T16:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wax-gold",
+   "start": "2026-10-19T16:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-19T17:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-19T17:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-19T17:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "naza",
    "start": "2026-10-19T17:30:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-19T17:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6913,10 +7379,34 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-19T17:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-19T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "vaterland",
    "start": "2026-10-19T17:45:00+02:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-19T17:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -6953,9 +7443,25 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-10-19T18:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-19T18:00:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-19T18:00:00+02:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -6973,9 +7479,7 @@
    "start": "2026-10-19T18:00:00+02:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6987,7 +7491,7 @@
    "booking": ""
   },
   {
-   "film": "digger",
+   "film": "resident-evil",
    "start": "2026-10-19T18:00:00+02:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
@@ -7023,9 +7527,49 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-19T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-19T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-19T18:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "big-eyes",
    "start": "2026-10-19T18:30:00+02:00",
    "cinema": "Metro Kinokulturhaus",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-10-19T18:45:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-19T18:45:00+02:00",
+   "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -7035,10 +7579,16 @@
    "start": "2026-10-19T19:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
+  },
+  {
+   "film": "im-spiegel-meiner-mutter",
+   "start": "2026-10-19T19:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "kleine-schmutzige-briefe",
@@ -7083,6 +7633,24 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-19T19:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Q&A"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-19T19:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "wax-gold",
    "start": "2026-10-19T19:45:00+02:00",
    "cinema": "Top Kino",
@@ -7094,6 +7662,22 @@
    "film": "der-perfekte-schein-der-fall-bojarski",
    "start": "2026-10-19T19:45:00+02:00",
    "cinema": "URANIA CEE🧡NEMA",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-19T20:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-19T20:00:00+02:00",
+   "cinema": "De France",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -7115,6 +7699,30 @@
    "lang": "OmdU",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-19T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-19T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-19T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
   },
   {
    "film": "liebhaberinnen",
@@ -7141,10 +7749,42 @@
    "booking": ""
   },
   {
+   "film": "primetime",
+   "start": "2026-10-19T20:30:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-perfekte-schein-der-fall-bojarski",
    "start": "2026-10-19T20:30:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-19T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-19T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-19T20:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7174,6 +7814,16 @@
    "cinema": "Metro Kinokulturhaus",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-19T20:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7235,10 +7885,90 @@
    "booking": ""
   },
   {
+   "film": "our-girls",
+   "start": "2026-10-20T15:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-20T15:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-20T15:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-20T15:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-20T15:30:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-20T15:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-20T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-20T16:00:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-20T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T16:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7250,6 +7980,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-20T16:50:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7265,9 +8003,7 @@
    "start": "2026-10-20T17:00:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7275,6 +8011,14 @@
    "start": "2026-10-20T17:00:00+02:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-20T17:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7287,9 +8031,57 @@
    "booking": ""
   },
   {
+   "film": "our-girls",
+   "start": "2026-10-20T17:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "DF",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-20T17:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wax-gold",
+   "start": "2026-10-20T17:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "die-kinder-der-toten",
    "start": "2026-10-20T17:30:00+02:00",
    "cinema": "Metro Kinokulturhaus",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-20T17:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-20T17:45:00+02:00",
+   "cinema": "De France",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -7321,10 +8113,26 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-20T17:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-perfekte-schein-der-fall-bojarski",
    "start": "2026-10-20T17:50:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T18:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7379,6 +8187,38 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T18:15:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-10-20T18:20:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-20T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-20T18:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "jim-queen",
    "start": "2026-10-20T18:30:00+02:00",
    "cinema": "Filmhaus",
@@ -7391,6 +8231,14 @@
    "start": "2026-10-20T18:35:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-10-20T18:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
    "tags": [],
    "booking": ""
   },
@@ -7409,10 +8257,16 @@
    "start": "2026-10-20T19:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
+  },
+  {
+   "film": "pressure-2026",
+   "start": "2026-10-20T19:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "matewan",
@@ -7433,6 +8287,22 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-20T19:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "das-drama-noch-mal-auf-anfang",
+   "start": "2026-10-20T19:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-10-20T19:45:00+02:00",
    "cinema": "Filmcasino",
@@ -7445,6 +8315,22 @@
    "start": "2026-10-20T19:45:00+02:00",
    "cinema": "Schikaneder",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-20T20:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T20:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7465,9 +8351,33 @@
    "booking": ""
   },
   {
+   "film": "alte-liebe",
+   "start": "2026-10-20T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-20T20:10:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-20T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-20T20:15:00+02:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -7515,11 +8425,47 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-20T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-10-20T20:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "was-ist-film-programm-16",
    "start": "2026-10-20T20:30:00+02:00",
    "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-20T20:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-20T20:35:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7567,6 +8513,14 @@
    "booking": ""
   },
   {
+   "film": "cheri-ich-komme-die-erfindung-der-lust-pour-le-plaisir",
+   "start": "2026-10-21T15:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-21T15:00:00+02:00",
    "cinema": "Filmcasino",
@@ -7575,13 +8529,101 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-10-21T15:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-21T15:15:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-21T15:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-21T15:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-21T15:45:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-21T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-haben-wir-gelacht",
+   "start": "2026-10-21T15:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-21T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "adams-acht",
+   "start": "2026-10-21T16:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-10-21T16:00:00+02:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-21T16:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-10-21T16:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7595,6 +8637,14 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-21T17:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-noch-unbekannten-tage",
    "start": "2026-10-21T17:15:00+02:00",
    "cinema": "Top Kino",
@@ -7603,13 +8653,27 @@
    "booking": ""
   },
   {
+   "film": "coyote-vs-acme",
+   "start": "2026-10-21T17:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "naza",
    "start": "2026-10-21T17:30:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-21T17:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7629,10 +8693,26 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-21T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "die-noch-unbekannten-tage",
    "start": "2026-10-21T17:45:00+02:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-21T17:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -7661,10 +8741,34 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-21T17:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-perfekte-schein-der-fall-bojarski",
    "start": "2026-10-21T17:50:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-21T18:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-21T18:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7723,6 +8827,14 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-21T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-10-21T18:15:00+02:00",
    "cinema": "Filmcasino",
@@ -7734,6 +8846,30 @@
    "film": "mr-nobody-against-putin",
    "start": "2026-10-21T18:15:00+02:00",
    "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-21T18:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-21T18:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-10-21T18:45:00+02:00",
+   "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -7753,10 +8889,16 @@
    "start": "2026-10-21T19:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-10-21T19:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "cutting-through-rocks",
@@ -7775,6 +8917,22 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-21T19:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-21T19:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "dead-for-a-dollar",
    "start": "2026-10-21T19:45:00+02:00",
    "cinema": "Metro Kinokulturhaus",
@@ -7786,6 +8944,14 @@
    "film": "teenage-sex-and-death-at-camp-misma",
    "start": "2026-10-21T19:45:00+02:00",
    "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-21T20:00:00+02:00",
+   "cinema": "De France",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -7809,10 +8975,52 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-21T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [
+    "Q&A"
+   ],
+   "booking": ""
+  },
+  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-10-21T20:10:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-21T20:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-21T20:15:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-10-21T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-21T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7837,6 +9045,22 @@
    "start": "2026-10-21T20:20:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-21T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-10-21T20:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7866,6 +9090,24 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-10-21T20:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-21T20:35:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7911,9 +9153,81 @@
    "booking": ""
   },
   {
-   "film": "vaterland",
-   "start": "2026-10-22T12:30:00+02:00",
-   "cinema": "Admiral Kino",
+   "film": "rose",
+   "start": "2026-10-22T15:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-22T15:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "romeria",
+   "start": "2026-10-22T15:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-10-22T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-10-22T15:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-22T16:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-schein-der-fall-bojarski",
+   "start": "2026-10-22T16:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-22T16:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-22T16:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-22T16:30:00+02:00",
+   "cinema": "Bellaria Kino",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -7923,9 +9237,15 @@
    "start": "2026-10-22T17:00:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-10-22T17:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7935,6 +9255,14 @@
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "ecce-homo-der-verlorene-caravaggi",
+   "start": "2026-10-22T17:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "ich-verstehe-ihren-unmut",
@@ -7949,6 +9277,30 @@
    "start": "2026-10-22T17:30:00+02:00",
    "cinema": "Top Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-22T17:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-22T17:45:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-22T17:45:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -7969,13 +9321,35 @@
    "booking": ""
   },
   {
+   "film": "wax-gold",
+   "start": "2026-10-22T18:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-22T18:00:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-22T18:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-10-22T18:00:00+02:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7997,10 +9371,58 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-10-22T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-10-22T18:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "chopin-eine-sonate-in-paris",
+   "start": "2026-10-22T18:15:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-10-22T18:30:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-10-22T18:35:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-22T18:45:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-10-22T18:45:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -8017,9 +9439,7 @@
    "start": "2026-10-22T19:10:00+02:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8029,6 +9449,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "pressure-2026",
+   "start": "2026-10-22T19:30:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "lithuanian-shorts-the-space-between",
@@ -8047,6 +9475,22 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-22T20:00:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-22T20:00:00+02:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bernadette-will-toeten",
    "start": "2026-10-22T20:00:00+02:00",
    "cinema": "Schikaneder",
@@ -8057,10 +9501,66 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-22T20:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-perfekte-schein-der-fall-bojarski",
    "start": "2026-10-22T20:10:00+02:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-22T20:15:00+02:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "chopin-eine-sonate-in-paris",
+   "start": "2026-10-22T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-22T20:15:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-10-22T20:30:00+02:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-10-22T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-10-22T20:30:00+02:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -8093,6 +9593,24 @@
    "booking": ""
   },
   {
+   "film": "the-social-reckoning",
+   "start": "2026-10-22T20:30:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-22T20:35:00+02:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "primetime",
    "start": "2026-10-22T20:45:00+02:00",
    "cinema": "Burg Kino",
@@ -8108,6 +9626,14 @@
    "tags": [
     "Film der Woche"
    ],
+   "booking": ""
+  },
+  {
+   "film": "exit-8",
+   "start": "2026-10-22T21:00:00+02:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -8423,9 +9949,7 @@
    "start": "2026-10-29T18:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8507,6 +10031,14 @@
    "start": "2026-10-31T14:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "das-kleine-gespenst",
+   "start": "2026-10-31T14:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -8783,6 +10315,14 @@
    "booking": ""
   },
   {
+   "film": "nachts-in-der-provinz",
+   "start": "2026-11-07T21:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "kino-fuer-die-kleinsten-platz-fuer-alle",
    "start": "2026-11-08T11:00:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -8994,6 +10534,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "nachts-in-der-provinz",
+   "start": "2026-11-20T18:30:00+01:00",
+   "cinema": "Metro Kinokulturhaus",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -9212,6 +10760,32 @@
    "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "kino-fuer-die-kleinsten-oh-was-hast-du-denn-entdeckt",
+   "start": "2026-12-13T11:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "no-good-men",
+   "start": "2026-12-13T12:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "city-lights-lichter-der-grossstadt",
+   "start": "2026-12-13T15:00:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   }
  ]
