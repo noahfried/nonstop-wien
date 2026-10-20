@@ -213,6 +213,9 @@ table.grid { border-collapse: separate; border-spacing: 0; width: max-content; m
 }
 .badge.count { border-color: transparent; background: var(--surface-2); color: var(--ink-2); }
 .badge.fdw { border-color: var(--accent); color: var(--accent); }
+.badge.imdb { text-decoration: none; border-color: transparent; background: #f5c518; color: #121212; }
+.badge.imdb:hover { filter: brightness(1.05); }
+.star { color: var(--accent); }
 
 .chips { display: flex; flex-direction: column; gap: 4px; }
 .chip {
@@ -345,6 +348,7 @@ footer { color: var(--ink-3); font-size: 12px; margin-top: 14px; }
   <section id="weekView">
     <div class="subbar">
       <div class="seg" role="group" aria-label="Sort films">
+        <button type="button" data-sort="picks" title="IMDb popularity, rating and director, tuned by taste.json">Picks for you</button>
         <button type="button" data-sort="count">Most screenings</button>
         <button type="button" data-sort="az">A–Z</button>
         <button type="button" data-sort="tonight">Playing tonight</button>
@@ -420,13 +424,18 @@ const CINEMAS = [...new Set(ALL.map((s) => s.cinema))].sort((a, b) => cinemaName
 const PRESENT_TAGS = TAGS.filter((t) => ALL.some((s) => s.tags.includes(t)));
 
 // ---------- state ----------
-const DEFAULT = { view: "week", sort: "count", q: "", cinemas: [], langs: [], from: 0, tags: [], day: null };
+const DEFAULT = { view: "week", sort: "picks", q: "", cinemas: [], langs: [], from: 0, tags: [], picks: false, day: null };
+const PICK_MIN = 55; // score (0-100) from update.py that earns a ★
 let state = { ...DEFAULT };
-try { Object.assign(state, JSON.parse(localStorage.getItem("nonstop-wien") || "{}")); } catch (e) { /* storage unavailable */ }
+try {
+  const saved = localStorage.getItem("nonstop-wien-v2");
+  // v1 saved state predates "Picks": keep its filters but switch to the new default sort
+  Object.assign(state, saved ? JSON.parse(saved) : { ...JSON.parse(localStorage.getItem("nonstop-wien") || "{}"), sort: "picks" });
+} catch (e) { /* storage unavailable */ }
 state.cinemas = (state.cinemas || []).filter((c) => CINEMAS.includes(c) || c === "__none__");
 state.tags = (state.tags || []).filter((t) => PRESENT_TAGS.includes(t));
 state.q = "";
-const save = () => { try { localStorage.setItem("nonstop-wien", JSON.stringify({ ...state, q: "" })); } catch (e) { /* ignore */ } };
+const save = () => { try { localStorage.setItem("nonstop-wien-v2", JSON.stringify({ ...state, q: "" })); } catch (e) { /* ignore */ } };
 
 function filtered() {
   const now = Date.now();
@@ -437,10 +446,14 @@ function filtered() {
     (!state.cinemas.length || state.cinemas.includes(s.cinema)) &&
     (!state.langs.length || state.langs.includes(s.lang)) &&
     (!state.from || s.mins >= state.from * 60) &&
-    (!state.tags.length || state.tags.every((t) => s.tags.includes(t)))
+    (!state.tags.length || state.tags.every((t) => s.tags.includes(t))) &&
+    (!state.picks || isPick(s.f))
   );
 }
 
+const isPick = (f) => f.score != null && f.score >= PICK_MIN;
+const scoreOf = (f) => (f.score == null ? -1 : f.score);
+const kfmt = (n) => (n >= 1e6 ? (n / 1e6).toFixed(1).replace(/\.0$/, "") + "M" : n >= 1e3 ? Math.round(n / 1e3) + "k" : String(n));
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const linkOf = (s) => s.booking || s.f.url;
 const langVar = (l) => `var(--lang-${LANGS.some((x) => x.code === l) ? l : "OV"})`;
@@ -455,9 +468,11 @@ function buildControls() {
   $("langGroup").insertAdjacentHTML("beforeend",
     LANGS.map((l) => `<button type="button" class="pill" data-lang="${l.code}" title="${l.name}"><span class="sw" style="background:${langVar(l.code)}"></span>${l.code}</button>`).join("") +
     `<button type="button" class="pill en" data-english title="OV + OmeU">English-friendly</button>`);
-  $("tagGroup").innerHTML = PRESENT_TAGS.length
-    ? `<span class="flabel">Tags</span>` + PRESENT_TAGS.map((t) => `<button type="button" class="pill" data-tag="${esc(t)}">${esc(t)}</button>`).join("")
-    : "";
+  $("tagGroup").innerHTML = `<button type="button" class="pill" data-picks title="Only films scoring ${PICK_MIN}+ (see taste.json)">★ Picks only</button>` +
+    (PRESENT_TAGS.length
+      ? `<span class="flabel">Tags</span>` + PRESENT_TAGS.map((t) => `<button type="button" class="pill" data-tag="${esc(t)}">${esc(t)}</button>`).join("")
+      : "");
+  document.querySelector("[data-picks]").onclick = () => { state.picks = !state.picks; update(); };
   let opts = `<option value="0">Any time</option>`;
   for (let h = 10; h <= 23; h++) opts += `<option value="${h}">from ${String(h).padStart(2, "0")}:00</option>`;
   $("fromTime").innerHTML = opts;
@@ -496,12 +511,13 @@ function syncControls() {
   document.querySelectorAll("[data-lang]").forEach((b) => b.setAttribute("aria-pressed", state.langs.includes(b.dataset.lang)));
   document.querySelector("[data-english]").setAttribute("aria-pressed", isEnglish());
   document.querySelectorAll("[data-tag]").forEach((b) => b.setAttribute("aria-pressed", state.tags.includes(b.dataset.tag)));
+  document.querySelector("[data-picks]").setAttribute("aria-pressed", !!state.picks);
   $("fromTime").value = state.from;
   if ($("q").value !== state.q) $("q").value = state.q;
   $("cinemaList").querySelectorAll("input").forEach((i) => (i.checked = !state.cinemas.length || state.cinemas.includes(i.value)));
   const sel = state.cinemas.filter((c) => CINEMAS.includes(c));
   $("cinemaSummary").textContent = !state.cinemas.length ? "All cinemas" : sel.length === 1 ? cinemaName(sel[0]) : `${sel.length} cinemas`;
-  const active = (state.cinemas.length ? 1 : 0) + (state.langs.length ? 1 : 0) + (state.from ? 1 : 0) + state.tags.length;
+  const active = (state.cinemas.length ? 1 : 0) + (state.langs.length ? 1 : 0) + (state.from ? 1 : 0) + state.tags.length + (state.picks ? 1 : 0);
   $("filtersToggle").textContent = active ? `Filters · ${active}` : "Filters";
   $("reset").hidden = !active && !state.q;
   $("weekView").hidden = state.view !== "week";
@@ -538,14 +554,20 @@ function renderWeek(list) {
     r.tonight = t ? t.mins : Infinity;
   });
   const az = (a, b) => a.f.title.localeCompare(b.f.title, "de", { sensitivity: "base" });
+  const byScore = (a, b) => scoreOf(b.f) - scoreOf(a.f);
   if (state.sort === "az") rows.sort(az);
-  else if (state.sort === "tonight") rows.sort((a, b) => a.tonight - b.tonight || b.week.length - a.week.length || az(a, b));
+  else if (state.sort === "picks") rows.sort((a, b) => byScore(a, b) || b.week.length - a.week.length || az(a, b));
+  else if (state.sort === "tonight") rows.sort((a, b) => a.tonight - b.tonight || byScore(a, b) || az(a, b));
   else rows.sort((a, b) => b.week.length - a.week.length || az(a, b));
 
   const nTonight = rows.filter((r) => r.tonight < Infinity).length;
+  const upcoming = [...byFilm.values()].filter((r) => !r.week.length && isPick(r.f)).sort((a, b) => scoreOf(b.f) - scoreOf(a.f));
+  const laterPicks = upcoming.length
+    ? ` · coming up: ${upcoming.slice(0, 4).map((r) => `★ ${r.f.title} (${dayNum(r.later[0].date)})`).join(", ")}`
+    : "";
   $("weekNote").textContent = state.sort === "tonight"
     ? `${plural(nTonight, "film")} still playing tonight (from ${hm(tonightStart)}), listed first`
-    : laterOnly ? `+ ${plural(laterOnly, "film")} playing only after ${dayNum(days[6])} (see Day view → Later)` : "";
+    : laterOnly ? `+ ${plural(laterOnly, "film")} playing only after ${dayNum(days[6])} (see Day view → Later)${laterPicks}` : "";
 
   if (!rows.length) {
     $("weekScroller").innerHTML = `<div class="empty">No screenings match these filters in the next 7 days.</div>`;
@@ -567,13 +589,19 @@ function renderWeek(list) {
     const later = r.later.length ? `${r.later.length}× · next ${dayName(r.later[0].date)} ${dayNum(r.later[0].date)}` : "";
     return `<tr><td class="film"><div class="fcell">` +
       (f.poster ? `<img class="poster" src="${esc(f.poster)}" alt="" loading="lazy">` : `<div class="poster"></div>`) +
-      `<div class="fmeta"><a class="ftitle" href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title)}</a>` +
+      `<div class="fmeta"><a class="ftitle" href="${esc(f.url)}" target="_blank" rel="noopener">${isPick(f) ? `<span class="star" title="Pick for you (${f.score})">★</span> ` : ""}${esc(f.title)}</a>` +
       `<div class="fsub" title="${esc(sub)}">${esc(sub)}</div>` +
-      `<div class="badges"><span class="badge count" title="screenings in the next 7 days">${r.week.length}×</span>` +
+      `<div class="badges"><span class="badge count" title="screenings in the next 7 days">${r.week.length}×</span>` + imdbBadge(f) +
       tags.map((t) => `<span class="badge ${t === "Film der Woche" ? "fdw" : ""}">${esc(t)}</span>`).join("") +
       `</div></div></div></td>${cells}<td class="later">${later}</td></tr>`;
   }).join("");
   $("weekScroller").innerHTML = `<table class="grid">${head}<tbody>${body}</tbody></table>`;
+}
+
+function imdbBadge(f) {
+  if (!f.imdb) return "";
+  const label = f.rating ? `IMDb ${f.rating.toFixed(1)}${f.votes ? " · " + kfmt(f.votes) : ""}` : "IMDb";
+  return `<a class="badge imdb" href="https://www.imdb.com/title/${esc(f.imdb)}/" target="_blank" rel="noopener" title="${f.votes ? f.votes.toLocaleString("en") + " votes · " : ""}score ${f.score}">${label}</a>`;
 }
 
 function chip(s) {
@@ -646,7 +674,7 @@ function renderDay(list) {
     const blocks = placed.map(({ s, left, w, lane }) => {
       const marks = s.tags.filter((t) => TAG_SHORT[t]).map((t) => " · " + TAG_SHORT[t]).join("");
       return `<a class="blk ${s.f.runtime ? "" : "est"}" style="--lc:${langVar(s.lang)};left:${left}px;top:${lane * LANE + 4}px;width:${w}px" href="${esc(linkOf(s))}" target="_blank" rel="noopener" data-i="${s.i}">` +
-        `<span class="bt">${esc(s.f.title)}</span><span class="bm">${s.time}${s.f.runtime ? "–" + hm(endOf(s)) : ""} · ${esc(s.lang)}${marks}</span></a>`;
+        `<span class="bt">${isPick(s.f) ? "★ " : ""}${esc(s.f.title)}</span><span class="bm">${s.time}${s.f.runtime ? "–" + hm(endOf(s)) : ""} · ${esc(s.lang)}${marks}</span></a>`;
     }).join("");
     return `<div class="tl-row"><div class="tl-label">${esc(cinemaName(c))}<small>${plural(ss.length, "screening")}</small></div>` +
       `<div class="tl-track" style="width:${width}px;height:${h}px">` +
@@ -681,6 +709,7 @@ function setupTooltip() {
       `<div class="tm">${esc(s.lang)}${lang ? " — " + esc(lang.name) : ""}${f.spoken ? ` (${esc(f.spoken)})` : ""}</div>` +
       (s.tags.length ? `<div class="badges">${s.tags.map((t) => `<span class="badge">${esc(t)}</span>`).join("")}</div>` : "") +
       (facts ? `<div class="tm" style="margin-top:4px">${esc(facts)}</div>` : "") +
+      (f.imdb ? `<div class="tm">${f.rating ? `IMDb ${f.rating.toFixed(1)} (${kfmt(f.votes)} votes)` : "IMDb: not rated yet"}${f.genres && f.genres.length ? " · " + esc(f.genres.join(", ")) : ""}${isPick(f) ? " · ★ pick" : ""}</div>` : "") +
       (f.synopsis ? `<div class="ts">${esc(f.synopsis)}</div>` : "") +
       `<div class="tl2">Click: ${s.booking ? "cinema ticket page" : "nonstop film page"} ↗</div>`;
     tip.hidden = false;

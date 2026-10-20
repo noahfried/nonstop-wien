@@ -60,6 +60,17 @@ re-run makes 1 request plus a few for new films.
   midnight when needed). Block width is the runtime; a faded end means the
   runtime is unknown and 100 min is assumed. Set *From* to 19:00 to answer
   "what can I still catch tonight?"
+- **Picks for you** (default sort) ranks films by the IMDb datasets: how many votes
+  (popular), the rating (good) and how well-known the director is. New releases lean
+  on the director because their votes haven't piled up yet. A poorly rated film keeps only
+  about a third of its score, so Twilight sinks below Vertigo. `taste.json` adds your tilt:
+  favourite directors (+15), English-language (+6) and genre nudges (thrillers up,
+  kids' and documentary films down). Films scoring 55+ get a ★. *★ Picks only* filters to
+  them in both views, and picks screening after this week are listed above the grid.
+  Films are matched to IMDb by director and year first, so German release titles like
+  "E.T. – Der Außerirdische" still match. Event programmes and shorts nights have no
+  IMDb entry and sort last. The IMDb index (~18 MB, built from ~630 MB of downloads)
+  is rebuilt weekly in `cache/`.
 - **Filters** apply to both views: search (title/director/cast), cinemas,
   language (the *English-friendly* option selects OV + OmeU), earliest start,
   and tags. They're remembered per browser.
@@ -73,6 +84,8 @@ re-run makes 1 request plus a few for new films.
 | `update.py` | scraper + build script |
 | `template.html` | dashboard source (HTML/CSS/JS, no build step) |
 | `dashboard.html` | generated output with embedded data |
+| `imdb.py` | IMDb dataset index + title matching |
+| `taste.json` | your ranking preferences, edit freely |
 | `data.json` | the same data, for inspection |
 | `cache/` | programme + film page cache |
 

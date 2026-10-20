@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["update.py", "template.html", ".github/workflows/update.yml"]
+    paths: ["update.py", "imdb.py", "taste.json", "template.html", ".github/workflows/update.yml"]
 
 permissions:
   contents: write   # commit data.json (also keeps the schedule from going dormant)

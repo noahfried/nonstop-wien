@@ -1,0 +1,19 @@
+{
+  "_comment": "Tune the 'Picks' ranking. Scores are 0-100: IMDb popularity (votes), IMDb rating and how well-known the director is, plus the adjustments below. Edit freely; names match IMDb spelling.",
+  "favorite_directors": [
+    "Alfred Hitchcock", "David Lynch", "Danny Boyle",
+    "Stanley Kubrick", "Martin Scorsese", "Quentin Tarantino", "David Fincher",
+    "Christopher Nolan", "Joel Coen", "Ethan Coen", "Paul Thomas Anderson",
+    "Steven Spielberg", "Ridley Scott", "John Carpenter", "David Cronenberg",
+    "Brian De Palma", "Roman Polanski", "Denis Villeneuve", "Jordan Peele",
+    "Bong Joon Ho", "Edgar Wright", "Guy Ritchie", "Sam Raimi", "Darren Aronofsky",
+    "Alejandro G. Iñárritu", "Billy Wilder", "Sidney Lumet", "Francis Ford Coppola"
+  ],
+  "favorite_bonus": 15,
+  "english_bonus": 6,
+  "genre_adjust": {
+    "Thriller": 4, "Mystery": 4, "Crime": 3, "Sci-Fi": 3, "Horror": 2, "Film-Noir": 3,
+    "Comedy": 1,
+    "Documentary": -8, "Family": -10, "Animation": -5, "Short": -10, "Musical": -3
+  }
+}

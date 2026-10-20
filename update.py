@@ -12,6 +12,7 @@ cache/films/ between runs.
 """
 import html
 import json
+import math
 import re
 import sys
 import time
@@ -23,11 +24,14 @@ from pathlib import Path
 from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
+from imdb import Imdb, norm
+
 ROOT = Path(__file__).resolve().parent
 CACHE = ROOT / "cache"
 FILM_CACHE = CACHE / "films"
 DATA_JSON = ROOT / "data.json"
 TEMPLATE = ROOT / "template.html"
+TASTE = ROOT / "taste.json"
 OUTPUT = ROOT / "dashboard.html"
 
 BASE = "https://nonstopkino.at"
@@ -269,6 +273,19 @@ def build(offline: bool = False) -> dict:
                 "booking": venue_link if is_booking_link(venue_link) else "",
             })
 
+    rank_films(films, Imdb(CACHE, USER_AGENT, offline), json.loads(TASTE.read_text(encoding="utf-8")))
+    # nonstop sometimes lists one film twice (e.g. original and German title): merge by IMDb id
+    keep, merged = {}, {}
+    for f in films:
+        if f.get("imdb") and f["imdb"] in keep:
+            merged[f["slug"]] = keep[f["imdb"]]
+        elif f.get("imdb"):
+            keep[f["imdb"]] = f["slug"]
+    if merged:
+        films = [f for f in films if f["slug"] not in merged]
+        for s in screenings:
+            s["film"] = merged.get(s["film"], s["film"])
+        print(f"  merged {len(merged)} duplicate film listing(s): {', '.join(merged)}")
     screenings.sort(key=lambda s: (s["start"], s["cinema"]))
     return {
         "updated": fetched_at.isoformat(timespec="minutes"),
@@ -276,6 +293,41 @@ def build(offline: bool = False) -> dict:
         "films": films,
         "screenings": screenings,
     }
+
+
+def clamp01(x: float) -> float:
+    return max(0.0, min(1.0, x))
+
+
+def rank_films(films: list, imdb: Imdb, taste: dict) -> None:
+    """Give every film a 0-100 'pick' score: popular + well rated + known director, tilted by taste.json."""
+    this_year = datetime.now(VIENNA).year
+    favorites = {norm(n) for n in taste.get("favorite_directors", [])}
+    genre_adjust = taste.get("genre_adjust", {})
+    for f in films:
+        tconst = imdb.match(f["title"], f["director"], f["year"])
+        if not tconst:
+            f["score"] = None
+            continue
+        m = imdb.info(tconst)
+        f.update({"imdb": m["imdb"], "rating": m["rating"], "votes": m["votes"], "genres": m["genres"]})
+        f["runtime"] = f["runtime"] or m["runtime"]
+        f["year"] = f["year"] or m["imdbYear"]
+
+        pop = clamp01((math.log10(m["votes"] + 1) - 3) / 3)            # 1k votes → 0, 1M → 1
+        qual = clamp01((m["rating"] - 5.8) / 2.6) if m["rating"] else 0.45  # 5.8 → 0, 8.4 → 1
+        fame = clamp01((math.log10(m["directorFame"] + 1) - 4) / 2.4)   # best film 10k votes → 0, 2.5M → 1
+        recent = (f["year"] or 0) >= this_year - 1                      # votes haven't piled up yet
+        known = (0.25 * pop + 0.75 * fame) if recent else (0.55 * pop + 0.45 * fame)
+        # "popular AND good": a well-known film with a poor rating only keeps ~a third of its score
+        score = 100 * known * (0.35 + 0.65 * qual)
+        score += sum(genre_adjust.get(g, 0) for g in m["genres"])
+        if "englisch" in (f["spoken"] or "").lower():
+            score += taste.get("english_bonus", 0)
+        if favorites & {norm(n) for n in m["directorNames"]}:
+            score += taste.get("favorite_bonus", 0)
+            f["favorite"] = True
+        f["score"] = round(max(0, score))  # can exceed 100 with taste bonuses; only used for ordering
 
 
 def summarize(data: dict) -> None:
@@ -293,6 +345,11 @@ def summarize(data: dict) -> None:
     print("Languages: " + ", ".join(f"{k} {v}" for k, v in langs.most_common()))
     print("Tags: " + (", ".join(f"{k} {v}" for k, v in tags.most_common()) or "none"))
     print(f"Booking links: {sum(1 for s in sc if s['booking'])}")
+    films = data["films"]
+    matched = [f for f in films if f.get("score") is not None]
+    print(f"IMDb matches: {len(matched)}/{len(films)} films")
+    top = sorted(matched, key=lambda f: -f["score"])[:10]
+    print("Top picks: " + "; ".join(f"{f['title']} ({f['score']})" for f in top))
     unknown = [s for s in sc if s["lang"] not in LANGUAGES]
     if unknown:
         print(f"  ! unexpected language codes: {Counter(s['lang'] for s in unknown)}")
