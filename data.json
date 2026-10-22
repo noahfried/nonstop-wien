@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T10:45+02:00",
+ "updated": "2026-10-22T10:47+02:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -322,6 +322,26 @@
    "score": null
   },
   {
+   "slug": "biermann",
+   "title": "Biermann",
+   "url": "https://nonstopkino.at/movies/biermann/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/1caeb6fa-e151-42ee-b189-b3c06fea61e1.jpg?fit=max&w=120",
+   "director": "Jens Meurer",
+   "cast": "",
+   "year": 2026,
+   "runtime": 120,
+   "spoken": "Deutsch",
+   "synopsis": "Der legendäre Liedermacher Wolf Biermann hat schon immer polarisiert – bis heute. Seit über 60 Jahren sorgt die poetische Kraft seiner Texte für kleine und große politische Beben. Und so ist die Musik der Ausgangspunkt, sich dieser Jahrhundertpersönlichkeit filmisch zu nähern. Einem Mann, der die Dialektik lebt und lebendig macht, weil er sie auf seine verschmitzte Art sehr ernst nimmt. Er erklärt die Welt, indem er sie unablässig in Frage und gerne auf den Kopf stellt. Und bewahrt dabei Haltung. Die Kamera begleitet den 90-Jährigen bei der Begegnung mit jungen Künstler*innen, Politiker*innen sowie seiner Familie und verwebt dieses Material mit ikonischen, teils unveröffentlichten Archivaufnahmen. So entsteht ein mitreißendes und sehr persönliches Kaleidoskop eines Lebens, eine einzigartige Biografie eines einzigartigen Menschen. Denn: Mit keinem lebenden Künstler ist deutsch-deutsche Geschichte so eng verbunden wie mit Wolf Biermann BIERMANN ist ein Dokumentarfilm des Europäischen Filmpreis- und Golden Globe-Gewinners Jens Meurer (AN IMPOSSIBLE PROJECT, SEASIDE SPECIAL) über das Leben und Werk des Dichters und Liedermachers Wolf Biermann. Der Film zeichnet seine Biografie als unmittelbaren und hautnahen Rückblick nach und verbindet persönliche Erinnerungen mit politischer Zeitgeschichte. Im Zentrum stehen Biermanns Herkunft, seine Hinwendung zur Musik, sein Wirken in der DDR, das Kölner Konzert von 1976 und dessen Folgen sowie sein künstlerisches Arbeiten bis in die Gegenwart. Der Film nähert sich seinem Protagonisten über Musik, Sprache und historische Materialien. Archivaufnahmen, Zeitdokumente sowie Ausschnitte aus dem Kölner Konzert von 1976 und dem Konzert im November 2025 bilden das Rückgrat der Erzählung und machen deutlich, wie eng Biermanns Werk mit den politischen Umbrüchen Deutschlands verbunden ist.",
+   "imdb": "tt40205719",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "big-leaguer",
    "title": "Big Leaguer",
    "url": "https://nonstopkino.at/movies/big-leaguer/",
@@ -341,6 +361,19 @@
     "Sport"
    ],
    "score": 3
+  },
+  {
+   "slug": "bira-sure-hemo",
+   "title": "Bîra Sûrê + Hemo",
+   "url": "https://nonstopkino.at/movies/bira-sure-hemo/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/e5ec0deb-b05b-4638-a839-9d7523f99fdb.jpeg?fit=max&w=120",
+   "director": "Azad Altay, Dijle Arjîn",
+   "cast": "",
+   "year": 2025,
+   "runtime": 80,
+   "spoken": "Türkisch",
+   "synopsis": "BÎRA SÛRÊ (The Memory of Sur) Azad Altay | 36 min | kurd./türk. OmeU Im historischen Stadtviertel Sur in Amed wurde nach den in den Jahren 2015 und 2016 verhängten Ausgangssperren gezielt das Gedächtnis eines Volkes ins Visier genommen. Der Dokumentarfilm ist eine Reise der Erinnerung, die von den Angriffen auf historische Straßenzüge bis hin zu „neuen“, von Betonmauern umgebenen Wohnvierteln reicht. HEMO Dijle Arjîn | 45 min | kurdisches OmeU Hemo ist ein Landwirt, der hart darum kämpft, seinen Lebensunterhalt durch die Arbeit auf seinem Land zu bestreiten. Er verbringt seine Tage auf den Feldern und bei den Tieren, in einer Landschaft, die noch immer die Narben des Krieges trägt. Doch eines Tages bringt ein unerwartetes Angebot sein Leben durcheinander: Er soll in einem Film mitspielen. Die Rolle, die Hemo annimmt, ist weit mehr als nur eine schauspielerische Erfahrung. Denn die Figur, die er verkörpern soll, ist ein Feind, dem er Jahre zuvor während des Widerstands von Kobanê im Jahr 2015 begegnet ist. Hin- und hergerissen zwischen der konkreten Realität des Dorflebens – dem Land, der harten Arbeit und dem Überlebenskampf – und den Anforderungen am Filmset, findet sich Hemo zwischen zwei völlig unterschiedlichen Welten wieder. Diese Geschichte erzählt nicht nur davon, wie ein Mann eine Rolle verkörpert, sondern schildert auch eine innere Reise, die in die Tiefen von Erinnerung, Identität und Konfrontation eintaucht.",
+   "score": null
   },
   {
    "slug": "bloody-tennis",
@@ -614,27 +647,6 @@
    "score": 35
   },
   {
-   "slug": "cutting-through-rocks",
-   "title": "Cutting Through Rocks",
-   "url": "https://nonstopkino.at/movies/cutting-through-rocks/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/88e8e76a-838f-4765-8ae7-6b61897830ba.jpeg?fit=max&w=120",
-   "director": "Mohammadreza Eyni, Sara Khaki",
-   "cast": "",
-   "year": 2025,
-   "runtime": 95,
-   "spoken": "Persisch",
-   "synopsis": "Als erste Gemeinderätin ihres iranischen Dorfes kämpft Sara Shahverdi gegen frauenfeindliche Traditionen an. Sie lehrt Mädchen das Motorradfahren, bekämpft Kinderehen und stellt sich allen Widerständen zum Trotz gegen patriarchale Normen. Shaverdis Engagement für Frauen und ihre Weigerung, sich anzupassen, führt aber zu heftigen Gegenreaktionen und zu zunehmendem Misstrauen in der Gemeinde. Der Film ist ein außergewöhnliches Vérité-Porträt einer Frau, die mit mutigem politischen Aktivismus Veränderungen bewirkt.",
-   "imdb": "tt10196414",
-   "rating": 7.2,
-   "votes": 1014,
-   "genres": [
-    "Biography",
-    "Documentary",
-    "Drama"
-   ],
-   "score": 0
-  },
-  {
    "slug": "dante",
    "title": "Dante",
    "url": "https://nonstopkino.at/movies/dante/",
@@ -715,6 +727,27 @@
     "Western"
    ],
    "score": 19
+  },
+  {
+   "slug": "death-becomes-her",
+   "title": "Death Becomes Her",
+   "url": "https://nonstopkino.at/movies/death-becomes-her/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/df16bb77-8c0a-44f1-893c-9a219c8353cd.jpeg?fit=max&w=120",
+   "director": "Robert Zemeckis",
+   "cast": "Goldie Hawn, Bruce Willis, Meryl Streep",
+   "year": 1992,
+   "runtime": 104,
+   "spoken": "Englisch",
+   "synopsis": "Schönheit für die Ewigkeit? Klingt verlockend – bis der Traum vom ewigen Jungsein eine herrlich groteske Wendung nimmt. In Robert Zemeckis’ schwarzhumoriger Kultkomödie treffen unbändiger Ehrgeiz, verletzte Eitelkeit und der Wunsch, die Zeit einfach anzuhalten, aufeinander. Mit messerscharfem Witz, makabrem Charme und grandios absurden Spezialeffekten nimmt Death Becomes Her den Schönheitswahn und die ewige Selbstoptimierung genüsslich aufs Korn. Eine bissige, wunderbar schräge Komödie über Vergänglichkeit, Rivalität und den ganz normalen Wahnsinn, niemals alt werden zu wollen.",
+   "imdb": "tt0104070",
+   "rating": 6.7,
+   "votes": 152880,
+   "genres": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "score": 58
   },
   {
    "slug": "der-frechste-troll-der-welt-krolle-bolle",
@@ -912,6 +945,26 @@
    "score": 1
   },
   {
+   "slug": "die-legende-vom-haesslichen-koenig",
+   "title": "Die Legende vom hässlichen König",
+   "url": "https://nonstopkino.at/movies/die-legende-vom-haesslichen-koenig/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/9ec6526f-2eb7-4664-b2cb-31ab9b1eb22e.jpg?fit=max&w=120",
+   "director": "Hüseyin Tabak",
+   "cast": "",
+   "year": 2017,
+   "runtime": 122,
+   "spoken": "Türkisch, Englisch, Französisch, Deutsch",
+   "synopsis": "Man nannte ihn den hässlichen König: ein Mythos, ein Held, eine Filmlegende. Aber wer war Yılmaz Güney? Ganz sicher ein hochtalentierter Regisseur. Aber auch ein Revolutionär oder ein Mörder? Ein Genie oder ein Verrückter? Regisseur Hüseyin Tabak ist auf der Suche nach Antworten. Höhepunkt von Güneys Karriere war sicher seine Auszeichnung mit der Palme d’Or in Cannes im Jahre 1982. YOL ist bis heute sein bekanntester Film. Ausgangspunkt von Hüseyin Tabaks Nachforschungen wird ein Buch, das von dem kurdischen Filmemacher aus der Türkei handelt. Bald stößt er auch auf die ersten Risse und Wendepunkte in dieser Biografie: So wurde Güney zu einer Gefängnisstrafe von mehr als 100 Jahren verurteilt, offiziell für den Mord an einem Richter, doch politische Gründe liegen auf der Hand. Legendär und wohl einmalig in der Filmgeschichte ist, dass Güney selbst aus dem Gefängnis noch Filme drehte. Tabak geht unter anderem der Frage nach, wie das möglich ist. Er besucht Güneys Familie, seine Schauspieler, und ehemalige Mitgefangene, die über die Welt verstreut sind. Aber auch renommierte Filmemacher wie Michael Haneke und Costa Gavras kommen zu Wort. Er befragt Menschen auf der Straße, die Güney immer noch als Helden betrachten. Je tiefer Hüseyin in die Geschichte des legendären hässlichen Königs gräbt, desto menschlicher und verwundbarer scheint er.",
+   "imdb": "tt4240910",
+   "rating": 7.5,
+   "votes": 227,
+   "genres": [
+    "Biography",
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "die-noch-unbekannten-tage",
    "title": "Die noch unbekannten Tage",
    "url": "https://nonstopkino.at/movies/die-noch-unbekannten-tage/",
@@ -970,6 +1023,19 @@
    ],
    "favorite": true,
    "score": 80
+  },
+  {
+   "slug": "dimili-ewro-tirki-yasax-a",
+   "title": "Dimilî: Ewro Tirkî Yasax A",
+   "url": "https://nonstopkino.at/movies/dimili-ewro-tirki-yasax-a/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/1adb26a6-a5f9-4ee7-b112-37226bbc5559.jpg?fit=max&w=120",
+   "director": "Özgür Rayzan",
+   "cast": "",
+   "year": 2026,
+   "runtime": 65,
+   "spoken": "Türkisch",
+   "synopsis": "Istanbul im hellen Tageslicht. Draußen, im Hof von Fahri Ergüns Bauernhof, steht eine wichtige Regel geschrieben: „Türkisch ist verboten!“ Jeden Tag kommen alle Dimilî-Sprechenden, die diesen Hof besuchen, zusammen, vollziehen gemeinsam das Opferfest-Ritual, setzen sich zusammen und sprechen hier ausschließlich in ihrer Muttersprache Dimilî. In Istanbul ist ein solcher Ort zu einem besonderen und einzigartigen Raum geworden, in dem eine vom Aussterben bedrohte Sprache eine Stimme finden und weiterleben kann.",
+   "score": null
   },
   {
    "slug": "draculas-daughter",
@@ -1224,19 +1290,6 @@
     "Comedy"
    ],
    "score": 7
-  },
-  {
-   "slug": "filme-von-josef-dabernig-1989-2026",
-   "title": "Filme von Josef Dabernig, 1989–2026",
-   "url": "https://nonstopkino.at/movies/filme-von-josef-dabernig-1989-2026/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/ff1c3e21-4c11-45cb-a358-b578806ad9a3.jpeg?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": 77,
-   "spoken": "",
-   "synopsis": "Programm 6 Alle Filme: Regie, Drehbuch, Schnitt: Josef Dabernig; Kamera: Christian Giesser; Sound Design: Michael Palm Einfluss der Darmgifte auf das Auge 2016/26, Lese-Performance, ca. 10 min Proposal for a New Kunsthaus, not further developed 2004, kommentierte Dia-Projektion, ca. 10 min Panoramen work in progress seit 1989, Buchkonzept in 365 Tafeln als HD-Video, ca. 20 min River Plate AT 2013; Darsteller*innen: María Berríos, Josef Dabernig, Wolfgang Dabernig, Isabella Hollauf, Ingeburg Wurzer, Otto Zitko. 35mm, sw, 16 min Gertrud & Tiederich AT 2018; Musik: Christoph Herndler; Darsteller*innen: Josef Dabernig. DCP (von Super 16mm), sw, 10 min. Deutsch Lacrimosa AT 2024; Text: Bruno Pellandini; Stimme: Johanna Orsini; Darsteller*innen: Anni Dabernig, Lore Dabernig, Otto Dabernig, Elin Kruckenberg, Vanja Kruckenberg, Olaf Möller. DCP, sw, 11 min. Deutsch Die ersten drei Programmpunkte stellen Dabernig-Projekte aus anderen Kunstsparten vor: eine Lesung aus einem seiner frühen \"Abschreibprojekte\", kommentierte Dias zum Unwesen moderner Museumsarchitektur (mit Arbeits- und Urlaubsanekdoten) und eine Vorstellung seiner langjährigen Arbeit mit Panoramafotografien. Dazu drei charakteristisch doppelbödige Filme: der Badeausflug River Plate mit seinen buchstäblichen Körper-Teilen, die Kunstsammlungs-Kontemplation Gertrud & Tiederich und – ebenso liturgisch, aber ganz anders – eine merkwürdige Begräbniszeremonie in seinem letzten Film Lacrimosa. Kunstwerke aus der strengen Kammer des Existenzialismus. (C.H.) In Anwesenheit von Josef Dabernig",
-   "score": null
   },
   {
    "slug": "filme-von-linda-christanell-1978-95",
@@ -1554,6 +1607,38 @@
     "Drama"
    ],
    "score": 96
+  },
+  {
+   "slug": "heimsuchung",
+   "title": "Heimsuchung",
+   "url": "https://nonstopkino.at/movies/heimsuchung/",
+   "poster": "",
+   "director": "",
+   "cast": "",
+   "year": null,
+   "runtime": null,
+   "spoken": "",
+   "synopsis": "",
+   "score": null
+  },
+  {
+   "slug": "heval-birako",
+   "title": "Heval Birako",
+   "url": "https://nonstopkino.at/movies/heval-birako/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f48fc025-f70e-4053-8f24-229841e14872.jpeg?fit=max&w=120",
+   "director": "Numan Yiğit",
+   "cast": "",
+   "year": 2025,
+   "runtime": 116,
+   "spoken": "Arabisch",
+   "synopsis": "Die Dunkelheit des Krieges wirft einen Schatten auf das Licht der Kindheit. Zwei Brüder – wie Zweige, die aus derselben Wurzel wachsen – werden von unterschiedlichen Winden hin und her geworfen. Trotz der Distanz, des Schweigens und der Blutspuren, die sie trennen, verbindet ein unsichtbares Band ihre Herzen. HEVAL BIRAKO erzählt, wie der Krieg Kindheitsträume zerstörte und wie brüderliche Verbundenheit selbst unter den Trümmern von Sehnsucht und kulturellem Widerstand neu erblühen kann.",
+   "imdb": "tt43420401",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Drama"
+   ],
+   "score": 0
   },
   {
    "slug": "histoires-damerique-food-family-and-philosophy",
@@ -1918,6 +2003,59 @@
    "score": 0
   },
   {
+   "slug": "kurzfilmprogramm-2-kurdische-filmtage",
+   "title": "Kurzfilmprogramm 2 Kurdische Filmtage",
+   "url": "https://nonstopkino.at/movies/kurzfilmprogramm-2-kurdische-filmtage/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/ab8fc87f-0e0b-4b21-8c9e-435742bf2bf9.jpg?fit=max&w=120",
+   "director": "İlham Bakır, Jiyar Jahan Fard, Riza Oylum",
+   "cast": "",
+   "year": 2025,
+   "runtime": 94,
+   "spoken": "",
+   "synopsis": "DENGÊ KILÎTAN – Voices And Locks İlham Bakır | 20 min | kurdisches/armenisches OmeU Die Freundschaft zweier Kinder – eines armenisch, das andere kurdisch – leidet unter der staatlichen Unterdrückung der Armenier. Wird Gaspar das finden, worauf er hofft, wenn er 40 Jahre nach seiner Auswanderung in die USA in sein Dorf zurückkehrt, um seinen Kindheitserinnerungen nachzuspüren? THE MANUSCRIPT Jiyar Jahan Fard | 12 min | deutsches/kurdisches OmdU The Manuscript Eine Schriftstellerin arbeitet an einem Drehbuch, das einige Stunden ihres Lebens erzählt, und schickt jede Seite, die sie schreibt, an ihren befreundeten Regisseur. Während die Autorin im Iran lebt, stellt sich der Regisseur in Deutschland den gesamten Filmprozess in seinem Zuhause vor. Plötzlich hört die Schriftstellerin Geräusche, die auf das Eintreffen der Sicherheitskräfte des Regimes hinweisen. Österreichpremiere. YERLI YURTSUZ – Rootless Resident Riza Oylum | 62 min | armenisches/kurdisches/türkisches OmeU Der Film beleuchtet Yervant Demircis Bemühungen, eine Verbindung zu seinem armenischen Erbe herzustellen, während er sowohl als kurdischer als auch als türkisch-armenischer Armenier bezeichnet wird, und konzentriert sich dabei auf kulturelle Identität, kulturelles Erbe und historisches Trauma in der modernen Türkei und Armenien.",
+   "imdb": "tt33255375",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
+   "slug": "kurzfilmprogramm-kurdische-filmtage",
+   "title": "Kurzfilmprogramm Kurdische Filmtage",
+   "url": "https://nonstopkino.at/movies/kurzfilmprogramm-kurdische-filmtage/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5a77eb04-f911-4f7d-9ffe-d939fa1f1213.jpg?fit=max&w=120",
+   "director": "Regie: Metîn Ewr, Dilcan Osman Oso, Helin Celik, Elif Paech, Johannes Paech",
+   "cast": "",
+   "year": null,
+   "runtime": 115,
+   "spoken": "",
+   "synopsis": "XEZÎNE – Schatz Metîn Ewr | 19 min | kurdisches OmeU Nach dem Krieg ohne Arbeit und ohne Hoffnung, und aufgrund seiner wirtschaftlichen Notlage unfähig zu heiraten, beginnt Sidar gemeinsam mit seinem Jugendfreund Fırat nächtliche Schatzsuchen. Mit jedem Spatenstich gräbt er tiefer in seiner eigenen Vergangenheit. Eine dieser nächtlichen Grabungen führt Sidar jedoch nicht zu einem vergrabenen Schatz, sondern zu einer weitaus erschütternderen Entdeckung: den Überresten seines Vaters, der vor Jahren einem politisch motivierten, ungeklärten Verbrechen zum Opfer gefallen war. Österreichpremiere. ROJAVA RÛMETA MEYE – Rojava Is Our Dignity Dilcan Osman Oso | 8 min | kurdisches OmeU Ein Film, der die Geschichte von vier jungen Menschen erzählt, die ihre Gefühle aufrichtig zum Ausdruck bringen und über die Migration junger Menschen aus ihrer Heimat spricht. Auf dem Weg der Migration wenden sie sich einer Reise des Patriotismus zu. Sie durchlaufen viele Phasen, doch Freundschaft und gegebene Versprechen bleiben ihr prägendes Merkmal. Österreichpremiere. HABĀ Helin Çelik | 23 min | arab. OmeU Habā erzählt die Geschichte vom Verschwinden Sahars, einer 22-jährigen Frau, die vor der Gewalt ihrer Familie geflohen war. Ohne zu wissen, ob sie Opfer eines Verbrechens geworden ist, folgt der Film den Spuren und begibt sich auf die Suche nach Sahar. Die Reise beginnt am Toten Meer, dem Ort ihres Verschwindens; es entspinnt sich eine rätselhafte Spurensuche, die an verschiedenen Orten die Zeitlichkeit und Zeitlosigkeit menschlicher Existenz erkundet. Jede Landschaft hat ihren eigenen Geist: Sahars Geschichte verwebt sich mit den unerzählten Geschichten anderer Frauen, die auf mysteriöse Weise verschwunden sind oder von männlichen Verwandten getötet wurden. Es eröffnet sich ein rätselhafter Raum, in dem der Zuschauer allmählich in eine filmische Intervention hineingezogen wird, die diese Geister wieder zum Leben erweckt. ARZELA FROM AMED Elif Paech, Johannes Paech | 65 min | kurd./türk. OmeU Als kurdische Filmemacherin und Journalistin beginnt Arzela mit ihrer Kamera am Kampf der Menschen für Demokratie teilzunehmen. Die Ereignisse, die sich in dieser Zeit abspielen, führen sie zurück in ihre eigene Vergangenheit und in die konfliktreichen Perioden der Stadt. Österreichpremiere.",
+   "score": null
+  },
+  {
+   "slug": "la-bola-negra",
+   "title": "La Bola Negra",
+   "url": "https://nonstopkino.at/movies/la-bola-negra/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/6c0ca27d-f45a-4848-9acb-08985a26f969.png?fit=max&w=120",
+   "director": "Javier Ambrossi, Javier Calvo",
+   "cast": "Guitarricadelafuente, Miguel Bernardeau, Carlos González, Julio Torres, Penélope Cruz, Glenn Close",
+   "year": 2026,
+   "runtime": 155,
+   "spoken": "",
+   "synopsis": "Der Film spielt auf drei Zeitebenen – im republikanischen Spanien des Jahres 1932, während des Bürgerkriegs 1937 und im Spanien der Gegenwart im Jahr 2017 – und zeichnet das Geflecht miteinander verflochtener Lebenswege nach, in dessen Mittelpunkt drei junge Männer stehen, deren emotionale und politische Verbindungen sich nach und nach offenbaren.",
+   "imdb": "tt35511966",
+   "rating": 8.2,
+   "votes": 7074,
+   "genres": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "score": 7
+  },
+  {
    "slug": "la-pianiste",
    "title": "La pianiste",
    "url": "https://nonstopkino.at/movies/la-pianiste/",
@@ -2206,23 +2344,17 @@
    "score": 4
   },
   {
-   "slug": "mr-nobody-against-putin",
-   "title": "Mr. Nobody Against Putin (Ein Nobody gegen Putin)",
-   "url": "https://nonstopkino.at/movies/mr-nobody-against-putin/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/9b053cfb-10b7-493a-a83e-878f58a9e62b.jpg?fit=max&w=120",
-   "director": "David Borenstein, Pavel Ilyich Talankin",
+   "slug": "mugarik-gabe",
+   "title": "Mugarik Gabe",
+   "url": "https://nonstopkino.at/movies/mugarik-gabe/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/90d56ba3-2b9d-48e6-ad60-5462c7bab32c.png?fit=max&w=120",
+   "director": "Boris Guevara",
    "cast": "",
    "year": 2025,
-   "runtime": 89,
-   "spoken": "Russisch, Englisch",
-   "synopsis": "EIN NOBODY GEGEN PUTIN erzählt die wahre Geschichte von Pavel „Pasha“ Talankin, einem Lehrer in einer kleinen russischen Stadt, der zum stillen Beobachter eines sich radikal verändernden Systems wird. Nach dem Angriff auf die Ukraine 2022 wird seine Schule zum Ort staatlicher Propaganda: „patriotische“ Rituale, Militarisierung und ideologisch geprägter Unterricht dringen in den Schulalltag ein.Pasha bleibt Lehrer und Vertrauter seiner Schulkinder – und beginnt heimlich zu filmen. Unter seiner offiziellen Rolle als Videograf dokumentiert er hunderte Stunden Material: den Umbau des Bildungssystems und die Abschiede junger Menschen, die in den Krieg geschickt werden.Aus dieser Perspektive entsteht ein intimes, erschütterndes Porträt eines Landes im Ausnahmezustand, gesehen durch die Augen eines Einzelnen, der eigentlich kein Held sein will. Als die Situation für ihn gefährlich wird, bleibt nur die Flucht. Die dänisch-tschechisch-deutsche Koproduktion, die 2026 den Oscar für den besten Dokumentarfilm gewann, verbindet persönliche Chronik mit politischem Dokument und zeigt, wie Widerstand manchmal leise beginnt – im Inneren eines Klassenzimmers.",
-   "imdb": "tt34965515",
-   "rating": 7.4,
-   "votes": 13403,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 8
+   "runtime": 68,
+   "spoken": "Spanisch, Baskisch",
+   "synopsis": "Der Dokumentarfilm beleuchtet die miteinander verwobenen Identitäten von Musiker*innen aus dem Baskenland und Kurdistan – zwei geografisch weit voneinander entfernten Regionen, die durch eine gemeinsame Geschichte von Widerstand, Kampf und kultureller Selbstbehauptung verbunden sind. Anhand musikalischer Begegnungen und gemeinsamer kreativer Prozesse zeigt der Film, wie Kunst und Musik zu einer Sprache werden, die physische und politische Grenzen zu überwinden vermag. Der Film schildert eine menschliche Reise der Solidarität, der Erinnerung und der Suche nach Freiheit, bei der die persönlichen und kollektiven Erfahrungen der Musiker tiefe Verbindungen zwischen den beiden Völkern offenbaren. Er präsentiert Musik als einen Raum des Widerstands und der Begegnung, in dem Identitäten neu bekräftigt werden und Grenzen verschwimmen.",
+   "score": null
   },
   {
    "slug": "mumbo-jumbo",
@@ -2325,25 +2457,6 @@
     "Family"
    ],
    "score": 0
-  },
-  {
-   "slug": "news-from-home",
-   "title": "News from Home",
-   "url": "https://nonstopkino.at/movies/news-from-home/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/f2052bbe-58d2-43c3-b858-f5debf025157.jpeg?fit=max&w=120",
-   "director": "Chantal Akerman",
-   "cast": "",
-   "year": 1977,
-   "runtime": 88,
-   "spoken": "Englisch",
-   "synopsis": "In den 1970er und frühen 1980er Jahren traf kein Genre den Geist und die Gelüste des cinephilen Publikums so exakt wie die Roadmovies. Die Devise lautete: fahren, fahren, fahren! Und meist war damit gemeint: quer durch Amerika. Bei Chantal Akerman werden neben dem ursächlichen Rausch und der Eleganz des filmischen Fahrens auch die Bruchstellen jener transatlantisch ausgerichteten Lust spürbar. Sie dreht zwar \"drüben\", versenkt sich fahrend in die Stadt New York, tut dies aber aus der Distanz, in Bildern voller Einsamkeit und Fremdheit. Auf der Tonspur, über die scharfe Geräuschkulisse der Stadt hinweg, liest die Filmemacherin \"Nachrichten aus der Heimat\": Briefe ihrer Mutter aus Brüssel. Im schillernden Kontrast zwischen der so vermittelten Heimat und der sichtbaren Fremde wird die utopische road des Kinos zur dialektischen detour. (A.H.) Einführung Lotte Schreiber und Borjana Ventzislavova",
-   "imdb": "tt0076452",
-   "rating": 7.3,
-   "votes": 3677,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 9
   },
   {
    "slug": "nightcrawler",
@@ -2562,6 +2675,25 @@
    "votes": 0,
    "genres": [],
    "score": 6
+  },
+  {
+   "slug": "oyuna-geldik",
+   "title": "Oy‘una Geldik",
+   "url": "https://nonstopkino.at/movies/oyuna-geldik/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/86287654-b946-4644-b39c-ce7ee3e7f367.jpg?fit=max&w=120",
+   "director": "Kazim Öz",
+   "cast": "",
+   "year": 2025,
+   "runtime": 119,
+   "spoken": "Türkisch",
+   "synopsis": "Der im Bezirk Ovacik (Provinz Dersim) angesiedelte Film OY’UNA GELDIK ist eine politische Satire, die anhand der Kommunalwahlen vor Ort die Funktionsweise türkischer Gemeinden, die Machtverhältnisse und die Kämpfe um Pfründen und Ressourcen beleuchtet.",
+   "imdb": "tt35710714",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Comedy"
+   ],
+   "score": 1
   },
   {
    "slug": "ozzy-black-sabbath-back-to-the-beginning",
@@ -2832,27 +2964,6 @@
    "score": 3
   },
   {
-   "slug": "scarlet-street",
-   "title": "Scarlet Street",
-   "url": "https://nonstopkino.at/movies/scarlet-street/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/51379eba-6a83-4cfb-9007-7a764ea03dff.jpg?fit=max&w=120",
-   "director": "Fritz Lang",
-   "cast": "Edward G. Robinson, Joan Bennett, Dan Duryea, Rosalind Ivan, Vladimir Sokolof",
-   "year": 1945,
-   "runtime": 102,
-   "spoken": "Englisch",
-   "synopsis": "Auf seinem nächtlichen Heimweg eilt ein unscheinbarer Buchhalter einer Frau zur Hilfe, die von einem Mann auf der Straße geschlagen wird. Seine Hilfsbereitschaft fordert ihren Tribut: Von ihrer Schönheit immer mehr in den Bann gezogen, rutscht er zusehends ab … In vielerlei Hinsicht ist das das finstre Spiegelbild zu THE WOMAN IN THE WINDOW: Wieder steht ein unauffälliger Typ im Mittelpunkt, wieder spielt ein Porträt eine entscheidende Rolle und wieder gibt es ein Verbrechen, für das anscheinend der Falsche bezahlt. Was aber ist schon die »richtige« Strafe? Diese Frage treibt Lang hier wie in keinem seiner anderen Filme um. Die künstlerische Freiheit, die er mit seiner eigenen Produktionsfirma genießt, führt ihn – wenn auch nur für kurze Zeit – an die Spitze Hollywoods. (Florian Widegger)",
-   "imdb": "tt0038057",
-   "rating": 7.7,
-   "votes": 21757,
-   "genres": [
-    "Crime",
-    "Drama",
-    "Film-Noir"
-   ],
-   "score": 52
-  },
-  {
    "slug": "sense-and-sensibility-2026",
    "title": "Sense and Sensibility",
    "url": "https://nonstopkino.at/movies/sense-and-sensibility-2026/",
@@ -3042,25 +3153,6 @@
     "Thriller"
    ],
    "score": 4
-  },
-  {
-   "slug": "suerue-die-herde",
-   "title": "Sürü (Die Herde)",
-   "url": "https://nonstopkino.at/movies/suerue-die-herde/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/7babd1f5-cdd3-40b2-b064-a4e7d13de163.jpg?fit=max&w=120",
-   "director": "Zeki Ökten",
-   "cast": "Tarık Akan, Melike Demirağ, Tuncel Kurtiz, Levent Inanir",
-   "year": 1978,
-   "runtime": 118,
-   "spoken": "Türkisch",
-   "synopsis": "Um die blutige Fehde zwischen ihren Familien zu beenden, wird Berivan (Melike Demirag) von ihren Brüdern als Zeichen des Friedens mit Şivan (Tarik Akan) verheiratet. Doch das Überstellen einer Schafherde nach Ankara reißt die Familie – bedingt durch eine von Korruption und Gewalt geprägte türkischen Gesellschaft – in den Abgrund. An die Stelle traditioneller Lebensweise tritt Ausbeutung, die auf individueller Gier und Gerissenheit beruht. Yılmaz Güney schrieb das Drehbuch in der Haft und sein Vertrauter Zeki Ökten übernahm die Regie: \"Während meiner gesamten Arbeit musste ich indirekte Mittel einsetzen, um meine Gedanken auszudrücken. Das wesentliche Merkmal dieser Werke besteht darin, dass sie Kompromisse darstellen. Sürü ist im Grunde genommen die Geschichte des kurdischen Volkes\". Die bloße Existenz eines solchen Films stellt einen sowohl künstlerischen als auch politischen Triumph dar.",
-   "imdb": "tt0078355",
-   "rating": 8.1,
-   "votes": 5798,
-   "genres": [
-    "Drama"
-   ],
-   "score": 19
   },
   {
    "slug": "teenage-sex-and-death-at-camp-misma",
@@ -3598,27 +3690,6 @@
    "score": 38
   },
   {
-   "slug": "the-strange-woman",
-   "title": "The Strange Woman",
-   "url": "https://nonstopkino.at/movies/the-strange-woman/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/444b9e46-5493-49df-8d7c-465f2aa62c36.jpeg?fit=max&w=120",
-   "director": "Edgar G. Ulmer",
-   "cast": "Hedy Lamarr, George Sanders, Louis Hayward, Hillary Brooke, Rhys Williams",
-   "year": 1946,
-   "runtime": 100,
-   "spoken": "Englisch",
-   "synopsis": "Hedy Lamarr brilliert hier auf eine Art, die viele ihrer Frauenrollen durchbricht. Abgesehen von ihrer bewegenden, er- und verschreckenden Darstellung hat sie den Film auf allen Ebenen des Drehbuchs, Castings und der Produktion mitgestaltet. Ein junges Mädchen, das weiß, was es will – eine Frau, die durchsetzt, was sie will. Es geht um sozialen Aufstieg um jeden Preis, um bürgerliche Anerkennung, Liebe, die sich den Konventionen widersetzt und um die Grenzen patriarchalischer Verhältnisse. Die Heldin rüttelt an der Geschlechterordnung nicht allein nur durch den Plot, sondern auch durch den Umstand, dass es sich um einen Independent-Film handelt, der sich den Studiobossen in jeder Hinsicht entzieht. Ein Lehrstück bis heute. (Frank Stern)",
-   "imdb": "tt0038990",
-   "rating": 6.6,
-   "votes": 2969,
-   "genres": [
-    "Drama",
-    "Romance",
-    "Thriller"
-   ],
-   "score": 18
-  },
-  {
    "slug": "the-terminator",
    "title": "The Terminator",
    "url": "https://nonstopkino.at/movies/the-terminator/",
@@ -3702,23 +3773,21 @@
    "score": 0
   },
   {
-   "slug": "time-and-water",
-   "title": "Time and Water",
-   "url": "https://nonstopkino.at/movies/time-and-water/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/ea54cdfe-a542-4b92-a75d-dfae5f996e3d.jpeg?fit=max&w=120",
-   "director": "Sara Dosa",
+   "slug": "to-my-sisters",
+   "title": "To my Sisters",
+   "url": "https://nonstopkino.at/movies/to-my-sisters/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b17ae05e-78fa-4a27-833f-57f37d98a444.jpg?fit=max&w=120",
+   "director": "Faek Falaknn",
    "cast": "",
    "year": 2026,
-   "runtime": 90,
-   "spoken": "Isländisch, Englisch",
-   "synopsis": "Islands uralte Landschaften verändern sich, und für den Schriftsteller Andri Snær Magnason geht es bei diesem tiefgreifenden Wandel um weit mehr als nur um das Eis. Ein nachdenklicher und existenzieller Film von der Regisseurin von FIRE OF LOVE. Der renommierte isländische Dichter und Schriftsteller Andri Snær Magnason ist auf der Suche nach etwas Flüchtigem. Während das Gletschereis seiner Heimat schmilzt, erschafft er eine filmische Zeitkapsel, um diesen Moment festzuhalten und in die Zukunft zu schicken, bevor alles, was er liebt, unwiederbringlich verschwindet. Mithilfe seines eigenen Archivs, der Fotografien und Filme seiner Großeltern sowie traditioneller Lieder und Volksmärchen verwebt Andri die Geschichte seiner Familie mit jener des Landes, das ihn umgibt. Die für den Oscar® nominierte Regisseurin Sara Dosa legt mit TIME AND WATER eine universelle Reflexion über die Kraft der Heimat und die Frage vor, was es bedeutet, inmitten tiefgreifender Veränderungen einer ganzen Epoche zu leben.",
-   "imdb": "tt39163015",
-   "rating": 6.9,
-   "votes": 414,
+   "runtime": 96,
+   "spoken": "Deutsch",
+   "synopsis": "Eine junge Kurdin in Syrien führt eine Fraueneinheit in den Kampf gegen den IS – für Freiheit und Frauenrechte. Gehalten wird ihr Kampf von der Stimme einer jesidischen Überlebenden, die als Kind vom IS versklavt wurde und sichtbar macht, was auf dem Spiel steht, wenn dieser Kampf verloren geht. Und während sie den Horror überlebt hat, schloss sich eine deutsche Frau freiwillig dem IS an – und ist heute den Konsequenzen ihrer Entscheidung ausgeliefert. Drei Frauen, drei Entscheidungen, ein Spiegel von Mut, Leid und gefährlicher Verblendung.",
+   "imdb": "tt43686734",
+   "rating": null,
+   "votes": 0,
    "genres": [
-    "Documentary",
-    "Family",
-    "History"
+    "Documentary"
    ],
    "score": 0
   },
@@ -3742,25 +3811,6 @@
     "War"
    ],
    "score": 22
-  },
-  {
-   "slug": "toute-une-nuit",
-   "title": "TOUTE UNE NUIT",
-   "url": "https://nonstopkino.at/movies/toute-une-nuit/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/0804408d-b6b4-462e-baad-5876f2c92dc9.jpg?fit=max&w=120",
-   "director": "Chantal Ackerman",
-   "cast": "Aurore Clément, Tchéky Karyo",
-   "year": 1982,
-   "runtime": 90,
-   "spoken": "Französisch",
-   "synopsis": "Brüssel in einer heißen Sommernacht. Als der Film beginnt, ist bereits die Dunkelheit hereingebrochen. In der Mitte der Nacht, ein Gewitter. Der Film endet in der Morgendämmerung des nächsten Tages. Zu sehen: einzelne Momente und kurze Szenen, manche Figuren nur für einen Moment, nur in einer Szene, andere über die Dauer der Nacht ein paar Male, sodass sich daraus einige wenige kurze Geschichten ergeben. Nur wenige Menschen können schlafen in der Hitze dieser Nacht. Die meisten drängt es hinaus, in die Straßen oder in Bars. Paare finden sich in Wiederbegegnungen oder spontan zum Tanz. Andere Paare trennen sich. Eine Frau verlässt ihren Mann, geht ins Hotel und kehrt doch am Ende der Nacht nach Hause zurück. Ein älterer Mann sitzt bis spät nachts am Schreibtisch und arbeitet, ein anderer sitzt in seiner Einsamkeit am offenen Fenster und lauscht den Geräuschen der schlaflosen Stadt. “Viele der Begegnungen dieser Nacht kommen nur kurz zur Geltung, während bei anderen immer wieder neue Situationen porträtiert werden, wodurch sich ein bunter Reigen der Begegnungen und Trennungen, der Hoffnungen und Enttäuschungen ergibt, ein Reigen, der durch die direkte, aber zugleich auch wieder zarte Annäherung Chantal Akermans an ihre Gestalten Authentizität, ja geradezu dokumentarischen Charakter gewinnt. Ein Spielfilm dennoch, wenn auch einer von sehr eigenwilliger Art, der Spiel ist und Experiment, der nüchtern beobachtet und gelöst interpretiert, der nichts erzählt, und doch zugleich so viele Erlebnisse parat hält.” (Volker Baer «Tagesspiegel», 7. April 1983)",
-   "imdb": "tt0084808",
-   "rating": 6.8,
-   "votes": 1416,
-   "genres": [
-    "Drama"
-   ],
-   "score": 5
   },
   {
    "slug": "trainspotting-4k-restauration",
@@ -3947,28 +3997,6 @@
     "Mystery"
    ],
    "score": 33
-  },
-  {
-   "slug": "vertigo",
-   "title": "Vertigo",
-   "url": "https://nonstopkino.at/movies/vertigo/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/02024001-2941-487c-a49a-78ccadceea68.png?fit=max&w=120",
-   "director": "Alfred Hitchcock",
-   "cast": "James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Konstantin Shayne",
-   "year": 1958,
-   "runtime": 128,
-   "spoken": "",
-   "synopsis": "Der Polizist Scottie Ferguson (James Stewart) quittiert seinen Dienst, nachdem er, an Höhenangst leidend, sich die Schuld am Tod eines Kollegen gibt. Dennoch übernimmt er die Beschattung der suizidgefährdeten Madeleine Elster (Kim Novak). Beherzt rettet er die Lebensmüde aus der Bucht von San Francisco, aber der zweite Selbstmordversuch glückt ihr, indem sie sich von einem Kirchturm stürzt. In Hitchcocks gefinkeltem Vexierspiel tappt Scottie in jede Falle, die ihm gestellt wird. Wie in einem Drogenrausch verheddert er sich zusehends in seinem eigenen Schwindel. Als ihm Madeleines Beinahe-Doppelgängerin Judy (Kim Novak) \"zufällig\" begegnet, ist es mit Scotties geistiger Gesundung vorerst vorbei. Sein Drang, die aus dem \"Reich der Toten\" Wiederauferstandene in Madeleine umzumodeln, artet bei ihm in Besessenheit aus. Als männlicher Hysteriker mit nekrophilen Tendenzen verkörpert James Stewart hier einmal nicht \"den Guten\", sondern schreibt sich als todesverliebter Romantiker in die Filmgeschichte ein. (E.S.) Foto: Swedish Film Institute",
-   "imdb": "tt0052357",
-   "rating": 8.2,
-   "votes": 464158,
-   "genres": [
-    "Mystery",
-    "Romance",
-    "Thriller"
-   ],
-   "favorite": true,
-   "score": 103
   },
   {
    "slug": "was-haben-wir-gelacht",
@@ -4248,662 +4276,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "cheri-ich-komme-die-erfindung-der-lust-pour-le-plaisir",
-   "start": "2026-10-21T15:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T15:00:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-21T15:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-21T15:15:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-21T15:15:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-21T15:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-21T15:45:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T15:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "was-haben-wir-gelacht",
-   "start": "2026-10-21T15:45:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-21T16:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-21T16:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-21T16:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-21T16:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-21T16:45:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "news-from-home",
-   "start": "2026-10-21T17:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T17:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-21T17:15:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "coyote-vs-acme",
-   "start": "2026-10-21T17:30:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-21T17:30:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T17:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wellen-wende",
-   "start": "2026-10-21T17:30:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-terminator",
-   "start": "2026-10-21T17:30:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-21T17:45:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-21T17:50:00+02:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "time-and-water",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "filme-von-josef-dabernig-1989-2026",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "scarlet-street",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-21T18:00:00+02:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-21T18:10:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-21T18:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-21T18:15:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "mr-nobody-against-putin",
-   "start": "2026-10-21T18:15:00+02:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-21T18:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "luegen-ueber-meine-mutter",
-   "start": "2026-10-21T18:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-21T18:45:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "toute-une-nuit",
-   "start": "2026-10-21T19:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-21T19:10:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-21T19:30:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "cutting-through-rocks",
-   "start": "2026-10-21T19:30:00+02:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-21T19:30:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T19:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T19:45:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "dead-for-a-dollar",
-   "start": "2026-10-21T19:45:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-21T19:45:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-21T20:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T20:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T20:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-21T20:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T20:10:00+02:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "classic-sneak",
-   "start": "2026-10-21T20:15:00+02:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-21T20:20:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-21T20:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-21T20:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "suerue-die-herde",
-   "start": "2026-10-21T20:30:00+02:00",
-   "cinema": "Filmmuseum",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "resident-evil",
-   "start": "2026-10-21T20:30:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-strange-woman",
-   "start": "2026-10-21T20:30:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-21T20:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "spaziergang-nach-syrakus",
-   "start": "2026-10-21T20:35:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-21T20:45:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vertigo",
-   "start": "2026-10-21T21:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-21T21:15:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-21T21:30:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "obsession",
-   "start": "2026-10-21T22:00:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
   {
    "film": "rose",
    "start": "2026-10-22T15:00:00+02:00",
@@ -7097,6 +6469,16 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "death-becomes-her",
+   "start": "2026-10-25T17:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
   },
   {
    "film": "verity",
@@ -10291,6 +9673,14 @@
    "booking": ""
   },
   {
+   "film": "to-my-sisters",
+   "start": "2026-11-04T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "inglourious-basterds",
    "start": "2026-11-04T20:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -10335,6 +9725,16 @@
    "lang": "OV",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "bira-sure-hemo",
+   "start": "2026-11-05T17:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
    ],
    "booking": ""
   },
@@ -10397,6 +9797,16 @@
    "booking": ""
   },
   {
+   "film": "oyuna-geldik",
+   "start": "2026-11-05T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "vaterland",
    "start": "2026-11-05T20:15:00+01:00",
    "cinema": "Admiral Kino",
@@ -10441,6 +9851,26 @@
    "booking": ""
   },
   {
+   "film": "kurzfilmprogramm-kurdische-filmtage",
+   "start": "2026-11-06T18:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "heval-birako",
+   "start": "2026-11-06T20:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-06T20:30:00+01:00",
    "cinema": "Admiral Kino",
@@ -10477,12 +9907,32 @@
    "booking": ""
   },
   {
+   "film": "kurzfilmprogramm-2-kurdische-filmtage",
+   "start": "2026-11-07T17:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "vera-cruz",
    "start": "2026-11-07T18:00:00+01:00",
    "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "dimili-ewro-tirki-yasax-a",
+   "start": "2026-11-07T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Festival"
    ],
    "booking": ""
   },
@@ -10513,10 +9963,26 @@
    "booking": ""
   },
   {
+   "film": "alte-liebe",
+   "start": "2026-11-08T12:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-loneliest-man-in-town",
    "start": "2026-11-08T12:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-08T12:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -10553,6 +10019,26 @@
    "lang": "OV",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "mugarik-gabe",
+   "start": "2026-11-08T18:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "die-legende-vom-haesslichen-koenig",
+   "start": "2026-11-08T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Festival"
    ],
    "booking": ""
   },
@@ -10609,6 +10095,22 @@
    "start": "2026-11-10T10:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-10T11:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-10T11:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -10785,10 +10287,34 @@
    "booking": ""
   },
   {
+   "film": "chopin-eine-sonate-in-paris",
+   "start": "2026-11-15T12:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-15T12:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-loneliest-man-in-town",
    "start": "2026-11-15T13:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-15T13:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -11067,6 +10593,30 @@
    "booking": ""
   },
   {
+   "film": "die-blutgraefin",
+   "start": "2026-11-22T12:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T12:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-haben-wir-gelacht",
+   "start": "2026-11-22T12:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "meine-stiefmutter-ist-eine-hexe",
    "start": "2026-11-22T15:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -11107,6 +10657,14 @@
    "booking": ""
   },
   {
+   "film": "the-loneliest-man-in-town",
+   "start": "2026-11-23T19:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-killing-of-sister-george",
    "start": "2026-11-23T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -11114,6 +10672,22 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-24T11:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-24T11:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -11271,6 +10845,30 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-29T12:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-29T12:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung",
+   "start": "2026-11-29T12:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "sodom-and-gomorrah",
    "start": "2026-11-29T17:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -11337,6 +10935,14 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-12-02T10:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-grinch",
    "start": "2026-12-03T18:00:00+01:00",
    "cinema": "Admiral Kino",
@@ -11367,6 +10973,14 @@
   {
    "film": "everytime",
    "start": "2026-12-04T18:00:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-loneliest-man-in-town",
+   "start": "2026-12-04T20:15:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
    "tags": [],
@@ -11491,6 +11105,14 @@
    "booking": ""
   },
   {
+   "film": "no-good-men",
+   "start": "2026-12-16T10:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-prozess",
    "start": "2026-12-16T19:30:00+01:00",
    "cinema": "Bellaria Kino",
@@ -11520,6 +11142,16 @@
    "cinema": "Filmcasino",
    "lang": "OmeU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-rocky-horror-picture-show-3",
+   "start": "2026-12-21T20:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   }
  ]
