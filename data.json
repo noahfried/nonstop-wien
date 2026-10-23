@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:47+02:00",
+ "updated": "2026-10-23T10:43+02:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -1418,6 +1418,25 @@
    "score": null
   },
   {
+   "slug": "from-inside-out-die-architektur-von-peter-zumthor",
+   "title": "From Inside Out – Die Architektur von Peter Zumthor",
+   "url": "https://nonstopkino.at/movies/from-inside-out-die-architektur-von-peter-zumthor/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/4d64d9ce-8c49-45ce-a70f-f0140f4cd327.jpg?fit=max&w=120",
+   "director": "Wim Wenders",
+   "cast": "Peter Zumthor, Anna Trauffer",
+   "year": 2026,
+   "runtime": 114,
+   "spoken": "Deutsch",
+   "synopsis": "Mit dem gemeinsamen Kurzfilm „Notes From A Day In The Life Of An Architect“ schufen Regisseur Wim Wenders und der Architekt Peter Zumthor auf Einladung von David Chipperfield ihr erstes gemeinsames Projekt. Wie sich herausstellte, war dieser Film nur der Auftakt für etwas viel Größeres. Sie stellten fest, dass sie eine ähnliche Arbeitsweise haben: Sie entwickeln Dinge von innen heraus. Der Wunsch, gemeinsam ein filmisches Projekt anzugehen, wurde immer größer. So befasst sich Wim Wenders in diesem Dokumentarfilm mit Peter Zumthors Arbeit und hat mit dem Erweiterungsbau der Fondation Beyeler in Riehen bei Basel und den Neubau des Los Angeles Country Museum of Art zwei kommende Architekturvorhaben von Zumthor als Leitthema.",
+   "imdb": "tt43704808",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 15
+  },
+  {
    "slug": "game-on-hosted-by-ludecat",
    "title": "Game: On! hosted by LudeCat",
    "url": "https://nonstopkino.at/movies/game-on-hosted-by-ludecat/",
@@ -1588,27 +1607,6 @@
    "score": 43
   },
   {
-   "slug": "heat",
-   "title": "Heat",
-   "url": "https://nonstopkino.at/movies/heat/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/c0052fb1-96b3-425d-afee-18f529355aab.png?fit=max&w=120",
-   "director": "Michael Mann",
-   "cast": "Al Pacino, Robert De Niro, Ashley Judd, Jon Voight, Val Kilmer u.a.",
-   "year": 1995,
-   "runtime": 170,
-   "spoken": "Englisch",
-   "synopsis": "Neil McCauley ist einer der besten Verbrecher in L.A. Seine Pläne sind so durchdacht, dass er immer spurlos davon kommen kann. Vincent Hanna ist ein akribischer Cop und einer der erfolgreichsten obendrein. Beide Männer sind besessen vom Verbrechen. Nur das Gesetz trennt sie. McCauley plant mit seinem Team noch einen großen Coup, doch als er sich in Eady verliebt, fällt es ihm schwer das Wesentliche im Auge zu behalten. Vincent Hanna steht kurz vor seiner dritten Scheidung und zu seiner Stieftochter hat er keinen Draht. In Wirklichkeit ist Hanna mit dem Job verheiratet, seine wahre Familie sind die Cops. Nach intensiven Ermittlungen bekommt Hanna eine Spur und zieht die Schlinge immer enger zu. Ein Katz- und Mausspiel entwickelt sich, das nur einer gewinnen kann…",
-   "imdb": "tt0113277",
-   "rating": 8.3,
-   "votes": 821782,
-   "genres": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "score": 96
-  },
-  {
    "slug": "heimsuchung",
    "title": "Heimsuchung",
    "url": "https://nonstopkino.at/movies/heimsuchung/",
@@ -1760,25 +1758,6 @@
     "Mystery"
    ],
    "score": 25
-  },
-  {
-   "slug": "ich-verstehe-ihren-unmut",
-   "title": "Ich verstehe Ihren Unmut",
-   "url": "https://nonstopkino.at/movies/ich-verstehe-ihren-unmut/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/ce083350-836d-4966-8ac8-d0c9d3338723.jpg?fit=max&w=120",
-   "director": "Kilian Armando Friedrich",
-   "cast": "Sabine Thalau (Heike Kamp), Nada Kosturin (Taja), Werner Posselt (Detlev), Sadibou Diabang (Selam), Nigyar Velagic (Mina)",
-   "year": 2026,
-   "runtime": 93,
-   "spoken": "Deutsch",
-   "synopsis": "Heike arbeitet als Objektleiterin in der Gebäudereinigung. Täglich eilt sie zwischen Modegeschäften, Kindergarten und Altenheim hin und her, um die Arbeit ihrer Leute zu kontrollieren und notfalls auch noch selbst Hand anzulegen. Dabei vermittelt sie ständig zwischen Kund:innen, Firmenleitung und Reinigungskräften. Nachdem sie versucht hat, eine Arbeitskraft eines wichtigen Subunternehmers abzuwerben, droht dieser, seine Unterstützung einzustellen, es sei denn, er erhält mehr Stunden und mehr Umsatz. Um diesen Forderungen nachzukommen, gerät Heike zunehmend in einen Konflikt zwischen ihrer Verantwortung gegenüber den eigenen Mitarbeiter:innen und den harten Bedingungen der Arbeitswelt im Niedriglohnsektor – und stößt dabei zunehmend an ihre Grenzen.",
-   "imdb": "tt39368062",
-   "rating": 7.2,
-   "votes": 142,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
   },
   {
    "slug": "ingeborg-bachmann-jemand-der-einmal-ich-war",
@@ -2115,19 +2094,6 @@
     "Drama"
    ],
    "score": 0
-  },
-  {
-   "slug": "lithuanian-shorts-the-space-between",
-   "title": "Lithuanian Shorts „The Space Between“",
-   "url": "https://nonstopkino.at/movies/lithuanian-shorts-the-space-between/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/57361277-9922-4271-8940-5ab495ca8959.jpeg?fit=max&w=120",
-   "director": "div.",
-   "cast": "div.",
-   "year": 2026,
-   "runtime": 76,
-   "spoken": "",
-   "synopsis": "Sechs litauische Kurzfilme führen uns durch unterschiedliche Orte, Momente und Gefühlswelten. Die Reise führt vom Meer in die Stadt, von einem sommerlichen Garten in verborgene Winkel Vilnius’ und in die stillen Welten, die in uns selbst liegen. Dabei suchen Menschen nach Sinn, Verbundenheit, Freiheit oder einfach nach einem Weg nach Hause. Die Natur ist dabei stets präsent. Sie ist Teil dieser Geschichten, still und lebendig, und dient nicht bloß als Kulisse. Gemeinsam erinnern uns die Filme daran, dass es um uns herum mehr zu entdecken gibt, als wir gewöhnlich wahrnehmen, und dass andere Welten vielleicht näher sind, als wir denken. Die Filme laden dazu ein, innezuhalten, genauer hinzusehen und zu entdecken, was sich The Space Between verbirgt. Filme im Programm: Signal Path // Signalo kelias Regie: Eglė Razumaitė, Experimentalfilm, 2025, 25 Min. Liepa zieht mit ihrer Tochter nach Deutschland, um einen Neuanfang zu wagen. Schon bald müssen sie sich jedoch mit der Ablehnung ihrer Familie und den Herausforderungen des Lebens in der Großstadt auseinandersetzen. Does the Sea Has a Heart? // Ar jūra turi širdį? Regie: Miglė Križinauskaitė, Experimentalfilm, 2025, 7 Min. Ein poetischer Essay, eine Ode an das Meer, in deren Zentrum keine menschliche Figur steht, sondern Spuren im Sand, Echos und eine Präsenz, die sich gerade durch ihre Abwesenheit offenbart. In dieser Abwesenheit zeigt sich das Wesen des menschlichen Geistes besonders deutlich. Wie Kahlil Gibran schrieb: „There must be something strangely sacred in salt. It is in our tears and in the sea.“ Home // Namo Regie: Rebeka Salomėja Kavaliauskaitė, Animation, 2024, 5 Min. Ein einsamer Mann lebt in einer Stadt voller Menschen, doch er nimmt sie nicht wahr. Schwärze legt sich über sein Bewusstsein und er verliert zunehmend den Bezug zur Realität. Gefangen in der ständigen Wiederholung seines Alltags und auf der Suche nach einem Sinn findet der Mann einen roten Stein. Doch auch dieser gibt ihm keine Antwort. Als er keinen Ausweg aus der Stadt findet, wird der Mann schließlich selbst zu einem Stein. Liump! Heuriger Regie: Laurynas Skeisgiela, Dokumentarfilm, 2026, 12 Min. Liump! Heuriger bringt ein traditionelles österreichisches Pop-up-Heurigenlokal und eine Beobachtung von Nachtfaltern zusammen. Die Idee, Menschen und Insekten an denselben Tisch zu bringen, besticht durch ihre Einfachheit und Naivität – und durch die beinahe unvermeidliche Aussicht auf ein Scheitern. City Above // Antrasis miestas Regie: K. Savickaitė, Dokumentarfilm, 2026, 12 Min. Auf der Suche nach Freiheit und einer Auszeit vom Chaos des Alltags streifen vier Freund durch verborgene Orte der Vilniusser Altstadt, die den meisten Menschen verborgen bleiben. Gemeinsam entdecken sie eine geheime Seite der Stadt, in der sie unsichtbar zu werden scheinen, die Welt ruhiger wirkt und ihre Freundschaft enger wird. Cherries // Uogos Regie: Vytautas Katkus, Spielfilm, 2022, 15 Min. Ein heißer Sommertag. Äste voller reifer Kirschen hängen über dem Dach eines Sommerhauses. Ein frisch pensionierter Vater bittet seinen Sohn, ihm beim Kirschpflücken im Garten zu helfen. Doch der Vater hat es nicht eilig, mit der Arbeit fertig zu werden: Er nutzt die gemeinsame Zeit, um sich wieder mit seinem Sohn auszutauschen. Die Kirschen bleiben dabei im Hintergrund.",
-   "score": null
   },
   {
    "slug": "los-domingos-glaube",
@@ -2943,27 +2909,6 @@
    "score": 3
   },
   {
-   "slug": "rose",
-   "title": "Rose",
-   "url": "https://nonstopkino.at/movies/rose/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/ae11ab86-67e1-47e9-8d22-96d6319507e9.jpeg?fit=max&w=120",
-   "director": "Markus Schleinzer",
-   "cast": "Sandra Hüller, Caro Braun, Marisa Growaldt, Godehard Giese",
-   "year": 2026,
-   "runtime": 110,
-   "spoken": "Deutsch",
-   "synopsis": "In den Wirren des 30-jährigen Krieges erscheint ein fremder Soldat (ROSE) in einem abgeschiedenen, protestantischen Dorf und behauptet, der Erbe eines seit langem verwaisten Gutshofes zu sein. Ein vorgelegtes Dokument belegt seinen Anspruch, sehr zum Missfallen der Gemeinde. Doch der Fremde setzt alles daran seinen Wunsch in die Tat umzusetzen, ein neues Leben zu beginnen. Er tut sein Möglichstes, um von der Gemeinschaft anerkannt und aufgenommen zu werden. Lässt sich selbst auf eine arrangierte Ehe mit der Tochter eines Großbauern ein. Und setzt damit alles aufs Spiel. Denn er ist mit falscher Identität, unter falschem Namen und unter Vortäuschung eines falschen Geschlechts in dieses Dorf gekommen.",
-   "imdb": "tt25399154",
-   "rating": 7.5,
-   "votes": 2829,
-   "genres": [
-    "Biography",
-    "Drama",
-    "War"
-   ],
-   "score": 3
-  },
-  {
    "slug": "sense-and-sensibility-2026",
    "title": "Sense and Sensibility",
    "url": "https://nonstopkino.at/movies/sense-and-sensibility-2026/",
@@ -3100,19 +3045,6 @@
     "Drama"
    ],
    "score": 0
-  },
-  {
-   "slug": "special-70-jahre-ungarn-1956",
-   "title": "Special: 70 Jahre Ungarn 1956",
-   "url": "https://nonstopkino.at/movies/special-70-jahre-ungarn-1956/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/723a036e-5fef-460e-8d26-5c8dd6f0e29f.png?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": null,
-   "spoken": "",
-   "synopsis": "Prof. Paul Lendvai kommentiert historische Wochenschauen zur Ungarischen Revolution Als am Abend des 23. Oktober 1956 die ungarische Regierung eine friedliche Demonstration, bei der Studierende demokratische Veränderungen forderten, blutig niederschlagen ließ, brachen bewaffnete Kämpfe aus. Innerhalb weniger Tage wurde die KP-Diktatur durch eine neue Regierung auf breiterer Basis unter der Leitung von Imre Nagy abgelöst. Diese beschloss den Austritt aus dem Warschauer Pakt und erklärte die Neutralität. Gleichzeitig wurde die Sowjetarmee zum Verlassen des Landes aufgerufen. Die Ungarische Revolution währte nur kurz, bald marschierten übermächtige Truppen der Sowjetarmee in Ungarn ein und besetzten das Land. Am 4. November 1956 installierten die Sowjets eine linientreue Regierung unter János Kádár, hunderte Aufständische wurden hingerichtet, zehntausende interniert. In der Folge kam es zu einer Massenflucht aus Ungarn, 200.000 Menschen flüchteten in den Westen, erste Destination war Österreich. Die Bildberichterstattung über die Ungarische Revolution 1956 wurde zu einer Sternstunde der Wochenschau. Noch bevor das Fernsehen verbreitet war, verfolgten Millionen Menschen die Berichte der Wochenschaureporter, darunter der Wiener Kameramann Otto Pammer, in den Kinos. Diese Originalbeiträge sind größtenteils erhalten und repräsentieren heute ein faszinierendes und dramatisches Kapitel der Mediengeschichte. Einer der prominentesten Ungarn-Flüchtlinge war Paul Lendvai, 1956 floh er über Prag und Warschau und kam 1957 nach Wien. Hier erhielt er 1959 die österreichische Staatsbürgerschaft und avancierte zu einem der profiliertesten Journalisten Europas. Anlässlich des 70. Jahrestages der Ungarischen Revolution wird der 1929 in Budapest geborene legendäre Publizist und Moderator im Gespräch mit dem Historiker Hannes Leidinger originale Wochenschau-Berichte kommentieren.",
-   "score": null
   },
   {
    "slug": "spider-man-brand-new-day",
@@ -4239,25 +4171,6 @@
    "score": 73
   },
   {
-   "slug": "zaochun-eryue-early-spring",
-   "title": "Zaochun eryue (Early Spring)",
-   "url": "https://nonstopkino.at/movies/zaochun-eryue-early-spring/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/d84dd873-83c7-42cf-ab81-6c5868773914.jpeg?fit=max&w=120",
-   "director": "Xie Tieli",
-   "cast": "Sun Daolin, Xie Fang, Shangguan Yunzhu",
-   "year": 1963,
-   "runtime": 120,
-   "spoken": "Chinesisch",
-   "synopsis": "Trotz der strengen Zensur in der frühen Volksrepublik China gelang es einigen Filmen, den humanitären Geist des Goldenen Zeitalters des Shanghaier Kinos weiterzutragen. Einer davon war Xie Tielis vieldeutiger Film Early Spring. In den 1920er Jahren nimmt Xiao Jianqiu, ein junger Intellektueller aus der Stadt, die Stelle eines Dorfschullehrers im Osten Chinas an. Durchdrungen vom revolutionären Idealismus versucht er der Familie einer armen Witwe zu helfen, deren Ehemann er von früher kannte. Gleichzeitig fühlt er sich zur lebhaften, unabhängigen Tao Lan (Xie Fang, die auch in Two Stage Sisters zu sehen ist) hingezogen, der Schwester des Schulleiters. Als Freigeist, deren einziger Glaube der \"Individualismus\" ist, scheint sie die perfekte geistige Ergänzung zu Xiao zu sein. Das Ende des Films – das offensichtliche Fehlen parteitreuer Held*innen – war damals umstritten. Während der Kulturrevolution wurde Early Spring als \"giftiges Unkraut\" bezeichnet.",
-   "imdb": "tt0057713",
-   "rating": 7.2,
-   "votes": 211,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
-  },
-  {
    "slug": "zusammen-finden",
    "title": "Zusammen finden",
    "url": "https://nonstopkino.at/movies/zusammen-finden/",
@@ -4276,566 +4189,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "rose",
-   "start": "2026-10-22T15:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-22T15:15:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "romeria",
-   "start": "2026-10-22T15:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-22T15:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "spaziergang-nach-syrakus",
-   "start": "2026-10-22T15:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T16:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-22T16:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-22T16:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-22T16:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T16:30:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-22T17:00:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-22T17:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-third-man",
-   "start": "2026-10-22T17:10:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-22T17:30:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "ich-verstehe-ihren-unmut",
-   "start": "2026-10-22T17:30:00+02:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-22T17:30:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-22T17:30:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T17:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T17:45:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T17:45:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T17:45:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-22T17:45:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-22T17:45:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T17:50:00+02:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wax-gold",
-   "start": "2026-10-22T18:00:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T18:00:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-22T18:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-22T18:00:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "OmeU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T18:00:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "zaochun-eryue-early-spring",
-   "start": "2026-10-22T18:00:00+02:00",
-   "cinema": "Filmmuseum",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-22T18:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-22T18:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-22T18:15:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "luegen-ueber-meine-mutter",
-   "start": "2026-10-22T18:30:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T18:35:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-22T18:45:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-22T18:45:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "special-70-jahre-ungarn-1956",
-   "start": "2026-10-22T19:00:00+02:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-22T19:10:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wax-gold",
-   "start": "2026-10-22T19:15:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "pressure-2026",
-   "start": "2026-10-22T19:30:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "lithuanian-shorts-the-space-between",
-   "start": "2026-10-22T19:30:00+02:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-22T19:45:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-22T20:00:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-22T20:00:00+02:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "fallen-angels-theatre",
-   "start": "2026-10-22T20:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T20:00:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "bernadette-will-toeten",
-   "start": "2026-10-22T20:00:00+02:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T20:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-22T20:10:00+02:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-22T20:15:00+02:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-22T20:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-22T20:15:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-22T20:15:00+02:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "staatsschutz",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heat",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-22T20:30:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-22T20:35:00+02:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-22T20:45:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-22T21:00:00+02:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "exit-8",
-   "start": "2026-10-22T21:00:00+02:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-22T21:15:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-22T21:45:00+02:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
   {
    "film": "wax-gold",
    "start": "2026-10-23T15:00:00+02:00",
@@ -9317,6 +8670,14 @@
    "booking": ""
   },
   {
+   "film": "possible-love",
+   "start": "2026-10-30T19:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-blutgraefin",
    "start": "2026-10-30T19:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -9677,7 +9038,9 @@
    "start": "2026-11-04T19:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -10865,6 +10228,14 @@
    "start": "2026-11-29T12:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "from-inside-out-die-architektur-von-peter-zumthor",
+   "start": "2026-11-29T16:15:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
