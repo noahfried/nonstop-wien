@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T10:12+01:00",
+ "updated": "2026-10-27T10:13+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -42,27 +42,6 @@
     "Romance"
    ],
    "score": 41
-  },
-  {
-   "slug": "a-sad-and-beautiful-world",
-   "title": "A Sad and Beautiful World",
-   "url": "https://nonstopkino.at/movies/a-sad-and-beautiful-world/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/7ed8ea4b-704c-4453-b4c0-193335e06abf.jpeg?fit=max&w=120",
-   "director": "Cyril Aris",
-   "cast": "Mounia Akl, Hasan Akil, Julia Kassar, Camille Salameh",
-   "year": 2025,
-   "runtime": 110,
-   "spoken": "Arabisch",
-   "synopsis": "Eine mitreißende Lovestory über drei Jahrzehnte, in der sich die wechselhafte Geschichte des Libanon spiegelt. Nino und Yasmina werden am selben Tag im selben Krankenhaus geboren, doch sie begegnen sich erst in der Schule. Beide spüren sofort eine unmittelbare, tiefgehende Verbindung, die sie sich nicht erklären können. Gemeinsam schmieden sie einen Plan: Sie wollen Beirut mit einem »magischen« Zug verlassen. Doch als der Moment der Flucht gekommen ist, taucht Yasmina nie auf. Erst 25 Jahre später führt das Schicksal die beiden wieder zusammen und sie beschließen, eine Familie zu gründen – allen Widerständen und Krisen zum Trotz. (Filmfest Hamburg 2025)",
-   "imdb": "tt32622406",
-   "rating": 7.4,
-   "votes": 974,
-   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "score": 1
   },
   {
    "slug": "adams-acht",
@@ -989,6 +968,27 @@
    "score": null
   },
   {
+   "slug": "dracula",
+   "title": "Dracula",
+   "url": "https://nonstopkino.at/movies/dracula/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/d4b9de3c-2715-4ffe-89da-0fcc736a0fcf.jpg?fit=max&w=120",
+   "director": "Radu Jude",
+   "cast": "Adonis Tanta, Oana Maria Zaharia, Gabriel Spahiu, Lukas Miko",
+   "year": 2025,
+   "runtime": 170,
+   "spoken": "Rumänisch, Deutsch, Englisch",
+   "synopsis": "Ein Dracula-Film, gedreht in Transsilvanien. Eine Vampirjagd. Zombies und Dracula, die einen Streik sprengen. Eine Science-Fiction-Geschichte über die Rückkehr von Vlad, dem Pfähler. Eine Liebesgeschichte. Eine vulgäre Volkserzählung. KI-generierte, kitschige Geschichten. Und viele weitere Vergnügen – vereint in einem Film, der sich radikal mit diesem Kinomythos auseinandersetzt. Ein Film des rumänischen enfant terrible Radu Jude.",
+   "imdb": "tt32448239",
+   "rating": 5.6,
+   "votes": 994,
+   "genres": [
+    "Comedy",
+    "Horror",
+    "Musical"
+   ],
+   "score": 7
+  },
+  {
    "slug": "e-t-der-ausserirdische",
    "title": "E.T. – Der Außerirdische",
    "url": "https://nonstopkino.at/movies/e-t-der-ausserirdische/",
@@ -1063,6 +1063,46 @@
    "spoken": "Norwegisch (Nynorsk)",
    "synopsis": "An guten Tagen ist Ronjas Vater der lustigste, liebste Papa der Welt. Kurz vor Weihnachten bekommt er sogar einen Job als Christbaumverkäufer. An schlechten Tagen, wenn Papa getrunken hat, kommt er nicht aus dem Bett und der Kühlschrank bleibt leer. Dann kümmert sich die ältere Schwester Melissa um die 10-Jährige, die Schwestern geben einander Halt. Doch Ronja erkennt immer mehr, dass das Festhalten an ihren Träumen und das Verheimlichen des Problems nicht die Lösung für ein Leben mit einem alkoholkranken Vater sein kann. Konsequent aus Ronjas Blickwinkel erzählt, wohnt dieser Weihnachtsgeschichte mit bewundernswert starken Mädchenfiguren ein helles Funkeln von Liebe, Zusammenhalt und Mitmenschlichkeit inne. Im Rahmen des internationalen Kinderfilmfestivals 2026 wird die Originalfassung gezeigt und live im Kino deutsch eingesprochen.",
    "score": null
+  },
+  {
+   "slug": "ein-tag-ohne-frauen",
+   "title": "Ein Tag ohne Frauen",
+   "url": "https://nonstopkino.at/movies/ein-tag-ohne-frauen/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/12e7f4e3-bf9a-4bc8-b3ac-b69a35e21b42.jpg?fit=max&w=120",
+   "director": "Pamela Hogan",
+   "cast": "",
+   "year": 2024,
+   "runtime": 71,
+   "spoken": "Isländisch, Englisch",
+   "synopsis": "Als 90 Prozent der isländischen Frauen an einem Herbstmorgen im Jahr 1975 ihre Arbeit niederlegten und ihre Häuser verließen, weil sie sich weigerten, zu arbeiten, zu kochen und sich um die Kinder zu kümmern, brachten sie ihr Land zum Stillstand und katapultierten Island zum „besten Ort der Welt, um eine Frau zu sein“. In EIN TAG OHNE FRAUEN erzählen die Protagonistinnen dieses radikalen Aktes selbst ihre Geschichte sowie die davon, wie das Land vorher war. Archivmaterial und Animationen sowie die Stimmen der durchaus heute noch belustigten Akteurinnen machen Lust auf subversiven Widerstand: Ein Film über die kollektive Kraft der Frauen, ihre Gesellschaft zu verändern.",
+   "imdb": "tt31937069",
+   "rating": 7.9,
+   "votes": 277,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
+   "slug": "ein-talent-fuers-morden",
+   "title": "Ein Talent fürs Morden",
+   "url": "https://nonstopkino.at/movies/ein-talent-fuers-morden/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/4a20aa3a-f14b-48b1-a0ee-4a5e241458bd.jpeg?fit=max&w=120",
+   "director": "Anton Corbijn",
+   "cast": "Helen Mirren, Alden Ehrenreich, Olivia Cooke",
+   "year": 2026,
+   "runtime": 106,
+   "spoken": "Englisch",
+   "synopsis": "Ein geheimnisvoller junger Mann eines New Yorker Verlags reist in die Schweiz, um eine berühmte Schriftstellerin zu einem letzten Ripley-Roman zu überreden. 1995 hat sich die gefeierte Krimiautorin Patricia Highsmith in ihr Chalet in den Schweizer Alpen zurückgezogen. Der Welt längst überdrüssig, umgibt sie sich nur noch mit Büchern und ihrer geliebten Sammlung antiker Waffen. Die selbstgewählte Einsamkeit endet jäh, als der junge Lektor Edward plötzlich vor ihrer Tür steht. Im Auftrag ihres Verlags soll er die eigensinnige Amerikanerin zu einem letzten Roman mit ihrer berühmtesten Figur überreden: dem Hochstapler und Mörder Tom Ripley. Highsmith lehnt ab. Es sei denn, Edward hilft ihr, den perfekten Mord zu erfinden. Als Realität und Fiktion zu verschwimmen beginnen, wird aus dem Besuch bei der alten Dame ein gefährliches Katz-und-Maus-Spiel.",
+   "imdb": "tt14129116",
+   "rating": 6.8,
+   "votes": 345,
+   "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "score": 28
   },
   {
    "slug": "ein-weihnachtsfest-fuer-teddy",
@@ -1926,6 +1966,25 @@
    "score": 7
   },
   {
+   "slug": "la-gradiva",
+   "title": "La Gradiva",
+   "url": "https://nonstopkino.at/movies/la-gradiva/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/20256e98-df4d-4c2f-8747-9507128ae65b.jpeg?fit=max&w=120",
+   "director": "Marine Atlan",
+   "cast": "Colas Quignard, Suzanne Gerin, Mitia Capellier, Antonia Buresi",
+   "year": 2026,
+   "runtime": 145,
+   "spoken": "Italienisch",
+   "synopsis": "Eine Gruppe französischer Gymnasiast*innen reist im Rahmen einer Klassenfahrt nach Neapel, um die Ruinen von Pompeji und die vom Vesuv versteinerten Körper zu besichtigen. Dort beginnt ein innerer Abstieg: Einer nach dem anderen wird von Begierde und Wut erfasst, bis sie sich diesen Gefühlen vollständig hingeben.",
+   "imdb": "tt36107185",
+   "rating": 7.4,
+   "votes": 610,
+   "genres": [
+    "Drama"
+   ],
+   "score": 0
+  },
+  {
    "slug": "la-pianiste",
    "title": "La pianiste",
    "url": "https://nonstopkino.at/movies/la-pianiste/",
@@ -2127,6 +2186,19 @@
     "Drama"
    ],
    "score": 1
+  },
+  {
+   "slug": "mein-nachbar-totoro",
+   "title": "Mein Nachbar Totoro",
+   "url": "https://nonstopkino.at/movies/mein-nachbar-totoro/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/c08d1fc8-355e-411c-af43-7ff776a2202c.jpg?fit=max&w=120",
+   "director": "Hayao Miyazaki",
+   "cast": "",
+   "year": 1988,
+   "runtime": 86,
+   "spoken": "",
+   "synopsis": "Die kleine Mei und ihre etwas ältere Schwester Satsuki ziehen mit ihrem Vater in ein Haus am Land, unweit vom Sanatorium, in dem ihre kranke Mutter untergebracht ist. Die neue Umgebung, die knirschenden Balken des Hauses, die dunklen Ecken im Gebüsch und der benachbarte Wald sind eine einzige große Spielwiese für die Mädchen. Während Satsuki in der Schule ist und ihr Vater arbeitet, läuft die gelangweilte Mei zwei drolligen kleinen Wesen nach, die sich vor ihr ins Gehölz unter einem gewaltigen Baum flüchten. Mei lässt sich jedoch nicht aufhalten und triff im Dickicht auf das riesige pelzige und freundlichen Waldwesen Totoro. Es ist der Beginn einer wunderbaren Freundschaft. Die große Leistung von MEIN NACHBAR TOTORO ist es, einer der ganz wenigen Filme zu sein, die auf unübertreffliche Weise die universelle Erfahrung der Kindheit wiedergeben. Die Zeit, in der die Wunder der Welt und die der eigenen Fantasie so viel Abenteuer liefern, wie man sich nur wünschen kann.",
+   "score": null
   },
   {
    "slug": "meine-stiefmutter-ist-eine-hexe",
@@ -2639,6 +2711,19 @@
    "score": 10
   },
   {
+   "slug": "queertactics-perlen",
+   "title": "Queertactics-Perlen",
+   "url": "https://nonstopkino.at/movies/queertactics-perlen/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/0eeafdd0-b57f-429b-af30-d12532dab17a.jpg?fit=max&w=120",
+   "director": "div.",
+   "cast": "",
+   "year": 2026,
+   "runtime": 120,
+   "spoken": "",
+   "synopsis": "In der nahen Zukunft ist die Menschheit stark dezimiert, zumal es mit der Fortpflanzung auch nicht mehr klappt. Alle Augen richten sich auf ein Team an Forscherinnen, die eine künstliche Gebärmutter entwickeln. Doch diese haben andere Prioritäten: EROGENESIS, vor allem nicht-genitale sinnliche und sexuelle Erregung. In der Vergangenheit hingegen, gab es in Bitterfeld die ORWO, eine der größten Filmfabriken, in der mehrheitlich Frauen arbeiteten. In KISS KISS WOLF berichten zwei ehemalige Mitarbeiterinnen sowie ein ehemaliger Stasi-Mitarbeiter von der klandestinen und dabei sehr erfolgreichen Produktion lesbischer Pornos in der ORWO. In der Gegenwart bekommt Janna kurzerhand Besuch von Lucy aus Marseille, die auf dem Rückweg von Berlin nach Frankreich gerade mal zwölf Stunden Zeit in Leipzig hat. Die Gespräche der beiden tragen uns leichtfüßig durch den Film, die Stadt und den Abend, beim Live-Auftritt von Kapa Tult wird endlich geknutscht. SHORT NOTICE ist Lesbenromanze mit Happy End und das im Kurzformat.Und in FUCK THE CISTEM findet Noa mit Unterstützung von Freund*innen schließlich trotz Alpträumen und Ängsten die Kraft, sich gegen Cis-Heterosexismus und Misgendering zu stellen und für sich selbst einzutreten. EROGENESIS, Xandra Popescu, Deutschland 2025, 15 min KISS KISS WOLF, lynn t musiol, Deutschland 2024, 18 min SHORT NOTICE, Athina Gendry, Deutschland, Frankreich 2024, 36 min, OmeU FUCK THE CISTEM, Tajo Hurrle, Deutschland 2024, 25 min, OmeU",
+   "score": null
+  },
+  {
    "slug": "resident-evil",
    "title": "Resident Evil",
    "url": "https://nonstopkino.at/movies/resident-evil/",
@@ -2689,6 +2774,48 @@
    "spoken": "",
    "synopsis": "Miträtseln bei euren liebsten Romantic Comedys. Wie funktionierts? Die RomCom bleibt bis zur Veranstaltung geheim! Eine kurze Beschreibung des Filminhalts erfahrt ihr erst vor Ort. 19:00 UHR: Wir treffen uns im Kinofoyer und teilen euch leere Bingozettel aus. Ihr könnt aus einer Reihe wahrer/falscher Möglichkeiten auswählen und euren Bingozettel befüllen. 19:30 UHR: Filmstart! Während dem Film die richtigen Momente ankreuzen bis ihr 3 in einer Reihe habt somit ein Bingo erreicht. UND NATÜRLICH: Wer als erstes Bingo ruft bekommt ein 1-monatiges Nonstop-Kinoabo! Auch auf Bingo zwei und drei wartet ein kleiner Preis!",
    "score": null
+  },
+  {
+   "slug": "ronja-raeubertochter",
+   "title": "Ronja – Räubertochter",
+   "url": "https://nonstopkino.at/movies/ronja-raeubertochter/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f3a317e8-4504-4219-bfec-0529f64af124.jpeg?fit=max&w=120",
+   "director": "Tage Danielsson",
+   "cast": "Hanna Zetterberg, Dan Hafström, Börge Ahlstedt",
+   "year": 1984,
+   "runtime": 126,
+   "spoken": "",
+   "synopsis": "Zuckende Blitze über der Mattisburg, ein Donner und die Mattisburg bricht mitten entzwei. In genau diesem Augenblick wird Ronja, die Tochter des Räuberhauptmanns Mattis, geboren. Als sie mit elf Jahren zum ersten Mal in den großen dunklen Mattiswald hinaus will, ist ihr Vater zunächst schon sehr besorgt. Auf einem ihrer Spaziergänge trifft sie auf den elfjärigen Jungen Birk, Sohn des Erzfeindes ihres Vaters Borka. Mattis ist außer sich vor Wut, als er von seiner Tochter erfährt, dass Borka und seine Bande im anderen Teil der Burg lebten. Doch gegen den Willen ihres Vaters werden Ronja und Birk große Freunde. Deshalb zerstreitet sie sich mit ihrem Vater und verlässt letztendlich aus Wut die Mattisburg. Kann Ronjas Mutter Lovis die zwei Streithähne wieder an einen Tisch bringen sollen? Die außerordentlich aufwändige, prachtvolle und fantasievolle Verfilmung des Romans (1981) von Astrid Lindgren gilt als beste Lindgren-Adaption überhaupt und wurde 1985 auf der Berlinale mit dem Silbernen Bären wegen \"besonderer Fantasie\" ausgezeichnet.",
+   "imdb": "tt0088015",
+   "rating": 7.3,
+   "votes": 13128,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "score": 6
+  },
+  {
+   "slug": "sacrifice",
+   "title": "Sacrifice",
+   "url": "https://nonstopkino.at/movies/sacrifice/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/6dd00a80-95f5-4bae-a0a2-8596c0cc42f4.jpg?fit=max&w=120",
+   "director": "Romain Gavras",
+   "cast": "Anya Taylor-Joy, Chris Evans, Salma Hayek, John Malkovich, Vincent Cassel",
+   "year": 2026,
+   "runtime": 113,
+   "spoken": "Englisch",
+   "synopsis": "Nach dem Feuertod ihrer Mutter folgen Joan und ihre Geschwister einer rätselhaften vulkanischen Prophezeiung: Sie glauben, es sei ihre Bestimmung, die Erde zu reinigen. Ihr Weg führt sie zu einem glamourösen Charity-Galadinner, wo sie mit ihrer radikalen Gruppe drei unerwartete Geiseln für ein grausames Ritual nehmen: Filmstar Mike Tyler, den eiskalten Milliardär Ben Bracken und die unglückliche Performerin Katie. Was als brutaler Akt beginnt, entfaltet sich zu einem wilden, visuell überwältigenden Trip zwischen Glaube und Wahnsinn, Performance und Wirklichkeit, Erlösung und Opfer.",
+   "imdb": "tt32268992",
+   "rating": 5.0,
+   "votes": 3692,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "score": 13
   },
   {
    "slug": "sense-and-sensibility-2026",
@@ -2791,25 +2918,6 @@
    "score": 21
   },
   {
-   "slug": "souleymanes-story",
-   "title": "Souleymanes Geschichte",
-   "url": "https://nonstopkino.at/movies/souleymanes-story/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/3a549326-f96d-46c1-bfc3-968774bc8b96.jpg?fit=max&w=120",
-   "director": "Boris Lojkine",
-   "cast": "Abou Sangare, Alpha Oumar Sow,",
-   "year": 2024,
-   "runtime": 93,
-   "spoken": "Französisch",
-   "synopsis": "Inmitten der hektischen Straßen von Paris kämpft sich Souleymane, ein junger, illegal beschäftigter Fahrradkurier aus Guinea, durch den Tag. Während er Mahlzeiten ausliefert, kämpft er zugleich um das Recht, in Frankreich bleiben zu dürfen. In nur zwei Tagen steht sein Asylgespräch an, doch die Zeit drängt. Regisseur Boris Lojkine erzählt in seinem preisgekrönten Werk eine packende, eindringliche Geschichte über die Realität und die Herausforderungen der Sans-Papiers – ein intensives Porträt derer, die im Verborgenen leben und arbeiten.",
-   "imdb": "tt32086046",
-   "rating": 7.6,
-   "votes": 8046,
-   "genres": [
-    "Drama"
-   ],
-   "score": 13
-  },
-  {
    "slug": "spaziergang-nach-syrakus",
    "title": "Spaziergang nach Syrakus",
    "url": "https://nonstopkino.at/movies/spaziergang-nach-syrakus/",
@@ -2827,26 +2935,6 @@
     "Drama"
    ],
    "score": 0
-  },
-  {
-   "slug": "spider-man-brand-new-day",
-   "title": "Spider-Man: Brand New Day",
-   "url": "https://nonstopkino.at/movies/spider-man-brand-new-day/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/19ae466b-f68a-4438-8e06-c1276145bef7.jpg?fit=max&w=120",
-   "director": "Destin Daniel Cretton",
-   "cast": "Tom Holland, Zendaya, Jacob Batalon, Sadie Sink, Jon Bernthal, Tramell Tillman, Michael Mando",
-   "year": 2026,
-   "runtime": 150,
-   "spoken": "Englisch",
-   "synopsis": "Nach dem phänomenalen weltweiten Erfolg von „Spider-Man: No Way Home“ schlägt SPIDER-MAN: BRAND NEW DAY ein völlig neues Kapitel für Peter Parker und Spider-Man auf. Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
-   "imdb": "tt22084616",
-   "rating": 7.9,
-   "votes": 358001,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "score": 71
   },
   {
    "slug": "staatsschutz",
@@ -2867,6 +2955,19 @@
     "Thriller"
    ],
    "score": 4
+  },
+  {
+   "slug": "surf-film-nacht-guts-her-wave",
+   "title": "Surf Film Nacht: Guts + Her Wave",
+   "url": "https://nonstopkino.at/movies/surf-film-nacht-guts-her-wave/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/66a71e7a-19f9-40b5-aa49-b6a8235a34d0.jpeg?fit=max&w=120",
+   "director": "Patrizia Bruno, Luigi Rapanelli",
+   "cast": "",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "",
+   "synopsis": "SURF FILM NACHT European Tour: GUTS + HER WAVE Ein Abend voller großer und kleiner Wellen, atemberaubender Natur und jeder Menge Girl Power! Was geschieht, wenn Frauen klassische Rollenbilder hinter sich lassen, und nur noch ihren Träumen folgen? Findet’s raus in unserem Gutsy Girls Double Feature! GUTS – A FEMALE EXPEDITION THROUGH AFRICA (FR, 2025. Regie Patrizia Bruno. 65 Min. OmeU) Patrizia und und Marie verwirklichten ihren Traum: Eine 20.000 Kilometer lange Offroad-Surfari von Biarritz bis nach Guinea-Bissau – im Gepäck nichts weiter als ein alter Jeep, vier Surfbretter und eine Mission: die Geschichten inspirierender Frauen einzufangen, die in ganz Nordwestafrika ihren Platz in der Gesellschaft neu definieren. HER WAVE (D, 2026. Regie: Luigi Rapanelli. 30 Min. OmeU) In drei Kapiteln, die sich an den Mondphasen orientieren, begleitet HER WAVE Deutschlands Big-Wave-Surferin Lena Kemna durch ihre zweite Saison in Nazaré. Anstatt einer klassischen Heldenreise zu folgen, zeichnet der Film realistisch, grimmig, künstlerisch und bildgewaltig den Verlauf eines Winters nach, der von extremen Höhen und Tiefen geprägt war.",
+   "score": null
   },
   {
    "slug": "teenage-sex-and-death-at-camp-misma",
@@ -3134,6 +3235,27 @@
     "Drama"
    ],
    "score": 49
+  },
+  {
+   "slug": "the-killer-4k-restauration",
+   "title": "The Killer (4K Restauration)",
+   "url": "https://nonstopkino.at/movies/the-killer-4k-restauration/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/06ee2667-68f9-4df8-b746-c88be3f41a7b.jpeg?fit=max&w=120",
+   "director": "John Woo",
+   "cast": "Chow Yun-Fat, Danny Lee, Sally Yeh",
+   "year": 1989,
+   "runtime": 111,
+   "spoken": "",
+   "synopsis": "John Woos mittlerweile zum Kult-Film avanciertes Meisterwerk THE KILLER, welchen Polyfilm erstmals 1997 Mal in die österreichischen Kinos brachte, ist nun zurück – in 4k! Jeff (Chow Yun-fat) ist ein professioneller Killer, der plant, endgültig aus dem mörderischen Gewerbe auszusteigen. Bei einer wilden Schießerei in einem Nachtclub wird die Sängerin jenny (Sally Yeh) durch Jeffs Mündungsfeuer geblendet und ihr Augenlicht stark in Mitleidenschaft gezogen. Von diesem Zwischenfall völlig verstört und von Schuldgefühlen geplagt, beschließt Jeff, einen „allerletzten“ Auftrag anzunehmen. Mit dem Geld, das er dabei verdient, will er eine Operation finanzieren, die Jennys Augenlicht retten soll. Jeff führt seinen Auftrag durch. Der Polizist Li (Danny Lee) wird mit dem Fall betraut, er ist fasziniert von dem melancholischen Killer, in dem er einen Seelenverwandten findet. Li und Jeff sehen sich bald einer Armee schießwütiger Gangster gegenüber – eine mörderische Konfrontation ist unausweichlich.",
+   "imdb": "tt0097202",
+   "rating": 7.7,
+   "votes": 56412,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "score": 55
   },
   {
    "slug": "the-killing-of-sister-george",
@@ -3404,6 +3526,28 @@
    "score": 92
   },
   {
+   "slug": "the-thing-das-ding-aus-einer-anderen-welt",
+   "title": "The Thing (Das Ding aus einer anderen Welt)",
+   "url": "https://nonstopkino.at/movies/the-thing-das-ding-aus-einer-anderen-welt/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/e2616fc8-6d05-4541-b7ee-e37b1e984b1e.jpeg?fit=max&w=120",
+   "director": "John Carpenter",
+   "cast": "Kurt Russell, Wilford Brimley, Keith David, Richard Masur, T.K. Carter",
+   "year": 1982,
+   "runtime": 109,
+   "spoken": "Englisch",
+   "synopsis": "In einer Forschungsstation in der Antarktis stößt das Team rund um R.J. MacReady (Kurt Russell) auf ein entsetzliches Geheimnis. Ein außerirdisches Wesen, das die Fähigkeit besitzt, seine Gestalt zu ändern, wurde freigesetzt – und keiner weiß mehr, wem man noch trauen kann. Unmut macht sich breit, als das Monster heimlich unter ihnen lauert und in immer groteskeren Formen zuschlägt. Die Paranoia wächst, je mehr Mitglieder der Besatzung niedergemetzelt werden. In dieser Atmosphäre der ständigen Angst und Bedrohung wird die Frage immer drängender: Wer oder was ist überhaupt noch echt? Zum Zeitpunkt der Veröffentlichung gemischt aufgenommen, gehört John Carpenters Remake der Erzählung „Who Goes There?“ von Sci-Fi-Schriftsteller John W. Campbell Jr. heute zu den unumstrittenen Genre-Meilensteinen. Ein höchst klaustrophobisches und an Grauslichkeiten nicht armes Kammerspiel, garniert mit den wahrscheinlich eindrucksvollsten Body-Horror-Effekten der Filmgeschichte.",
+   "imdb": "tt0084787",
+   "rating": 8.2,
+   "votes": 539305,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "favorite": true,
+   "score": 108
+  },
+  {
    "slug": "the-third-man",
    "title": "The Third Man",
    "url": "https://nonstopkino.at/movies/the-third-man/",
@@ -3423,27 +3567,6 @@
     "Mystery"
    ],
    "score": 74
-  },
-  {
-   "slug": "tierisch-abgefahren",
-   "title": "Tierisch abgefahren",
-   "url": "https://nonstopkino.at/movies/tierisch-abgefahren/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/9e9a62c4-d65a-4954-9ab2-5835a239820c.jpg?fit=max&w=120",
-   "director": "Benoît Daffis, Jean-Christian Tassy",
-   "cast": "Damien Ferrette, Hervé Jolly, Kaycie Chase, Frantz Confiac, Emmanuel Garijo, Nicolas Marié",
-   "year": 2025,
-   "runtime": 87,
-   "spoken": "Französisch",
-   "synopsis": "TIERISCH ABGEFAHREN – RETTET DIE PETS! ist ein mitreißendes Animationsabenteuer voll pfiffigem Witz, rasanter Action und einer großen Portion Herz, bei dem jede Station eine Überraschung bietet – und Bremsen keine Option ist! Als Waschbär Falcon einen Job annimmt, um den Freunden in seinem Viertel eine sorgenfreie Zeit zu ermöglichen, ahnt er nicht, dass er sich in das wildeste Abenteuer seines Lebens stürzt. Denn er landet in einem in maximaler Geschwindigkeit rasenden, nicht zu stoppenden Zug voller putziger Haustiere und ohne Fahrer: Da ist Chaos auf den Schienen vorprogrammiert! Hinter dem mysteriösen Coup steckt Hans, ein Dachs mit Rachegelüsten und einem verrückten Plan. Das Schicksal des Zuges hängt am seidenen Faden, und nur ein ungewöhnlicher Held kann es in die Pfote nehmen: Falcon muss die pelzigen und gefiederten Passagiere vereinen, um den Hochgeschwindigkeitszug zu stoppen.",
-   "imdb": "tt36424914",
-   "rating": 6.1,
-   "votes": 1610,
-   "genres": [
-    "Action",
-    "Animation",
-    "Comedy"
-   ],
-   "score": 0
   },
   {
    "slug": "to-my-sisters",
@@ -3828,6 +3951,25 @@
    "score": 52
   },
   {
+   "slug": "where-the-waves-took-her",
+   "title": "Where the Waves Took Her",
+   "url": "https://nonstopkino.at/movies/where-the-waves-took-her/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/fbcb5290-dd3c-4db9-b5eb-c5f5b99d52df.jpeg?fit=max&w=120",
+   "director": "Jana Stallein",
+   "cast": "Fahma Abdukader Farah, Jeanine Tchokotte, Joseline Cabry Fotsing, Julie Tankeu Yonga, Mariame Diallo",
+   "year": 2025,
+   "runtime": 83,
+   "spoken": "",
+   "synopsis": "Für viele Menschen ist die Flucht über das Mittelmeer die letzte Hoffnung – und zugleich die gefährlichste Fluchtroute der Welt. Da immer häufiger auch Frauen und Kinder diesen Weg auf sich nehmen, gehört inzwischen eine Hebamme zur festen Besatzung eines Seenotrettungsschiffes. „Where the Waves Took Her“ begleitet die Hebamme Anne-Katrin bei ihrem ersten Einsatz, porträtiert ein starkes weibliches Team an Bord und gibt den geflüchteten Frauen den Raum, ihre Geschichten selbst zu erzählen. Während wir mit Anne-Katrin das starke, weibliche Versorgungsteam an Bord kennenlernen und mit ihnen auf den Ernstfall vorbereitet werden, erzählen die geflüchteten Frauen auf einer besonders gestalteten visuellen Ebene aus Langzeitbelichtungen und in einem mit Wasser gefüllten Studio über das Leid, was die Flucht nach Europa für sie mit sich gebracht hat. Die Langzeitbelichtungen schaffen verwischte, poetische Bilder, die nicht nur zur Anonymisierung und zum Schutz dienen, sondern gleichzeitig auch die emotionale Brisanz der Situation auf eine neue Art und Weise vermitteln. Auf dem Schiff treffen die Welten der Frauen und der Crew dann für einen kurzen Moment aufeinander, bevor die Frauen in Italien ankommen und eine weitere Reise ins Ungewisse startet.",
+   "imdb": "tt41022194",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "wild-horse-nine",
    "title": "Wild Horse Nine",
    "url": "https://nonstopkino.at/movies/wild-horse-nine/",
@@ -3930,704 +4072,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "cheri-ich-komme-die-erfindung-der-lust-pour-le-plaisir",
-   "start": "2026-10-26T13:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "luegen-ueber-meine-mutter",
-   "start": "2026-10-26T13:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-26T13:30:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T13:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-26T14:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "your-name",
-   "start": "2026-10-26T14:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-26T14:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "tierisch-abgefahren",
-   "start": "2026-10-26T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-26T15:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "liebhaberinnen",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "coyote-vs-acme",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "spider-man-brand-new-day",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-26T15:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-26T15:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-26T15:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
-   "start": "2026-10-26T15:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-26T16:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T16:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-26T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-26T16:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-26T16:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T16:30:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-26T16:50:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-26T17:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-26T17:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T17:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-26T17:25:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "pressure-2026",
-   "start": "2026-10-26T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T17:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-26T17:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ninja-motherfcking-destruction",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-26T17:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-26T17:50:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-26T18:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-26T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-26T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-26T18:15:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-26T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-26T18:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-26T18:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-26T18:30:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-26T18:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-26T18:45:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-26T18:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-26T19:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-26T19:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bernadette-will-toeten",
-   "start": "2026-10-26T19:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "souleymanes-story",
-   "start": "2026-10-26T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T19:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-26T19:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-26T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-26T20:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-26T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-26T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wax-gold",
-   "start": "2026-10-26T20:00:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "das-drama-noch-mal-auf-anfang",
-   "start": "2026-10-26T20:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T20:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-26T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-26T20:15:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-26T20:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "northern-soul-still-burning",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "resident-evil",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-26T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-26T20:40:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-26T21:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-26T21:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-26T22:00:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "a-sad-and-beautiful-world",
-   "start": "2026-10-27T09:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wellen-wende",
-   "start": "2026-10-27T10:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
   {
    "film": "oh-wie-schoen-ist-panama",
    "start": "2026-10-27T11:00:00+01:00",
@@ -5059,7 +4503,9 @@
    "start": "2026-10-27T20:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Q&A"
+   ],
    "booking": ""
   },
   {
@@ -6317,10 +5763,42 @@
    "booking": ""
   },
   {
+   "film": "ein-tag-ohne-frauen",
+   "start": "2026-10-30T16:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
    "start": "2026-10-30T16:30:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "lesbian-space-princess",
+   "start": "2026-10-30T17:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sacrifice",
+   "start": "2026-10-30T17:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-30T17:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6333,9 +5811,25 @@
    "booking": ""
   },
   {
+   "film": "the-terminator",
+   "start": "2026-10-30T18:45:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "possible-love",
    "start": "2026-10-30T19:30:00+01:00",
    "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-30T19:30:00+01:00",
+   "cinema": "Top Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -6345,6 +5839,14 @@
    "start": "2026-10-30T19:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-10-30T19:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
    "tags": [],
    "booking": ""
   },
@@ -6362,6 +5864,50 @@
    "cinema": "Admiral Kino",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-10-30T21:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-10-30T22:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bernadette-will-toeten",
+   "start": "2026-10-30T22:15:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-killer-4k-restauration",
+   "start": "2026-10-30T22:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-devils",
+   "start": "2026-10-30T22:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -6389,6 +5935,14 @@
    "booking": ""
   },
   {
+   "film": "ein-tag-ohne-frauen",
+   "start": "2026-10-31T16:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "vaterland",
    "start": "2026-10-31T17:00:00+01:00",
    "cinema": "Admiral Kino",
@@ -6413,9 +5967,59 @@
    "booking": ""
   },
   {
+   "film": "jim-queen",
+   "start": "2026-10-31T17:15:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-10-31T17:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-10-31T17:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-noch-unbekannten-tage",
    "start": "2026-10-31T18:30:00+01:00",
    "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "dracula",
+   "start": "2026-10-31T19:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-10-31T19:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sacrifice",
+   "start": "2026-10-31T19:45:00+01:00",
+   "cinema": "Top Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -6463,11 +6067,37 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-10-31T21:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-10-31T22:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "hokum",
    "start": "2026-10-31T22:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-thing-das-ding-aus-einer-anderen-welt",
+   "start": "2026-10-31T22:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -6495,6 +6125,14 @@
    "booking": ""
   },
   {
+   "film": "sacrifice",
+   "start": "2026-11-01T12:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-11-01T12:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -6509,6 +6147,14 @@
    "start": "2026-11-01T13:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-tag-ohne-frauen",
+   "start": "2026-11-01T13:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6545,10 +6191,58 @@
    "booking": ""
   },
   {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-11-01T17:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-01T17:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-11-01T17:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "obsession",
+   "start": "2026-11-01T18:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "wellen-wende",
    "start": "2026-11-01T18:45:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-11-01T19:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-11-01T19:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6571,6 +6265,38 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-01T21:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sacrifice",
+   "start": "2026-11-01T21:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-11-01T22:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bernadette-will-toeten",
+   "start": "2026-11-02T17:45:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-02T18:30:00+01:00",
    "cinema": "Admiral Kino",
@@ -6579,10 +6305,58 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-11-02T19:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-11-02T19:45:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "vaterland",
    "start": "2026-11-02T20:15:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sacrifice",
+   "start": "2026-11-02T20:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "surf-film-nacht-guts-her-wave",
+   "start": "2026-11-02T21:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "obsession",
+   "start": "2026-11-02T21:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-02T21:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6611,9 +6385,65 @@
    "booking": ""
   },
   {
+   "film": "the-terminator",
+   "start": "2026-11-03T17:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-11-03T17:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-11-03T17:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "where-the-waves-took-her",
+   "start": "2026-11-03T18:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-noch-unbekannten-tage",
    "start": "2026-11-03T19:00:00+01:00",
    "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-03T19:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-11-03T19:45:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sacrifice",
+   "start": "2026-11-03T19:45:00+01:00",
+   "cinema": "Top Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -6645,10 +6475,58 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-11-03T21:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bernadette-will-toeten",
+   "start": "2026-11-03T22:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-11-03T22:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-04T17:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-11-04T17:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sacrifice",
+   "start": "2026-11-04T17:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-04T17:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6705,6 +6583,14 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-11-04T19:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "to-my-sisters",
    "start": "2026-11-04T19:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -6712,6 +6598,22 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "obsession",
+   "start": "2026-11-04T19:45:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-11-04T19:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6745,6 +6647,30 @@
    "booking": ""
   },
   {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-11-04T21:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-11-04T22:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-11-04T22:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "liebhaberinnen",
    "start": "2026-11-05T17:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -6763,6 +6689,22 @@
    "booking": ""
   },
   {
+   "film": "lesbian-space-princess",
+   "start": "2026-11-05T17:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-11-05T17:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bira-sure-hemo",
    "start": "2026-11-05T17:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -6770,6 +6712,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-11-05T17:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6811,6 +6761,22 @@
    "booking": ""
   },
   {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-11-05T19:15:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-05T19:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-dirty-dozen",
    "start": "2026-11-05T19:30:00+01:00",
    "cinema": "Bellaria Kino",
@@ -6841,10 +6807,26 @@
    "booking": ""
   },
   {
+   "film": "sacrifice",
+   "start": "2026-11-05T19:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "vaterland",
    "start": "2026-11-05T20:15:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-05T20:15:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6875,6 +6857,30 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-11-05T21:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-terminator",
+   "start": "2026-11-05T21:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-11-05T22:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "kiss-me-deadly",
    "start": "2026-11-06T18:00:00+01:00",
    "cinema": "Filmmuseum",
@@ -6892,6 +6898,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-06T20:15:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6976,6 +6990,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-07T20:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7085,6 +7107,14 @@
    "booking": ""
   },
   {
+   "film": "la-gradiva",
+   "start": "2026-11-08T20:15:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "rocky",
    "start": "2026-11-08T20:15:00+01:00",
    "cinema": "Filmcasino",
@@ -7152,6 +7182,14 @@
    "film": "die-blutgraefin",
    "start": "2026-11-10T11:30:00+01:00",
    "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-10T12:30:00+01:00",
+   "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -7245,6 +7283,22 @@
    "booking": ""
   },
   {
+   "film": "queertactics-perlen",
+   "start": "2026-11-12T18:45:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-12T20:15:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-last-sunset",
    "start": "2026-11-12T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -7277,6 +7331,24 @@
    "start": "2026-11-13T21:00:00+01:00",
    "cinema": "Filmmuseum",
    "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "twilight",
+   "start": "2026-11-13T22:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ronja-raeubertochter",
+   "start": "2026-11-14T14:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "DF",
    "tags": [
     "Retrospektive"
    ],
@@ -7421,6 +7493,14 @@
    "start": "2026-11-16T19:30:00+01:00",
    "cinema": "Bellaria Kino",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-17T10:00:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7619,6 +7699,16 @@
    "booking": ""
   },
   {
+   "film": "ronja-raeubertochter",
+   "start": "2026-11-21T14:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "plitsch-platsch-forever",
    "start": "2026-11-21T15:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -7680,6 +7770,16 @@
    "cinema": "Votiv Kino",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ronja-raeubertochter",
+   "start": "2026-11-22T13:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "DF",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -7908,6 +8008,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
+   "start": "2026-11-29T11:00:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -8265,6 +8373,14 @@
    "start": "2026-12-24T13:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "mein-nachbar-totoro",
+   "start": "2026-12-24T13:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmeU",
    "tags": [],
    "booking": ""
   },
