@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T10:53+01:00",
+ "updated": "2026-10-29T11:16+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -235,6 +235,27 @@
     "Drama"
    ],
    "score": 23
+  },
+  {
+   "slug": "backrooms-everything-must-go-extended-version",
+   "title": "Backrooms: Everything Must Go – Extended Version",
+   "url": "https://nonstopkino.at/movies/backrooms-everything-must-go-extended-version/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/bfbca255-7f16-4676-bb17-394e68803d9e.jpg?fit=max&w=120",
+   "director": "Kane Parsons",
+   "cast": "Chiwetel Ejiofor, Renate Reinsve, Mark Duplass",
+   "year": 2026,
+   "runtime": 127,
+   "spoken": "Englisch",
+   "synopsis": "Inklusive 15 Minuten zusätzlichem Filmmaterial nach dem Abspann. Clark (Chiwetel Ejiofor), der Besitzer eines heruntergekommenen Möbelgeschäfts, entdeckt im Keller seines Ladens eine unsichtbare Tür. Bald ist er wie besessen davon, das Geheimnis dahinter zu lüften, und vertraut sich seiner Psychologin Dr. Mary Kline (Renate Reinsve) an. Als sie ihm dorthin folgt, lauert hinter den Wänden etwas Düsteres – und Gefährliches.",
+   "imdb": "tt26657236",
+   "rating": 6.7,
+   "votes": 238452,
+   "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "score": 51
   },
   {
    "slug": "bearcave",
@@ -593,6 +614,25 @@
     "Drama"
    ],
    "score": 7
+  },
+  {
+   "slug": "corpus-delicti",
+   "title": "Corpus Delicti",
+   "url": "https://nonstopkino.at/movies/corpus-delicti/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/228a4df8-74a7-444e-b99c-3d1fe4a427b9.jpeg?fit=max&w=120",
+   "director": "Lena Stahl",
+   "cast": "Hannah Herzsprung, Damian Hardung, Alexander Fehling",
+   "year": 2026,
+   "runtime": 108,
+   "spoken": "Deutsch",
+   "synopsis": "In einer nahen Zukunft repräsentiert die „Methode“ eine Gesellschaft, die Gesundheit und maximale Sicherheit für alle verspricht. Das Leben der Wissenschaftlerin Mia Holl (Hannah Herzsprung) ändert sich schlagartig, als ihr Bruder Moritz (Damian Hardung) des Mordes beschuldigt wird. Die Beweise sind erdrückend – und doch ist Mia von seiner Unschuld überzeugt. Ein Widerspruch, der sie zum Handeln zwingt – gegen ein System, das keinen Zweifel zulässt. Doch wem kann sie noch trauen? Ihrer Kollegin Christiane (Haley Louise Jones), dem Anwalt ihres Bruders (Christian Friedel) oder dem charismatischen Journalisten Kramer (Alexander Fehling)? Ihr Kampf um Wahrheit und Gerechtigkeit macht sie selbst zur Gejagten.",
+   "imdb": "tt37804242",
+   "rating": 5.9,
+   "votes": 246,
+   "genres": [
+    "Thriller"
+   ],
+   "score": 4
   },
   {
    "slug": "coyote-vs-acme",
@@ -1566,6 +1606,19 @@
    "score": 40
   },
   {
+   "slug": "gruberturnheim-vertonen-das-lied-des-weissen-zombie",
+   "title": "Gruber&Turnheim vertonen: Das Lied des weißen Zombie",
+   "url": "https://nonstopkino.at/movies/gruberturnheim-vertonen-das-lied-des-weissen-zombie/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/3395e644-7df7-487d-8430-9358187e2a10.jpeg?fit=max&w=120",
+   "director": "Victor Halperin",
+   "cast": "Bela Lugosi, Madge Bellamy, Joseph Cawthorn, John Harron",
+   "year": 1932,
+   "runtime": 67,
+   "spoken": "",
+   "synopsis": "Aufpreis: 25€ Leinwandlyriker Ralph Turnheim hat den ersten Zombie-Film ausgegraben. Furchtlos belebt er ihn wieder. Mit einer Live-Synchronistation, die das vergessene Monster-Meisterwerk WHITE ZOMBIE aus dem Jahr 1932 in völlig neues Licht rückt. Haiti, 1932: Graf Bonmont ist unsterblich in Mathilde verliebt. Doch die heiratet noch heute ihren Verlobten Kurt. Graf Bonmont hat nur eine Chance: Ein Pakt mit LeGrind (gespielt von einem überragenden Bela Lugosi). Durch Voodo-Zauber macht er aus Menschen willenlose Zombies. Warum nicht auch aus der schönen Mathilde? Der Graf zögert. Auf dem Weg zum Traualtar unternimmt Bonmot einen letzten Versuch, die weiße Braut doch noch ohne schwarze Magie zu erobern ... Ralph Turnheim übersetzt das Grusel-Märchen in lockere Wiener Verse. Gemeinsam mit dem bernhard.ensemble hatte seine Vertonung im Off-Theater, Wien, Premiere. Jetzt erweckt der Leinwand-Lyriker allein mit seiner Stimme alle Filmfiguren zum Leben. Diese Wiederbelebung muss man erlebt haben! Live musikalisch begleitet von Stummfilmpianistlegende GERHARD GRUBER! analoge Filmprojektion",
+   "score": null
+  },
+  {
    "slug": "gruberturnheim-vertonen-frankenstein-das-monster-spricht",
    "title": "Gruber&Turnheim vertonen: Frankenstein – Das Monster spricht",
    "url": "https://nonstopkino.at/movies/gruberturnheim-vertonen-frankenstein-das-monster-spricht/",
@@ -1669,6 +1722,25 @@
    "votes": 0,
    "genres": [
     "Drama"
+   ],
+   "score": 0
+  },
+  {
+   "slug": "highway-to-hofburg",
+   "title": "Highway to Hofburg",
+   "url": "https://nonstopkino.at/movies/highway-to-hofburg/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b0dcc549-96bd-4519-a21f-e4b807ab038b.jpeg?fit=max&w=120",
+   "director": "David Moser, Philipp Moosbrugger",
+   "cast": "Dominik Wlazny (Marco Pogo),",
+   "year": 2026,
+   "runtime": 91,
+   "spoken": "Deutsch",
+   "synopsis": "HIGHWAY TO HOFBURG begleitet die Entwicklung vom politischen Punk-Provokateur zum Präsidentschaftskandidaten aus nächster Nähe. Der Ritt um die Bundespräsidentschaft ist der wohl sichtbarste Wahlkampf der Republik. Der Name des Wiener Punkmusikers Dominik Wlazny war bis zu seinem Antritt 2022 nur wenig bekannt. Bekannt war Marco Pogo als laute, widersprüchliche Kunstfigur: Punkmusiker, Bierpartei-Gründer, Provokateur – und zugleich jemand, der politische Diskussionen oft ernster nahm, als es sein Image erwarten ließ. Eine Kandidatur wird zur Projektionsfläche: für Hoffnung, Ablehnung, Nähe, Skepsis und politisches Unbehagen. Aus einem konkreten Wahlkampf entsteht so ein größerer Blick auf Demokratie: Wer wird politisch ernst genommen? Welche Rolle spielen Medien und öffentliche Bilder? Und was bedeutet es, in einer Demokratie nicht nur eine Stimme abzugeben, sondern als Stimme gehört zu werden?",
+   "imdb": "tt46098838",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
    ],
    "score": 0
   },
@@ -2185,6 +2257,26 @@
    "score": 43
   },
   {
+   "slug": "lalka",
+   "title": "Lalka",
+   "url": "https://nonstopkino.at/movies/lalka/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b4354f70-df67-498e-b8f4-7c71447e21a5.jpeg?fit=max&w=120",
+   "director": "Maciej Kawalski",
+   "cast": "Marcin Dorocinski, Kamila Urzędowska, Marek Kondrat, Andrzej Seweryn",
+   "year": 2026,
+   "runtime": 162,
+   "spoken": "Polnisch",
+   "synopsis": "Liebe, Status, Obsession und eine Gesellschaft, in der Herkunft oft mehr zählt als Talent. LALKA bringt einen der großen Klassiker der polnischen Literatur auf die Leinwand und erzählt eine Geschichte, die auch heute noch erstaunlich aktuell wirkt. Im Mittelpunkt steht Stanisław Wokulski, ein wohlhabender Kaufmann, der sich unsterblich in Izabela Łęcka verliebt. Sie ist schön, privilegiert und von den gesellschaftlichen Erwartungen ihrer Klasse geprägt. Er hat sich seinen Reichtum hart erarbeitet, bleibt für die aristokratische Welt allerdings ein Außenseiter. Um Izabelas Herz zu gewinnen, riskiert Wokulski immer mehr, bis Liebe und Ehrgeiz ihn in einen Strudel aus Illusionen und folgenschweren Entscheidungen ziehen. Basierend auf dem Meisterwerk von Bolesław Prus von 1890 entwirft der Film ein faszinierendes Panorama der polnischen Gesellschaft des 19. Jahrhunderts. Zwischen glänzenden Salons, sozialen Gegensätzen und persönlichen Sehnsüchten geht es um Klassenunterschiede, Aufstieg, Selbsttäuschung und die Frage, welchen Preis wir für Anerkennung und Liebe zu zahlen bereit sind.",
+   "imdb": "tt37082105",
+   "rating": 7.7,
+   "votes": 1457,
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "score": 1
+  },
+  {
    "slug": "lesbian-space-princess",
    "title": "Lesbian Space Princess",
    "url": "https://nonstopkino.at/movies/lesbian-space-princess/",
@@ -2223,6 +2315,25 @@
     "Drama"
    ],
    "score": 0
+  },
+  {
+   "slug": "london",
+   "title": "London",
+   "url": "https://nonstopkino.at/movies/london/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/881ae187-8d2a-48a4-a3fa-39e061d3a1ce.jpg?fit=max&w=120",
+   "director": "Sebastian Brameshuber",
+   "cast": "Bobby Sommer, Clifford Agu, Lana Prerad",
+   "year": 2026,
+   "runtime": 120,
+   "spoken": "Deutsch, Englisch, Rumänisch",
+   "synopsis": "Bobby ist fast immer im Auto, unterwegs auf der Autobahn zwischen Wien und Salzburg. Meist nimmt er andere Menschen mit und kommt mit ihnen ins Gespräch – über Alltägliches, über tief Persönliches. Ein zärtliches Porträt des heutigen Europas, in dem Anonymität und Warmherzigkeit kein Widerspruch sind.",
+   "imdb": "tt39206699",
+   "rating": 6.8,
+   "votes": 50,
+   "genres": [
+    "Drama"
+   ],
+   "score": 6
   },
   {
    "slug": "los-domingos-glaube",
@@ -2567,27 +2678,6 @@
    "score": 21
   },
   {
-   "slug": "neue-geschichten-vom-franz",
-   "title": "Neue Geschichten vom Franz",
-   "url": "https://nonstopkino.at/movies/neue-geschichten-vom-franz/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/c999c8e4-9f18-47a0-b476-15e03339adb8.jpg?fit=max&w=120",
-   "director": "",
-   "cast": "Jossi Jantschitsch, Nora Reidinger, Leo Wacha, Maria Bill, Ursula Strauss, Simon Schwarz",
-   "year": 2023,
-   "runtime": 72,
-   "spoken": "",
-   "synopsis": "Kennt ihr das, wenn ein großes Problem ganz klein anfängt? Der Franz kennt das gut, unser Held, der etwas klein geratene Bub aus Wien, inzwischen schon zehn Jahre alt. Seine beste Freundin, die Gabi, streitet sich nämlich ununterbrochen mit seinem besten Freund, dem Eberhard. Der Franz hat beide gleich gern und steht dabei immer in der Mitte. Freundschaft nach getrenntem Terminkalender? Das funktioniert nicht: Geteilte Ferien sind nämlich halbe Ferien. „Das stärkste Band einer Freundschaft ist der gemeinsame Feind“ überhört der Franz den Papa sagen und entwickelt einen Masterplan. Es ist nämlich so: Die Gabi will jetzt plötzlich Detektivin werden und den Einbrecher schnappen, der Wien in Atem hält. Und der Franz findet, seine oberstrenge Nachbarin, die Frau Berger, verhält sich sowieso höchst verdächtig. Immerhin hatte sie Perlenketten in der Handtasche. Also gehen Gabi, Franz und Eberhard gemeinsam auf ganz geheime Mission: Sie observieren, lenken Erwachsene ab und sichern Beweismittel wie die Großen. Was verbirgt die Berger? Am Ende fliegt Franzens Lüge auf, es gibt ganz andere Geheimnisse als erwartet (wer hätte gedacht, was Lehrer Zickzack sommers so treibt!) und ein gebrochenes Bein. Wie kommt das Trio aus dem Schlamassel wieder raus? Soviel sei gesagt: Am Ende geht allen das Herz auf, auch dem Franz. Und sogar der Einbrecher wird gefasst. Hätten wir das auch geklärt.",
-   "imdb": "tt21941376",
-   "rating": 6.6,
-   "votes": 79,
-   "genres": [
-    "Adventure",
-    "Comedy",
-    "Family"
-   ],
-   "score": 0
-  },
-  {
    "slug": "nightcrawler",
    "title": "Nightcrawler",
    "url": "https://nonstopkino.at/movies/nightcrawler/",
@@ -2790,6 +2880,27 @@
     "Music"
    ],
    "score": 0
+  },
+  {
+   "slug": "pans-labyrinth",
+   "title": "Pans Labyrinth",
+   "url": "https://nonstopkino.at/movies/pans-labyrinth/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/63c731d3-bd08-4d0c-a672-1ac910531390.jpeg?fit=max&w=120",
+   "director": "Guillermo del Toro",
+   "cast": "Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones",
+   "year": 2007,
+   "runtime": 118,
+   "spoken": "Spanisch",
+   "synopsis": "Guillermo del Toros in exquisiten Bildern vorgetragene Fabel vom Kampf mit imaginären und wirklichen Monstren ist eine feministische Erweiterung seines surrealen Horrormärchens El espinazo del diablo (2001) und – bei aller märchenhaften Romantik – eine luzide Analyse von Faschismus im Gewand eines Fantasyfilms. Ofélias Mutter heiratet nach Ende des Spanischen Bürgerkriegs einen Franco-Offizier, der 1944 seinen Vernichtungsfeldzug gegen die verbliebenen Widerstandskämpfer weiterführt. Die Verschränkung fantastischer und \"realer\" Motive ist virtuos: Während Ofélia einer alten Legende gemäß drei Aufgaben erfüllen (und Nachtgestalten wie einem Menschenfresser ohne Augen gegenübertreten) muss, glaubt der Faschist blind an den Erfolg seiner handgreiflichen Exekutionsmethoden. Die beiden Handlungsstränge kommen auf unvermeidlich tragische Weise zusammen, aber del Toro bekennt sich zur Utopie: in Sachen Mythos ebenso wie in der Politik. (C.H.) Bild: Österreichisches Filmmuseum",
+   "imdb": "tt0457430",
+   "rating": 8.2,
+   "votes": 756047,
+   "genres": [
+    "Drama",
+    "Fantasy",
+    "War"
+   ],
+   "score": 84
   },
   {
    "slug": "phantom-of-the-opera-stummfilm-mit-live-musik",
@@ -3101,6 +3212,25 @@
    "score": 4
   },
   {
+   "slug": "sich-langsam-naehern",
+   "title": "sich langsam nähern",
+   "url": "https://nonstopkino.at/movies/sich-langsam-naehern/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/bc92bece-b53a-4b15-9812-c7a9df390f79.jpeg?fit=max&w=120",
+   "director": "Maria Arlamovsky",
+   "cast": "",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Deutsch",
+   "synopsis": "sich langsam nähern ist eine Meditation über den Umgang mit dem Tod als Teil des Lebens und über jene, die ihn begleiten. Maria Arlamovsky richtet den Blick auf die Palliativmedizin und Hospizversorgung, wo Ärzt*innen und Pfleger*innen täglich sich dem Lebensende nähernde Patient*innen unterstützen. Im Spannungsfeld von professioneller Fürsorge und emotionaler Nähe wird eine geteilte existentielle Erfahrung greifbar: gehen zu müssen und gehen lassen zu lernen.",
+   "imdb": "tt47956883",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "skiff",
    "title": "SKIFF",
    "url": "https://nonstopkino.at/movies/skiff/",
@@ -3178,6 +3308,26 @@
     "Adventure"
    ],
    "score": 71
+  },
+  {
+   "slug": "staatsschutz",
+   "title": "Staatsschutz",
+   "url": "https://nonstopkino.at/movies/staatsschutz/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/a4eb9a07-d57a-46ff-8e40-69a89bce121e.jpeg?fit=max&w=120",
+   "director": "Faraz Shariat",
+   "cast": "Chen Emilie Yan, Julia Jentsch, Alev Irmak, Arnd Klawitter, Sebastian Urzendowsky",
+   "year": 2026,
+   "runtime": 113,
+   "spoken": "Deutsch, Koreanisch",
+   "synopsis": "Als Seyo ihre neue Stelle als Staatsanwältin antritt, weiß sie bereits, dass rechte Gewalt zu ihrem Arbeitsalltag gehören wird. Doch als sie selbst Opfer eines Anschlags wird, muss sie feststellen, dass die Unabhängigkeit der Justiz sehr brüchig sein kann, wenn Rassismus längst im System verwurzelt ist. Tiefer und tiefer gräbt sie sich durch die Fehlbarkeiten ihrer eigenen Behörde und kämpft mit allen Mitteln für Gerechtigkeit – sowohl vor als auch außerhalb des Gerichts.",
+   "imdb": "tt39213126",
+   "rating": 7.3,
+   "votes": 491,
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "score": 4
   },
   {
    "slug": "surf-film-nacht-guts-her-wave",
@@ -3704,6 +3854,25 @@
     "Music"
    ],
    "score": 37
+  },
+  {
+   "slug": "the-queen-and-the-smokehouse",
+   "title": "The Queen and the Smokehouse (Bałtyk)",
+   "url": "https://nonstopkino.at/movies/the-queen-and-the-smokehouse/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/3378a594-46a9-485a-8f1f-631992847d58.jpg?fit=max&w=120",
+   "director": "Iga Lis",
+   "cast": "",
+   "year": 2025,
+   "runtime": 65,
+   "spoken": "Polnisch",
+   "synopsis": "Frau Miecia gilt als die „Königin von Łeba“ in Polen. Seit Jahrzehnten führt sie ihre legendäre Fischräucherei „U Mieci“ – ein Ort, der weit mehr ist als ein Geschäft: Treffpunkt, Lebensinhalt und Identität zugleich. Trotz ihres fortgeschrittenen Alters und der gesundheitsschädlichen Arbeitsbedingungen denkt sie nicht ans Aufhören. Zu tief ist ihre Verbindung zu diesem Ort, zu den Menschen, zu den Routinen, die ihr Leben geprägt haben.Der Dokumentarfilm begleitet Miecia in einer Phase des Umbruchs. Unter dem wachsenden Einfluss ihrer Familie und Mitarbeitenden wird sie erstmals gezwungen, innezuhalten und sich selbst in den Blick zu nehmen. Zwischen Fürsorge und Widerstand entfaltet sich ein vielschichtiges Porträt einer Frau, die ihr Leben der Arbeit gewidmet hat und nun mit den körperlichen und emotionalen Folgen konfrontiert wird. Das Dokumentarfilmdebüt von Iga Lis eröffnete 2025 das 65. Krakauer Filmfestival. Mit großer Wärme und feinem Gespür zeichnet die Regisseurin das Bild einer charismatischen, eigensinnigen Persönlichkeit. Eingebettet in die raue Schönheit der Ostseeküste und durchzogen von baltischer Folklore entsteht eine eindringliche Geschichte über Hingabe, Vergänglichkeit und die Frage, wann es Zeit ist, loszulassen.",
+   "imdb": "tt38016585",
+   "rating": 7.0,
+   "votes": 171,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "the-red-shoes",
@@ -4323,7 +4492,7 @@
    "url": "https://nonstopkino.at/movies/you-can-see-everything/",
    "poster": "https://culturekit-assets.imgix.net/4/assets/283ea985-ec84-4e43-a063-28d346a35a14.jpeg?fit=max&w=120",
    "director": "Nathan Fielder, Lance Oppenheim",
-   "cast": "Amanda Seyfried, Christopher Abbott, Nathan Fielder",
+   "cast": "Nathan Fielder, Elisabeth Holmes",
    "year": 2026,
    "runtime": 174,
    "spoken": "Englisch",
@@ -4360,6 +4529,25 @@
    "score": 73
   },
   {
+   "slug": "yugo-goes-to-america-yugo-ide-u-ameriku",
+   "title": "Yugo Goes to America (Yugo ide u Ameriku)",
+   "url": "https://nonstopkino.at/movies/yugo-goes-to-america-yugo-ide-u-ameriku/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/1dfbe7f8-d34d-454d-8eca-57ced9cff6d1.jpeg?fit=max&w=120",
+   "director": "Filip Grujić, Aleksa Borković",
+   "cast": "Carlos Ayala, Aleksandar Blažić, Aleksa Borković, Malcolm Bricklin",
+   "year": 2026,
+   "runtime": 87,
+   "spoken": "Serbisch",
+   "synopsis": "Das vielleicht berühmteste Auto des ehemaligen Jugoslawiens schafft es noch einmal über den Atlantik. Drei Freunde aus Belgrad kaufen einen alten Yugo in den USA und fahren damit quer durchs Land – von New York bis Los Angeles. Klingt nach einer schlechten Idee? Ist es auch. Denn der kleine Kultwagen bleibt regelmäßig liegen und zwingt seine Besatzung zu ungeplanten Stopps, skurrilen Begegnungen und Gesprächen mit Menschen, die alle ihre ganz eigene Geschichte über den legendären Balkan- Flitzer zu erzählen haben. Was als Roadtrip auf den Spuren eines Autos beginnt, entwickelt sich zu einer überraschend persönlichen Reise durch Erinnerungen, Migration, Freundschaft und die widersprüchliche Geschichte des ehemaligen Jugoslawiens. Die Regisseure Filip Grujić und Aleks Borković verbinden in ihrem Langfilmdebüt trockenen Humor mit dokumentarischer Neugier und zeigen, wie ein vermeintlich schlechtes Auto Menschen und Geschichten zusammenbringt. Zwischen Pannen, Wüstenhitze und amerikanischen Highways entsteht eine ebenso absurde wie berührende Ode an das Unterwegssein – und an die Erkenntnis, dass es manchmal gar nicht auf das Ziel ankommt. YUGO GOES TO AMERICA ist eine charmante Doku- Komödie voller Nostalgie, Selbstironie und unerwarteter Begegnungen – und der Beweis, dass ausgerechnet der „schlechteste Wagen der Welt“ die besten Geschichten schreibt.",
+   "imdb": "tt40297708",
+   "rating": 7.5,
+   "votes": 133,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "zusammen-finden",
    "title": "Zusammen finden",
    "url": "https://nonstopkino.at/movies/zusammen-finden/",
@@ -4380,582 +4568,10 @@
  "screenings": [
   {
    "film": "sense-and-sensibility-2026",
-   "start": "2026-10-28T15:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-28T15:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-28T15:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-28T15:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "coyote-vs-acme",
-   "start": "2026-10-28T15:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "neue-geschichten-vom-franz",
-   "start": "2026-10-28T15:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-28T15:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-28T15:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "pressure-2026",
-   "start": "2026-10-28T15:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
-   "start": "2026-10-28T15:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-28T16:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-28T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-28T16:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-28T16:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-28T17:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "cheri-ich-komme-die-erfindung-der-lust-pour-le-plaisir",
-   "start": "2026-10-28T17:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-28T17:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-28T17:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-28T17:25:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-10-28T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-28T17:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-28T17:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-28T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "spaziergang-nach-syrakus",
-   "start": "2026-10-28T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-28T17:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "lesbian-space-princess",
-   "start": "2026-10-28T17:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-28T17:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-28T17:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-28T18:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-28T18:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "liebhaberinnen",
-   "start": "2026-10-28T18:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-28T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-28T18:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-28T18:20:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-28T18:45:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-28T18:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "obsession",
-   "start": "2026-10-28T19:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-28T19:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-28T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "pressure-2026",
-   "start": "2026-10-28T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-28T19:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-28T19:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-28T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-28T20:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-28T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ozzy-black-sabbath-back-to-the-beginning",
-   "start": "2026-10-28T20:15:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-28T20:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "was-haben-wir-gelacht",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "nachts-in-der-provinz",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "resident-evil",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-28T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-28T21:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-28T21:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wax-gold",
-   "start": "2026-10-28T21:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
    "start": "2026-10-29T15:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -4979,9 +4595,7 @@
    "start": "2026-10-29T15:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5229,9 +4843,7 @@
    "start": "2026-10-29T18:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -5415,9 +5027,7 @@
    "start": "2026-10-29T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5571,9 +5181,7 @@
    "start": "2026-10-30T15:15:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5581,9 +5189,7 @@
    "start": "2026-10-30T15:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5691,6 +5297,14 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-10-30T16:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "frau-winkler-verlaesst-das-haus",
    "start": "2026-10-30T16:45:00+01:00",
    "cinema": "Votiv Kino",
@@ -5731,13 +5345,19 @@
    "booking": ""
   },
   {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-10-30T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-10-30T17:30:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -5763,6 +5383,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-30T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "der-perfekte-urlaub",
@@ -5793,9 +5421,7 @@
    "start": "2026-10-30T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -5857,6 +5483,14 @@
   {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-10-30T18:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-30T18:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
    "tags": [],
@@ -5907,7 +5541,9 @@
    "start": "2026-10-30T19:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -5925,6 +5561,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "backrooms-everything-must-go-extended-version",
+   "start": "2026-10-30T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
@@ -5947,7 +5591,9 @@
    "start": "2026-10-30T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -5979,9 +5625,7 @@
    "start": "2026-10-30T20:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -5991,6 +5635,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-10-30T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "alte-liebe",
@@ -6015,6 +5667,14 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "naza",
+   "start": "2026-10-30T20:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "vaterland",
@@ -6113,9 +5773,7 @@
    "start": "2026-10-31T11:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6123,9 +5781,7 @@
    "start": "2026-10-31T13:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6157,9 +5813,7 @@
    "start": "2026-10-31T14:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6219,12 +5873,28 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-10-31T15:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "alte-liebe",
    "start": "2026-10-31T15:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "the-piano-tuner",
+   "start": "2026-10-31T15:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "bruno-der-junge-kreisky",
@@ -6239,10 +5909,16 @@
    "start": "2026-10-31T15:50:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-10-31T16:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "alte-liebe",
@@ -6357,6 +6033,14 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-10-31T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "the-piano-tuner",
    "start": "2026-10-31T17:30:00+01:00",
    "cinema": "Top Kino",
@@ -6387,6 +6071,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-10-31T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "primetime",
@@ -6427,6 +6119,14 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "corpus-delicti",
+   "start": "2026-10-31T18:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "atmosphere",
@@ -6533,7 +6233,9 @@
    "start": "2026-10-31T19:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -6545,13 +6247,19 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-10-31T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-10-31T19:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -6575,7 +6283,9 @@
    "start": "2026-10-31T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -6601,8 +6311,18 @@
    "start": "2026-10-31T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-10-31T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "noestlinger-sowieso-und-ueberhaupt",
@@ -6617,9 +6337,7 @@
    "start": "2026-10-31T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6637,6 +6355,14 @@
    "lang": "DF",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "teenage-sex-and-death-at-camp-misma",
+   "start": "2026-10-31T20:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "der-perfekte-urlaub",
@@ -6795,7 +6521,9 @@
    "start": "2026-11-01T12:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -6819,9 +6547,7 @@
    "start": "2026-11-01T12:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6837,9 +6563,7 @@
    "start": "2026-11-01T13:00:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7005,6 +6729,14 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-01T15:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "frau-winkler-verlaesst-das-haus",
    "start": "2026-11-01T15:30:00+01:00",
    "cinema": "Bellaria Kino",
@@ -7032,6 +6764,30 @@
    "film": "liebhaberinnen",
    "start": "2026-11-01T15:30:00+01:00",
    "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "adams-acht",
+   "start": "2026-11-01T15:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "corpus-delicti",
+   "start": "2026-11-01T16:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
+   "start": "2026-11-01T16:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
    "lang": "DF",
    "tags": [],
    "booking": ""
@@ -7097,9 +6853,7 @@
    "start": "2026-11-01T16:40:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7135,11 +6889,21 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-01T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "possible-love",
    "start": "2026-11-01T17:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7211,9 +6975,7 @@
    "start": "2026-11-01T18:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7231,6 +6993,22 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-11-01T18:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "pressure-2026",
+   "start": "2026-11-01T18:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "alte-liebe",
@@ -7281,6 +7059,14 @@
    "booking": ""
   },
   {
+   "film": "gruberturnheim-vertonen-das-lied-des-weissen-zombie",
+   "start": "2026-11-01T19:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "gentle-monster",
    "start": "2026-11-01T19:00:00+01:00",
    "cinema": "Top Kino",
@@ -7309,9 +7095,7 @@
    "start": "2026-11-01T19:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7331,6 +7115,14 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-01T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "digger",
    "start": "2026-11-01T20:00:00+01:00",
    "cinema": "Bellaria Kino",
@@ -7343,7 +7135,9 @@
    "start": "2026-11-01T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7379,6 +7173,14 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-01T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-01T20:15:00+01:00",
    "cinema": "Admiral Kino",
@@ -7401,6 +7203,14 @@
    "lang": "DF",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-01T20:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "primetime",
@@ -7505,9 +7315,7 @@
    "start": "2026-11-02T14:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7531,9 +7339,15 @@
    "start": "2026-11-02T15:15:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
+   "start": "2026-11-02T15:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "DF",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7581,7 +7395,9 @@
    "start": "2026-11-02T15:45:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7589,9 +7405,7 @@
    "start": "2026-11-02T15:45:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7643,13 +7457,19 @@
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-02T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-11-02T17:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7659,6 +7479,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "frau-winkler-verlaesst-das-haus",
+   "start": "2026-11-02T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "the-invite",
@@ -7689,6 +7517,22 @@
    "start": "2026-11-02T17:45:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-02T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-02T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7821,6 +7665,14 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-02T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "other-mommy",
    "start": "2026-11-02T19:45:00+01:00",
    "cinema": "Haydn Kino",
@@ -7837,11 +7689,21 @@
    "booking": ""
   },
   {
+   "film": "das-drama-noch-mal-auf-anfang",
+   "start": "2026-11-02T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "possible-love",
    "start": "2026-11-02T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7877,6 +7739,14 @@
    "booking": ""
   },
   {
+   "film": "naza",
+   "start": "2026-11-02T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "vaterland",
    "start": "2026-11-02T20:15:00+01:00",
    "cinema": "Admiral Kino",
@@ -7889,9 +7759,7 @@
    "start": "2026-11-02T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7995,9 +7863,7 @@
    "start": "2026-11-03T13:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8037,7 +7903,9 @@
    "start": "2026-11-03T15:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8093,9 +7961,7 @@
    "start": "2026-11-03T15:45:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8139,12 +8005,28 @@
    "booking": ""
   },
   {
+   "film": "corpus-delicti",
+   "start": "2026-11-03T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "chopin-eine-sonate-in-paris",
    "start": "2026-11-03T17:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-11-03T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "wellen-wende",
@@ -8159,9 +8041,7 @@
    "start": "2026-11-03T17:30:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8209,9 +8089,7 @@
    "start": "2026-11-03T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8237,6 +8115,22 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-03T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "highway-to-hofburg",
+   "start": "2026-11-03T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
   },
   {
    "film": "atmosphere",
@@ -8267,9 +8161,7 @@
    "start": "2026-11-03T18:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8329,6 +8221,14 @@
    "booking": ""
   },
   {
+   "film": "backrooms-everything-must-go-extended-version",
+   "start": "2026-11-03T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "godzilla-minus-zero",
    "start": "2026-11-03T19:30:00+01:00",
    "cinema": "Haydn Kino",
@@ -8377,11 +8277,29 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-03T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-03T20:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "possible-love",
    "start": "2026-11-03T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8389,7 +8307,9 @@
    "start": "2026-11-03T20:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8409,6 +8329,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-03T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "die-blutgraefin",
@@ -8621,6 +8549,14 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-04T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "chopin-eine-sonate-in-paris",
    "start": "2026-11-04T17:15:00+01:00",
    "cinema": "CineCenter",
@@ -8637,6 +8573,14 @@
    "booking": ""
   },
   {
+   "film": "the-piano-tuner",
+   "start": "2026-11-04T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-04T17:30:00+01:00",
    "cinema": "Admiral Kino",
@@ -8649,9 +8593,7 @@
    "start": "2026-11-04T17:30:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8675,9 +8617,7 @@
    "start": "2026-11-04T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8693,6 +8633,14 @@
    "start": "2026-11-04T17:45:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sich-langsam-naehern",
+   "start": "2026-11-04T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -8781,6 +8729,14 @@
    "booking": ""
   },
   {
+   "film": "yugo-goes-to-america-yugo-ide-u-ameriku",
+   "start": "2026-11-04T18:00:00+01:00",
+   "cinema": "URANIA CEE🧡NEMA",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "other-mommy",
    "start": "2026-11-04T18:10:00+01:00",
    "cinema": "Haydn Kino",
@@ -8819,6 +8775,14 @@
    "lang": "OmeU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-04T18:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "elfriede-jelinek-die-sprache-von-der-leine-lassen-3",
@@ -8886,6 +8850,14 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-04T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "obsession",
    "start": "2026-11-04T19:45:00+01:00",
    "cinema": "Schikaneder",
@@ -8906,7 +8878,9 @@
    "start": "2026-11-04T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8932,9 +8906,7 @@
    "start": "2026-11-04T20:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8960,17 +8932,33 @@
    "start": "2026-11-04T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "highway-to-hofburg",
+   "start": "2026-11-04T20:10:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-11-04T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "sense-and-sensibility-2026",
    "start": "2026-11-04T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9102,9 +9090,7 @@
    "start": "2026-11-05T15:15:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9144,9 +9130,7 @@
    "start": "2026-11-05T15:45:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9182,6 +9166,14 @@
    "booking": ""
   },
   {
+   "film": "geister",
+   "start": "2026-11-05T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "liebhaberinnen",
    "start": "2026-11-05T17:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -9198,13 +9190,19 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-05T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-11-05T17:30:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9242,6 +9240,14 @@
     "Festival"
    ],
    "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-05T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "chopin-eine-sonate-in-paris",
@@ -9328,6 +9334,14 @@
    "booking": ""
   },
   {
+   "film": "the-queen-and-the-smokehouse",
+   "start": "2026-11-05T18:00:00+01:00",
+   "cinema": "URANIA CEE🧡NEMA",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "atmosphere",
    "start": "2026-11-05T18:15:00+01:00",
    "cinema": "CineCenter",
@@ -9355,6 +9369,14 @@
    "film": "alte-liebe",
    "start": "2026-11-05T18:15:00+01:00",
    "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-05T18:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -9394,6 +9416,14 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-05T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "the-dirty-dozen",
    "start": "2026-11-05T19:30:00+01:00",
    "cinema": "Bellaria Kino",
@@ -9414,6 +9444,14 @@
    "booking": ""
   },
   {
+   "film": "lalka",
+   "start": "2026-11-05T19:30:00+01:00",
+   "cinema": "URANIA CEE🧡NEMA",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "oyuna-geldik",
    "start": "2026-11-05T19:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -9424,6 +9462,14 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-11-05T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "sacrifice",
    "start": "2026-11-05T19:45:00+01:00",
    "cinema": "Top Kino",
@@ -9432,11 +9478,21 @@
    "booking": ""
   },
   {
+   "film": "primetime",
+   "start": "2026-11-05T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "possible-love",
    "start": "2026-11-05T20:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9452,7 +9508,9 @@
    "start": "2026-11-05T20:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9492,6 +9550,14 @@
    "start": "2026-11-05T20:15:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-05T20:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -9581,6 +9647,14 @@
    "film": "the-piano-tuner",
    "start": "2026-11-05T22:00:00+01:00",
    "cinema": "Top Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-06T17:45:00+01:00",
+   "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -9912,7 +9986,9 @@
    "start": "2026-11-10T11:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9932,6 +10008,14 @@
    "booking": ""
   },
   {
+   "film": "la-gradiva",
+   "start": "2026-11-10T17:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "was-ist-film-programm-17",
    "start": "2026-11-10T18:00:00+01:00",
    "cinema": "Filmmuseum",
@@ -9944,6 +10028,14 @@
    "start": "2026-11-10T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "staatsschutz",
+   "start": "2026-11-10T20:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -10023,6 +10115,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "london",
+   "start": "2026-11-11T20:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmeU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -10152,6 +10252,16 @@
    "booking": ""
   },
   {
+   "film": "pans-labyrinth",
+   "start": "2026-11-14T22:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "los-nuevos",
    "start": "2026-11-15T11:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -10201,6 +10311,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-15T17:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -11020,6 +11138,14 @@
    "booking": ""
   },
   {
+   "film": "you-can-see-everything",
+   "start": "2026-12-07T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "jim-queen",
    "start": "2026-12-07T20:30:00+01:00",
    "cinema": "Filmhaus",
@@ -11032,6 +11158,14 @@
    "start": "2026-12-08T19:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "you-can-see-everything",
+   "start": "2026-12-08T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -11066,6 +11200,22 @@
    "start": "2026-12-09T20:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "you-can-see-everything",
+   "start": "2026-12-09T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "you-can-see-everything",
+   "start": "2026-12-10T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
