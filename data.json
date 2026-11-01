@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:51+01:00",
+ "updated": "2026-11-01T11:41+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -387,26 +387,6 @@
    "score": null
   },
   {
-   "slug": "bloody-tennis",
-   "title": "Bloody Tennis",
-   "url": "https://nonstopkino.at/movies/bloody-tennis/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/0d09d318-6c3c-452a-9985-861ac2f68ced.jpg?fit=max&w=120",
-   "director": "Nikias Chryssos",
-   "cast": "Sandra Guldberg Kampp, Helena Zengel, Elina Löwensohn, Tracy Gotoas",
-   "year": 2026,
-   "runtime": 94,
-   "spoken": "Deutsch",
-   "synopsis": "Nachdem Sophie aus Detroit an einer elitären Tennisakademie aufgenommen wird, die tief im Süden Europas verborgen liegt, sieht sie sich nicht nur gnadenloser Konkurrenz in der Form fanatischer junger Spielerinnen gegenüber, sondern auch den zunehmend unheimlichen Einflüssen der Schule selbst. Als die Grenzen zwischen Ehrgeiz und Moral, Realität und Alptraum verschwimmen, wird Sophie langsam klar, dass der Weg zum Ruhm nur weiterführt, wenn sie bereit ist, einen Teil von sich selbst hinter sich zu lassen.",
-   "imdb": "tt34735922",
-   "rating": 4.7,
-   "votes": 556,
-   "genres": [
-    "Horror",
-    "Sport"
-   ],
-   "score": 2
-  },
-  {
    "slug": "breaking-dawn-biss-zum-ende-der-nacht-teil-1",
    "title": "Breaking Dawn – Bis(s) zum Ende der Nacht (Teil 1)",
    "url": "https://nonstopkino.at/movies/breaking-dawn-biss-zum-ende-der-nacht-teil-1/",
@@ -695,27 +675,6 @@
     "Romance"
    ],
    "score": 43
-  },
-  {
-   "slug": "das-kleine-gespenst",
-   "title": "Das kleine Gespenst",
-   "url": "https://nonstopkino.at/movies/das-kleine-gespenst/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/660db7ac-a8aa-40f2-846e-c761d4cdba71.jpg?fit=max&w=120",
-   "director": "Curt Linda",
-   "cast": "",
-   "year": 1992,
-   "runtime": 86,
-   "spoken": "Deutsch",
-   "synopsis": "Die liebevoll gezeichnete Zeichentrickverfilmung des beliebten Kinderbuchs von Otfried Preußler: Ein kleines weißes Nachtgespenst, das seit Jahrhunderten jede Nacht durch Burg Eulenstein spukt, hat einen großen Traum: einmal bei Tageslicht durch die Hallen zu wandeln. Und tatsächlich geht der Wunsch eines Tages durch einen Zufall in Erfüllung. Doch durch die Sonnenstrahlen wird das kleine Gespenst pechschwarz und verbreitet so Angst und Schrecken unter den Bewohnern des Städtchens. Erst als sich die Kinder des Apothekers, die sich als einzige nicht fürchten, des kleinen Gespenstes annehmen, kann alles wieder in Ordnung kommen und das Gespenst zu seinem „Nacht-Spuk-Rhythmus“ zurückfinden.",
-   "imdb": "tt0104623",
-   "rating": 5.9,
-   "votes": 84,
-   "genres": [
-    "Animation",
-    "Family",
-    "Fantasy"
-   ],
-   "score": 0
   },
   {
    "slug": "das-wandelnde-schloss",
@@ -1048,27 +1007,6 @@
    "score": null
   },
   {
-   "slug": "dracula",
-   "title": "Dracula",
-   "url": "https://nonstopkino.at/movies/dracula/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/d4b9de3c-2715-4ffe-89da-0fcc736a0fcf.jpg?fit=max&w=120",
-   "director": "Radu Jude",
-   "cast": "Adonis Tanta, Oana Maria Zaharia, Gabriel Spahiu, Lukas Miko",
-   "year": 2025,
-   "runtime": 170,
-   "spoken": "Rumänisch, Deutsch, Englisch",
-   "synopsis": "Ein Dracula-Film, gedreht in Transsilvanien. Eine Vampirjagd. Zombies und Dracula, die einen Streik sprengen. Eine Science-Fiction-Geschichte über die Rückkehr von Vlad, dem Pfähler. Eine Liebesgeschichte. Eine vulgäre Volkserzählung. KI-generierte, kitschige Geschichten. Und viele weitere Vergnügen – vereint in einem Film, der sich radikal mit diesem Kinomythos auseinandersetzt. Ein Film des rumänischen enfant terrible Radu Jude.",
-   "imdb": "tt32448239",
-   "rating": 5.6,
-   "votes": 998,
-   "genres": [
-    "Comedy",
-    "Horror",
-    "Musical"
-   ],
-   "score": 7
-  },
-  {
    "slug": "dune-part-three",
    "title": "Dune: Part Three",
    "url": "https://nonstopkino.at/movies/dune-part-three/",
@@ -1111,26 +1049,6 @@
    ],
    "favorite": true,
    "score": 93
-  },
-  {
-   "slug": "ecce-homo-der-verlorene-caravaggi",
-   "title": "Ecce Homo – Der Verlorene Caravaggi",
-   "url": "https://nonstopkino.at/movies/ecce-homo-der-verlorene-caravaggi/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/5e7943c4-1d40-44b5-a53f-dc82a352bbe8.jpeg?fit=max&w=120",
-   "director": "Álvaro Longoria",
-   "cast": "Jorge Coll, Maria Cristina Terzaghi, Filippo Benappi",
-   "year": 2025,
-   "runtime": 78,
-   "spoken": "Spanisch, Italienisch, Englisch",
-   "synopsis": "Ein in einem Madrider Haus entdecktes Gemälde sorgt für Aufsehen, als der Verdacht aufkommt, dass es sich um ein verschollenes Werk des berühmten italienischen Barockmalers Caravaggio handeln könnte. Die Enthüllung zieht Kunstexperten, Sammler und Behörden gleichermaßen in ihren Bann – doch mit dem möglichen Meisterwerk kommen auch Fragen und Intrigen ans Licht.",
-   "imdb": "tt31391025",
-   "rating": 6.7,
-   "votes": 165,
-   "genres": [
-    "Documentary",
-    "Thriller"
-   ],
-   "score": 2
   },
   {
    "slug": "eclipse-biss-zum-abendrot",
@@ -1621,27 +1539,6 @@
    "score": null
   },
   {
-   "slug": "gruberturnheim-vertonen-frankenstein-das-monster-spricht",
-   "title": "Gruber&Turnheim vertonen: Frankenstein – Das Monster spricht",
-   "url": "https://nonstopkino.at/movies/gruberturnheim-vertonen-frankenstein-das-monster-spricht/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/cb9f522c-3d21-4cfd-964f-b0e9f8d7f421.jpeg?fit=max&w=120",
-   "director": "J. Searle Dawley",
-   "cast": "Augustus Phillips, Charles Ogle, Mary Fuller",
-   "year": 1910,
-   "runtime": 90,
-   "spoken": "",
-   "synopsis": "Aufpreis: 25€ Leinwand-Lyriker RALPH TURNHEIM erweckt den ersten FRANKENSTEIN – Film zu neuem Leben! Bereits 1910 entstand in den Studios von Thomas Edison eine stumme Verfilmung des zeitlosen Romans. Warum diesen Stummfilm kaum jemand kennt? Weil ihn kaum jemand sehen konnte! Nur eine Originalkopie des historischen Werks hat überlebt. Ralph Turnheim hat sie in gewohnt einmaliger und urkomischer Weise mit gereimtem Wiener Schmäh vertont - und das gleich drei Mal! Als Drama, Komödie und Musical. Live musikalisch begleitet von Stummfilmpianistlegende GERHARD GRUBER! analoge Filmprojektion",
-   "imdb": "tt0001223",
-   "rating": 6.3,
-   "votes": 5496,
-   "genres": [
-    "Fantasy",
-    "Horror",
-    "Sci-Fi"
-   ],
-   "score": 11
-  },
-  {
    "slug": "gugus-welt",
    "title": "Gugus Welt",
    "url": "https://nonstopkino.at/movies/gugus-welt/",
@@ -1751,26 +1648,6 @@
     "Drama"
    ],
    "score": 9
-  },
-  {
-   "slug": "hokum",
-   "title": "Hokum",
-   "url": "https://nonstopkino.at/movies/hokum/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/eb729132-9b86-4557-a946-dad85d56ca23.jpg?fit=max&w=120",
-   "director": "Damian McCarthy",
-   "cast": "Adam Scott, David Wilmot, Austin Amelio, Florence Ordesh",
-   "year": 2026,
-   "runtime": 107,
-   "spoken": "Englisch",
-   "synopsis": "Als der Romanautor Ohm Bauman (Adam Scott) in ein abgelegenes Landgasthaus reist, um die Asche seiner Eltern zu verstreuen, gerät er in den Bann unheimlicher Geschichten über eine Hexe, die die Hochzeitssuite heimsuchen soll. Verstörende Visionen und ein schockierendes Verschwinden zwingen ihn dazu, sich den dunkelsten Winkeln seiner Vergangenheit zu stellen.",
-   "imdb": "tt35672862",
-   "rating": 6.6,
-   "votes": 74369,
-   "genres": [
-    "Horror",
-    "Thriller"
-   ],
-   "score": 36
   },
   {
    "slug": "hola-frida",
@@ -2064,19 +1941,6 @@
    "runtime": 60,
    "spoken": "Deutsch",
    "synopsis": "Lasst uns gemeinsam entdecken, wie viel Buntes und Zauberhaftes sich im Grau der Großstadt versteckt! Wir streifen durch die Straßen, geheimnisvollen Stadtbewohner*innen auf der Spur: dem riesigen Luchs, der zwischen Hochhäusern zum Internet-Star wird, den bunten Müllmonsterchen, die im Verborgenen Mauerritzen bewohnen, und Kanarienvogel Kiki, die ihre ersten Flugversuche wagt. „Hier ist Platz für alle“, ist der kleine Taschenmann überzeugt – und eine besondere Freundschaft beginnt. (Lisa Mai)",
-   "score": null
-  },
-  {
-   "slug": "kino-fuer-die-kleinsten-tierisch-was-los",
-   "title": "Kino für die Kleinsten: Tierisch was los!",
-   "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-tierisch-was-los/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/776ced00-b6b5-4bc4-8507-a8c7ec2b7664.jpeg?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": null,
-   "spoken": "",
-   "synopsis": "Hier spielen große und kleine Tiere die Hauptrolle: Ein bunter Vogel fühlt sich nirgendwo zugehörig – da hilft nur gemeinsames Musizieren. Sieben Tiere entdecken eine Holzkiste … oder ist es doch ein Bett oder ein Auto? Die kleinen Schildkröten aus Steinen überwinden Hindernisse auf dem Weg ins Meer. Ein Tiger sucht in Reimen nach seinen Streifen. Und ein ordnungsliebender Tintenfisch bringt Chaos ins Aquarium. (Annelies Cuba) Programm: Coucouleurs Oana Lacroix, 6 min, CH Für immer sieben Antje Heyn, Alexander Isert, 9 min, DE Chiripajas Olga Poliektova, Jaume Quiles, 2 min, RU/ES The Missing Spots Astrid Rothaug, 2 min, AT Cats & Dogs Jesús Pérez, Gerd Gockell, 6 min, CH/DE",
    "score": null
   },
   {
@@ -2531,27 +2395,6 @@
    "score": 4
   },
   {
-   "slug": "monster-mia",
-   "title": "MONSTER MIA",
-   "url": "https://nonstopkino.at/movies/monster-mia/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/10ee900b-7f77-4275-80ae-a3cd2131b5e1.jpeg?fit=max&w=120",
-   "director": "Verena Fels",
-   "cast": "Lilian Gartner, Verena Altenberger, Michael Ostrowski, Fanny Stapf",
-   "year": 2026,
-   "runtime": 85,
-   "spoken": "Deutsch, Englisch, Spanisch",
-   "synopsis": "Nachdem Mia unfreiwillig auf eine andere Schule geschickt wird, fühlt sie sich endlich in der gruseligen Finsterwald-Akademie zugehörig. Zusammen mit ihren neuen Monsterfreunden muss sie den bösen Plan des rachsüchtigen Schuldirektors Van Vlad vereiteln, um die Menschen in Lilienthal davor zu bewahren, in Monster verwandelt zu werden. Wird sie Erfolg haben und endlich Frieden zwischen Menschen und Monstern stiften können? Und gelingt es ihr schlussendlich zu sich selbst zu stehen?",
-   "imdb": "tt38807889",
-   "rating": 7.1,
-   "votes": 76,
-   "genres": [
-    "Adventure",
-    "Animation",
-    "Comedy"
-   ],
-   "score": 2
-  },
-  {
    "slug": "mugarik-gabe",
    "title": "Mugarik Gabe",
    "url": "https://nonstopkino.at/movies/mugarik-gabe/",
@@ -2851,26 +2694,6 @@
    "score": 84
   },
   {
-   "slug": "phantom-of-the-opera-stummfilm-mit-live-musik",
-   "title": "Phantom of the Opera – Stummfilm mit Live Musik",
-   "url": "https://nonstopkino.at/movies/phantom-of-the-opera-stummfilm-mit-live-musik/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/aa29b33d-63b7-421e-853e-bb062d358111.jpg?fit=max&w=120",
-   "director": "Rupert Julian, Lon Chaney, Ernst Laemmle",
-   "cast": "Lon Chaney, Norman Kerry, Mary Philbin",
-   "year": 1925,
-   "runtime": 93,
-   "spoken": "",
-   "synopsis": "Live vertont von SquarEars (Paul Zlattinger, Sebastian Elias Weiss) Das Duo SquarEars besteht aus den beiden Künstlern Paul Zlattinger und Sebastian Elias Weiss. Mit elektrischer Geige und Gitarre vertonen die beiden live den Stummfilmklassiker „Phantom of the Opera“ (1925). Einfühlsam folgen die beiden Musiker mit ihrem Spiel der sich steigernden Intensität des Filmes. Herzzerreißende auskomponierte Themen wetteifern mit düsteren Klanglandschaften und teilweise dissonanten, energiegeladenen Improvisationen. Die Musik bohrt sich durch Mark und Bein vergisst jedoch nie auf ein Tröpfchen Humor. Das Ganze ist ein wahnwitziges Erlebnis für die Augen, Ohren, aber auch Herzen und niemand sollte es sich entgehen lassen.",
-   "imdb": "tt0016220",
-   "rating": 7.5,
-   "votes": 22668,
-   "genres": [
-    "Horror",
-    "Music"
-   ],
-   "score": 26
-  },
-  {
    "slug": "plitsch-platsch-forever",
    "title": "Plitsch Platsch Forever!",
    "url": "https://nonstopkino.at/movies/plitsch-platsch-forever/",
@@ -2969,26 +2792,6 @@
     "Drama"
    ],
    "score": 24
-  },
-  {
-   "slug": "queens-of-the-dead",
-   "title": "QUEENS OF THE DEAD",
-   "url": "https://nonstopkino.at/movies/queens-of-the-dead/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/d28c9fb0-4f7b-4677-9df3-b399d78afb76.jpg?fit=max&w=120",
-   "director": "Tina Romero",
-   "cast": "Katy O'Brian, Margaret Cho, Jack Haven",
-   "year": 2025,
-   "runtime": 99,
-   "spoken": "Englisch",
-   "synopsis": "DJ Dre (Katy O’Brian), plant im New Yorker Stadtteil Brooklyn eine große Lagerhaus-Party mit Drag-Show, dabei läuft so einiges schief. Der Hauptact sagt ab, die Toiletten sind verstopft und pünktlich zum Start schauen auch noch mehrere Hetero-Influencer vorbei, die Ärger machen könnten. Als dann mitten in der Nacht eine Zombie-Apokalypse ausbricht und eine Menge Untote versuchen, in ihren Club einzudringen, muss die bunt gemischte Truppe aus Dragqueens, Club-Kids und Partygästen ihre persönlichen Dramen und Rivalitäten beiseitelegen. Bewaffnet mit High Heels, Glitter und Cocktailshakern kämpfen sie gemeinsam ums pure Überleben gegen die gehirnhungrigen Untoten. QUEENS OF THE DEAD ist das Spielfilmdebüt von Regisseurin Tina Romero. Als Tochter des legendären Horror-Meisters George A. Romero (NIGHT OF THE LIVING DEAD) belebt sie die schleichenden Zombies mit queerem Glamour und herzhaftem Humor.",
-   "imdb": "tt32986431",
-   "rating": 5.3,
-   "votes": 2319,
-   "genres": [
-    "Comedy",
-    "Horror"
-   ],
-   "score": 10
   },
   {
    "slug": "queertactics-perlen",
@@ -3396,25 +3199,6 @@
    "score": 50
   },
   {
-   "slug": "the-exorcist-directors-cut",
-   "title": "The Exorcist – Director’s Cut",
-   "url": "https://nonstopkino.at/movies/the-exorcist-directors-cut/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/64a75615-f7eb-4086-abec-cad948187b29.jpg?fit=max&w=120",
-   "director": "William Friedkin",
-   "cast": "Linda Blair, Ellen Burstyn, Max von Sydow, Jason Miller, Lee J. Cobb",
-   "year": 1973,
-   "runtime": 132,
-   "spoken": "Englisch",
-   "synopsis": "Aus der 12-jährigen Regan wird quasi über Nacht ein unheimliches Wesen, denn fremde, bösartige Kräfte scheinen von ihr Besitz ergriffen zu haben. Als die Schulmedizin nicht mehr weiterweiß, wendet sich ihre Mutter verzweifelt an die Kirche. Zwei Jesuitenpater nehmen sich ihrer an und versuchen, den Dämon mittels »the power of Christ« auszutreiben … Friedkins THE EXORCIST sorgte bei seiner Uraufführung für Schwindelanfälle, Gesprächsstoff und einen Run auf die katholische Kirche. Was wenig verwundert, verkörpert der Film Anfang der 1970er-Jahre doch eine ganze Menge an Ängsten, unter denen die westlichen Gesellschaften litten, weil sie ihre moralische Überlegenheit in Frage stellen mussten. Freud: »Die Dämonen sind unsere bösen, verworfenen Wünsche, Abkömmlinge abgewiesener, verdrängter Triebregungen.« (Florian Widegger)",
-   "imdb": "tt0070047",
-   "rating": 8.1,
-   "votes": 508326,
-   "genres": [
-    "Horror"
-   ],
-   "score": 83
-  },
-  {
    "slug": "the-flight-of-the-phoenix",
    "title": "The Flight of the Phoenix",
    "url": "https://nonstopkino.at/movies/the-flight-of-the-phoenix/",
@@ -3679,27 +3463,6 @@
    "score": 0
   },
   {
-   "slug": "the-nightmare-before-christmas",
-   "title": "The Nightmare Before Christmas",
-   "url": "https://nonstopkino.at/movies/the-nightmare-before-christmas/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/93458a8a-91a1-4738-bc2a-988152e8cd02.png?fit=max&w=120",
-   "director": "Henry Selick",
-   "cast": "Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey",
-   "year": 1993,
-   "runtime": 73,
-   "spoken": "Englisch",
-   "synopsis": "Jack Skellington ist der gefeierte Held von Halloweentown. Er treibt die gespenstischen Bewohner des Städtchens jedes Jahr aufs neue dazu an, sich schauerliche Überraschungen und diabolische Gags für das nächste Halloweenfest auszudenken. Doch der jährliche Trott, der sich immer einzig und allein um das Halloween dreht, wird Jack langsam zu eintönig. Als er zufällig die Tür zur fröhlichen und farbigen Weihnachtswelt findet und hindurchtritt, kommt ihm die Idee, das so andersartige Weihnachtsfest dieses Jahr selbst auszurichten...",
-   "imdb": "tt0107688",
-   "rating": 7.9,
-   "votes": 418663,
-   "genres": [
-    "Adventure",
-    "Animation",
-    "Family"
-   ],
-   "score": 60
-  },
-  {
    "slug": "the-piano-tuner",
    "title": "The Piano Tuner",
    "url": "https://nonstopkino.at/movies/the-piano-tuner/",
@@ -3822,28 +3585,6 @@
     "Sci-Fi"
    ],
    "score": 92
-  },
-  {
-   "slug": "the-thing-das-ding-aus-einer-anderen-welt",
-   "title": "The Thing (Das Ding aus einer anderen Welt)",
-   "url": "https://nonstopkino.at/movies/the-thing-das-ding-aus-einer-anderen-welt/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/e2616fc8-6d05-4541-b7ee-e37b1e984b1e.jpeg?fit=max&w=120",
-   "director": "John Carpenter",
-   "cast": "Kurt Russell, Wilford Brimley, Keith David, Richard Masur, T.K. Carter",
-   "year": 1982,
-   "runtime": 109,
-   "spoken": "Englisch",
-   "synopsis": "In einer Forschungsstation in der Antarktis stößt das Team rund um R.J. MacReady (Kurt Russell) auf ein entsetzliches Geheimnis. Ein außerirdisches Wesen, das die Fähigkeit besitzt, seine Gestalt zu ändern, wurde freigesetzt – und keiner weiß mehr, wem man noch trauen kann. Unmut macht sich breit, als das Monster heimlich unter ihnen lauert und in immer groteskeren Formen zuschlägt. Die Paranoia wächst, je mehr Mitglieder der Besatzung niedergemetzelt werden. In dieser Atmosphäre der ständigen Angst und Bedrohung wird die Frage immer drängender: Wer oder was ist überhaupt noch echt? Zum Zeitpunkt der Veröffentlichung gemischt aufgenommen, gehört John Carpenters Remake der Erzählung „Who Goes There?“ von Sci-Fi-Schriftsteller John W. Campbell Jr. heute zu den unumstrittenen Genre-Meilensteinen. Ein höchst klaustrophobisches und an Grauslichkeiten nicht armes Kammerspiel, garniert mit den wahrscheinlich eindrucksvollsten Body-Horror-Effekten der Filmgeschichte.",
-   "imdb": "tt0084787",
-   "rating": 8.2,
-   "votes": 540459,
-   "genres": [
-    "Horror",
-    "Mystery",
-    "Sci-Fi"
-   ],
-   "favorite": true,
-   "score": 108
   },
   {
    "slug": "the-third-man",
@@ -4412,754 +4153,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-31T11:30:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-31T13:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-31T13:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-10-31T13:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-31T14:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-31T14:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-10-31T14:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "das-kleine-gespenst",
-   "start": "2026-10-31T14:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ecce-homo-der-verlorene-caravaggi",
-   "start": "2026-10-31T14:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-31T14:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-31T15:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "monster-mia",
-   "start": "2026-10-31T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-31T15:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-31T15:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-31T15:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-31T15:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-31T15:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-31T15:50:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-10-31T16:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-31T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-10-31T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-31T16:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-31T16:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-tag-ohne-frauen",
-   "start": "2026-10-31T16:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-31T16:20:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-31T16:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-31T16:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-31T16:45:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-31T16:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-31T17:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
-   "start": "2026-10-31T17:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-10-31T17:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-10-31T17:15:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-31T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-10-31T17:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-31T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-31T17:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-10-31T17:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-31T18:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-31T18:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-31T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-31T18:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-10-31T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-10-31T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "corpus-delicti",
-   "start": "2026-10-31T18:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-31T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-31T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-31T18:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-10-31T18:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-10-31T18:20:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-10-31T18:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-nightmare-before-christmas",
-   "start": "2026-10-31T18:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-10-31T18:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-10-31T18:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "phantom-of-the-opera-stummfilm-mit-live-musik",
-   "start": "2026-10-31T19:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-rocky-horror-picture-show-3",
-   "start": "2026-10-31T19:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "dracula",
-   "start": "2026-10-31T19:00:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-10-31T19:30:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-10-31T19:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-31T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-31T19:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "sacrifice",
-   "start": "2026-10-31T19:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gruberturnheim-vertonen-frankenstein-das-monster-spricht",
-   "start": "2026-10-31T20:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-10-31T20:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-10-31T20:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-exorcist-directors-cut",
-   "start": "2026-10-31T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-10-31T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-10-31T20:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-10-31T20:15:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-10-31T20:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-10-31T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-10-31T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-10-31T20:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-10-31T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-10-31T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ken-russells-the-devils-directors-cut",
-   "start": "2026-10-31T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-10-31T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "queens-of-the-dead",
-   "start": "2026-10-31T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-10-31T21:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-10-31T21:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bloody-tennis",
-   "start": "2026-10-31T21:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-rocky-horror-picture-show-3",
-   "start": "2026-10-31T21:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-10-31T21:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "resident-evil",
-   "start": "2026-10-31T22:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-10-31T22:00:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-10-31T22:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "hokum",
-   "start": "2026-10-31T22:30:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-thing-das-ding-aus-einer-anderen-welt",
-   "start": "2026-10-31T22:30:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-10-31T22:40:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-rocky-horror-picture-show-3",
-   "start": "2026-10-31T23:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "kino-fuer-die-kleinsten-tierisch-was-los",
-   "start": "2026-11-01T11:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
   {
    "film": "possible-love",
    "start": "2026-11-01T12:00:00+01:00",
@@ -8376,14 +7369,6 @@
    "booking": ""
   },
   {
-   "film": "vaterland",
-   "start": "2026-11-06T20:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
    "film": "sodom-and-gomorrah",
    "start": "2026-11-06T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -10112,6 +9097,14 @@
   {
    "film": "die-wikingerprinzessin-volle-kraft-voraus",
    "start": "2026-12-29T14:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "club-kid",
+   "start": "2026-12-31T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
    "tags": [],
