@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T12:30+01:00",
+ "updated": "2026-11-03T12:09+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -124,26 +124,6 @@
     "Drama"
    ],
    "score": 0
-  },
-  {
-   "slug": "amarga-navidad-bitteres-fest",
-   "title": "Bitteres Fest (Amarga navidad)",
-   "url": "https://nonstopkino.at/movies/amarga-navidad-bitteres-fest/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/82301a4a-5f31-46f8-9292-b74dba8e177c.jpg?fit=max&w=120",
-   "director": "Pedro Almodóvar",
-   "cast": "Bárbara Lennie, Leonardo Sbaraglia, Aitana Sánchez-Gijón, Victoria Luengo",
-   "year": 2026,
-   "runtime": 111,
-   "spoken": "Spanisch",
-   "synopsis": "»Man kehrt immer an jene Orte zurück, wo man das Leben geliebt hat«, heißt es einmal – und auch Pedro Almodóvar kehrt mit seinem neuen Film dorthin zurück, wo er am liebsten ist: ins Kino selbst. Die Geschichte eines Drehbuchautors, der sich nach einigen Jahren Pause wieder an den Laptop setzt, um sein nächstes Meisterwerk zu fabrizieren, bildet die Ausgangslage für eine anregende, komplexe Meta-Verdichtung von Realität und Fiktion, in der seine Protagonistin in der Vorweihnachtszeit eine Panikattacke ereilt. Figuren, Motive, Erzählstränge beginnen sich auf beiden Ebenen zu spiegeln und aufeinander Einfluss zu nehmen. Am Schluss steht die Erkenntnis, dass große Kunst eben auch großer Authentizität bedarf. Und die stellt der Spanier einmal mehr bravourös unter Beweis. (Florian Widegger)",
-   "imdb": "tt28088049",
-   "rating": 6.3,
-   "votes": 5649,
-   "genres": [
-    "Comedy",
-    "Drama"
-   ],
-   "score": 23
   },
   {
    "slug": "apache",
@@ -482,6 +462,26 @@
    "score": null
   },
   {
+   "slug": "butthole-surfers-the-hole-truth-and-nothing-butt",
+   "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+   "url": "https://nonstopkino.at/movies/butthole-surfers-the-hole-truth-and-nothing-butt/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f9f58cb6-1356-456b-9bce-3b6cd6c16f8a.jpeg?fit=max&w=120",
+   "director": "Tom Stern",
+   "cast": "Gibby Haynes, Paul Leary, King Coffey",
+   "year": 2025,
+   "runtime": 106,
+   "spoken": "Englisch",
+   "synopsis": "Der Film über die texanische Psychedelic-Punk-Band Butthole Surfers zeichnet nach, wie zwei BWL-Studenten eine Gruppe gleichgesinnter Außenseiter um sich scharten, um gemeinsam einen der radikalsten Wege einzuschlagen, der je in der Rockgeschichte aufgezeigt wurden. Ihre Live-Auftritten waren legendär, einzigartige gemeinschaftliche Initiationsriten für Band und Publikum, und damit das perfekte Gegenstück bilden zur digitalen Isolation unserer heutigen Zeit. Trotz ihres als unvermarktbar gedachten Namens inspirierten die Butthole Surfers Bands wie Nirvana, Filmemacher wie Richard Linklater, Schauspieler wie Johnny Depp – und landeten in ihrer Spätphase sogar noch einen Charts-Hit. Der Film setzt auch unterschiedliche Animationstechniken ein, was nicht nur amüsant und bildstark ist, sondern auch dabei hilft, hinter all dem Chaos das intime Porträt von fünf kompromisslose Originalen zu schaffen und deren wendungsreichen Biographien in einen größeren Kontext aka Zeitgeist zu stellen.",
+   "imdb": "tt16304140",
+   "rating": 8.6,
+   "votes": 195,
+   "genres": [
+    "Documentary",
+    "Music"
+   ],
+   "score": 0
+  },
+  {
    "slug": "chopin-eine-sonate-in-paris",
    "title": "Chopin – Eine Sonate in Paris",
    "url": "https://nonstopkino.at/movies/chopin-eine-sonate-in-paris/",
@@ -637,6 +637,27 @@
    "score": 36
   },
   {
+   "slug": "dances-with-wolves",
+   "title": "Dances with Wolves",
+   "url": "https://nonstopkino.at/movies/dances-with-wolves/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/15399b6c-7e3e-457e-b69c-756d695fce4e.jpg?fit=max&w=120",
+   "director": "KEVIN COSTNER",
+   "cast": "KEVIN COSTNER, MARY MCDONNELL, GRAHAM GREENE, RODNEY GRANT",
+   "year": 1990,
+   "runtime": 180,
+   "spoken": "",
+   "synopsis": "Leutnant John J. Dunbar lässt sich an einen Außenposten im Grenzland, in den »Wilden Westen« versetzen. Einsamkeit und Angst vor den Sioux prägen seinen Alltag, doch »Der mit dem Wolf tanzt« wird schließlich in ihren Kreis aufgenommen. Die Idylle währt nicht lange, als die Armee den »Indianerfreund« aufspürt und wegen Desertation gefangen nimmt … Costner machte es sich mit seinem Regiedebüt nicht gerade einfach: Ein Western galt 1990 als Kassengift, der Film hatte mit drei Stunden Überlänge und die indigenen Darsteller sprachen Lakota, weshalb die Hälfte untertitelt werden musste. Eric Pleskow sah dagegen das Potenzial und hielt ihm den Rücken frei – zu Recht: Den Produktionskosten von 19 Millionen stand mehr als das Zehnfache an Einnahmen gegenüber, als Draufgabe regnete es sieben Oscars.",
+   "imdb": "tt0099348",
+   "rating": 8.0,
+   "votes": 314174,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Western"
+   ],
+   "score": 66
+  },
+  {
    "slug": "dante",
    "title": "Dante",
    "url": "https://nonstopkino.at/movies/dante/",
@@ -654,27 +675,6 @@
     "Animation"
    ],
    "score": 0
-  },
-  {
-   "slug": "das-drama-noch-mal-auf-anfang",
-   "title": "The Drama",
-   "url": "https://nonstopkino.at/movies/das-drama-noch-mal-auf-anfang/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/39147b30-ce0d-4ea3-b92c-99870ec9bdab.jpeg?fit=max&w=120",
-   "director": "Kristoffer Borgli",
-   "cast": "Zendaya, Robert Pattinson, Greer Cohen, Alana Haim",
-   "year": 2026,
-   "runtime": 105,
-   "spoken": "Englisch",
-   "synopsis": "Emma Harwood (Zendaya) und Charlie Thompson (Robert Pattinson) sind zwei, die sich gefunden haben. Er kommt aus London und verdient sein Geld als Museumsdirektor. Sie ist Buchhändlerin aus dem US-amerikanischen Süden. Die beiden sind nicht nur ineinander verliebt, sondern mittlerweile auch glücklich verlobt. Bis zur großen Hochzeit sind es nur noch eine Handvoll von Tagen. Doch plötzlich gerät ein sprichwörtlicher Stock zwischen die Planungsspeichen und die ganze Feier droht zu platzen. Denn Emma und Charlie müssen sich auf einmal Wahrheiten stellen, die sie auch ihre gesamte Beziehung noch mal unter anderem Licht betrachten lassen…",
-   "imdb": "tt33071426",
-   "rating": 7.1,
-   "votes": 139692,
-   "genres": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "score": 43
   },
   {
    "slug": "das-wandelnde-schloss",
@@ -919,6 +919,27 @@
    "score": 0
   },
   {
+   "slug": "die-tribute-von-panem-the-ballad-of-songbirds-snakes",
+   "title": "Die Tribute von Panem – The Ballad of Songbirds & Snakes",
+   "url": "https://nonstopkino.at/movies/die-tribute-von-panem-the-ballad-of-songbirds-snakes/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f53c4e17-4169-478b-8c55-7bb0884738c2.png?fit=max&w=120",
+   "director": "Francis Lawrence",
+   "cast": "Tom Blyth, Rachel Zegler, Hunter Schafer, Jason Schwartzman, Peter Dinklage.",
+   "year": 2023,
+   "runtime": 158,
+   "spoken": "Englisch",
+   "synopsis": "Das spannende Prequel zur \"Die Tribute von Panem\"-Reihe, das 64 Jahre vor den Ereignissen im ersten Film spielt, kurz nach den sogenannten \"Dunklen Tagen\". Im Mittelpunkt der Geschichte steht der junge Coriolanus (Tom Blyth), lange bevor er zum Präsidenten von Panem werden sollte. Er ist die letzte Hoffnung für seine einst stolze Familie Snow, die in Ungnade gefallen ist. Als er zum Mentor von Lucy (Rachel Zegler), einem Mädchen aus dem verarmten Distrikt 12, erwählt wird, sieht er die Chance, sein Schicksal zu ändern. Wir sahen den Fall von Präsident Snow. Nun wird die Welt Zeuge seines Aufstiegs.",
+   "imdb": "tt10545296",
+   "rating": 6.6,
+   "votes": 192557,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "score": 52
+  },
+  {
    "slug": "die-unendliche-geschichte",
    "title": "Die unendliche Geschichte",
    "url": "https://nonstopkino.at/movies/die-unendliche-geschichte/",
@@ -971,6 +992,19 @@
     "Family"
    ],
    "score": 18
+  },
+  {
+   "slug": "die-wolle-der-mensch-das-schaf",
+   "title": "die WOLLE der MENSCH das SCHAF",
+   "url": "https://nonstopkino.at/movies/die-wolle-der-mensch-das-schaf/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/72062bfb-9dfc-44a8-aafa-ab1fb07bb3e1.jpeg?fit=max&w=120",
+   "director": "Walter Aigner",
+   "cast": "",
+   "year": 2026,
+   "runtime": 65,
+   "spoken": "",
+   "synopsis": "Im Herzen Europas verbirgt sich ein Paradox: Während wir über Nachhaltigkeit und Kreislaufwirtschaft sprechen, wird mehr als die Hälfte unserer Wolle – einer der natürlichsten und vielseitigsten Rohstoffe – weggeworfen oder verbrannt. die WOLLE der MENSCH das SCHAF begleitet zwei traditionelle Schäfer in Transsilvanien durch ein ganzes Jahr. Ihr Alltag bildet den erzählerischen roten Faden, der 14 Interviews aus 11 Ländern miteinander verbindet. Schäfer, Wissenschaftler, Designer, Handwerker, Textilunternehmen und Marken erklären, wie aus einem wertvollen Material Abfall wurde, und zeigen, welches Potenzial noch immer in ihm steckt. Schafe erhalten unsere Kulturlandschaften, fördern die Artenvielfalt und helfen, Erosion und Brände zu verhindern. Dennoch werden diese unverzichtbaren Leistungen kaum anerkannt, und viele Schäfer kämpfen ums Überleben. Der Film zeigt, dass es keine wertlose Wolle gibt. Was fehlt, sind Wissen, Infrastruktur und regionale Wertschöpfungsketten. Wolle wieder wertzuschätzen bedeutet, nicht nur einen Rohstoff zu bewahren, sondern auch Landschaften, Schafrassen, Handwerk, Kulturen und eine nachhaltigere Form des Zusammenlebens mit der Natur.",
+   "score": null
   },
   {
    "slug": "digger",
@@ -1185,6 +1219,25 @@
     "Sci-Fi"
    ],
    "score": 101
+  },
+  {
+   "slug": "etwas-ganz-besonderes",
+   "title": "Etwas ganz Besonderes",
+   "url": "https://nonstopkino.at/movies/etwas-ganz-besonderes/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8030f593-a47d-4b65-888b-4aaaaf9ed63b.jpg?fit=max&w=120",
+   "director": "Eva Trobisch",
+   "cast": "Frida Hornemann, Max Riemelt, Eva Löbau, Peter René Lüdicke",
+   "year": 2026,
+   "runtime": 120,
+   "spoken": "Deutsch",
+   "synopsis": "Mit der Frage nach ihrer Persönlichkeit wird die siebzehnjährige Lea in einer Gesangs-Castingshow konfrontiert, bleibt jedoch ohne klare Antwort. Die Unsicherheit spiegelt sich auch in ihrem Alltag wider, denn die familieneigene Pension in einer thüringischen Kleinstadt steht kurz vor dem finanziellen Scheitern. Gleichzeitig belastet die Trennung ihrer Eltern Matze und Rieke ihre Suche nach Orientierung. Halt sucht Lea bei ihrer Tante Kati, die als Museumsleiterin scheinbar souverän durchs Leben geht. Doch die mit EU-Mitteln geförderte Sanierung ihres Museums sorgt in der strukturschwachen Region für Spannungen. Währenddessen ist Leas beste Freundin Bonny ganz von ihren eigenen Gefühlen eingenommen, nachdem sie sich in Cousin Edgar verliebt hat. Inmitten familiärer und persönlicher Umbrüche gerät Leas Weg zu sich selbst zunehmend unter Druck.",
+   "imdb": "tt39382755",
+   "rating": 6.0,
+   "votes": 134,
+   "genres": [
+    "Family"
+   ],
+   "score": 0
   },
   {
    "slug": "everyones-child",
@@ -1743,6 +1796,27 @@
    "score": 121
   },
   {
+   "slug": "james-bond-007-casino-royale",
+   "title": "James Bond 007: Casino Royale",
+   "url": "https://nonstopkino.at/movies/james-bond-007-casino-royale/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/88e75792-cd89-443c-9719-d6488fcfa8a6.jpeg?fit=max&w=120",
+   "director": "Martin Campbell",
+   "cast": "Daniel Craig, Eva Green, Judi Dench",
+   "year": 2006,
+   "runtime": 144,
+   "spoken": "Englisch",
+   "synopsis": "Mit CASINO ROYALE beginnt für James Bond (Daniel Craig) eine neue Ära. Nach seiner Ernennung zum Doppelnull-Agenten 007 erhält er seinen ersten Auftrag: Er soll den skrupellosen Finanzier Le Chiffre (Mads Mikkelsen) daran hindern, das Geld seiner Auftraggeber bei einem hochriskanten Pokerturnier im Casino Royale in Montenegro zu verlieren. Unterstützt wird Bond von der britischen Finanzbeamtin Vesper Lynd (Eva Green), die nicht nur sein Können am Spieltisch, sondern auch seine Gefühle auf die Probe stellt. Während sich das Duell mit Le Chiffre immer weiter zuspitzt, gerät Bond in ein gefährliches Spiel aus Täuschung, Verrat und Manipulation. Mit seinem kompromisslosen Stil, packenden Actionszenen und einem verletzlicheren, menschlicheren James Bond markiert Martin Campbells Film den Beginn eines neuen Kapitels der legendären Agentenreihe.",
+   "imdb": "tt0381061",
+   "rating": 8.0,
+   "votes": 757512,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "score": 89
+  },
+  {
    "slug": "jim-queen",
    "title": "Jim Queen",
    "url": "https://nonstopkino.at/movies/jim-queen/",
@@ -1869,7 +1943,7 @@
    "slug": "kino-fuer-die-kleinsten-oh-was-hast-du-denn-entdeckt",
    "title": "Kino für die Kleinsten: Oh, Was hast du denn entdeckt?",
    "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-oh-was-hast-du-denn-entdeckt/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/20fe8129-d904-496f-9a45-b40b308a1904.jpg?fit=max&w=120",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/e7d10856-8171-40bb-b31b-2e50bc33e961.jpeg?fit=max&w=120",
    "director": "Diverse",
    "cast": "",
    "year": null,
@@ -2341,6 +2415,27 @@
     "Thriller"
    ],
    "score": 4
+  },
+  {
+   "slug": "monster-mia",
+   "title": "MONSTER MIA",
+   "url": "https://nonstopkino.at/movies/monster-mia/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/10ee900b-7f77-4275-80ae-a3cd2131b5e1.jpeg?fit=max&w=120",
+   "director": "Verena Fels",
+   "cast": "Lilian Gartner, Verena Altenberger, Michael Ostrowski, Fanny Stapf",
+   "year": 2026,
+   "runtime": 85,
+   "spoken": "Deutsch, Englisch, Spanisch",
+   "synopsis": "Nachdem Mia unfreiwillig auf eine andere Schule geschickt wird, fühlt sie sich endlich in der gruseligen Finsterwald-Akademie zugehörig. Zusammen mit ihren neuen Monsterfreunden muss sie den bösen Plan des rachsüchtigen Schuldirektors Van Vlad vereiteln, um die Menschen in Lilienthal davor zu bewahren, in Monster verwandelt zu werden. Wird sie Erfolg haben und endlich Frieden zwischen Menschen und Monstern stiften können? Und gelingt es ihr schlussendlich zu sich selbst zu stehen?",
+   "imdb": "tt38807889",
+   "rating": 7.1,
+   "votes": 76,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "score": 2
   },
   {
    "slug": "mugarik-gabe",
@@ -2869,6 +2964,19 @@
    "score": 11
   },
   {
+   "slug": "shaun-das-schaf-der-film",
+   "title": "Shaun das Schaf – Der Film",
+   "url": "https://nonstopkino.at/movies/shaun-das-schaf-der-film/",
+   "poster": "",
+   "director": "",
+   "cast": "",
+   "year": null,
+   "runtime": null,
+   "spoken": "",
+   "synopsis": "",
+   "score": null
+  },
+  {
    "slug": "shaun-das-schaf-spuk-im-kuerbisfeld",
    "title": "Shaun das Schaf – Spuk im Kürbisfeld",
    "url": "https://nonstopkino.at/movies/shaun-das-schaf-spuk-im-kuerbisfeld/",
@@ -2968,26 +3076,6 @@
    "score": 0
   },
   {
-   "slug": "spider-man-brand-new-day",
-   "title": "Spider-Man: Brand New Day",
-   "url": "https://nonstopkino.at/movies/spider-man-brand-new-day/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/19ae466b-f68a-4438-8e06-c1276145bef7.jpg?fit=max&w=120",
-   "director": "Destin Daniel Cretton",
-   "cast": "Tom Holland, Zendaya, Jacob Batalon, Sadie Sink, Jon Bernthal, Tramell Tillman, Michael Mando",
-   "year": 2026,
-   "runtime": 150,
-   "spoken": "Englisch",
-   "synopsis": "Nach dem phänomenalen weltweiten Erfolg von „Spider-Man: No Way Home“ schlägt SPIDER-MAN: BRAND NEW DAY ein völlig neues Kapitel für Peter Parker und Spider-Man auf. Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
-   "imdb": "tt22084616",
-   "rating": 7.9,
-   "votes": 368434,
-   "genres": [
-    "Action",
-    "Adventure"
-   ],
-   "score": 71
-  },
-  {
    "slug": "staatsschutz",
    "title": "Staatsschutz",
    "url": "https://nonstopkino.at/movies/staatsschutz/",
@@ -3008,17 +3096,24 @@
    "score": 4
   },
   {
-   "slug": "surf-film-nacht-guts-her-wave",
-   "title": "Surf Film Nacht: Guts + Her Wave",
-   "url": "https://nonstopkino.at/movies/surf-film-nacht-guts-her-wave/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/66a71e7a-19f9-40b5-aa49-b6a8235a34d0.jpeg?fit=max&w=120",
-   "director": "Patrizia Bruno, Luigi Rapanelli",
-   "cast": "",
+   "slug": "stop-that-train",
+   "title": "Stop! That! Train!",
+   "url": "https://nonstopkino.at/movies/stop-that-train/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/621b9d1b-3172-4db7-af6e-b84a4aebf221.jpeg?fit=max&w=120",
+   "director": "Adam Shankman",
+   "cast": "RuPaul, Ginger Minj, Jujubee",
    "year": 2026,
-   "runtime": 95,
-   "spoken": "",
-   "synopsis": "SURF FILM NACHT European Tour: GUTS + HER WAVE Ein Abend voller großer und kleiner Wellen, atemberaubender Natur und jeder Menge Girl Power! Was geschieht, wenn Frauen klassische Rollenbilder hinter sich lassen, und nur noch ihren Träumen folgen? Findet’s raus in unserem Gutsy Girls Double Feature! GUTS – A FEMALE EXPEDITION THROUGH AFRICA (FR, 2025. Regie Patrizia Bruno. 65 Min. OmeU) Patrizia und und Marie verwirklichten ihren Traum: Eine 20.000 Kilometer lange Offroad-Surfari von Biarritz bis nach Guinea-Bissau – im Gepäck nichts weiter als ein alter Jeep, vier Surfbretter und eine Mission: die Geschichten inspirierender Frauen einzufangen, die in ganz Nordwestafrika ihren Platz in der Gesellschaft neu definieren. HER WAVE (D, 2026. Regie: Luigi Rapanelli. 30 Min. OmeU) In drei Kapiteln, die sich an den Mondphasen orientieren, begleitet HER WAVE Deutschlands Big-Wave-Surferin Lena Kemna durch ihre zweite Saison in Nazaré. Anstatt einer klassischen Heldenreise zu folgen, zeichnet der Film realistisch, grimmig, künstlerisch und bildgewaltig den Verlauf eines Winters nach, der von extremen Höhen und Tiefen geprägt war.",
-   "score": null
+   "runtime": 92,
+   "spoken": "Englisch",
+   "synopsis": "Stop! That! Train! ist eine Actionkomödie, die den Katastrophenfilmklassiker „Airplane!“ auf Schienen bringt – nur mit mehr Glitzer, mehr Drag und dem Camp-Humor von „RuPaul’s Drag Race“. Die besten Freundinnen Tess (Ginger Minj) und DeeDee (Jujubee) werden kurzerhand Zugbegleiterinnen im luxuriösen „Glamazonian Express“, doch ihr Traumjob wird zum Albtraum, als der Zug mitten in den „Stormaganza“ rast. Nur die beiden und die fabelhafte Präsidentin Gagwell (gespielt von niemand anderem als RuPaul herself!) können noch alle an Bord retten. Eine wilde Rettungsmission voller Slapstick, Running Gags und Popkulturreferenzen, die wir als laut-fröhlichen Akt queeren Widerstands verstehen",
+   "imdb": "tt38128726",
+   "rating": 5.8,
+   "votes": 4448,
+   "genres": [
+    "Action",
+    "Comedy"
+   ],
+   "score": 24
   },
   {
    "slug": "teenage-sex-and-death-at-camp-misma",
@@ -3896,27 +3991,6 @@
    "score": 0
   },
   {
-   "slug": "wie-der-wind-sich-hebt",
-   "title": "Wie der Wind sich hebt",
-   "url": "https://nonstopkino.at/movies/wie-der-wind-sich-hebt/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/797b1a59-ae65-48e5-b303-05505db6453e.jpg?fit=max&w=120",
-   "director": "Hayao Miyazaki",
-   "cast": "",
-   "year": 2013,
-   "runtime": 126,
-   "spoken": "Japanisch",
-   "synopsis": "Jiro Horikoshi sehnt sich schon als kleiner Junge nach luftigen Höhen. Der sensible Träumer möchte am liebsten in selbst entworfenen Flugzeugen durch den Himmel gleiten, wie sein großes Vorbild, der italienische Ingenieur Caproni. Seine Kurzsichtigkeit hindert Jiro aber an einer Karriere als Pilot. Stattdessen steigt er bei einem großen japanischen Ingenieursbüro ein und revolutioniert mit seinen innovativen Ideen und Designs den Flugzeugbau weltweit. Während einer Zugfahrt begegnet er der hübschen Nahoko, mit der er sich Jahre später nach einem zufälligen Wiedersehen verlobt und die zu seiner Muse und großen Liebe wird. Während Jiro aber über die Jahre schließlich Kriegsflugzeuge baut, hat Nahoko mit gesundheitlichen Problemen zu kämpfen…",
-   "imdb": "tt2013293",
-   "rating": 7.8,
-   "votes": 115905,
-   "genres": [
-    "Animation",
-    "Biography",
-    "Drama"
-   ],
-   "score": 59
-  },
-  {
    "slug": "wild-horse-nine",
    "title": "Wild Horse Nine",
    "url": "https://nonstopkino.at/movies/wild-horse-nine/",
@@ -4059,572 +4133,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "spider-man-brand-new-day",
-   "start": "2026-11-02T14:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
-   "start": "2026-11-02T14:20:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-02T14:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-11-02T14:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "amarga-navidad-bitteres-fest",
-   "start": "2026-11-02T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-02T15:15:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
-   "start": "2026-11-02T15:30:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-02T15:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-11-02T15:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-02T15:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-02T15:45:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-schein-der-fall-bojarski",
-   "start": "2026-11-02T15:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-11-02T15:45:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-02T15:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-02T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-02T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-11-02T16:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-02T16:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-02T17:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "verity",
-   "start": "2026-11-02T17:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-02T17:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-02T17:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-11-02T17:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-11-02T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-02T17:45:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-02T17:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bernadette-will-toeten",
-   "start": "2026-11-02T17:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-02T17:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-02T18:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-02T18:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-11-02T18:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-02T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-02T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-02T18:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-11-02T18:10:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-02T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-11-02T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-11-02T18:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-02T18:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-02T18:20:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-02T18:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-02T18:45:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "verity",
-   "start": "2026-11-02T19:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-11-02T19:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "resident-evil",
-   "start": "2026-11-02T19:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-02T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-02T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-11-02T19:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-11-02T19:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "das-drama-noch-mal-auf-anfang",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wie-der-wind-sich-hebt",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "bearcave",
-   "start": "2026-11-02T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-02T20:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-02T20:15:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-02T20:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-02T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-11-02T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-02T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-02T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sacrifice",
-   "start": "2026-11-02T20:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-02T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-02T20:35:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "surf-film-nacht-guts-her-wave",
-   "start": "2026-11-02T21:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "obsession",
-   "start": "2026-11-02T21:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-02T21:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-03T10:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
   {
    "film": "was-haben-wir-gelacht",
    "start": "2026-11-03T12:30:00+01:00",
@@ -6049,6 +5557,14 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-05T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
    "start": "2026-11-05T17:45:00+01:00",
    "cinema": "Top Kino",
@@ -6071,6 +5587,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-05T17:50:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "the-love-that-remains",
@@ -6105,6 +5629,22 @@
     "Retrospektive"
    ],
    "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-05T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-05T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "ken-russells-the-devils-directors-cut",
@@ -6253,6 +5793,14 @@
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-05T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "sacrifice",
    "start": "2026-11-05T19:45:00+01:00",
    "cinema": "Top Kino",
@@ -6297,6 +5845,14 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-05T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "ein-talent-fuers-morden",
    "start": "2026-11-05T20:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -6335,6 +5891,14 @@
    "lang": "DF",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-05T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "die-blutgraefin",
@@ -6377,6 +5941,14 @@
     "Retrospektive"
    ],
    "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-05T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "la-pianiste",
@@ -6435,10 +6007,148 @@
    "booking": ""
   },
   {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-06T15:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "shaun-das-schaf-der-film",
+   "start": "2026-11-06T15:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-06T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-06T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-06T16:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-06T16:40:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-06T17:10:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-06T17:20:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-06T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-06T17:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-06T17:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-11-06T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-06T17:45:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-06T17:45:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-06T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-11-06T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-06T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "etwas-ganz-besonderes",
+   "start": "2026-11-06T18:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -6463,12 +6173,92 @@
    "booking": ""
   },
   {
+   "film": "other-mommy",
+   "start": "2026-11-06T18:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-06T19:10:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-06T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-06T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-06T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-06T20:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-06T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-06T20:10:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-06T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-06T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-06T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "la-gradiva",
@@ -6497,6 +6287,16 @@
    "booking": ""
   },
   {
+   "film": "possible-love",
+   "start": "2026-11-06T20:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "sodom-and-gomorrah",
    "start": "2026-11-06T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -6504,6 +6304,22 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-06T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-06T20:45:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6517,12 +6333,46 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-07T12:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-07T13:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "mumbo-jumbo",
    "start": "2026-11-07T14:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "dances-with-wolves",
+   "start": "2026-11-07T14:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "shaun-das-schaf-der-film",
+   "start": "2026-11-07T14:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "die-noch-unbekannten-tage",
@@ -6541,12 +6391,118 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-07T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-11-07T15:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-noch-unbekannten-tage",
+   "start": "2026-11-07T15:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-07T15:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-07T15:40:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-07T15:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "the-third-man",
+   "start": "2026-11-07T15:45:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-07T16:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "monster-mia",
+   "start": "2026-11-07T16:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-07T16:00:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-07T16:05:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-07T17:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wellen-wende",
+   "start": "2026-11-07T17:15:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-11-07T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "kurzfilmprogramm-2-kurdische-filmtage",
@@ -6559,10 +6515,42 @@
    "booking": ""
   },
   {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-07T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-07T17:45:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-07T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "naza",
    "start": "2026-11-07T18:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "etwas-ganz-besonderes",
+   "start": "2026-11-07T18:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -6577,6 +6565,62 @@
    "booking": ""
   },
   {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-07T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-07T18:10:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-07T18:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "verity",
+   "start": "2026-11-07T18:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-07T18:40:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-07T18:45:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-07T19:10:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "dimili-ewro-tirki-yasax-a",
    "start": "2026-11-07T19:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -6584,6 +6628,46 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-07T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-07T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-07T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-07T20:10:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-07T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6595,11 +6679,37 @@
    "booking": ""
   },
   {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-07T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-07T20:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-07T20:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-07T20:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -6613,6 +6723,22 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-07T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-07T20:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "nachts-in-der-provinz",
    "start": "2026-11-07T21:30:00+01:00",
    "cinema": "Burg Kino",
@@ -6621,10 +6747,34 @@
    "booking": ""
   },
   {
+   "film": "stop-that-train",
+   "start": "2026-11-07T22:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-08T10:45:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "kino-fuer-die-kleinsten-platz-fuer-alle",
    "start": "2026-11-08T11:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-08T11:15:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6671,12 +6821,212 @@
    "booking": ""
   },
   {
+   "film": "shaun-das-schaf-der-film",
+   "start": "2026-11-08T13:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "kino-fuer-die-kleinsten-das-kann-ich-schon-allein",
    "start": "2026-11-08T14:00:00+01:00",
    "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "die-tribute-von-panem-the-ballad-of-songbirds-snakes",
+   "start": "2026-11-08T14:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-08T14:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-08T14:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "was-haben-wir-gelacht",
+   "start": "2026-11-08T15:00:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
+   "start": "2026-11-08T15:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-08T15:00:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-third-man",
+   "start": "2026-11-08T15:10:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-08T15:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-08T15:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-08T15:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-08T15:40:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-08T15:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "corpus-delicti",
+   "start": "2026-11-08T16:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-08T16:45:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-08T16:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-08T17:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-08T17:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-08T17:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-08T17:10:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-08T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-08T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-08T17:45:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "etwas-ganz-besonderes",
+   "start": "2026-11-08T17:45:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-08T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "apache",
@@ -6689,6 +7039,14 @@
    "booking": ""
   },
   {
+   "film": "other-mommy",
+   "start": "2026-11-08T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "mugarik-gabe",
    "start": "2026-11-08T18:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -6697,6 +7055,62 @@
     "Festival"
    ],
    "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-08T18:10:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-08T18:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-08T18:50:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-08T19:05:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-08T19:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-08T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-08T19:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "die-legende-vom-haesslichen-koenig",
@@ -6709,11 +7123,53 @@
    "booking": ""
   },
   {
+   "film": "liebhaberinnen",
+   "start": "2026-11-08T19:40:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-11-08T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-08T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-08T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-08T20:15:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-08T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -6724,6 +7180,22 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "los-domingos-glaube",
+   "start": "2026-11-08T20:15:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-08T20:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -6745,12 +7217,194 @@
    "booking": ""
   },
   {
+   "film": "gentle-monster",
+   "start": "2026-11-09T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-09T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-09T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-09T17:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-09T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-09T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-09T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-09T18:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-09T18:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "a-matter-of-life-and-death",
    "start": "2026-11-09T18:00:00+01:00",
    "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-09T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-wolle-der-mensch-das-schaf",
+   "start": "2026-11-09T18:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [
+    "Q&A"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "verity",
+   "start": "2026-11-09T18:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-09T18:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-09T18:50:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-09T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-09T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-09T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-09T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-09T20:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-09T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-09T20:15:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-09T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Film der Woche"
    ],
    "booking": ""
   },
@@ -6765,12 +7419,44 @@
    "booking": ""
   },
   {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-09T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-09T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-09T20:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-09T20:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-09T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "noestlinger-sowieso-und-ueberhaupt",
@@ -6807,10 +7493,90 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-10T15:15:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-10T15:30:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-11-10T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-10T17:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-10T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-10T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-10T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-10T17:50:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-11-10T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-10T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "etwas-ganz-besonderes",
+   "start": "2026-11-10T18:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -6823,12 +7589,126 @@
    "booking": ""
   },
   {
+   "film": "other-mommy",
+   "start": "2026-11-10T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-10T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-third-man",
+   "start": "2026-11-10T18:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-10T18:50:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-10T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-10T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-10T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "james-bond-007-casino-royale",
+   "start": "2026-11-10T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "twilight-new-moon",
    "start": "2026-11-10T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-10T20:10:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-10T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-10T20:15:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-10T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-10T20:15:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-10T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "staatsschutz",
@@ -6845,6 +7725,14 @@
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-10T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "la-gradiva",
@@ -6871,9 +7759,89 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-11T17:00:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "corpus-delicti",
+   "start": "2026-11-11T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-11T17:30:00+01:00",
    "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-11T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-11T17:45:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "verity",
+   "start": "2026-11-11T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-11T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-11T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-11T18:00:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-11T18:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-11T18:00:00+01:00",
+   "cinema": "Filmhaus",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -6889,6 +7857,38 @@
    "booking": ""
   },
   {
+   "film": "digger",
+   "start": "2026-11-11T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-11T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-11T18:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-11T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "des-teufels-general",
    "start": "2026-11-11T19:30:00+01:00",
    "cinema": "Bellaria Kino",
@@ -6899,11 +7899,103 @@
    "booking": ""
   },
   {
+   "film": "the-invite",
+   "start": "2026-11-11T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-11T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-11T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-11T20:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-11T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "bearcave",
    "start": "2026-11-11T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-11T20:15:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-11T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-11T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-11T20:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-11T20:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "butthole-surfers-the-hole-truth-and-nothing-butt",
+   "start": "2026-11-11T20:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OV",
+   "tags": [
+    "Q&A"
+   ],
    "booking": ""
   },
   {
@@ -6917,10 +8009,98 @@
    "booking": ""
   },
   {
+   "film": "other-mommy",
+   "start": "2026-11-11T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "london",
    "start": "2026-11-11T20:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-12T15:15:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-12T15:30:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-third-man",
+   "start": "2026-11-12T16:50:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "corpus-delicti",
+   "start": "2026-11-12T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-12T17:15:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-11-12T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-12T17:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-12T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-12T17:45:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-12T18:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -6935,6 +8115,14 @@
    "booking": ""
   },
   {
+   "film": "liebhaberinnen",
+   "start": "2026-11-12T18:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "queertactics-perlen",
    "start": "2026-11-12T18:45:00+01:00",
    "cinema": "Admiral Kino",
@@ -6943,10 +8131,84 @@
    "booking": ""
   },
   {
+   "film": "naza",
+   "start": "2026-11-12T18:50:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-12T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-12T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-12T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "possible-love",
+   "start": "2026-11-12T20:15:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-12T20:15:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "etwas-ganz-besonderes",
+   "start": "2026-11-12T20:15:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-12T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-12T20:30:00+01:00",
+   "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-12T20:30:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -6975,6 +8237,14 @@
    "start": "2026-11-13T18:15:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-13T20:15:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7015,6 +8285,14 @@
    "booking": ""
   },
   {
+   "film": "la-gradiva",
+   "start": "2026-11-14T17:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "overt-listening",
    "start": "2026-11-14T18:00:00+01:00",
    "cinema": "Filmmuseum",
@@ -7048,6 +8326,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "the-loneliest-man-in-town",
+   "start": "2026-11-14T20:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7103,6 +8389,14 @@
    "booking": ""
   },
   {
+   "film": "the-loneliest-man-in-town",
+   "start": "2026-11-15T15:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "dante",
    "start": "2026-11-15T15:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -7131,6 +8425,14 @@
    "booking": ""
   },
   {
+   "film": "stop-that-train",
+   "start": "2026-11-15T20:15:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "big-leaguer",
    "start": "2026-11-15T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -7155,6 +8457,14 @@
    "start": "2026-11-16T17:00:00+01:00",
    "cinema": "Filmmuseum",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-16T17:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7201,6 +8511,14 @@
    "booking": ""
   },
   {
+   "film": "the-loneliest-man-in-town",
+   "start": "2026-11-17T18:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "eclipse-biss-zum-abendrot",
    "start": "2026-11-17T20:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -7224,6 +8542,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-18T17:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7266,10 +8592,26 @@
    "booking": ""
   },
   {
+   "film": "the-loneliest-man-in-town",
+   "start": "2026-11-18T20:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-verlorene-mann",
    "start": "2026-11-19T09:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-19T16:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7320,6 +8662,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "la-gradiva",
+   "start": "2026-11-20T17:15:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
