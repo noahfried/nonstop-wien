@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:35+01:00",
+ "updated": "2026-11-13T12:19+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -199,27 +199,6 @@
    "score": 2
   },
   {
-   "slug": "adams-acht",
-   "title": "Adams Acht",
-   "url": "https://nonstopkino.at/movies/adams-acht/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/2dfa0fb3-a8d6-4de2-b5bb-446def8e4874.jpg?fit=max&w=120",
-   "director": "Hannu Salonen",
-   "cast": "Oliver Masucci, Felix Kammerer, Svenja Jung, Leonard Kunz, Nick Romeo Reimann",
-   "year": 2026,
-   "runtime": 119,
-   "spoken": "Deutsch",
-   "synopsis": "Ratzeburg, Ende der 50er. Eine Kleinstadt an der DDR-Grenze – und der letzte Ort, von dem jemand eine sportliche Revolution erwartet. Hier unterrichtet Karl Adam Mathematik, Physik und Sport und trifft auf eine vaterlose Generation junger Männer, Außenseiter, Einzelkämpfer, die nicht wissen, wohin mit ihrer Wut. Doch Adam sieht etwas in ihnen, das sonst niemand sieht. Er setzt sie in einen Ruder-Achter und gibt ihnen mehr als ein Ventil – er gibt ihnen eine Perspektive.",
-   "imdb": "tt8758494",
-   "rating": 7.0,
-   "votes": 167,
-   "genres": [
-    "Biography",
-    "Drama",
-    "Sport"
-   ],
-   "score": 0
-  },
-  {
    "slug": "alice-im-wunderland",
    "title": "Alice im Wunderland",
    "url": "https://nonstopkino.at/movies/alice-im-wunderland/",
@@ -384,25 +363,6 @@
    "score": 1
   },
   {
-   "slug": "autumn-leaves",
-   "title": "Autumn Leaves",
-   "url": "https://nonstopkino.at/movies/autumn-leaves/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/78339a38-5aae-45ac-8496-9d319f1ea550.jpg?fit=max&w=120",
-   "director": "Robert Aldrich",
-   "cast": "Joan Crawford, Cliff Robertson, Vera Miles, Lorne Greene, Ruth Donnelly",
-   "year": 1956,
-   "runtime": 106,
-   "spoken": "Englisch",
-   "synopsis": "Obwohl Aldrich für Autumn Leaves den Silbernen Bären der Berlinale für die beste Regie erhielt, wurde der Film lange als vermeintliches Studioprojekt für Star Joan Crawford unterschätzt. Dabei hatte Aldrich den Stoff für seine unabhängige Firma entwickelt und zeigte seine kritische Weltsicht (samt seinem Hang zu Noir-Schattierungen) unerwarteterweise in Form eines Melodrams, das mittendrin ins Abgründige kippt. Crawford spielt die selbstständige Typistin Milly Wetherby, deren hartnäckige Einsamkeit vom viel jüngeren Kriegsheimkehrer Burt (Cliff Robertson) durchbrochen wird. Ein neues Leben scheint zu beginnen, bis Milly entdeckt, dass Burt ein pathologischer Lügner ist und ein schreckliches Trauma verdrängt. Aldrich decouvriert eine Ahnengalerie toxischer Männlichkeit und demontiert eine verlogene \"Normalität\": Aus der Romanze wird ein ambivalentes Schreckensbild der falschen Versprechungen des Amerikanischen Traums. (C.H.)",
-   "imdb": "tt0048967",
-   "rating": 6.9,
-   "votes": 3778,
-   "genres": [
-    "Drama"
-   ],
-   "score": 24
-  },
-  {
    "slug": "az-en-xx-szazadom-my-20th-century",
    "title": "Az én XX. Századom (My 20th Century)",
    "url": "https://nonstopkino.at/movies/az-en-xx-szazadom-my-20th-century/",
@@ -422,25 +382,6 @@
     "Fantasy"
    ],
    "score": 12
-  },
-  {
-   "slug": "baba-whats-your-plan",
-   "title": "Baba, What’s Your Plan?",
-   "url": "https://nonstopkino.at/movies/baba-whats-your-plan/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/b572b806-d04a-4cf2-91fc-44f512b7f57d.jpg?fit=max&w=120",
-   "director": "Tolga Karaaslan",
-   "cast": "",
-   "year": 2026,
-   "runtime": 89,
-   "spoken": "Türkisch, Deutsch",
-   "synopsis": "Während Celal Karaaslan erzählt und erinnert begleitet Tolga Karaaslan seinen Vater mit der Handkamera auf dessen Weg durch die Vergangenheit: durch Landschaften und Dörfer der Türkei, in denen er aufwuchs und durch die Orte seines Lebens in Österreich. Doch die Rückkehr an frühere Orte offenbart weniger Wiederfindung als Entfremdung: verlassene Häuser, ein zerfallenes Schulgebäude, ein verkauftes Stück Land. Fast alles erscheint nur noch als Spur eines früheren Lebens. Der Film wird so zu einer stillen Erzählung über Sehnsucht nach Zugehörigkeit und Kontinuität, über ein Leben, das sich lange um Arbeit drehte und dessen Sinn durch Krankheit erschüttert wird. Während der Vater über seine Arbeitsunfähigkeit und die lange Wartezeit auf die Invalidenrente spricht, treten Fragen nach Identität, Verantwortung und familiären Rollenbildern in den Vordergrund. Im Dialog zwischen Celals Frage an seinen Sohn, was er nun mit seinem Leben machen soll und der spiegelnden Frage des Sohnes im Filmtitel entsteht der Impuls zu einer gemeinsamen Suche, die beide auf die Reise führt. Der Versuch einer intergenerationalen Verständigung wird sichtbar: Erinnerungen werden geteilt, Lebensgeschichten festgehalten und doch zeigt sich, dass ein Teil des Vergangenen immer entgleitet. Orte verändern sich, Bedeutungen verschieben sich und jede Aufzeichnung kann das gelebte Leben nur annähern. Ein kurzer Moment des gemeinsamen Ankommens, wenn mehrere Generationen am Tisch sitzen, deutet an, wie flüchtig Erinnerung bleibt, bevor sie erneut zur Vergangenheit wird. (Hayrunnisa Özçelik)",
-   "imdb": "tt40565533",
-   "rating": null,
-   "votes": 0,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 0
   },
   {
    "slug": "balduin-das-nachtgespenst",
@@ -1063,25 +1004,6 @@
     "Thriller"
    ],
    "score": 4
-  },
-  {
-   "slug": "cuidadoras-care",
-   "title": "Cuidadoras (Care)",
-   "url": "https://nonstopkino.at/movies/cuidadoras-care/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/3f01cfe3-5519-48fb-ba7a-eef3701ba63d.jpeg?fit=max&w=120",
-   "director": "Martina Matzkin",
-   "cast": "Maia Antesana, Luciana Méndez, Yenifer Franco Pereira",
-   "year": 2025,
-   "runtime": 80,
-   "spoken": "Spanisch",
-   "synopsis": "Maia, Yenifer und Luciana beginnen als Pflegekräfte in einem Seniorenheim ein neues Kapitel in ihrem Leben. Anstelle ihrer bisherigen Routinen bestimmen nun Uniformen, lange Schichten und die tägliche Praxis der Sorge um alternde Körper und zunehmend beeinträchtigtes Denk- und Erinnerungsvermögen ihren Tagesablauf. Als drei trans Frauen in einer Gesellschaft, die sie häufig misgendert und ausgrenzt, begegnen sie den komplexen Anforderungen der Pflege – und suchen zugleich ihren Platz in einer ungewohnten Umgebung. Mit Geduld, Humor sowie kleinen Gesten und alltäglichen Routinen gewinnen sie nach und nach das Vertrauen der Bewohner*innen. Die drei Frauen, die ihren Lebensunterhalt zuvor mit Sexarbeit bestritten haben, entdecken unerwartete Verbindungslinien zu den Menschen, die sie begleiten. Über Generationen hinweg, die oft als grundverschiedene Welten erscheinen, entsteht so ein gemeinsamer Erfahrungsraum. CUIDADORAS ist ein zärtliches und notwendiges Porträt von Fürsorge, Anerkennung und den überraschenden Intimitäten, die entstehen, wenn wir einander jenseits unserer Unterschiede wahrnehmen.",
-   "imdb": "tt36024870",
-   "rating": null,
-   "votes": 0,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 0
   },
   {
    "slug": "dante",
@@ -2530,7 +2452,7 @@
   },
   {
    "slug": "heimsuchung-eine-jahrhundergeschichte",
-   "title": "Heimsuchung – Eine Jahrhundertgeschichte",
+   "title": "Heimsuchung",
    "url": "https://nonstopkino.at/movies/heimsuchung-eine-jahrhundergeschichte/",
    "poster": "https://culturekit-assets.imgix.net/4/assets/88bf472d-b6ae-4b2f-9538-8d2bb899e33d.jpg?fit=max&w=120",
    "director": "Volker Schlöndorff",
@@ -3241,27 +3163,6 @@
    "score": 0
   },
   {
-   "slug": "lady-champagne",
-   "title": "Lady Champagne",
-   "url": "https://nonstopkino.at/movies/lady-champagne/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/9f3867b4-607e-4012-915c-8423e7c16b4f.jpeg?fit=max&w=120",
-   "director": "D’Arcy Drollinger",
-   "cast": "D’Arcy Drollinger, Matthew Martin, Seton Brown, James Arthur M.",
-   "year": 2026,
-   "runtime": 95,
-   "spoken": "Englisch",
-   "synopsis": "High Camp is back! Champagne White, die legendär-laszive Drag-Ikone aus D’Arcy Drollingers Kultfilm SHIT & CHAMPAGNE, ist zurück – und diesmal steckt sie bis zum Hals im Schlamassel. Als sie zu Unrecht für den Tod ihres frisch angetrauten Ehemanns verantwortlich gemacht wird, muss sie sich gegen zwielichtige Geschäftsfrauen, hoffnungslos inkompetente Ermittler und sadistische Gefängniswärter*innen behaupten. Zum Glück hat Champagne mehr als genug Glanz, Witz und Dreistigkeit im Gepäck. Mit über 80 queeren und trans Performer*innen, Slapstick, Action und einer gehörigen Portion erotischem Wahnsinn dreht D’Arcy Drollinger die Camp-Schraube bis zum Anschlag. Inspiriert vom Exploitation-Kino der 1970er und Komödien à la AIRPLANE! und THE NAKED GUN, ist LADY CHAMPAGNE ein herrlich schräger Trip voller Glitzer, Chaos und queerer Exzessfreude. Kurz gesagt: Es ist camp, queer und komplett unhinged. Go for it!",
-   "imdb": "tt40015122",
-   "rating": null,
-   "votes": 0,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Comedy"
-   ],
-   "score": 7
-  },
-  {
    "slug": "lalka",
    "title": "Lalka",
    "url": "https://nonstopkino.at/movies/lalka/",
@@ -3968,26 +3869,6 @@
    "score": null
   },
   {
-   "slug": "night-of-passage",
-   "title": "Night of Passage",
-   "url": "https://nonstopkino.at/movies/night-of-passage/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/376f123a-fddc-4abe-ad8b-5daa6b55ceaa.jpg?fit=max&w=120",
-   "director": "Reza Rasouli",
-   "cast": "",
-   "year": 2025,
-   "runtime": 20,
-   "spoken": "",
-   "synopsis": "In der Nähe der österreichischen Grenze werden drei Freunde aus Teheran von ihrem Schmuggler abgesetzt. Sie müssen die Nacht in den slowakischen Wäldern verbringen, bis der nächste LKW sie abholt. Die Aussicht auf eine neue Zukunft treibt die Drei trotz der beschwerlichen Reise weiter an. Im Laufe der Nacht ist die Gruppe mit einer drastischen Wendung des Schicksals konfrontiert. First Steps Award für Besten Kurzfilm Österreichischer Filmpreis für Besten Kurzfilm 2026 Nominiert für den Deutscher Menschenrechts Filmpreis 2026 Anmeldung per Mail an: event@oesterreichische-filmakademie.at",
-   "imdb": "tt36330758",
-   "rating": null,
-   "votes": 0,
-   "genres": [
-    "Drama",
-    "Short"
-   ],
-   "score": 0
-  },
-  {
    "slug": "nightcrawler",
    "title": "Nightcrawler",
    "url": "https://nonstopkino.at/movies/nightcrawler/",
@@ -4087,25 +3968,6 @@
     "Romance"
    ],
    "score": 1
-  },
-  {
-   "slug": "noch-lange-keine-lipizzaner",
-   "title": "Noch lange keine Lipizzaner",
-   "url": "https://nonstopkino.at/movies/noch-lange-keine-lipizzaner/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/feeefc05-98c6-4eb4-a3a2-b0913a6720d2.jpg?fit=max&w=120",
-   "director": "Olga Kosanović",
-   "cast": "Emil Brix, Judith Kohlenberger, Gerd Valchars, Robert Menasse, Elena Wolff u.a.",
-   "year": 2025,
-   "runtime": 92,
-   "spoken": "Deutsch",
-   "synopsis": "„Die Macht geht vom Volk aus“, das steht in der österreichischen Verfassung – doch wer ist das Volk, wenn in Wien mittlerweile über ein Drittel der Bevölkerung nicht wahlberechtigt ist? Jeder Mensch hat eine Meinung dazu, doch die wenigsten konkretes Wissen – der Zugang zur österreichischen Staatsbürgerschaft. Ausgehend von der eigenen Erfahrung der Regisseurin, sich nach dem gescheiterten Versuch der Einbürgerung in Österreich fremder zu fühlen, als je zuvor, dekonstruiert dieser Film den umstrittenen WIR-Begriff: Wer sind „Wir“, wer die vermeintlich „Anderen“? Was daran ist menschlich, was ein gesellschaftliches Konstrukt? Welches Wir wählen wir selbst, welches wird uns zugeschrieben und welches werden wir nicht mehr los? „Noch lange keine Lipizzaner“ lädt auf unterschiedlichen filmischen Ebenen zum Nachdenken ein, zeigt die Absurditäten der österreichischen Einbürgerungsgesetze auf und nimmt den Nationalstaat und seine konstruierten Gefühle, gelernten Phrasen und scheinbar unantastbaren Zugehörigkeitsregeln unter die Lupe.",
-   "imdb": "tt35197940",
-   "rating": 7.7,
-   "votes": 160,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 0
   },
   {
    "slug": "noestlinger-sowieso-und-ueberhaupt",
@@ -4313,25 +4175,6 @@
    "score": null
   },
   {
-   "slug": "perla",
-   "title": "Perla",
-   "url": "https://nonstopkino.at/movies/perla/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/36299f54-351d-4942-bc35-92cd06dbca75.jpeg?fit=max&w=120",
-   "director": "Alexandra Makarová",
-   "cast": "Rebeka Poláková, Simon Schwarz, Noel Czuczor, Carmen Diego",
-   "year": 2025,
-   "runtime": 108,
-   "spoken": "Deutsch, Slowakisch",
-   "synopsis": "Wien, 1981. Perla, eine im Exil lebende Künstlerin und alleinerziehende Mutter, kämpft darum, ihre Tochter Julia, eine talentierte junge Pianistin, zu unterstützen. Als Julias Vater Andrej aus dem Gefängnis entlassen wird und behauptet, schwer krank zu sein, macht sich Perla auf die gefährliche Reise zurück in die kommunistische Tschechoslowakei. Hin- und hergerissen zwischen Vergangenheit und Gegenwart trifft Perla rücksichtslose Entscheidungen, die ihre Zukunft mit ihrer Tochter gefährden.",
-   "imdb": "tt14635044",
-   "rating": 6.9,
-   "votes": 307,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
-  },
-  {
    "slug": "pippi-in-taka-tuka-land-1970",
    "title": "Pippi in Taka-Tuka-Land (1970)",
    "url": "https://nonstopkino.at/movies/pippi-in-taka-tuka-land-1970/",
@@ -4475,26 +4318,6 @@
    "score": 0
   },
   {
-   "slug": "queens-of-the-dead",
-   "title": "QUEENS OF THE DEAD",
-   "url": "https://nonstopkino.at/movies/queens-of-the-dead/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/d28c9fb0-4f7b-4677-9df3-b399d78afb76.jpg?fit=max&w=120",
-   "director": "Tina Romero",
-   "cast": "Katy O'Brian, Margaret Cho, Jack Haven",
-   "year": 2025,
-   "runtime": 99,
-   "spoken": "Englisch",
-   "synopsis": "DJ Dre (Katy O’Brian), plant im New Yorker Stadtteil Brooklyn eine große Lagerhaus-Party mit Drag-Show, dabei läuft so einiges schief. Der Hauptact sagt ab, die Toiletten sind verstopft und pünktlich zum Start schauen auch noch mehrere Hetero-Influencer vorbei, die Ärger machen könnten. Als dann mitten in der Nacht eine Zombie-Apokalypse ausbricht und eine Menge Untote versuchen, in ihren Club einzudringen, muss die bunt gemischte Truppe aus Dragqueens, Club-Kids und Partygästen ihre persönlichen Dramen und Rivalitäten beiseitelegen. Bewaffnet mit High Heels, Glitter und Cocktailshakern kämpfen sie gemeinsam ums pure Überleben gegen die gehirnhungrigen Untoten. QUEENS OF THE DEAD ist das Spielfilmdebüt von Regisseurin Tina Romero. Als Tochter des legendären Horror-Meisters George A. Romero (NIGHT OF THE LIVING DEAD) belebt sie die schleichenden Zombies mit queerem Glamour und herzhaftem Humor.",
-   "imdb": "tt32986431",
-   "rating": 5.3,
-   "votes": 2345,
-   "genres": [
-    "Comedy",
-    "Horror"
-   ],
-   "score": 10
-  },
-  {
    "slug": "queer-me",
    "title": "Queer Me",
    "url": "https://nonstopkino.at/movies/queer-me/",
@@ -4510,19 +4333,6 @@
    "votes": 0,
    "genres": [],
    "score": 0
-  },
-  {
-   "slug": "queertactics-perlen",
-   "title": "Queertactics-Perlen",
-   "url": "https://nonstopkino.at/movies/queertactics-perlen/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/0eeafdd0-b57f-429b-af30-d12532dab17a.jpg?fit=max&w=120",
-   "director": "div.",
-   "cast": "",
-   "year": 2026,
-   "runtime": 120,
-   "spoken": "",
-   "synopsis": "In der nahen Zukunft ist die Menschheit stark dezimiert, zumal es mit der Fortpflanzung auch nicht mehr klappt. Alle Augen richten sich auf ein Team an Forscherinnen, die eine künstliche Gebärmutter entwickeln. Doch diese haben andere Prioritäten: EROGENESIS, vor allem nicht-genitale sinnliche und sexuelle Erregung. In der Vergangenheit hingegen, gab es in Bitterfeld die ORWO, eine der größten Filmfabriken, in der mehrheitlich Frauen arbeiteten. In KISS KISS WOLF berichten zwei ehemalige Mitarbeiterinnen sowie ein ehemaliger Stasi-Mitarbeiter von der klandestinen und dabei sehr erfolgreichen Produktion lesbischer Pornos in der ORWO. In der Gegenwart bekommt Janna kurzerhand Besuch von Lucy aus Marseille, die auf dem Rückweg von Berlin nach Frankreich gerade mal zwölf Stunden Zeit in Leipzig hat. Die Gespräche der beiden tragen uns leichtfüßig durch den Film, die Stadt und den Abend, beim Live-Auftritt von Kapa Tult wird endlich geknutscht. SHORT NOTICE ist Lesbenromanze mit Happy End und das im Kurzformat.Und in FUCK THE CISTEM findet Noa mit Unterstützung von Freund*innen schließlich trotz Alpträumen und Ängsten die Kraft, sich gegen Cis-Heterosexismus und Misgendering zu stellen und für sich selbst einzutreten. EROGENESIS, Xandra Popescu, Deutschland 2025, 15 min KISS KISS WOLF, lynn t musiol, Deutschland 2024, 18 min SHORT NOTICE, Athina Gendry, Deutschland, Frankreich 2024, 36 min, OmeU FUCK THE CISTEM, Tajo Hurrle, Deutschland 2024, 25 min, OmeU",
-   "score": null
   },
   {
    "slug": "queertactics-verleihung-der-goldenen-medusa",
@@ -5446,27 +5256,6 @@
    "score": 23
   },
   {
-   "slug": "the-last-sunset",
-   "title": "The Last Sunset",
-   "url": "https://nonstopkino.at/movies/the-last-sunset/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/4ac2783c-8cd3-4772-bff1-77767bb5b5f3.jpg?fit=max&w=120",
-   "director": "Robert Aldrich",
-   "cast": "Rock Hudson, Kirk Douglas, Dorothy Malone, Joseph Cotten, Carol Lynley",
-   "year": 1961,
-   "runtime": 112,
-   "spoken": "Englisch",
-   "synopsis": "Seine Unnachgiebigkeit machte Aldrich Ende der 1950er zur Persona non grata in Hollywood, doch konnte er in Mexiko für Kirk Douglas The Last Sunset drehen, wobei sich Star und Regisseur zerstritten. Trotzdem gelang Aldrich ein faszinierender freudianischer Western, der bei allem Fatalismus mit lyrischer Verve inszeniert ist und melodramatisch auf bizarre Wendungen zusteuert, während die Genre-Elemente eher als Würze dienen. Cowboy Brendan O'Malley (Douglas) wird vom Gesetzeshüter Dana Stribling (Rock Hudson) über die Grenze gejagt und trifft auf seine Jugendliebe Belle (Dorothy Malone), die den Trinker John Breckenridge (Joseph Cotten) gehei­ratet hat. Breckenridge engagiert die Widersacher für einen Viehtrieb nach Texas: Dabei kommen sich O'Malley und Belles Tochter Missy (Carol Lynley) näher, während sich eine unvermeidliche Konfrontation abzeichnet – was sich auf abgründige Weise erfüllt. (C.H.)",
-   "imdb": "tt0055073",
-   "rating": 6.7,
-   "votes": 4220,
-   "genres": [
-    "Drama",
-    "Romance",
-    "Western"
-   ],
-   "score": 23
-  },
-  {
    "slug": "the-legend-of-lylah-clare",
    "title": "The Legend of Lylah Clare",
    "url": "https://nonstopkino.at/movies/the-legend-of-lylah-clare/",
@@ -5895,25 +5684,6 @@
    "score": null
   },
   {
-   "slug": "vier-minus-drei",
-   "title": "Vier minus Drei",
-   "url": "https://nonstopkino.at/movies/vier-minus-drei/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/dee68938-0439-44db-ac08-cd15e16f3d1b.jpg?fit=max&w=120",
-   "director": "Adrian Goiginger",
-   "cast": "Valerie Pachner, Robert Stadlober, Stefanie Reinsperger",
-   "year": 2026,
-   "runtime": 120,
-   "spoken": "Deutsch",
-   "synopsis": "No notes.",
-   "imdb": "tt38939444",
-   "rating": 7.6,
-   "votes": 374,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
-  },
-  {
    "slug": "virages-summer-drift",
    "title": "Virages (Summer Drift)",
    "url": "https://nonstopkino.at/movies/virages-summer-drift/",
@@ -6193,25 +5963,6 @@
    "score": 0
   },
   {
-   "slug": "women-do-cry",
-   "title": "Women Do Cry",
-   "url": "https://nonstopkino.at/movies/women-do-cry/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/bbd5536b-a3e2-4825-bf28-298ff0a2ba6e.jpeg?fit=max&w=120",
-   "director": "Vesela Kazakova, Mina Mileva",
-   "cast": "Vesela Kazakova; Maria Bakalova, Lossif Surchadzhiev, Ralitsa Stoyanova, Katia Kazakova",
-   "year": 2021,
-   "runtime": 107,
-   "spoken": "Bulgarisch",
-   "synopsis": "Eine Familie, ein Land im Umbruch und Frauen, die gelernt haben, füreinander stark zu sein. WOMEN DO CRY erzählt von den Schwestern und Töchtern einer bulgarischen Familie, die mit Krankheit, Trauma, patriarchalen Strukturen und gesellschaftlicher Ausgrenzung konfrontiert sind. Als die 19-jährige Musikerin Sonja erfährt, dass sie HIV-positiv ist, sieht sie ihr Leben als ruiniert – doch ihre Krise bringt auch die Frauen ihrer Familie näher zusammen .Zwischen absurden Alltagssituationen, tiefem Schmerz und überraschendem Humor entsteht ein vielstimmiges Porträt weiblicher Solidarität. Regisseurinnen Vesela Kazakova und Mina Mileva verbinden persönliche Geschichten mit einem scharfen Blick auf ein Bulgarien, in dem Demonstrationen gegen Gleichberechtigung und LGBTQ+ Rechte die gesellschaftlichen Spannungen sichtbar machen. Inspiriert von wahren Begebenheiten ist WOMEN DO CRY ein mutiger, wütender und zugleich zärtlicher Film über Verletzlichkeit, Zusammenhalt und den Kampf darum, gehört zu werden. Ein feministisches Drama, das patriarchale Muster nicht nur anklagt, sondern mit Leben füllt.",
-   "imdb": "tt11873754",
-   "rating": 5.2,
-   "votes": 425,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
-  },
-  {
    "slug": "you-can-see-everything",
    "title": "You Can See Everything",
    "url": "https://nonstopkino.at/movies/you-can-see-everything/",
@@ -6314,724 +6065,6 @@
  ],
  "screenings": [
   {
-   "film": "spaziergang-nach-syrakus",
-   "start": "2026-11-12T13:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-12T13:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-11-12T13:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-11-12T13:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-12T14:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-11-12T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-12T15:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-12T15:15:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-12T15:20:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-12T15:30:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-12T15:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-12T15:30:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-12T15:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-12T15:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-12T15:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "adams-acht",
-   "start": "2026-11-12T15:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-12T15:50:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-12T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-12T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "night-of-passage",
-   "start": "2026-11-12T16:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "cuidadoras-care",
-   "start": "2026-11-12T16:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "noch-lange-keine-lipizzaner",
-   "start": "2026-11-12T16:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-third-man",
-   "start": "2026-11-12T16:50:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "corpus-delicti",
-   "start": "2026-11-12T17:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-12T17:15:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-12T17:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-12T17:15:00+01:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-12T17:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "spaziergang-nach-syrakus",
-   "start": "2026-11-12T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-12T17:30:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "detroit",
-   "start": "2026-11-12T17:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-11-12T17:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "liebhaberinnen",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T17:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "kommissar-jennerwein-hochsaison",
-   "start": "2026-11-12T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-12T18:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "autumn-leaves",
-   "start": "2026-11-12T18:00:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "moonfleet",
-   "start": "2026-11-12T18:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "ein-wiener-sport-club",
-   "start": "2026-11-12T18:00:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "women-do-cry",
-   "start": "2026-11-12T18:00:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-12T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-12T18:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-12T18:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-12T18:20:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "liebhaberinnen",
-   "start": "2026-11-12T18:30:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "perla",
-   "start": "2026-11-12T18:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "queertactics-perlen",
-   "start": "2026-11-12T18:45:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-12T18:50:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-11-12T19:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-12T19:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "baba-whats-your-plan",
-   "start": "2026-11-12T19:30:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-11-12T19:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sterben-fuer-anfaenger",
-   "start": "2026-11-12T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-12T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "godzilla-minus-zero",
-   "start": "2026-11-12T19:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-11-12T19:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "geister",
-   "start": "2026-11-12T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T20:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-12T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-12T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "sziget-a-szarazfoeldoen",
-   "start": "2026-11-12T20:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "possible-love",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sterben-fuer-anfaenger",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "etwas-ganz-besonderes",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T20:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "kommissar-jennerwein-hochsaison",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "queens-of-the-dead",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-last-sunset",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "bohemian-rhapsody",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "geister",
-   "start": "2026-11-12T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "lady-champagne",
-   "start": "2026-11-12T21:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "vier-minus-drei",
-   "start": "2026-11-12T21:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-12T21:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-terminator",
-   "start": "2026-11-12T21:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sacrifice",
-   "start": "2026-11-12T22:00:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
    "film": "bruno-der-junge-kreisky",
    "start": "2026-11-13T15:00:00+01:00",
    "cinema": "Bellaria Kino",
@@ -7052,7 +6085,9 @@
    "start": "2026-11-13T15:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7166,7 +6201,9 @@
    "start": "2026-11-13T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7256,7 +6293,9 @@
    "start": "2026-11-13T17:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7338,7 +6377,9 @@
    "start": "2026-11-13T18:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7396,7 +6437,9 @@
    "start": "2026-11-13T18:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7522,7 +6565,9 @@
    "start": "2026-11-13T20:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7590,7 +6635,9 @@
    "start": "2026-11-13T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7614,7 +6661,9 @@
    "start": "2026-11-13T20:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7670,7 +6719,9 @@
    "start": "2026-11-13T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7686,7 +6737,9 @@
    "start": "2026-11-13T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8078,7 +7131,9 @@
    "start": "2026-11-14T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8094,7 +7149,9 @@
    "start": "2026-11-14T17:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8190,7 +7247,9 @@
    "start": "2026-11-14T17:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8248,7 +7307,9 @@
    "start": "2026-11-14T18:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8306,7 +7367,9 @@
    "start": "2026-11-14T18:15:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8443,7 +7506,9 @@
    "start": "2026-11-14T20:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8517,7 +7582,9 @@
    "start": "2026-11-14T20:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8541,7 +7608,9 @@
    "start": "2026-11-14T20:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8593,7 +7662,9 @@
    "start": "2026-11-14T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8601,7 +7672,9 @@
    "start": "2026-11-14T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8755,7 +7828,9 @@
    "start": "2026-11-15T12:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9212,7 +8287,9 @@
    "start": "2026-11-15T17:30:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9262,7 +8339,9 @@
    "start": "2026-11-15T17:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9328,7 +8407,9 @@
    "start": "2026-11-15T18:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -9370,7 +8451,9 @@
    "start": "2026-11-15T18:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9378,7 +8461,9 @@
    "start": "2026-11-15T18:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9553,7 +8638,9 @@
    "start": "2026-11-15T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9585,7 +8672,9 @@
    "start": "2026-11-15T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9601,7 +8690,9 @@
    "start": "2026-11-15T20:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -9617,7 +8708,9 @@
    "start": "2026-11-15T20:30:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9669,7 +8762,9 @@
    "start": "2026-11-15T20:45:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9745,7 +8840,9 @@
    "start": "2026-11-16T15:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9835,7 +8932,9 @@
    "start": "2026-11-16T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9941,7 +9040,9 @@
    "start": "2026-11-16T17:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9949,7 +9050,9 @@
    "start": "2026-11-16T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -9989,7 +9092,9 @@
    "start": "2026-11-16T18:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10216,7 +9321,9 @@
    "start": "2026-11-16T20:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10266,7 +9373,9 @@
    "start": "2026-11-16T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10306,7 +9415,9 @@
    "start": "2026-11-16T20:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10330,7 +9441,9 @@
    "start": "2026-11-16T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10338,7 +9451,9 @@
    "start": "2026-11-16T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10542,7 +9657,9 @@
    "start": "2026-11-17T17:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10614,7 +9731,9 @@
    "start": "2026-11-17T17:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10630,7 +9749,9 @@
    "start": "2026-11-17T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10662,7 +9783,9 @@
    "start": "2026-11-17T18:00:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10728,7 +9851,9 @@
    "start": "2026-11-17T18:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10926,7 +10051,9 @@
    "start": "2026-11-17T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10934,7 +10061,9 @@
    "start": "2026-11-17T20:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10958,7 +10087,9 @@
    "start": "2026-11-17T20:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10990,7 +10121,9 @@
    "start": "2026-11-17T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10998,7 +10131,9 @@
    "start": "2026-11-17T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11102,7 +10237,9 @@
    "start": "2026-11-18T15:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11201,7 +10338,9 @@
    "start": "2026-11-18T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11305,7 +10444,9 @@
    "start": "2026-11-18T17:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11313,7 +10454,9 @@
    "start": "2026-11-18T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -11321,7 +10464,9 @@
    "start": "2026-11-18T18:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11606,7 +10751,9 @@
    "start": "2026-11-18T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11622,7 +10769,9 @@
    "start": "2026-11-18T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11630,7 +10779,9 @@
    "start": "2026-11-18T20:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -11646,7 +10797,9 @@
    "start": "2026-11-18T20:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11704,7 +10857,9 @@
    "start": "2026-11-18T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11772,7 +10927,9 @@
    "start": "2026-11-19T14:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12010,7 +11167,9 @@
    "start": "2026-11-19T17:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12036,7 +11195,9 @@
    "start": "2026-11-19T18:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12044,7 +11205,9 @@
    "start": "2026-11-19T18:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12273,7 +11436,9 @@
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12281,7 +11446,9 @@
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12289,7 +11456,9 @@
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12359,7 +11528,9 @@
    "start": "2026-11-19T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12811,7 +11982,9 @@
    "start": "2026-11-22T12:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -13143,7 +12316,9 @@
    "start": "2026-11-24T11:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -13597,7 +12772,9 @@
    "start": "2026-11-27T19:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -14199,7 +13376,9 @@
    "start": "2026-12-02T10:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
