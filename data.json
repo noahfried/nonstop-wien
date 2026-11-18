@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:12+01:00",
+ "updated": "2026-11-18T13:00+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -100,25 +100,6 @@
     "Documentary"
    ],
    "score": 0
-  },
-  {
-   "slug": "a-torinoi-lo-the-turin-horse",
-   "title": "A torinói ló (The Turin Horse)",
-   "url": "https://nonstopkino.at/movies/a-torinoi-lo-the-turin-horse/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/51a1cad0-32be-4ede-8e76-ffb33d4ee5de.jpeg?fit=max&w=120",
-   "director": "Béla Tarr, Ágnes Hranitzky",
-   "cast": "János Derzsi, Erika Bók, Mihály Kormos, Ricsi",
-   "year": 2011,
-   "runtime": 155,
-   "spoken": "Ungarisch",
-   "synopsis": "Zwei Menschen, Vater und Tochter, leben ihr monotones Leben auf einer Farm fernab, in einem zeitlosen Raum. Sie essen Kartoffeln, misten den Stall aus und schauen aus dem Fenster in die Ferne. Während sich nichts zu verändern scheint, bricht die Welt um sie herum langsam zusammen … Auch in seinem letzten Meisterwerk beschwört Béla Tarr mittels langer Plansequenzen, minimalistischer Schwarz-Weiß-Kompositionen und expressiver Musik die seinen Filmen eigene, apokalyptische Atmosphäre herauf. Ausgehend von Nietzsches Anekdote, beim Anblick eines geprügelten Pferdes einen geistigen Zusammenbruch erlitten zu haben, erzählt der Film eine umgedrehte, sechstägige Schöpfungsgeschichte, während der alles verschwindet und am Schluss jegliches Licht erlischt. (vf)",
-   "imdb": "tt1316540",
-   "rating": 7.7,
-   "votes": 21916,
-   "genres": [
-    "Drama"
-   ],
-   "score": 26
   },
   {
    "slug": "abschied-von-gestern",
@@ -230,6 +211,26 @@
     "Documentary"
    ],
    "score": 0
+  },
+  {
+   "slug": "astolfo",
+   "title": "Astolfo",
+   "url": "https://nonstopkino.at/movies/astolfo/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5dbc41a6-53fc-461c-aa2d-8e9ab96672fc.jpg?fit=max&w=120",
+   "director": "Gianni Di Gregorio",
+   "cast": "Gianni Di Gregorio, Stefania Sandrelli, Gigio Morra, Alfonso Santagata",
+   "year": 2022,
+   "runtime": 88,
+   "spoken": "",
+   "synopsis": "Von den verschiedenen Kräften, die die Welt regieren, ist die Liebe die stärkste. Astolfo, ein Rentner, der nichts mehr vom Leben erwartet, wird aus seiner Wohnung in Rom vertrieben und findet Unterschlupf im alten Familienhaus, einer Ruine in einer mittelitalienischen Kleinstadt, die einst ein Adelspalast war. Er gewöhnt sich an das Leben in der Provinz, schlägt sich durch, streitet sich mit dem Bürgermeister, findet einen alten Freund, nimmt ein paar Halunken wie ihn auf. Dann lernt er Stefania kennen, eine Frau in seinem Alter, und verliebt sich in sie. Es ist der Beginn eines neuen Lebens, schwieriger, aber auch schöner, echter, das einzig lebenswerte.",
+   "imdb": "tt15199942",
+   "rating": 6.3,
+   "votes": 421,
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "score": 1
   },
   {
    "slug": "atmosphere",
@@ -530,25 +531,6 @@
    "score": 0
   },
   {
-   "slug": "bitte-warten",
-   "title": "Bitte warten",
-   "url": "https://nonstopkino.at/movies/bitte-warten/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/e3bc7017-cb93-4d40-b772-b9b7bd62c88b.jpeg?fit=max&w=120",
-   "director": "Pavel Cuzuioc",
-   "cast": "Oleg Chumak, Ionut Fotin, Marius Marcovici, Ghenadie Mardari, Deyan Minchev",
-   "year": 2020,
-   "runtime": 78,
-   "spoken": "Englisch, Bulgarisch, Rumänisch, Russisch, Ukrainisch",
-   "synopsis": "„Bitte warten.“ Zwei Worte, die Millionen Menschen kennen – aus endlosen Telefonwarteschleifen, aus Momenten des Stillstands und der Ungeduld. Pavel Cuzuioc begleitet Kabeltechniker bei ihren Einsätzen in Rumänien, Moldawien, Bulgarien und der Ukraine. Sie verlegen Leitungen, reparieren Internetanschlüsse und bringen Menschen wieder „online“ – doch ihre eigentliche Arbeit beginnt oft erst hinter der Haustür der Kundschaft. Zwischen Kabelsalat, alten Fernsehern und blinkenden Routern öffnen sich intime Einblicke in ganz unterschiedliche Lebenswelten. Mit aufmerksamem Blick und trockenem Humor verwandelt Cuzuioc scheinbar alltägliche Begegnungen in kleine Porträts voller Menschlichkeit. BITTE WARTEN erzählt von einer Welt, die so vernetzt ist wie nie zuvor – und in der der Wunsch nach echter Verbindung trotzdem unverändert existiert. Zwischen moderner Technologie und postsozialistischer Realität entsteht ein poetischer Dokumentarfilm über Kommunikation, Missverständnisse und die vielen Formen des Zusammenseins, der zeigt: Manchmal beginnt die wichtigste Verbindung nicht mit einem Kabel, sondern mit einem Gespräch.",
-   "imdb": "tt12433466",
-   "rating": 7.3,
-   "votes": 106,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 0
-  },
-  {
    "slug": "bloede-muetze",
    "title": "Blöde Mütze!",
    "url": "https://nonstopkino.at/movies/bloede-muetze/",
@@ -569,16 +551,16 @@
    "score": 0
   },
   {
-   "slug": "blue-steel",
-   "title": "Blue Steel",
-   "url": "https://nonstopkino.at/movies/blue-steel/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/cf8b600e-9c88-40a8-8720-7a3fe2cd4ccb.jpeg?fit=max&w=120",
+   "slug": "blue-steel-35mm",
+   "title": "Blue Steel (35mm)",
+   "url": "https://nonstopkino.at/movies/blue-steel-35mm/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/fea88f73-c857-4f34-a69f-887cd9fc0c9f.jpeg?fit=max&w=120",
    "director": "Kathryn Bigelow",
-   "cast": "Jamie Lee Curtis, Ron Silver, Clancy Brown, Elizabeth Peña, u. a.",
+   "cast": "Jamie Lee Curtis, Ron Silver, Clancy Brown, Elizabeth Peña, Louise Fletcher",
    "year": 1990,
-   "runtime": 101,
+   "runtime": 102,
    "spoken": "Englisch",
-   "synopsis": "Zum Vorspann elegante Kamerafahrten über eine bläulich glänzende Landschaft, die sich als Dienstrevolver einer New Yorker Polizistin in Nahaufnahme entpuppt: Blue Steel. Cop Megan Turner (bestechend: Jamie Lee Curtis) erschießt bei einem ihrer ersten Einsätze einen Ladendieb in Notwehr, doch dessen Waffe bleibt unauffindbar: Ein Börsenmakler (Ron Silver) hat sie mitgenommen und zieht damit eine Mordspur durch die Stadt. Zugleich macht er sich, ganz freundlich im Auftreten, an Megan heran. Die Polizistin gerät bald selbst unter Verdacht, bis sie die wahre Natur ihres psychopathischen Geliebten erkennt und ein tödlicher Kampf beginnt. Ein unheimlicher Fetisch-Thriller mit der Logik eines Albtraums. Kathryn Bigelow stellt ein Macho-Genre schlüssig auf den Kopf, indem sie glaubhaft eine Frau ins Zentrum setzt, die stark genug ist, sich in der Männerwelt zu behaupten. Killer-Kino vom Krieg der Geschlechter. (C.H.)",
+   "synopsis": "Zum Vorspann elegante Kamerafahrten über eine bläulich glänzende Landschaft, die sich als Dienstrevolver einer New Yorker Polizistin in Nahaufnahme entpuppt: Blue Steel. Cop Megan Turner (bestechend: Jamie Lee Curtis) erschießt bei einem ihrer ersten Einsätze einen Ladendieb in Notwehr, doch dessen Waffe bleibt unauffindbar: Ein Börsenmakler (beunruhigend: Ron Silver) hat sie mitgenommen und zieht damit eine Mordspur durch die Stadt. Zugleich macht er sich, ganz freundlich im Auftreten, an Megan heran. Die Polizistin gerät bald selbst unter Verdacht, bis sie die wahre Natur ihres psychopathischen Geliebten erkennt und ein tödlicher Kampf beginnt. Ein unheimlicher Fetisch-Thriller mit der Logik eines Albtraums. Kathryn Bigelow stellt das Macho-Genre schlüssig auf den Kopf, indem sie glaubhaft eine Frau ins Zentrum setzt, die stark genug ist, sich in der Männerwelt zu behaupten. Killer-Kino vom Krieg der Geschlechter. (Christoph Huber)",
    "imdb": "tt0099160",
    "rating": 5.8,
    "votes": 19495,
@@ -691,6 +673,25 @@
     "History"
    ],
    "score": 0
+  },
+  {
+   "slug": "buoni-a-nulla",
+   "title": "Buoni a nulla",
+   "url": "https://nonstopkino.at/movies/buoni-a-nulla/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/74ebddde-d35c-486f-a431-e8eb0b26f02b.jpg?fit=max&w=120",
+   "director": "Gianni Di Gregorio",
+   "cast": "Gianni Di Gregorio, Marco Marzocca, Valentina Lodovini, Daniela Giordano, Gianfelice Imparato",
+   "year": 2014,
+   "runtime": 88,
+   "spoken": "Italienisch",
+   "synopsis": "Kurz bevor Gianni seinen wohlverdienten Ruhestand antreten kann, eröffnet ihm sein Chef, dass die italienische Regierung die Pensionierungsbedingungen geändert hat. Nicht nur soll Gianni zwei Jahre länger arbeiten, sondern er wird auch in ein modernes Büro in die Peripherie Roms versetzt. Dort macht ihm die neue Chefin das Leben unnötig schwer. Aber Gianni lässt sich nicht unterkriegen und beschließt, sich nicht mehr alles gefallen zu lassen. Gemeinsam mit seinem neuen Arbeitskollegen Marco will er sich von nun an den nötigen Respekt verschaffen. Nach „Das Festmahl im August“ und „Gianni und die Frauen“ ist Gianni di Gregorio abermals eine bezaubernde, unterhaltsame und beschwingte Komödie gelungen. „Gianni di Gregorio beglückt uns abermals mit seinem scharfsinnigen Sinn für Humor.“ (Cine-Europa)",
+   "imdb": "tt4078672",
+   "rating": 6.0,
+   "votes": 308,
+   "genres": [
+    "Comedy"
+   ],
+   "score": 1
   },
   {
    "slug": "bye-bye-paraiso",
@@ -891,6 +892,25 @@
     "Music"
    ],
    "score": 36
+  },
+  {
+   "slug": "corpus-delicti",
+   "title": "Corpus Delicti",
+   "url": "https://nonstopkino.at/movies/corpus-delicti/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/228a4df8-74a7-444e-b99c-3d1fe4a427b9.jpeg?fit=max&w=120",
+   "director": "Lena Stahl",
+   "cast": "Hannah Herzsprung, Damian Hardung, Alexander Fehling",
+   "year": 2026,
+   "runtime": 108,
+   "spoken": "Deutsch",
+   "synopsis": "In einer nahen Zukunft repräsentiert die „Methode“ eine Gesellschaft, die Gesundheit und maximale Sicherheit für alle verspricht. Das Leben der Wissenschaftlerin Mia Holl (Hannah Herzsprung) ändert sich schlagartig, als ihr Bruder Moritz (Damian Hardung) des Mordes beschuldigt wird. Die Beweise sind erdrückend – und doch ist Mia von seiner Unschuld überzeugt. Ein Widerspruch, der sie zum Handeln zwingt – gegen ein System, das keinen Zweifel zulässt. Doch wem kann sie noch trauen? Ihrer Kollegin Christiane (Haley Louise Jones), dem Anwalt ihres Bruders (Christian Friedel) oder dem charismatischen Journalisten Kramer (Alexander Fehling)? Ihr Kampf um Wahrheit und Gerechtigkeit macht sie selbst zur Gejagten.",
+   "imdb": "tt37804242",
+   "rating": 5.8,
+   "votes": 274,
+   "genres": [
+    "Thriller"
+   ],
+   "score": 4
   },
   {
    "slug": "dante",
@@ -1498,27 +1518,6 @@
    "score": 93
   },
   {
-   "slug": "eclipse-biss-zum-abendrot",
-   "title": "Eclipse – Bis(s) zum Abendrot",
-   "url": "https://nonstopkino.at/movies/eclipse-biss-zum-abendrot/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/e8508b2b-51e7-4372-9c0e-3aaafedb230c.jpg?fit=max&w=120",
-   "director": "David Slade",
-   "cast": "Kristen Stewart, Robert Pattinson, Taylor Lautner, Bryce Dallas Howard, Dakota Fanning",
-   "year": 2010,
-   "runtime": 124,
-   "spoken": "Englisch",
-   "synopsis": "Bellas Leben ist in Gefahr. Seattle wird von einer Reihe rätselhafter Mordfälle erschüttert, ein offensichtlich blutrünstiger Vampir sinnt auf Rache. Und seine Spuren führen zu Bella. Aber damit nicht genug: Nachdem sie wieder mit Edward zusammen ist, muss sie sich zwischen ihrer Liebe zu ihm und ihrer Freundschaft mit Jacob entscheiden – wohl wissend, dass sie damit den uralten Kampf zwischen Vampiren und Werwölfen neu entfachen könnte…",
-   "imdb": "tt1325004",
-   "rating": 5.1,
-   "votes": 288033,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "score": 31
-  },
-  {
    "slug": "edward-scissorhands",
    "title": "EDWARD SCISSORHANDS",
    "url": "https://nonstopkino.at/movies/edward-scissorhands/",
@@ -1632,19 +1631,6 @@
    "score": 0
   },
   {
-   "slug": "el-santo-de-santa-fe",
-   "title": "EL SANTO DE SANTA FE",
-   "url": "https://nonstopkino.at/movies/el-santo-de-santa-fe/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/6abaa2a0-b757-47c9-a9ab-cff16f718107.jpeg?fit=max&w=120",
-   "director": "Joaquín Horna Dolande",
-   "cast": "Juan Serrano, Edilma Gallego, Nubia Gallego, Jacinto Peña, Alejandro Vásquez",
-   "year": 2026,
-   "runtime": 104,
-   "spoken": "Spanisch",
-   "synopsis": "2017 stößt der kolumbianische Journalist Juan Serrano auf die Geschichte von Pater Héctor Gallego, der 1971 in einem abgelegenen Dorf in Panama spurlos verschwand. Was als Recherche beginnt, wird zu einer Reise in die Vergangenheit. Gemeinsam mit den Schwestern des Priesters, Edilma und Nubia, rekonstruiert Serrano das Leben eines Mannes, der sich in den Bergen von Santa Fe für die Rechte der Campesinos einsetzte – und dafür einen hohen Preis zahlte. In Santa Fe trifft Serrano auf Bauern, die sich seit Jahrzehnten jedes Jahr am 9. Juni versammeln, um an den Mann zu erinnern, der ihr Leben veränderte. Gallego wurde geschlagen und eingekerkert, seine Hütte wurde niedergebrannt – doch er blieb. Er gründete Genossenschaften und ermutigte die Campesinos, für ihre Rechte einzustehen. Damit stellte er sich gegen ein System, das über Generationen von Ausbeutung geprägt war. 1999 reist Edilma nach Panama, um die sterblichen Überreste ihres Bruders zu identifizieren. Ein Zeuge hatte sie zu einer Grabstelle geführt; Knochen und Kleidung schienen zu passen. Doch die DNA-Analyse bringt Gewissheit: Die Überreste gehören einem anderen Vermissten. Edilma kehrt nie nach Kolumbien zurück. Serranos Film folgt ihrer jahrzehntelangen Suche nach der Wahrheit und erzählt von der Erinnerung an einen Mann, dessen Wirken bis heute in den Bergen von Santa Fe weiterlebt.",
-   "score": null
-  },
-  {
    "slug": "emperor-of-the-north",
    "title": "Emperor of the North",
    "url": "https://nonstopkino.at/movies/emperor-of-the-north/",
@@ -1709,25 +1695,6 @@
    "spoken": "Rumänisch, Englisch, Deutsch, Ungarisch, Italienisch",
    "synopsis": "Radu Judes neuester satirisch-experimenteller Streich ist ein kapitalismuskritisches Porträt des heutigen Rumänien: Angela arbeitet als Produktionsassistentin für ein österreichisches, multinationales Medienunternehmen in Bukarest. Ihre aktuelle Aufgabe ist es, Menschen zu finden, die von Arbeitsunfällen versehrt wurden. Dafür ist sie, ständig überarbeitet und unterbezahlt, immerzu mit dem Auto unterwegs. Zwischendurch lässt sie Druck ab, indem sie auf Instagram mit einem Filter, der sie als Mann zeigt, obszöne Videos aufnimmt. Eine wilde Fahrt durch die moderne Gig-Economy. (FALTER)",
    "score": null
-  },
-  {
-   "slug": "etwas-ganz-besonderes",
-   "title": "Etwas ganz Besonderes",
-   "url": "https://nonstopkino.at/movies/etwas-ganz-besonderes/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/8030f593-a47d-4b65-888b-4aaaaf9ed63b.jpg?fit=max&w=120",
-   "director": "Eva Trobisch",
-   "cast": "Frida Hornemann, Max Riemelt, Eva Löbau, Peter René Lüdicke",
-   "year": 2026,
-   "runtime": 120,
-   "spoken": "Deutsch",
-   "synopsis": "Mit der Frage nach ihrer Persönlichkeit wird die siebzehnjährige Lea in einer Gesangs-Castingshow konfrontiert, bleibt jedoch ohne klare Antwort. Die Unsicherheit spiegelt sich auch in ihrem Alltag wider, denn die familieneigene Pension in einer thüringischen Kleinstadt steht kurz vor dem finanziellen Scheitern. Gleichzeitig belastet die Trennung ihrer Eltern Matze und Rieke ihre Suche nach Orientierung. Halt sucht Lea bei ihrer Tante Kati, die als Museumsleiterin scheinbar souverän durchs Leben geht. Doch die mit EU-Mitteln geförderte Sanierung ihres Museums sorgt in der strukturschwachen Region für Spannungen. Währenddessen ist Leas beste Freundin Bonny ganz von ihren eigenen Gefühlen eingenommen, nachdem sie sich in Cousin Edgar verliebt hat. Inmitten familiärer und persönlicher Umbrüche gerät Leas Weg zu sich selbst zunehmend unter Druck.",
-   "imdb": "tt39382755",
-   "rating": 6.0,
-   "votes": 137,
-   "genres": [
-    "Family"
-   ],
-   "score": 0
   },
   {
    "slug": "everyones-child",
@@ -2022,6 +1989,27 @@
    "score": 5
   },
   {
+   "slug": "gentlemen-prefer-blondes",
+   "title": "Gentlemen Prefer Blondes",
+   "url": "https://nonstopkino.at/movies/gentlemen-prefer-blondes/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/ec41aa74-033c-477b-80b0-d45a8e55cd7d.jpg?fit=max&w=120",
+   "director": "Howard Hawks",
+   "cast": "Marilyn Monroe, Jane Russell, Charles Coburn, Elliott Reid, Tommy Noonan,",
+   "year": 1953,
+   "runtime": 91,
+   "spoken": "Englisch",
+   "synopsis": "»Diamonds Are a Girl’s Best Friend« – mit dieser Nummer transformiert Marilyn Monroe Begehren und Luxus in ein verführerisches System aus Farben und Bewegung. Ihre Lorelei Lee zieht Materielles ganz klar den Gefühlen vor. Obwohl bereits mit einem Millionär verlobt, strebt sie nach mehr. Mit Freundin Dorothy, ebenfalls auf der Suche nach ihrem Mr. Right, begeben sich die »Two Little Girls from Little Rock« nach Paris via Kreuzfahrtschiff, wo sie auf und unter Deck dem anderen Geschlecht den Kopf verdrehen. Hawks inszeniert ihre Freundschaft als solidarisches Bündnis: Wie zwei seiner Westernhelden stehen sie Seite an Seite, als vermeintlich naive Partnerinnen, die jedoch das Machtgefüge zwischen Mann und Frau mit leichter Hand umdrehen und offenbaren, dass Beziehungen auch ökonomische Verträge sind. (Florian Widegger)",
+   "imdb": "tt0045810",
+   "rating": 7.1,
+   "votes": 47366,
+   "genres": [
+    "Comedy",
+    "Musical",
+    "Romance"
+   ],
+   "score": 37
+  },
+  {
    "slug": "george-michael-the-faith-tour",
    "title": "George Michael: The Faith Tour",
    "url": "https://nonstopkino.at/movies/george-michael-the-faith-tour/",
@@ -2053,6 +2041,45 @@
    "spoken": "Englisch",
    "synopsis": "Um möglichst rasch aus dem Knast zu seiner geliebten Carol zurückzukehren, lässt sich Gangster Doc McCoy auf einen gefährlichen Pakt ein: Das Paar soll eine Bank überfallen – doch der Plan misslingt, und eine atemlose Flucht Richtung Mexiko beginnt … Noch einmal treffen der »King of Cool« und »Bloody Sam« zusammen und fabrizieren einen blei- und benzinhaltigen Meilenstein, den wir in einer farbechten, wunderbar erhaltenen 35-mm-Kopie zeigen. (Florian Widegger)",
    "score": null
+  },
+  {
+   "slug": "gianni-e-le-donne",
+   "title": "Gianni e le donne",
+   "url": "https://nonstopkino.at/movies/gianni-e-le-donne/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/0500ab53-681c-4f37-9e3b-41b90b61d7e5.jpg?fit=max&w=120",
+   "director": "Gianni Di Gregorio",
+   "cast": "Gianni Di Gregorio, Valeria De Franciscis, Alfonso Santagata",
+   "year": 2011,
+   "runtime": 90,
+   "spoken": "Italienisch",
+   "synopsis": "Eigentlich ist der seit kurzem pensionierte Gianni (Gianni Di Gregorio) ein glücklich verheirateter Ehemann, der sich mit Gassigehen und über den Markt schlendern seinen Tag vertreibt. Doch dann erfährt der gutherzige Familienvater erstaunliche Details von den jüngsten sexuellen Abenteuern seines alten Freundes Alfonso (Alfonso Santagata). Und auch Maurizio, der tagtäglich nur im Trainingsanzug auf der Straße zu sehen ist, hat eine jüngere Geliebte! Schnell wird Gianni klar, dass alle außer ihm selbst gerade ihren zweiten Frühling erleben. Also nimmt Kumpel Alfonso das Zepter in die Hand, versorgt Gianni mit einer Dosis Viagra und schubst ihn in den weiblichen Bekanntenkreis …",
+   "imdb": "tt1813327",
+   "rating": 6.3,
+   "votes": 1905,
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "score": 3
+  },
+  {
+   "slug": "giant-the-play",
+   "title": "GIANT – The Play",
+   "url": "https://nonstopkino.at/movies/giant-the-play/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5af7bdd4-5b19-4ab6-9245-5c7c77643f22.jpeg?fit=max&w=120",
+   "director": "Nicholas Hytner",
+   "cast": "John Lithgow, Aya Cash, Elliot Levey, Rachael Stirling",
+   "year": 2026,
+   "runtime": 136,
+   "spoken": "Englisch",
+   "synopsis": "Ein weltberühmter Kinderbuchautor unter Druck. Ein Machtkampf im Nachhall eines Skandals. Und eine letzte Chance, die Dinge wiedergutzumachen … Es ist Sommer 1983. The Witches steht kurz vor der Veröffentlichung, und Roald Dahl nimmt noch letzte Änderungen vor. Doch die Empörung über seinen kurz zuvor veröffentlichten, ausdrücklich antisemitischen Artikel will nicht abklingen. Im Laufe eines einzigen Nachmittags in seinem Familienhaus und nach einer unerwartet heftigen Konfrontation muss Dahl eine Entscheidung treffen: sich öffentlich entschuldigen oder seinen Namen und seinen Ruf aufs Spiel setzen.",
+   "imdb": "tt42870035",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Drama"
+   ],
+   "score": 19
   },
   {
    "slug": "girl-on-the-train",
@@ -2516,6 +2543,45 @@
    "score": 0
   },
   {
+   "slug": "il-pranzo-di-ferragosto",
+   "title": "Il Pranzo di Ferragosto",
+   "url": "https://nonstopkino.at/movies/il-pranzo-di-ferragosto/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8267041d-aebc-4dcb-8e33-9ef58a9ea323.jpg?fit=max&w=120",
+   "director": "Gianni di Gregorio",
+   "cast": "Gianni di Gregorio, Valeria De Franciscis, Marina Cacciotti, Maria Calì, Granzia Cesarini Sforza",
+   "year": 2008,
+   "runtime": 75,
+   "spoken": "Italienisch",
+   "synopsis": "Mitte August in Rom, kurz vor dem „Ferragosto“, einem der wichtigsten Feiertage des Landes. Wer kann, nimmt sich frei und fährt aufs Land oder ans Meer. Nur Gianni nicht, der mit seiner dominanten alten Mutter unter einem Dach lebt und sich aufopferungsvoll um sie kümmert. Weil der in die Jahre gekommene Junggeselle einfach nicht nein sagen kann, hat er es aber nicht nur mit einer, sondern plötzlich gleich mit vier älteren Damen zu tun, die durchweg äußerst eigensinnig und alles andere als pflegeleicht sind… Der Film wurde 2008 in Venedig mit dem „Luigi de Laurentiis“-Preis für das Beste Regiedebüt ausgezeichnet.",
+   "imdb": "tt1277728",
+   "rating": 7.0,
+   "votes": 4532,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "score": 9
+  },
+  {
+   "slug": "in-der-ferne-liegt-das-glueck",
+   "title": "In der Ferne liegt das Glück",
+   "url": "https://nonstopkino.at/movies/in-der-ferne-liegt-das-glueck/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/89275593-c9f5-4386-be4f-0dbb603b9954.jpg?fit=max&w=120",
+   "director": "Gianni Di Gregorio",
+   "cast": "Di Gregorio, Ennio Fantastichini, Giorgio Colangeli",
+   "year": 2019,
+   "runtime": 92,
+   "spoken": "Italienisch",
+   "synopsis": "Man ist nie zu alt, um sein Leben zu ändern. Das hoffen zumindestens Attilio, Giorgetto und der Professore, drei auf unterschiedliche Weise leidgeprüfte Römer Rentner, die sich entschließen, ihr altes Quartierleben aufzugeben und sich im Ausland niederzulassen. Aber wo genau ist dieses Ausland? Das ist nur eine von vielen Fragen, die es zu klären gilt. Als sie schon bei den Vorbereitungen den jungen Malier Abu kennen lernen, nehmen sie sich des mittellosen Flüchtlings an. „Die Filme von Gianni Di Gregorio durchzieht eine Liebe zu den Underdogs, sie stehen für Bescheidenheit und Menschlichkeit, und sie lassen weder Humor noch Menschlichkeit zu kurz kommen. Man ahnt, dass das Vorhaben der drei Protagonisten von Anfang an zum Scheitern verurteilt ist. Aber träumen kostet ja glücklicherweise nichts. “ (Tagesanzeiger)",
+   "imdb": "tt8916728",
+   "rating": 6.6,
+   "votes": 691,
+   "genres": [
+    "Comedy"
+   ],
+   "score": 1
+  },
+  {
    "slug": "ingeborg-bachmann-jemand-der-einmal-ich-war",
    "title": "Ingeborg Bachmann – Jemand, der einmal ich war",
    "url": "https://nonstopkino.at/movies/ingeborg-bachmann-jemand-der-einmal-ich-war/",
@@ -2553,19 +2619,6 @@
     "Documentary"
    ],
    "score": 0
-  },
-  {
-   "slug": "james-el-monaguillo-el-cura-y-el-jardinero",
-   "title": "JAMES; EL MONAGUILLO, EL CURA Y EL JARDINERO",
-   "url": "https://nonstopkino.at/movies/james-el-monaguillo-el-cura-y-el-jardinero/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/b3bd3b5f-c115-4f46-8df8-e3bc7f18d3b6.jpg?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": null,
-   "spoken": "Spanisch",
-   "synopsis": "Programm: JAMES Andrés Rodríguez​, Guatemala / Mexiko, 2024, Kurzfilm BUCH Andrés Rodríguez​ | KAMERA Sebastián Lojo | SCHNITT Cem Demirer | TON Eduardo Marroquín | MUSIK Vicente Barcarcel | MIT James Maldonado, José Poz, Erick Maldonado 20 min | Farbe, span. OmeU, DCP Die Einsamkeit der Großstadt begleitet James, einen indigenen Teenager, der sich in den Straßen von Guatemala-Stadt als Straßenhändler durchschlägt. Mit dem Verkauf von Handyhüllen versucht er, seinen Lebensunterhalt zu verdienen, während er zugleich mit dem Gefühl des Verlassenseins, der Härte seines Alltags und seinen eigenen Vorstellungen von Männlichkeit ringt. Die anderen Jungen, die wie er auf der Straße arbeiten, haben ihre eigenen Regeln und Wege gefunden, sich in dieser Welt zu behaupten. Je mehr James versucht, seinen eigenen Weg zu finden, desto stärker wird die Frage, was er dafür zurücklassen muss. Der Film erzählt von einer Kindheit, die zu früh endet, von der Suche nach Zugehörigkeit und von dem Versuch, sich in einer Welt zurechtzufinden, die kaum Raum für ihn vorsieht. Ein eindringliches Porträt über das Erwachsenwerden am Rand der Gesellschaft – und über die Hoffnung, dabei sich selbst nicht zu verlieren. EL MONAGUILLO, EL CURA Y EL JARDINERO Juan Manuel Fernández Escoto, Costa Rica, 2025, Dokumentarfilm BUCH Juan Manuel Fernández Escoto | KAMERA Juan Manuel Fernández und Laura Ángel | SCHNITT Juan Manuel Fernández, Medhin Tewolde, Nitay Jiménez | TON Erick Vargas | MUSIK Walter Briceño | MIT Anthony Venegas Abarca, Josué Alvarado Quirós 85 min | Farbe, span. OmeU, DCP Anthony und Josué waren noch Kinder, als sie vom Priester Mauricio Víquez sexuell missbraucht wurden. Anthony diente als Messdiener und wurde mit Geschenken gefügig gemacht. Josué arbeitete als Gärtner im Haus des Pfarrers und war auf den Verdienst angewiesen, um seine Familie in einer prekären wirtschaftlichen Situation zu unterstützen. Beide schwiegen jahrelang über das Erlebte. 2018 brach Anthony sein Schweigen. Er wurde der erste ehemalige Messdiener in Costa Rica, der einen Priester öffentlich des sexuellen Missbrauchs beschuldigte – in einem Land, in dem die katholische Kirche bis heute eine besondere verfassungsrechtliche Stellung hat. Víquez floh zunächst nach Panama und tauchte später in Mexiko unter. Inspiriert von Anthonys Mut meldeten sich auch Josué und weitere Betroffene zu Wort. Josués Aussage wurde entscheidend, denn sein Fall war einer der wenigen, die nach den damaligen Verjährungsfristen noch strafrechtlich verfolgt werden konnten. Anthony setzte sich zugleich für eine Reform des Verjährungsrechts ein, die 2022 verabschiedet wurde und die Fristen für Fälle sexuellen Missbrauchs an Kindern verlängerte. Als Víquez weiter auf der Flucht war und die Frist für Josués Fall abzulaufen drohte, reiste Anthony selbst nach Mexiko. Er wollte den Druck auf die Behörden erhöhen und die Öffentlichkeit auf die Suche nach dem Priester aufmerksam machen. Gemeinsam kämpfen Anthony und Josué darum, dass Víquez sich für seine Taten verantworten muss – nachdem die Kirche dies versäumt hatte. Ein eindringlicher Dokumentarfilm über das Brechen des Schweigens, institutionelles Versagen und den langen Weg zur Gerechtigkeit.",
-   "score": null
   },
   {
    "slug": "jim-queen",
@@ -2692,6 +2745,19 @@
    "score": 52
   },
   {
+   "slug": "kinderfilmfestival-kurzfilmprogramm-zusammen-finden",
+   "title": "Kinderfilmfestival: Kurzfilmprogramm – Zusammen finden",
+   "url": "https://nonstopkino.at/movies/kinderfilmfestival-kurzfilmprogramm-zusammen-finden/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/daab50aa-f287-443d-a1e1-ccdcfd22e1f5.jpeg?fit=max&w=120",
+   "director": "div.",
+   "cast": "[object Object]",
+   "year": 2026,
+   "runtime": 45,
+   "spoken": "",
+   "synopsis": "Die bunte Auswahl an sechs Kurzfilmen lässt die Jüngsten eintauchen in poetische Geschichten über Mut, Zusammenhalt und die Kraft, über sich selbst hinauszuwachsen. TAG FÜR TAG (A cada dia que passa) R: Emanuel Nevado | PT/SI 2024 | 10:55 Minuten | ohne Dialog TSURU R: Pedro Anias | BR 2024 | 06:19 Minuten | ohne Dialog MARMELADE UND HOLZ R: Elena Walf | D/HR 2025 | 5:12 Minuten | ohne Dialog NACHTSCHWÄRMER (Bats & Bugs) R: Lena von Döhren | CH 2026 | 11:00 Minuten | ohne Dialog WOLKENFISCH (Poisson Nuage) R: Noé Garcia | F/B 2025 | 05:37 Minuten | ohne Dialog TANZPARTNER R: Elena Walf | D/HR 2025 | 5:12 Minuten | ohne Dialog",
+   "score": null
+  },
+  {
    "slug": "kino-fuer-die-kleinsten-bunte-bande-stark-zusammen",
    "title": "Kino für die Kleinsten: Bunte Bande: Stark zusammen!",
    "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-bunte-bande-stark-zusammen/",
@@ -2785,6 +2851,26 @@
    "score": 4
   },
   {
+   "slug": "kommissar-jennerwein-hochsaison",
+   "title": "Kommissar Jennerwein – Hochsaison",
+   "url": "https://nonstopkino.at/movies/kommissar-jennerwein-hochsaison/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/de08854f-19ae-4b2e-89af-9ac3bef015d9.jpg?fit=max&w=120",
+   "director": "Hannu Salonen",
+   "cast": "Florian Brückner, Sarah Thonig, Frederic Linkemann, Eva-Maria Reichert, Helmfried von Lüttichau",
+   "year": 2026,
+   "runtime": 96,
+   "spoken": "Deutsch",
+   "synopsis": "Kaum hat Kommissar Hubertus Jennerwein (Florian Brückner) seinen Dienst im winterlichen Garmisch-Partenkirchen angetreten, wird die Alpenidylle zum Tatort: Ein dänischer Skispringer stürzt in den Tod, der Präsident des Winterspiele-Komitees entgeht nur knapp einem Anschlag und anonyme Schreiben kündigen weitere Verbrechen an. Zwischen misstrauischen Dorfbewohnern und eitler Lokalpolitik muss Jennerwein einen Täter entlarven, der Aufmerksamkeit sucht und ein tödlich ernstes Spiel spielt.",
+   "imdb": "tt39304299",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Comedy",
+    "Crime"
+   ],
+   "score": 4
+  },
+  {
    "slug": "konrad-aus-der-konservenbuechse",
    "title": "Konrad aus der Konservenbüchse",
    "url": "https://nonstopkino.at/movies/konrad-aus-der-konservenbuechse/",
@@ -2865,6 +2951,27 @@
    "score": 13
   },
   {
+   "slug": "la-chimera",
+   "title": "La Chimera",
+   "url": "https://nonstopkino.at/movies/la-chimera/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/3f9a369a-f627-44c7-8f3e-bea6a14ca4f2.png?fit=max&w=120",
+   "director": "Alice Rohrwacher",
+   "cast": "Josh O‘Connor, Carol Duarte, Vincenzo Nemolato u.a.",
+   "year": 2023,
+   "runtime": 130,
+   "spoken": "",
+   "synopsis": "Wieder ein bezaubernder Alice Rohrwacher Film. Und als i-Tüpfelchen Josh O'Connor!",
+   "imdb": "tt14561712",
+   "rating": 7.2,
+   "votes": 23690,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "score": 24
+  },
+  {
    "slug": "la-emulsion-del-tiempo-una-y-mil-veces",
    "title": "LA EMULSIÓN DEL TIEMPO; UNA Y MIL VECES",
    "url": "https://nonstopkino.at/movies/la-emulsion-del-tiempo-una-y-mil-veces/",
@@ -2893,6 +3000,25 @@
    "votes": 1212,
    "genres": [
     "Drama"
+   ],
+   "score": 1
+  },
+  {
+   "slug": "la-mia-famiglia-italiana",
+   "title": "La mia famiglia italiana",
+   "url": "https://nonstopkino.at/movies/la-mia-famiglia-italiana/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/a0884fdf-cc49-473a-8e6e-76cfca0f33f2.jpg?fit=max&w=120",
+   "director": "Gianni Di Gregorio",
+   "cast": "Gianni Di Gregorio, Greta Scarano, Alessandro Bedetti, Andrea De Satti, Hildegard De Stefano, Iaia Forte",
+   "year": 2025,
+   "runtime": 98,
+   "spoken": "Italienisch",
+   "synopsis": "Ein pensionierter Professor in seinen Siebzigern geniesst ein ruhiges Leben, bis seine Tochter, die mitten in einer Ehekrise steckt, mit ihren beiden ungestümen Kindern bei ihm auftaucht. Als seine sorgenfreie Routine aus den Fugen gerät, wird er in das familiäre Chaos hineingezogen. Durch diesen emotionalen Umbruch entdeckt er, dass die Liebe trotz aller Schwierigkeiten, Opfer und Herausforderungen immer lebenswert ist.",
+   "imdb": "tt34730492",
+   "rating": 6.2,
+   "votes": 201,
+   "genres": [
+    "Comedy"
    ],
    "score": 1
   },
@@ -3152,25 +3278,23 @@
    "score": 6
   },
   {
-   "slug": "marie-antoinette",
-   "title": "Marie Antoinette",
-   "url": "https://nonstopkino.at/movies/marie-antoinette/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/b90131e7-f748-488b-bfb9-65f99429a9ff.png?fit=max&w=120",
-   "director": "Sofia Coppola",
-   "cast": "Kirsten Dunst, Jason Schwartzman, Judy Davis, Rip Torn, Rose Byrne, Asia Argento, Molly Shannon, Danny Huston, Marianne Faithfull",
-   "year": 2006,
-   "runtime": 123,
-   "spoken": "",
-   "synopsis": "1768. Die österreichische Erzherzogin Marie Antoinette gelangt an den Hof von Versailles, um den französischen Dauphin zu heiraten. Zunächst noch amüsiert, passt sie sich der unbehaglichen Etikette an. Den Vollzug der Ehe schiebt Ludwig hinaus; frustriert gibt Marie Antoinette sich royalem Nichtstun hin. Erst als sich doch noch ein Thronfolger einstellt, wird »die Österreicherin« von den Hofschranzen akzeptiert. An politischen Vorgängen desinteressiert, beginnt sie eine Affäre mit einem schwedischen Adligen. Dass die öffentliche Meinung sich im Vorfeld der Französischen Revolution gegen sie richtet, ignoriert Marie Antoinette … »Ich finde sie entzückend. Sie sieht aus wie ein Törtchen.« Helle Farben in Pastelltönen bestimmen die Staatsroben der »Fashion Queen« Marie Antoinette, während das »Traumkleid« der selbstbewussten Hofmätresse du Barry in einem kräftigen Blau gehalten ist. Die authentischen Kleiderschnitte werden konterkariert durch anachronistische Accessoires. Sofia Coppola und Milena Canonero ging es nicht darum, die Epoche historisch exakt abzubilden. Vielmehr dürfen sich Stil-Ikonen und »Shopping Queens« der Gegenwart in Marie Antoinette widergespiegelt sehen.",
-   "imdb": "tt0422720",
-   "rating": 6.5,
-   "votes": 134592,
+   "slug": "luegen-ueber-meine-mutter",
+   "title": "Lügen über meine Mutter",
+   "url": "https://nonstopkino.at/movies/luegen-ueber-meine-mutter/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/27742444-1823-4545-8c84-1cb9f4802652.jpg?fit=max&w=120",
+   "director": "Aron Lehmann",
+   "cast": "Rosalie Thomass, Golo Euler",
+   "year": 2026,
+   "runtime": 102,
+   "spoken": "Deutsch",
+   "synopsis": "Der Film erzählt von der Liebe zwischen Mutter und Kind. Angesiedelt in der westdeutschen Provinz der 1980er Jahre, in einer Familie, in der ein Thema alles beherrscht: das Körpergewicht der Mutter Cornelia. Abnehmen, entscheidet ihr Ehemann Werner, der besessen ist von der fixen Idee, das Übergewicht seiner Frau wäre verantwortlich für alles, was ihm versagt bleibt: die Beförderung, der soziale Aufstieg, die Anerkennung in der Dorfgemeinschaft. Cornelia ist dem ausgesetzt, während Tochter Ela zwischen den Stühlen steht. Doch was ist die Wahrheit und wer belügt hier eigentlich wen?",
+   "imdb": "tt36985296",
+   "rating": 7.2,
+   "votes": 69,
    "genres": [
-    "Biography",
-    "Drama",
-    "History"
+    "Drama"
    ],
-   "score": 38
+   "score": 0
   },
   {
    "slug": "mary-poppins",
@@ -3209,26 +3333,6 @@
    "votes": 75,
    "genres": [
     "Documentary"
-   ],
-   "score": 0
-  },
-  {
-   "slug": "mein-leben-in-versailles",
-   "title": "Mein Leben in Versailles",
-   "url": "https://nonstopkino.at/movies/mein-leben-in-versailles/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/f8ef7e79-2b40-467f-8480-29b03e63620e.jpg?fit=max&w=120",
-   "director": "Nathaniel H'limi, Clémence Madeleine-Perdrillat",
-   "cast": "",
-   "year": 2025,
-   "runtime": 81,
-   "spoken": "Französisch",
-   "synopsis": "Nach dem Tod ihrer Eltern muss Violette zu ihrem Onkel Régis ziehen, der als mürrischer Hausmeister im Schloss Versailles arbeitet. Nur sehr langsam wachsen die selbstbewusste Violette und der grummelige Régis zusammen. Zwischen komplizierten Familienangelegenheiten, neuen Freundschaften und Régis heimlicher Liebe entsteht für das Waisenkind ein neues, reiches Leben – mitten im Schloss Versailles, das die eigentliche Hauptrolle spielt. MEIN LEBEN IN VERSAILLES ist ein feinfühliger und humorvoller Film über Trauer, Verlust und das langsame Ankommen in einer neuen Familie. Optisch beeindruckt die lebendige Detailtreue der opulenten Innenräume des Schlosses, während das schlichte Figurendesign dazu in schönem Kontrast steht.",
-   "imdb": "tt37436610",
-   "rating": 7.1,
-   "votes": 136,
-   "genres": [
-    "Animation",
-    "Family"
    ],
    "score": 0
   },
@@ -4017,6 +4121,27 @@
    "score": 14
   },
   {
+   "slug": "shaun-das-schaf-spuk-im-kuerbisfeld",
+   "title": "Shaun das Schaf – Spuk im Kürbisfeld",
+   "url": "https://nonstopkino.at/movies/shaun-das-schaf-spuk-im-kuerbisfeld/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/64a66f9f-c553-47e3-a03a-958ce3f7888c.jpg?fit=max&w=120",
+   "director": "Steve Cox, Matthew Walker",
+   "cast": "Justin Fletcher, John Sparkes, Kate Harbour",
+   "year": 2026,
+   "runtime": 91,
+   "spoken": "Englisch",
+   "synopsis": "Auf der Mossy Bottom Farm laufen die Vorbereitungen für Halloween auf Hochtouren. Die Vorfreude der Schafherde wird jedoch jäh getrübt, als der tollpatschige Farmer versehentlich das Kürbisbeet zerstört. Entschlossen, das Fest doch noch zu retten, sucht Shaun nach einer Lösung und greift dabei zu ungewöhnlichen Mitteln. Seine Experimente lösen jedoch eine Reihe unerwarteter Ereignisse aus, die das Leben auf der Farm gehörig durcheinanderbringen. Kurz darauf ist der Farmer spurlos verschwunden und in den Wäldern von Mossingham taucht ein rätselhaftes, haariges Wesen auf. Während sich immer mehr Fragen stellen, müssen Shaun und seine wolligen Freunde gemeinsam herausfinden, was hinter den seltsamen Vorkommnissen steckt. Zwischen chaotischen Erfindungen, geheimnisvollen Begegnungen und jeder Menge Chaos entwickelt sich ein turbulentes Halloween-Abenteuer für die ganze Familie.",
+   "imdb": "tt36841161",
+   "rating": 7.1,
+   "votes": 3825,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "score": 5
+  },
+  {
    "slug": "sich-langsam-naehern",
    "title": "sich langsam nähern",
    "url": "https://nonstopkino.at/movies/sich-langsam-naehern/",
@@ -4108,6 +4233,25 @@
    "score": 21
   },
   {
+   "slug": "spaziergang-nach-syrakus",
+   "title": "Spaziergang nach Syrakus",
+   "url": "https://nonstopkino.at/movies/spaziergang-nach-syrakus/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/77a1883c-92da-44d2-a5e6-a4f9714a5de7.jpeg?fit=max&w=120",
+   "director": "Lars Jessen",
+   "cast": "Thorsten Merten, Charly Hübner, Lina Beckmann, Mélanie Fouché",
+   "year": 2026,
+   "runtime": 97,
+   "spoken": "Deutsch",
+   "synopsis": "Einmal nach Syrakus und zurück – davon träumt Paul Gompitz. Mit einer Reise nach Sizilien will er auf den Spuren des Dichters Johann Gottfried Seume wandeln. Da gibt es nur ein Problem: Wir schreiben das Jahr 1982 und Paul lebt in der DDR. Alle Versuche, eine offizielle Genehmigung für seine Ausreise zu bekommen, scheitern. Eine Besuchsreise zu seiner Cousine? Die Mitgliedschaft in der Liga für Völkerfreundschaft? Eine Studienreise? Alles wird abgelehnt! Was bleibt ihm anderes übrig? Paul muss seine Flucht planen. Was die Sache nicht einfacher macht: Er will danach auch wieder nach Hause zurück. Zurück nach Rostock, zur Ostsee, zu seiner Frau Anne. Paul ersinnt einen verwegenen Plan … Regisseur Lars Jessen erzählt in SPAZIERGANG NACH SYRAKUS von unstillbarer Sehnsucht und großem Mut, von tiefer Liebe und inniger Loyalität – und vom Wunsch, die Welt zu sehen, ohne die Heimat zu verlieren.",
+   "imdb": "tt43598697",
+   "rating": 6.9,
+   "votes": 156,
+   "genres": [
+    "Drama"
+   ],
+   "score": 0
+  },
+  {
    "slug": "staatsschutz",
    "title": "Staatsschutz",
    "url": "https://nonstopkino.at/movies/staatsschutz/",
@@ -4126,6 +4270,27 @@
     "Thriller"
    ],
    "score": 4
+  },
+  {
+   "slug": "star-trek-ii-the-wrath-of-khan",
+   "title": "Star Trek II: The Wrath of Khan",
+   "url": "https://nonstopkino.at/movies/star-trek-ii-the-wrath-of-khan/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/0777e710-fe2b-49f2-83fb-001ed7045a23.jpeg?fit=max&w=120",
+   "director": "Nicholas Meyer",
+   "cast": "William Shatner, Leonard Nimoy, DeForest Kelley",
+   "year": 1982,
+   "runtime": 113,
+   "spoken": "Englisch",
+   "synopsis": "Mit Unterstützung der Enterprise-Crew muss Admiral Kirk seinen alten Erzfeind Khan Noonien Singh daran hindern, die Leben erschaffende Genesis-Maschine als ultimative Waffe einzusetzen.",
+   "imdb": "tt0084726",
+   "rating": 7.7,
+   "votes": 137635,
+   "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "score": 59
   },
   {
    "slug": "sterben-fuer-anfaenger",
@@ -4186,6 +4351,26 @@
     "Sci-Fi"
    ],
    "score": 53
+  },
+  {
+   "slug": "sunny-dancer",
+   "title": "Sunny Dancer",
+   "url": "https://nonstopkino.at/movies/sunny-dancer/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/40627944-3faf-41ea-9a89-eaaf5bc8234f.jpeg?fit=max&w=120",
+   "director": "George Jaques",
+   "cast": "Bella Ramsey, Daniel Quinn-Toye, Ruby Stokes, Earl Cave, Jasmine Elcock, Conrad Khan, Neil Patrick Harris",
+   "year": 2026,
+   "runtime": 106,
+   "spoken": "Englisch",
+   "synopsis": "Partys, Freunde, große Freiheit – die Sommerferien eines typischen Teenagers. Aber nicht für die eigenbrötlerische Ivy, die sich nach ihrer überstandenen Krebserkrankung lieber zurückzieht. Aus diesem Grund melden ihre überfürsorglichen Eltern die 17-Jährige für einen vierwöchigen Aufenthalt im Children Run Free Camp für krebskranke Jugendliche an. Überzeugt, dass ihr die schlimmste Zeit ihres Lebens bevorsteht, bezieht Ivy ihre Unterkunft im „Chemo-Camp“ und findet unerwartet Gleichgesinnte in einer Gruppe von Außenseiter:innen, aus denen schnell Freund:innen werden. Gemeinsam feiern sie das Leben und einen Sommer, den sie nie vergessen werden. Eine warmherzige Coming-of-Age-Geschichte, die mitten ins Herz trifft.",
+   "imdb": "tt32212403",
+   "rating": 7.0,
+   "votes": 1705,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "score": 8
   },
   {
    "slug": "szegenylegenyek",
@@ -4494,6 +4679,27 @@
    "score": 25
   },
   {
+   "slug": "the-greatest-showman-sing-along",
+   "title": "The Greatest Showman Sing-Along",
+   "url": "https://nonstopkino.at/movies/the-greatest-showman-sing-along/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/7619f9d9-4f4f-46c8-88ad-a4b32c495412.jpeg?fit=max&w=120",
+   "director": "Michael Gracey",
+   "cast": "Hugh Jackman, Zendaya, Zach Efron, Rebecca Ferguson",
+   "year": 2017,
+   "runtime": 106,
+   "spoken": "Englisch",
+   "synopsis": "THE GREATEST SHOWMAN (2017) Sing-Along Inspiriert vom Leben von P.T. Barnum, erzählt dieses schillernde Musical von seinem Aufstieg aus bescheidenen Verhältnissen zum Gründer eines spektakulären Zirkus. Barnum und seine Artisten feiern Fantasie, Vielfalt und Widerstandsfähigkeit, überwinden Vorurteile und Schwierigkeiten und beweisen, dass Träume, Familie und Akzeptanz Ruhm und Reichtum überstrahlen können.",
+   "imdb": "tt1485796",
+   "rating": 7.5,
+   "votes": 355868,
+   "genres": [
+    "Biography",
+    "Drama",
+    "Musical"
+   ],
+   "score": 62
+  },
+  {
    "slug": "the-grinch",
    "title": "The Grinch",
    "url": "https://nonstopkino.at/movies/the-grinch/",
@@ -4778,27 +4984,6 @@
    "score": 39
   },
   {
-   "slug": "the-terminator",
-   "title": "The Terminator",
-   "url": "https://nonstopkino.at/movies/the-terminator/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/5b0fb032-a4eb-499c-b897-63c577f83430.png?fit=max&w=120",
-   "director": "James Cameron",
-   "cast": "Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield",
-   "year": 1984,
-   "runtime": 107,
-   "spoken": "",
-   "synopsis": "Teil der Special Reihe NACHTBLENDE Nachtblende: THROWBACK 1984 „Still one of the most captivating, visually engaging, menacing and stylish Sci-Fi movies of all time.“ MiloBauer on Letterboxd You’ve been targeted for termination… by the Terminator! James Cameron schuf mit seinem zweiten Film eine der ikonischsten Sci-Fi-Figuren der Filmgeschichte. Arnold Schwarzenegger schlüpfte in die Rolle des (hier bösen) Cyborgs mit österreichischem Akzent und wurde spätestens damit zum weltweiten Mega-Actionstar. Der immer noch wahnsinnig stylische Film, der deutlich mehr Horror ist als die vielleicht beste Fortsetzung der Geschichte TERMINATOR 2, oszilliert zwischen Technik-Fetisch (machines need love too) und Fortschrittspessimismus. Blaue Blitze und vom plötzlichen Wind getragene Zeitungen in irgendeiner Seitengasse: Zwei Menschen aus der Zukunft landen im Los Angeles des Jahres 1984. Nur dass einer von ihnen doch kein Mensch ist, sondern ein Killer-Cyborg mit einem ganz bestimmten Ziel: Die Auslöschung von Sarah Connor (Linda Hamilton), deren noch nicht geborener Sohn in der Zukunft den Maschinen den Krieg erklären wird. Oder eben doch nicht?",
-   "imdb": "tt0088247",
-   "rating": 8.1,
-   "votes": 1024655,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-   ],
-   "score": 92
-  },
-  {
    "slug": "the-third-man",
    "title": "The Third Man",
    "url": "https://nonstopkino.at/movies/the-third-man/",
@@ -5010,6 +5195,27 @@
    "score": 23
   },
   {
+   "slug": "verity",
+   "title": "Verity",
+   "url": "https://nonstopkino.at/movies/verity/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/ac5f99e9-7979-42a8-8e73-06c4fd873469.jpg?fit=max&w=120",
+   "director": "Michael Showalter",
+   "cast": "Anne Hathaway, Dakota Johnson, Josh Hartnett",
+   "year": 2026,
+   "runtime": 114,
+   "spoken": "Englisch",
+   "synopsis": "Eine erfolglose Schriftstellerin wird als Ghostwriterin für eine renommierte Autorin engagiert, die durch einen tragischen Unfall handlungsunfähig geworden ist, und zieht in dessen abgelegenes Anwesen ein. Beim Durchforsten umfangreicher Notizen entdeckt sie eine erschreckende, unveröffentlichte Autobiografie, die dunkle Familiengeheimnisse birgt. Während sie dem trauernden Ehemann der Autorin immer näherkommt, fällt es ihr schwer, gefährliche Fiktion von der schrecklichen Realität zu unterscheiden.",
+   "imdb": "tt32261958",
+   "rating": 6.0,
+   "votes": 36776,
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "score": 33
+  },
+  {
    "slug": "vienna-screenings-film-festival-2026",
    "title": "Vienna Screenings Film Festival 2026",
    "url": "https://nonstopkino.at/movies/vienna-screenings-film-festival-2026/",
@@ -5079,32 +5285,6 @@
     "Documentary"
    ],
    "score": 0
-  },
-  {
-   "slug": "was-ist-film-programm-19",
-   "title": "Was ist Film – Programm 19",
-   "url": "https://nonstopkino.at/movies/was-ist-film-programm-19/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/c33939fb-96e9-4d83-9bd5-5a293b53b713.jpeg?fit=max&w=120",
-   "director": "Diverse",
-   "cast": "",
-   "year": 1929,
-   "runtime": 100,
-   "spoken": "",
-   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Programm 19 Robert Siodmak & Edgar G. Ulmer Menschen am Sonntag 1929, 35mm, 81 min (20 B/Sek). Deutsche ZT Drehbuch: Billie Wilder nach einer Reportage von Kurt Siodmak; Kamera: Eugen Schüfftan; Kameraassistenz: Fred Zinnemann Luis Buñuel Terre sans pain (Las Hurdes) 1932, 35mm, 29 min. Französisch/Übersetzung liegt auf Foto: Österreichisches Filmmuseum",
-   "score": null
-  },
-  {
-   "slug": "was-ist-film-programm-20",
-   "title": "Was ist Film – Programm 20",
-   "url": "https://nonstopkino.at/movies/was-ist-film-programm-20/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/4581bd49-6faf-4388-a520-5a46ce1b0769.jpeg?fit=max&w=120",
-   "director": "Diverse",
-   "cast": "",
-   "year": 1932,
-   "runtime": 88,
-   "spoken": "",
-   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums um 9 Euro erhältlich. Programm 20 Kenneth Anger Invocation of My Demon Brother 1969, 16mm, 11 min Carl Theodor Dreyer Vampyr 1932, 35mm, 77 min. Deutsch Drehbuch: Carl Theodor Dreyer, Christen Jul; Kamera: Rudolph Maté, Louis Née; Musik: Wolfgang Zeller; Darsteller*innen: Julian West (i.e. Baron Nicolas de Gunzburg), Maurice Schutz, Sybille Schmitz, Jan Hieronimko, Henriette Gérard Foto: Österreichisches Filmmuseum",
-   "score": null
   },
   {
    "slug": "was-ist-film-programm-21",
@@ -5350,692 +5530,9 @@
     "Thriller"
    ],
    "score": 69
-  },
-  {
-   "slug": "zusammen-finden",
-   "title": "Zusammen finden",
-   "url": "https://nonstopkino.at/movies/zusammen-finden/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/08b888fd-17d6-4c9a-a801-4f37f47b791b.jpg?fit=max&w=120",
-   "director": "Emanuel Nevado, Pedro Anias, Elena Walf, Lena von Döhren, Noé Garcia",
-   "cast": "",
-   "year": 2026,
-   "runtime": 45,
-   "spoken": "",
-   "synopsis": "Die bunte Auswahl an sechs Kurzfilmen lässt die Jüngsten eintauchen in poetische Geschichten über Mut, Zusammenhalt und die Kraft, über sich selbst hinauszuwachsen. TAG FÜR TAG (A cada dia que passa) POR / SLO 2024 | 10:55 Minuten | Regie: Emanuel Nevado TSURU BRA 2024 | 06:19 Minuten | Regie: Pedro Anias MARMELADE UND HOLZ GER / CRO 2025 | 05:12 Minuten | Regie: Elena Walf NACHTSCHWÄRMER (Bats & Bugs) SUI 2026 | 11:00 Minuten | Regie: Lena von Döhren WOLKENFISCH (Poisson Nuage) FRA / BEL 2025 | 05:37 Minuten | Regie: Noé Garcia TANZPARTNER GER / CRO 2025 | 05:12 Minuten | Regie: Elena Walf",
-   "imdb": "tt43754570",
-   "rating": null,
-   "votes": 0,
-   "genres": [],
-   "score": 0
   }
  ],
  "screenings": [
-  {
-   "film": "los-mosquitos-no-esta-a-la-venta-modos-de-verme",
-   "start": "2026-11-17T14:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-17T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-17T15:15:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-17T15:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-17T15:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-17T15:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "chopin-eine-sonate-in-paris",
-   "start": "2026-11-17T15:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-17T15:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "mein-leben-in-versailles",
-   "start": "2026-11-17T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bert",
-   "start": "2026-11-17T16:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "DF",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-17T16:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-17T17:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-17T17:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "valerie-a-tyden-divu",
-   "start": "2026-11-17T17:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "the-third-man",
-   "start": "2026-11-17T17:10:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-social-reckoning",
-   "start": "2026-11-17T17:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T17:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "liebhaberinnen",
-   "start": "2026-11-17T17:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-terminator",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sterben-fuer-anfaenger",
-   "start": "2026-11-17T17:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T17:45:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "godzilla-minus-zero",
-   "start": "2026-11-17T17:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T17:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-17T17:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "etwas-ganz-besonderes",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "was-ist-film-programm-19",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "el-santo-de-santa-fe",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bitte-warten",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmdU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T18:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-11-17T18:10:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "blue-steel",
-   "start": "2026-11-17T18:15:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-17T18:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-1000-augen-des-dr-mabuse",
-   "start": "2026-11-17T19:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-17T19:10:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-11-17T19:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-17T19:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-11-17T19:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "los-domingos-glaube",
-   "start": "2026-11-17T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-17T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-11-17T19:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "eclipse-biss-zum-abendrot",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "marie-antoinette",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "james-el-monaguillo-el-cura-y-el-jardinero",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "london",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "i-play-rocky",
-   "start": "2026-11-17T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-17T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T20:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "was-ist-film-programm-20",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "i-play-rocky",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "a-torinoi-lo-the-turin-horse",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-17T20:45:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "flash-gordon",
-   "start": "2026-11-17T21:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bernadette-will-toeten",
-   "start": "2026-11-17T21:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-11-17T21:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sacrifice",
-   "start": "2026-11-17T21:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-magische-dschungel",
-   "start": "2026-11-18T09:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
   {
    "film": "los-mosquitos-no-esta-a-la-venta-modos-de-verme",
    "start": "2026-11-18T14:30:00+01:00",
@@ -6063,7 +5560,7 @@
    "booking": ""
   },
   {
-   "film": "zusammen-finden",
+   "film": "kinderfilmfestival-kurzfilmprogramm-zusammen-finden",
    "start": "2026-11-18T15:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "DF",
@@ -6391,9 +5888,7 @@
    "start": "2026-11-18T18:00:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
    "lang": "OmdU",
-   "tags": [
-    "Q&A"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6535,7 +6030,9 @@
    "start": "2026-11-18T19:45:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Q&A"
+   ],
    "booking": ""
   },
   {
@@ -6857,6 +6354,30 @@
    "booking": ""
   },
   {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-19T15:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-19T15:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-19T15:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-11-19T15:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -6871,6 +6392,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "shaun-das-schaf-spuk-im-kuerbisfeld",
+   "start": "2026-11-19T15:50:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "the-third-man",
@@ -6989,6 +6518,24 @@
    "booking": ""
   },
   {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-19T17:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-19T17:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "the-piano-tuner",
    "start": "2026-11-19T17:30:00+01:00",
    "cinema": "Top Kino",
@@ -7096,6 +6643,14 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-19T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "bye-bye-paraiso",
    "start": "2026-11-19T18:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -7114,6 +6669,14 @@
     "Q&A"
    ],
    "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-19T18:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "noestlinger-sowieso-und-ueberhaupt",
@@ -7208,6 +6771,14 @@
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-19T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "liebhaberinnen",
    "start": "2026-11-19T19:45:00+01:00",
    "cinema": "Top Kino",
@@ -7246,6 +6817,14 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "giant-the-play",
+   "start": "2026-11-19T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "un-teatro-para-barbero-una-leccion-diferente-la-culpa-de-cain-ivan-la-vaca-y-el-cometa-nos-atraviesa-un-cuerpo-de-agua-paraiso",
@@ -7310,6 +6889,14 @@
    "booking": ""
   },
   {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-19T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "wild-horse-nine",
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "Votiv Kino",
@@ -7362,6 +6949,16 @@
     "Festival"
    ],
    "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-19T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "az-en-xx-szazadom-my-20th-century",
@@ -7444,6 +7041,14 @@
    "booking": ""
   },
   {
+   "film": "naza",
+   "start": "2026-11-20T14:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "drags-in-da-house",
    "start": "2026-11-20T15:00:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
@@ -7451,6 +7056,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-20T15:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7464,6 +7077,62 @@
    "booking": ""
   },
   {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-20T15:15:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-20T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-20T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-20T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-20T15:25:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-20T15:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alte-liebe",
+   "start": "2026-11-20T15:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "auf-der-suche-nach-der-weihnachtswerkstatt",
    "start": "2026-11-20T15:30:00+01:00",
    "cinema": "Filmhaus",
@@ -7472,12 +7141,60 @@
    "booking": ""
   },
   {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-20T15:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-20T15:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-20T15:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-20T16:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "sunny-dancer",
+   "start": "2026-11-20T16:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-20T16:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-20T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "a-letter-to-chinatown",
@@ -7501,10 +7218,28 @@
   },
   {
    "film": "la-bola-negra",
+   "start": "2026-11-20T17:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
    "start": "2026-11-20T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-20T17:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -7514,6 +7249,40 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-20T17:20:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "los-domingos-glaube",
+   "start": "2026-11-20T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-20T17:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-20T17:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "dieser-film-ist-ein-geschenk",
@@ -7532,10 +7301,60 @@
    "booking": ""
   },
   {
+   "film": "die-blutgraefin",
+   "start": "2026-11-20T17:45:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-20T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-20T17:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "identitti",
    "start": "2026-11-20T17:45:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-20T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-20T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-20T18:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7578,10 +7397,42 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-20T18:05:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-20T18:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "verity",
+   "start": "2026-11-20T18:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "nachts-in-der-provinz",
    "start": "2026-11-20T18:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-20T18:50:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7594,10 +7445,58 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-20T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-20T19:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-20T19:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "le-dinosaure-et-le-bebe-conversation-with-fritz-lang",
    "start": "2026-11-20T19:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-20T19:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-20T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-20T20:00:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7609,6 +7508,14 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-20T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7630,6 +7537,14 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-20T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "carabali-todos-los-peces",
    "start": "2026-11-20T20:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -7648,6 +7563,22 @@
    "booking": ""
   },
   {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-20T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-20T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-11-20T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -7656,10 +7587,36 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-20T20:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-20T20:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "die-blutgraefin",
    "start": "2026-11-20T20:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-20T20:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7678,6 +7635,34 @@
    "lang": "OmeU",
    "tags": [
     "Festival"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-20T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-20T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-20T20:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
    ],
    "booking": ""
   },
@@ -7702,6 +7687,14 @@
    "booking": ""
   },
   {
+   "film": "the-invite",
+   "start": "2026-11-20T20:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "ken-russells-the-devils-directors-cut",
    "start": "2026-11-20T22:30:00+01:00",
    "cinema": "Filmhaus",
@@ -7722,6 +7715,14 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-21T12:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "travelling-gieff-vienna-ethnographic-film-days-kurzfilmprogramm-iii",
    "start": "2026-11-21T12:30:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
@@ -7729,6 +7730,22 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-21T12:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alte-liebe",
+   "start": "2026-11-21T12:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -7760,6 +7777,30 @@
    "booking": ""
   },
   {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-21T13:20:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alte-liebe",
+   "start": "2026-11-21T13:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-21T14:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "ronja-raeubertochter",
    "start": "2026-11-21T14:00:00+01:00",
    "cinema": "Filmhaus",
@@ -7788,6 +7829,40 @@
    "booking": ""
   },
   {
+   "film": "luegen-ueber-meine-mutter",
+   "start": "2026-11-21T14:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-21T14:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-21T14:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "bert",
+   "start": "2026-11-21T15:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-11-21T15:00:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -7806,12 +7881,92 @@
    "booking": ""
   },
   {
+   "film": "die-blutgraefin",
+   "start": "2026-11-21T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-11-21T15:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-21T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-21T15:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-21T15:25:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-11-21T15:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-21T15:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-21T15:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-21T15:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-21T15:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "los-domingos-glaube",
+   "start": "2026-11-21T16:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "noestlinger-sowieso-und-ueberhaupt",
@@ -7830,10 +7985,34 @@
    "booking": ""
   },
   {
+   "film": "atmosphere",
+   "start": "2026-11-21T16:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "pippi-in-taka-tuka-land-1970",
    "start": "2026-11-21T16:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-21T16:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-21T16:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -7862,6 +8041,22 @@
    "booking": ""
   },
   {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-21T16:50:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-21T17:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-21T17:00:00+01:00",
    "cinema": "Filmcasino",
@@ -7881,11 +8076,37 @@
   },
   {
    "film": "la-bola-negra",
+   "start": "2026-11-21T17:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
    "start": "2026-11-21T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-21T17:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-21T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "die-al-cook-gala",
@@ -7896,9 +8117,59 @@
    "booking": ""
   },
   {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-21T17:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-21T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-21T17:45:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-21T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-21T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "slidin-alles-bunt-und-wunderbar",
    "start": "2026-11-21T17:45:00+01:00",
    "cinema": "Metro Kinokulturhaus",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-21T17:45:00+01:00",
+   "cinema": "Votiv Kino",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -7922,6 +8193,14 @@
    "booking": ""
   },
   {
+   "film": "digger",
+   "start": "2026-11-21T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "los-imaginarios",
    "start": "2026-11-21T18:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -7935,6 +8214,40 @@
    "film": "tony-shelly-und-das-magische-licht",
    "start": "2026-11-21T18:00:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-21T18:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-21T18:05:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-21T18:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-21T18:15:00+01:00",
+   "cinema": "De France",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -7956,10 +8269,42 @@
    "booking": ""
   },
   {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-21T18:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-21T18:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "naza",
    "start": "2026-11-21T19:10:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-21T19:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-21T19:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -7980,12 +8325,54 @@
    "booking": ""
   },
   {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-21T19:35:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "meeting-the-buddha",
    "start": "2026-11-21T19:45:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
    "lang": "OmeU",
+   "tags": [
+    "Q&A"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-21T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-21T20:00:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-21T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-21T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "kontroll",
@@ -7996,10 +8383,36 @@
    "booking": ""
   },
   {
+   "film": "biermann",
+   "start": "2026-11-21T20:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [
+    "Q&A"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-21T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-21T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-21T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -8014,6 +8427,22 @@
    "booking": ""
   },
   {
+   "film": "primetime",
+   "start": "2026-11-21T20:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-21T20:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "hush-hush-sweet-charlotte",
    "start": "2026-11-21T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -8022,6 +8451,22 @@
     "Retrospektive"
    ],
    "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-21T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "verity",
+   "start": "2026-11-21T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "near-dark",
@@ -8043,6 +8488,26 @@
   },
   {
    "film": "wild-horse-nine",
+   "start": "2026-11-21T20:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-21T20:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
    "start": "2026-11-21T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
@@ -8050,6 +8515,16 @@
     "Film der Woche"
    ],
    "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-21T20:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "die-blutgraefin",
@@ -8076,7 +8551,7 @@
    "booking": ""
   },
   {
-   "film": "blue-steel",
+   "film": "blue-steel-35mm",
    "start": "2026-11-21T22:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OV",
@@ -8086,7 +8561,7 @@
    "booking": ""
   },
   {
-   "film": "zusammen-finden",
+   "film": "kinderfilmfestival-kurzfilmprogramm-zusammen-finden",
    "start": "2026-11-22T11:00:00+01:00",
    "cinema": "CineCenter",
    "lang": "OV",
@@ -8108,6 +8583,14 @@
    "start": "2026-11-22T11:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "chopin-eine-sonate-in-paris",
+   "start": "2026-11-22T11:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -8136,13 +8619,19 @@
    "booking": ""
   },
   {
-   "film": "wild-horse-nine",
+   "film": "la-bola-negra",
    "start": "2026-11-22T12:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-22T12:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -8154,9 +8643,19 @@
    "booking": ""
   },
   {
-   "film": "was-haben-wir-gelacht",
+   "film": "wild-horse-nine",
    "start": "2026-11-22T12:30:00+01:00",
    "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-22T12:45:00+01:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -8180,14 +8679,6 @@
    "booking": ""
   },
   {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-22T13:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
    "film": "le-mepris-die-verachtung",
    "start": "2026-11-22T13:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -8201,6 +8692,22 @@
    "film": "die-al-cook-gala",
    "start": "2026-11-22T13:00:00+01:00",
    "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-haben-wir-gelacht",
+   "start": "2026-11-22T13:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-22T13:30:00+01:00",
+   "cinema": "De France",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -8224,12 +8731,70 @@
    "booking": ""
   },
   {
+   "film": "alte-liebe",
+   "start": "2026-11-22T13:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "possible-love",
    "start": "2026-11-22T14:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-22T14:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "giant-the-play",
+   "start": "2026-11-22T14:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-22T14:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-22T14:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-22T14:20:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "star-trek-ii-the-wrath-of-khan",
+   "start": "2026-11-22T14:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "coffee-and-cigarettes",
@@ -8286,9 +8851,59 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-22T15:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-22T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-22T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-22T15:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "gentlemen-prefer-blondes",
+   "start": "2026-11-22T15:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "monster-mia",
    "start": "2026-11-22T15:30:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-22T15:30:00+01:00",
+   "cinema": "De France",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -8301,6 +8916,30 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-22T15:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "spaziergang-nach-syrakus",
+   "start": "2026-11-22T16:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-22T16:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -8322,9 +8961,57 @@
    "booking": ""
   },
   {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-22T16:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-22T16:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-22T16:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-22T16:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-22T16:50:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-11-22T17:00:00+01:00",
    "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-22T17:00:00+01:00",
+   "cinema": "CineCenter",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -8346,6 +9033,14 @@
    "booking": ""
   },
   {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-22T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-22T17:15:00+01:00",
    "cinema": "Burg Kino",
@@ -8354,9 +9049,69 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T17:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-22T17:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T17:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-22T17:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "liebhaberinnen",
    "start": "2026-11-22T17:40:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-22T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-22T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-22T17:45:00+01:00",
+   "cinema": "De France",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -8370,6 +9125,14 @@
     "Film der Woche"
    ],
    "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-22T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "4-for-texas",
@@ -8400,11 +9163,37 @@
    "booking": ""
   },
   {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-22T18:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-22T18:05:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-blutgraefin",
    "start": "2026-11-22T18:15:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T18:15:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8414,6 +9203,32 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-22T18:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-22T18:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T19:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "abschied-von-gestern",
@@ -8426,6 +9241,22 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-22T19:15:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-22T19:20:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "naza",
    "start": "2026-11-22T19:25:00+01:00",
    "cinema": "Burg Kino",
@@ -8436,10 +9267,26 @@
   {
    "film": "la-bola-negra",
    "start": "2026-11-22T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-22T19:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-22T19:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "honeyland",
@@ -8450,6 +9297,30 @@
    "booking": ""
   },
   {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-22T19:40:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-22T19:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-22T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "der-leichenverbrenner-spalovac-mrtvol",
    "start": "2026-11-22T20:00:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
@@ -8457,6 +9328,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-22T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -8476,10 +9355,34 @@
    "booking": ""
   },
   {
+   "film": "die-blutgraefin",
+   "start": "2026-11-22T20:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-22T20:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-22T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-22T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -8510,6 +9413,32 @@
    "booking": ""
   },
   {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-22T20:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T20:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-22T20:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-dirty-dozen",
    "start": "2026-11-22T20:30:00+01:00",
    "cinema": "Filmmuseum",
@@ -8526,6 +9455,16 @@
    "lang": "OmeU",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-22T20:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
    ],
    "booking": ""
   },
@@ -8550,6 +9489,46 @@
    "booking": ""
   },
   {
+   "film": "jim-queen",
+   "start": "2026-11-22T21:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-23T14:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "chopin-eine-sonate-in-paris",
+   "start": "2026-11-23T14:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-23T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-23T15:15:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "wild-horse-nine",
    "start": "2026-11-23T15:15:00+01:00",
    "cinema": "Filmcasino",
@@ -8560,10 +9539,66 @@
    "booking": ""
   },
   {
+   "film": "la-gradiva",
+   "start": "2026-11-23T15:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-23T15:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-23T15:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-23T15:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-23T16:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-23T16:15:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-23T16:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-23T16:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -8576,6 +9611,14 @@
    "booking": ""
   },
   {
+   "film": "alte-liebe",
+   "start": "2026-11-23T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "wild-horse-nine",
    "start": "2026-11-23T17:00:00+01:00",
    "cinema": "Burg Kino",
@@ -8586,10 +9629,60 @@
    "booking": ""
   },
   {
+   "film": "biermann",
+   "start": "2026-11-23T17:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "geister",
+   "start": "2026-11-23T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-23T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-23T17:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-23T17:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-23T17:25:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-23T17:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -8616,6 +9709,42 @@
    "lang": "OmdU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "corpus-delicti",
+   "start": "2026-11-23T17:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-23T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-23T17:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-23T17:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "die-blutgraefin",
@@ -8656,6 +9785,30 @@
    "booking": ""
   },
   {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-23T18:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-23T18:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-23T18:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "american-guerrilla-in-the-philippines",
    "start": "2026-11-23T18:15:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -8674,10 +9827,18 @@
    "booking": ""
   },
   {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-23T18:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "game-on-hosted-by-ludecat",
    "start": "2026-11-23T19:00:00+01:00",
    "cinema": "Votiv Kino",
-   "lang": "OV",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -8690,10 +9851,34 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-23T19:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-23T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "liebhaberinnen",
    "start": "2026-11-23T19:30:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-23T19:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -8714,6 +9899,54 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-23T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-23T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-23T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-23T20:00:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-23T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "other-mommy",
+   "start": "2026-11-23T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "next-generation",
    "start": "2026-11-23T20:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -8722,10 +9955,28 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-23T20:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-23T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-23T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -8740,10 +9991,26 @@
    "booking": ""
   },
   {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-23T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-23T20:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-23T20:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -8766,11 +10033,39 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-23T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "die-727-tage-ohne-karamo",
    "start": "2026-11-23T20:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-23T20:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-23T20:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8852,10 +10147,82 @@
    "booking": ""
   },
   {
+   "film": "biermann",
+   "start": "2026-11-24T15:15:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-24T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "kommissar-jennerwein-hochsaison",
+   "start": "2026-11-24T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-24T15:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-24T15:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-24T15:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "ein-talent-fuers-morden",
    "start": "2026-11-24T15:45:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "vaterland",
+   "start": "2026-11-24T15:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-24T16:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alte-liebe",
+   "start": "2026-11-24T16:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -8868,6 +10235,22 @@
    "booking": ""
   },
   {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-24T16:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "gentle-monster",
+   "start": "2026-11-24T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "human-desire",
    "start": "2026-11-24T17:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -8878,10 +10261,68 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-24T17:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "los-domingos-glaube",
+   "start": "2026-11-24T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-11-24T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-24T17:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-24T17:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-24T17:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-24T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-24T17:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -8900,6 +10341,16 @@
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-24T17:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "viridiana",
@@ -8929,6 +10380,32 @@
   },
   {
    "film": "wild-horse-nine",
+   "start": "2026-11-24T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-24T17:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-24T18:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
    "start": "2026-11-24T18:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
@@ -8944,6 +10421,14 @@
    "lang": "OV",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "godzilla-minus-zero",
+   "start": "2026-11-24T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "balduin-das-nachtgespenst",
@@ -8966,6 +10451,14 @@
    "booking": ""
   },
   {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-24T18:15:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-11-24T18:15:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -8977,6 +10470,22 @@
    "film": "noestlinger-sowieso-und-ueberhaupt",
    "start": "2026-11-24T18:30:00+01:00",
    "cinema": "Admiral Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-24T18:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-24T18:30:00+01:00",
+   "cinema": "Votiv Kino",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -8998,6 +10507,14 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-24T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
    "film": "queen-champions-of-the-world",
    "start": "2026-11-24T19:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -9006,6 +10523,56 @@
     "Retrospektive"
    ],
    "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-24T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-24T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-24T19:45:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-social-reckoning",
+   "start": "2026-11-24T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-24T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "rocky",
+   "start": "2026-11-24T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
    "film": "nachts-in-der-provinz",
@@ -9032,6 +10599,30 @@
    "booking": ""
   },
   {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-24T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-24T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-24T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "classic-sneak",
    "start": "2026-11-24T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -9056,6 +10647,34 @@
    "booking": ""
   },
   {
+   "film": "the-invite",
+   "start": "2026-11-24T20:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-24T20:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-24T20:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "wild-horse-nine",
    "start": "2026-11-24T20:30:00+01:00",
    "cinema": "Filmcasino",
@@ -9070,6 +10689,24 @@
    "start": "2026-11-24T20:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-24T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-24T20:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -9105,9 +10742,89 @@
   },
   {
    "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-25T14:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-25T15:00:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-25T15:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alte-liebe",
+   "start": "2026-11-25T15:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-25T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-25T15:15:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "atmosphere",
+   "start": "2026-11-25T15:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-25T15:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-25T15:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
    "start": "2026-11-25T16:00:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-25T16:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -9149,11 +10866,111 @@
   },
   {
    "film": "la-bola-negra",
+   "start": "2026-11-25T17:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-25T17:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-bola-negra",
    "start": "2026-11-25T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
    "tags": [],
    "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-25T17:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-25T17:15:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-25T17:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "wildwood",
+   "start": "2026-11-25T17:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-25T17:20:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-25T17:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-25T17:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-25T17:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-25T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-al-cook-gala",
+   "start": "2026-11-25T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
    "film": "die-blutgraefin",
@@ -9184,6 +11001,14 @@
    "booking": ""
   },
   {
+   "film": "digger",
+   "start": "2026-11-25T18:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "beau-travail",
    "start": "2026-11-25T18:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -9195,6 +11020,38 @@
    "film": "the-queen-and-the-smokehouse",
    "start": "2026-11-25T18:00:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-25T18:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-25T18:15:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-25T18:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-25T18:15:00+01:00",
+   "cinema": "De France",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -9244,6 +11101,30 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-25T19:30:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-25T19:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-25T19:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "moscas",
    "start": "2026-11-25T19:30:00+01:00",
    "cinema": "Gartenbaukino",
@@ -9255,6 +11136,14 @@
    "booking": ""
   },
   {
+   "film": "wildwood",
+   "start": "2026-11-25T19:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "explanation-for-everything",
    "start": "2026-11-25T19:30:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
@@ -9263,12 +11152,62 @@
    "booking": ""
   },
   {
+   "film": "biermann",
+   "start": "2026-11-25T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "digger",
+   "start": "2026-11-25T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "the-invite",
+   "start": "2026-11-25T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-25T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-greatest-showman-sing-along",
+   "start": "2026-11-25T20:00:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "getaway",
    "start": "2026-11-25T20:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "DF",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-25T20:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Q&A"
    ],
    "booking": ""
   },
@@ -9285,6 +11224,32 @@
    "start": "2026-11-25T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-25T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-hunger-games-sunrise-on-the-reaping",
+   "start": "2026-11-25T20:15:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "jim-queen",
+   "start": "2026-11-25T20:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -9307,6 +11272,16 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-25T20:30:00+01:00",
+   "cinema": "Haydn Kino",
+   "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
    "film": "gyakufunusha-kazuko",
    "start": "2026-11-25T20:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -9314,6 +11289,24 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-25T20:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-25T20:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -9347,6 +11340,30 @@
    "booking": ""
   },
   {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-26T07:15:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-26T14:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-26T14:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-third-man",
    "start": "2026-11-26T14:30:00+01:00",
    "cinema": "Burg Kino",
@@ -9363,6 +11380,30 @@
    "booking": ""
   },
   {
+   "film": "vaterland",
+   "start": "2026-11-26T14:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "chopin-eine-sonate-in-paris",
+   "start": "2026-11-26T15:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-26T15:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "baaf-2026-wettbewerb-studentische-arbeiten-2",
    "start": "2026-11-26T15:00:00+01:00",
    "cinema": "Filmcasino",
@@ -9370,6 +11411,46 @@
    "tags": [
     "Festival"
    ],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-26T15:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alte-liebe",
+   "start": "2026-11-26T15:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-26T15:30:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bruno-der-junge-kreisky",
+   "start": "2026-11-26T15:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-26T15:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -9385,6 +11466,46 @@
    "start": "2026-11-26T16:30:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-26T16:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-26T16:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "biermann",
+   "start": "2026-11-26T16:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "noestlinger-sowieso-und-ueberhaupt",
+   "start": "2026-11-26T17:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "naza",
+   "start": "2026-11-26T17:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -9425,6 +11546,14 @@
    "booking": ""
   },
   {
+   "film": "la-bola-negra",
+   "start": "2026-11-26T17:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-blue-gardenia",
    "start": "2026-11-26T17:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -9435,9 +11564,59 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-26T17:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "la-gradiva",
    "start": "2026-11-26T17:45:00+01:00",
    "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-26T17:45:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "heimsuchung-eine-jahrhundergeschichte",
+   "start": "2026-11-26T17:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-26T17:45:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "liebhaberinnen",
+   "start": "2026-11-26T18:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OV",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "ein-talent-fuers-morden",
+   "start": "2026-11-26T18:00:00+01:00",
+   "cinema": "Bellaria Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -9471,6 +11650,16 @@
    "booking": ""
   },
   {
+   "film": "wild-horse-nine",
+   "start": "2026-11-26T18:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
    "film": "sich-langsam-naehern",
    "start": "2026-11-26T18:30:00+01:00",
    "cinema": "Breitenseer Lichtspiele",
@@ -9478,6 +11667,30 @@
    "tags": [
     "Q&A"
    ],
+   "booking": ""
+  },
+  {
+   "film": "die-lieben-eltern",
+   "start": "2026-11-26T18:45:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-26T19:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "sterben-fuer-anfaenger",
+   "start": "2026-11-26T19:00:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
    "booking": ""
   },
   {
@@ -9495,6 +11708,14 @@
    "start": "2026-11-26T19:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
    "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "la-bola-negra",
+   "start": "2026-11-26T19:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -9517,9 +11738,57 @@
    "booking": ""
   },
   {
+   "film": "biermann",
+   "start": "2026-11-26T19:35:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sense-and-sensibility-2026",
+   "start": "2026-11-26T19:45:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "primetime",
+   "start": "2026-11-26T20:00:00+01:00",
+   "cinema": "Actors Studio",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-26T20:00:00+01:00",
+   "cinema": "Bellaria Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-blutgraefin",
+   "start": "2026-11-26T20:00:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "a-house-of-dynamite",
    "start": "2026-11-26T20:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "i-play-rocky",
+   "start": "2026-11-26T20:00:00+01:00",
+   "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -9530,6 +11799,16 @@
    "cinema": "Burg Kino",
    "lang": "OmeU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-26T20:15:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "DF",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9556,6 +11835,24 @@
    "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-26T20:30:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "wild-horse-nine",
+   "start": "2026-11-26T20:30:00+01:00",
+   "cinema": "De France",
+   "lang": "OmdU",
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10013,6 +12310,22 @@
    "start": "2026-11-29T13:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "giant-the-play",
+   "start": "2026-11-29T13:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "george-michael-the-faith-tour",
+   "start": "2026-11-29T13:00:00+01:00",
+   "cinema": "Filmhaus",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -10663,6 +12976,14 @@
    "booking": ""
   },
   {
+   "film": "la-chimera",
+   "start": "2026-12-03T20:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "dip-huet-seung-hung-the-killer",
    "start": "2026-12-03T21:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -10907,6 +13228,14 @@
    "booking": ""
   },
   {
+   "film": "la-mia-famiglia-italiana",
+   "start": "2026-12-10T19:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "you-can-see-everything",
    "start": "2026-12-10T20:15:00+01:00",
    "cinema": "Burg Kino",
@@ -10927,6 +13256,14 @@
    "start": "2026-12-11T15:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "astolfo",
+   "start": "2026-12-11T20:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
    "tags": [],
    "booking": ""
   },
@@ -10965,6 +13302,14 @@
    "booking": ""
   },
   {
+   "film": "in-der-ferne-liegt-das-glueck",
+   "start": "2026-12-12T18:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "skiff",
    "start": "2026-12-12T20:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -10984,6 +13329,14 @@
    "film": "no-good-men",
    "start": "2026-12-13T12:30:00+01:00",
    "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "il-pranzo-di-ferragosto",
+   "start": "2026-12-13T14:30:00+01:00",
+   "cinema": "Votiv Kino",
    "lang": "OmdU",
    "tags": [],
    "booking": ""
@@ -11023,6 +13376,22 @@
    "booking": ""
   },
   {
+   "film": "gianni-e-le-donne",
+   "start": "2026-12-14T20:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "buoni-a-nulla",
+   "start": "2026-12-15T18:30:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "dune-part-three",
    "start": "2026-12-15T19:00:00+01:00",
    "cinema": "Burg Kino",
@@ -11052,6 +13421,16 @@
    "cinema": "Burg Kino",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-rocky-horror-picture-show-3",
+   "start": "2026-12-17T19:30:00+01:00",
+   "cinema": "Admiral Kino",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
