@@ -1,7 +1,20 @@
 {
- "updated": "2026-11-18T13:00+01:00",
+ "updated": "2026-11-19T12:57+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
+  {
+   "slug": "%e2%98%85",
+   "title": "★",
+   "url": "https://nonstopkino.at/movies/%e2%98%85/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/46f63380-8a28-4064-ad07-d79d40dbe870.jpeg?fit=max&w=120",
+   "director": "Johann Lurf",
+   "cast": "",
+   "year": 2026,
+   "runtime": 132,
+   "spoken": "Deutsch",
+   "synopsis": "Kinematografische Blicke aus der Perspektive des Menschen auf die Sternenhimmel der Filmgeschichte: ein Konzeptfilm, der bei jeder Projektion länger wird, um Beispiele von 1895 bis zur Gegenwart ergänzt und so als Werk einen Teil seines Motivs aufnimmt: die Unendlichkeit. Im Kino sitzend, blicken wir auf weiße Punkte auf schwarzem Hintergrund, Licht und Schatten. Dabei wird der eigene Blick auf sich zurückgeworfen und nach seinen Bedingungen befragt, um ihm gleichzeitig die Veränderungen dieser Bedingungen in der Geschichte des Kinos vorzuführen: entlang aller gängigen Bildformate, anhand der diversen Qualitäten vom frühen Filmkorn zum hochauflösenden Pixelmeer und von der Stille des frühen Kinos in die Soundscapes der digitalen Gegenwart. (A.B.)",
+   "score": null
+  },
   {
    "slug": "2001-a-space-odyssey",
    "title": "2001: A Space Odyssey",
@@ -102,6 +115,66 @@
    "score": 0
   },
   {
+   "slug": "a-night-at-the-opera",
+   "title": "A Night at the Opera",
+   "url": "https://nonstopkino.at/movies/a-night-at-the-opera/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/52dfdb05-1763-4846-87a4-6d2d6680ec7e.jpg?fit=max&w=120",
+   "director": "Sam Wood",
+   "cast": "Chico Marx, Groucho Marx, Harpo Marx, Kitty Carlisle, Margaret Dumont, Sig Ruman",
+   "year": 1935,
+   "runtime": 91,
+   "spoken": "",
+   "synopsis": "MGM versuchte den anarchischen Reiz der Marx Brothers zu mildern, indem deren Komik publikumsträchtige Romanzen beigemengt wurden: ein Unterfangen, das den unerhörten Humor der Brüder nur sehr langsam auszuhöhlen vermochte. A Night at the Opera, das erste und erfolgreichste MGM-Marx-Werk, ist laut Groucho „der beste unserer Filme“ und hat – nicht nur wegen der unsterblichen Kabinen-Szene – Chaplin und Brecht, Ionesco und Dalí als vorbehaltlose Fans. Guy Alombert über die Marx Brothers: „Unerbittliche Poesie, fast ebenso rabiater Frauenhass, unersättliche Geldgier und ein dämonischer Hass auf die Dummheit.“ (Christoph Huber) Foto: Österreichisches Filmmuseum",
+   "imdb": "tt0026778",
+   "rating": 7.8,
+   "votes": 36931,
+   "genres": [
+    "Comedy",
+    "Music",
+    "Musical"
+   ],
+   "score": 31
+  },
+  {
+   "slug": "a-night-in-casablanca",
+   "title": "A Night in Casablanca",
+   "url": "https://nonstopkino.at/movies/a-night-in-casablanca/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/820d7bfd-b41a-473d-bb81-c5c9a4b242d7.jpeg?fit=max&w=120",
+   "director": "Archie Mayo",
+   "cast": "Groucho Marx, Harpo Marx, Chico Marx, Lois Collier, Lisette Verea",
+   "year": 1946,
+   "runtime": 85,
+   "spoken": "Englisch",
+   "synopsis": "Ein Schwanengesang. Der letzte Film, der die personale Trinität von Zerstörungslust-Witz-Poesie, genannt The Marx Brothers, vereint: eine ihrer vergnüglichsten und bösartigsten Genreparodien. Wie eine Heuschreckenplage fallen sie über den Ernst von Casablanca und anderer Anti-Nazi-Filme her. Während sie deren Dramaturgie im Besonderen und die Logik des Weltgeistes im Allgemeinen schänden, lassen sie es sich nicht nehmen, der Muse der Nutzlosigkeit zu huldigen: mit einer Kaskade aus Worten, einem Fingertanz über die Tastatur des Klaviers und einem schweigenden Harfensolo am unmöglichsten Ort zur unmöglichsten Zeit. (H.T.)",
+   "imdb": "tt0038777",
+   "rating": 6.9,
+   "votes": 8209,
+   "genres": [
+    "Comedy",
+    "Family"
+   ],
+   "score": 10
+  },
+  {
+   "slug": "a-normal-daughter-the-life-and-times-of-kewpie-of-district-six-stories-of-our-lives",
+   "title": "A Normal Daughter: The Life and Times of Kewpie of District Six ; Stories of Our Lives",
+   "url": "https://nonstopkino.at/movies/a-normal-daughter-the-life-and-times-of-kewpie-of-district-six-stories-of-our-lives/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/cf6d8f29-98a1-4f9f-b1b6-1106ffc48958.jpeg?fit=max&w=120",
+   "director": "Jim Chuchu, Jack Lewis",
+   "cast": "",
+   "year": 2014,
+   "runtime": 118,
+   "spoken": "Englisch, Afrikaans, Suaheli",
+   "synopsis": "Die Friseurin und queere Aktivistin Kewpie und ihre persönliche Fotosammlung stehen im Zentrum des Dokumentarfilms A Normal Daughter: The Life and Times of Kewpie of District Six. Die mehr als 700 Bilder vom queeren Leben im District Six, die von den 1950er bis in die 1980er Jahre entstanden sind und im GALA Queer Archive (zuvor: Gay and Lesbian Memory in Action) in Johannesburg aufbewahrt werden, verdeutlichen den unschätzbaren Wert von Archiven, in denen Fotos und Geschichten überdauern können, die andernfalls wohl verlorengegangen wären. Stories of Our Lives, von Mitgliedern des in Nairobi ansässigen Künstlerkollektivs The Nest Collective als Anthologie von fünf Episoden realisiert, vereint Geschichten queerer Kenianer*innen. Der Film gewann bei der Berlinale 2015 den Preis der Teddy-Jury, wurde in Kenia selbst aufgrund eines Aufführungsverbots jedoch nie öffentlich gezeigt. Beide Arbeiten zeugen davon, dass queere Geschichten weiter zirkulieren können, auch wenn ihr öffentliches Erzählen eingeschränkt ist oder war. (K.M.) Programm: A Normal Daughter: The Life and Times of Kewpie of District Six Jack Lewis, ZA 2000; Drehbuch: Jack Lewis. DCP, Farbe, 58 min. Afrikaans/Englisch mit engl. UT Stories of Our Lives Jim Chuchu, KE/ZA 2014; Drehbuch: Jim Chuchu, Njoki Ngumi; Kamera, Schnitt: Dan Muchina, Jim Chuchu; Musik: Jim Chuchu; Darsteller*innen: Tim Mutungi, Kelly Gichohi, Mugambi Nthiga, Paul Ogola, Rose Njenga, Janice Mugo. DCP, sw, 60 min. Swahili/Englisch mit engl. UT",
+   "imdb": "tt3973612",
+   "rating": 7.3,
+   "votes": 118,
+   "genres": [
+    "Drama"
+   ],
+   "score": 6
+  },
+  {
    "slug": "abschied-von-gestern",
    "title": "Abschied von gestern",
    "url": "https://nonstopkino.at/movies/abschied-von-gestern/",
@@ -119,6 +192,28 @@
     "Drama"
    ],
    "score": 1
+  },
+  {
+   "slug": "after-hours",
+   "title": "After Hours",
+   "url": "https://nonstopkino.at/movies/after-hours/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/37d664ac-6439-4511-abaa-c54a4c4f79a7.jpg?fit=max&w=120",
+   "director": "Martin Scorsese",
+   "cast": "Griffin Dunne, Rosanna Arquette, Verna Bloom, Catherine O'Hara, Cheech & Chong",
+   "year": 1985,
+   "runtime": 97,
+   "spoken": "Englisch",
+   "synopsis": "Ein Abenteuer suchend, verlässt Paul Hackett, ein alleinstehender Computer-Programmierer für eine Nacht die Einsamkeit und Sicherheit seines überschaubaren Daseins. In der Zeit zwischen Mitternacht und Sonnenaufgang gerät er in ein Netz kleiner und großer Katastrophen mit exaltierten Künstlern, vereinsamten Selbstdarstellern und Überlebenskünstlern, deren Opfer er beinahe wird. Im Gewand einer leichtfüßigen Komödie offenbart sich eine albtraumhafte Reise durch die urbane Subkultur, in der sich Komik und Bedrohung, Erlösung und Angst in einer virtuosen Inszenierung die Waage halten. ”Why don’t you just go home?” – “Pal, I’ve been asking myself that all night.” Noch heute ist der für den Regisseur Martin Scorsese tendenziell untypische Film Die Zeit nach Mitternacht ein gehöriger Spaß für all diejenigen, die sich darauf einlassen können. In einem moderaten Tempo, das auf Effekthascherei und Action verzichtet, folgt die Kamera der Odyssee Paul Hacketts in eine verregnete Nacht in der Stadt New York, auf der Suche nach ein paar Kicks und etwas Liebe. Drehbuchautor Joseph Minion würzt die Handlung des Films mit pointierten Dialogen und Martin Scorsese zeigt viel Gespür für Dramaturgie. Vor allem glückt den beiden ein überzeugendes Finale.",
+   "imdb": "tt0088680",
+   "rating": 7.6,
+   "votes": 102089,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "favorite": true,
+   "score": 88
   },
   {
    "slug": "alice-im-wunderland",
@@ -140,6 +235,27 @@
     "Fantasy"
    ],
    "score": 0
+  },
+  {
+   "slug": "alien",
+   "title": "Alien",
+   "url": "https://nonstopkino.at/movies/alien/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/78b0f2c5-0526-48af-9dd1-51cab12d7c49.jpg?fit=max&w=120",
+   "director": "Ridley Scott",
+   "cast": "Sigourney Weaver, Tom Skerritt, Veronica Cartwright",
+   "year": 1979,
+   "runtime": 117,
+   "spoken": "Englisch",
+   "synopsis": "Ein Raumschiff als unheimlicher Mutterleib, in dessen dunklen Ecken tödliche Gefahr lauert. Ein Bordcomputer namens »Mother«, der seine Kinder, die Crew, hintergeht und damit ebenjener Gefahr erst aussetzt. Eine Urszene, in der ein Mann »Opfer« von Penetration und Befruchtung wird und deren Aggressivität nur von der darauffolgenden Geburtsszene übertroffen wird. Ein phallisches Monster, das gleichzeitig auch Vagina dentata ist; und mittendrin Sigourney Weaver, die es schafft, sowohl Monster als auch Mutter zu vernichten und dabei sogar ein niedliches Kätzchen rettet. ALIEN erzeugt Horror, indem er mit freudscher Symbolik von Themen der Geburt, Mutterschaft, Sexualität und den sie umgebenden (männlichen) Ängsten spricht. Komplexes Science-Fiction-Kino, vielschichtig les- und sehbar!",
+   "imdb": "tt0078748",
+   "rating": 8.4,
+   "votes": 1083357,
+   "genres": [
+    "Horror",
+    "Sci-Fi"
+   ],
+   "favorite": true,
+   "score": 124
   },
   {
    "slug": "alpen-film-festival-2026",
@@ -194,6 +310,26 @@
    "score": 17
   },
   {
+   "slug": "an-angel-at-my-table",
+   "title": "An Angel at my Table",
+   "url": "https://nonstopkino.at/movies/an-angel-at-my-table/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/67a7b2e0-bf94-432b-924a-a32514c82639.png?fit=max&w=120",
+   "director": "JANE CAMPION",
+   "cast": "KERRY FOX, ALEXIA KEOGH, KAREN FERGUSSON, IRIS CHURN, KEVIN J. WILSON, MELINA BERNECKER",
+   "year": 1990,
+   "runtime": 158,
+   "spoken": "",
+   "synopsis": "A poetic soul has rarely come better disguised.« »Nini« ist ein quirliger, verträumter Rotschopf, ein Außenseiterkind aus ärmsten Verhältnissen. Schon früh sucht und findet sie Worte für eine Welt, die anderen verschlossen bleibt. Die gerät ins Wanken, als zwei Schwestern ertrinken, als junge Frau verbringt sie mit der Fehldiagnose Schizophrenie acht qualvolle Jahre in der Psychiatrie. Eine Biografie voller Brüche, die durch eines zusammengehalten wird: das Schreiben. Mit einer spürbaren Liebe, großer Sensibilität und einem Blick für das pur Menschliche übersetzt Jane Campion die inneren Landschaften der neuseeländischen Schriftstellerin Janet Frame in eine atemberaubende Filmpoesie. Vielfach prämiert und in Venedig gefeiert – eine Ode an ein Werk voller Leben.",
+   "imdb": "tt0099040",
+   "rating": 7.4,
+   "votes": 9573,
+   "genres": [
+    "Biography",
+    "Drama"
+   ],
+   "score": 33
+  },
+  {
    "slug": "angry-spirits",
    "title": "Angry Spirits",
    "url": "https://nonstopkino.at/movies/angry-spirits/",
@@ -211,6 +347,27 @@
     "Documentary"
    ],
    "score": 0
+  },
+  {
+   "slug": "animal-crackers",
+   "title": "Animal Crackers",
+   "url": "https://nonstopkino.at/movies/animal-crackers/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/a4264967-9b81-4f51-b7f4-acf4ce8404f9.jpeg?fit=max&w=120",
+   "director": "Victor Heerman",
+   "cast": "Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx, Lillian Roth, Margaret Dumont",
+   "year": 1930,
+   "runtime": 97,
+   "spoken": "Englisch",
+   "synopsis": "Wie The Cocoanuts nach einem erfolgreichen Marx-Brothers-Bühnenstück adaptiert, gibt sich Animal Crackers noch etwas statisch in der Inszenierung, aber umso surrealer und absurder im Ablauf. Antonin Artaud über die \"ganz besondere Magie\" dieses Films: \"Wenn es einen charakteristischen Zustand, einen erkennbaren poetischen Grad des Geistes gibt, der sich Surrealismus nennen darf, so gehört Animal Crackers voll und ganz dazu.\" Ein monologisches Demonstrationszitat, von Groucho als mit dem hinreißenden Song \"Hooray for Captain Spaulding\" gefeierter, nicht ganz glaubwürdiger Großwildjäger serviert: \"One morning I shot an elephant in my pyjamas. How he got in my pyjamas, I don't know.\" (C.H.)",
+   "imdb": "tt0020640",
+   "rating": 7.4,
+   "votes": 16416,
+   "genres": [
+    "Comedy",
+    "Family",
+    "Musical"
+   ],
+   "score": 14
   },
   {
    "slug": "astolfo",
@@ -429,6 +586,27 @@
    "score": 26
   },
   {
+   "slug": "before-sunrise",
+   "title": "Before Sunrise",
+   "url": "https://nonstopkino.at/movies/before-sunrise/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b3d2a8c6-411d-447b-aa17-86f2d5511c09.jpeg?fit=max&w=120",
+   "director": "Richard Linklater",
+   "cast": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl, u.a.",
+   "year": 1995,
+   "runtime": 105,
+   "spoken": "Englisch",
+   "synopsis": "Auf der Zugfahrt von Budapest nach Wien lernt die Französin Céline den Amerikaner Jesse kennen. Sie ist auf dem Weg in die Heimat, Jesse muss in Wien aussteigen, um in die USA zurück zu fliegen. Beide verstehen sich auf Anhieb gut. Ohne Zögern folgt Céline Jesses Vorschlag, gemeinsam mit ihm seine letzten Stunden in Wien zu verbringen. Es bleibt ihnen nur die Zeit bis Sonnenaufgang! In einer einzigartigen Nacht gehen sie ihren Träumen und Wünschen nach, verlieben sich. Und wenn sich ihre Wege am nächsten Morgen trennen, wird nichts mehr so sein wie früher. Werden sie sich jemals wieder sehen? \"Eines langen Tages Reise ins Morgengrauen: Ein Amerikaner und eine Französin lernen sich im Zug von Budapest nach Wien kennen und haben 24 Stunden füreinander Zeit. Was sie erleben, ist eine Affäre mit festgeschriebenem Verfallsdatum. Linklater ist mit SLACKER und DAZED AND CONFUSED zum Porträtisten der Generation X geworden, jener Leute, für die die Welt weniger Wille als Vorstellung ist. In BEFORE SUNRISE interessiert er sich eher für Dinge, die diese Generation mit früheren verbinden, als für das, was sie unterscheidet. Der Film ist nicht zufällig seinen Großeltern gewidmet. Julie Delpy und Ethan Hawke geben dieser Geschichte einen Körper, Leben jedoch verleiht ihr erst die Stadt Wien. Dabei ist Linklater weniger am unverwechselbaren Gesicht dieser Stadt interessiert als an der austauschbaren Topographie der Großstadt. Es gelingt ihm, und da ist er ganz Amerikaner, das Bekannte festzuhalten und doch einen eigenen Blick darauf zu werfen. So wird aus Wien ein verwunschener Ort, ein Spiegelkabinett, ein Irrgarten, ein Wunderland.\" (Michael Althen, film.at)",
+   "imdb": "tt0112471",
+   "rating": 8.1,
+   "votes": 386887,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "score": 78
+  },
+  {
    "slug": "behemoth",
    "title": "Behemoth",
    "url": "https://nonstopkino.at/movies/behemoth/",
@@ -447,26 +625,6 @@
     "Music"
    ],
    "score": 40
-  },
-  {
-   "slug": "bernadette-will-toeten",
-   "title": "Bernadette will töten",
-   "url": "https://nonstopkino.at/movies/bernadette-will-toeten/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/7fe21b51-e99b-4ee0-87bb-a28097e64e17.jpeg?fit=max&w=120",
-   "director": "Robert Herzl, Oliver Paulus",
-   "cast": "Julia Dorothee Brunsch, Isabelle von Stauffenberg, Dolores Winkler, Markus Mössmer",
-   "year": 2025,
-   "runtime": 93,
-   "spoken": "Deutsch",
-   "synopsis": "In den düsteren Abgründen des Internets trifft Bernadette auf das charismatische Influencer-Pärchen Kitty und Peter. Gemeinsam wollen sie die Studentin Lotte umbringen – in einem Livestream, der das Internet in Aufruhr versetzen soll. Doch Bernadette hat sich das alles ganz anders vorgestellt. Eine schwarzhumorige Satire über das Internet und das absurde Bedürfnis unserer Zeit, alles, aber wirklich alles, online teilen zu wollen.",
-   "imdb": "tt31170701",
-   "rating": 6.3,
-   "votes": 69,
-   "genres": [
-    "Comedy",
-    "Horror"
-   ],
-   "score": 3
   },
   {
    "slug": "bert",
@@ -635,6 +793,27 @@
    "score": 32
   },
   {
+   "slug": "bright-star",
+   "title": "Bright Star",
+   "url": "https://nonstopkino.at/movies/bright-star/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/52824d3f-25ed-404d-89c1-64af07dc2dfc.jpeg?fit=max&w=120",
+   "director": "Jane Campion",
+   "cast": "Abbie Cornish, Ben Whishaw, Paul Schneider, Kerry Fox",
+   "year": 2009,
+   "runtime": 119,
+   "spoken": "Englisch",
+   "synopsis": "\"Du lehrtest mich zu lieben, sagtest aber nie: nur die Reichen, nur einen Fingerhut voll\", entgegnet Fanny Brawne ihrer Mutter, als diese ihr den Kontakt mit John Keats verbieten will. Im London des Jahres 1818 haben sich die schlagfertige junge Schneiderin und der melancholische Dichter verliebt. Doch nicht nur Keats' Geldprobleme und ein eifersüchtiger Dichterfreund stehen der Heirat des Paares entgegen. Auch Johns angeschlagene Gesundheit lässt eine gemeinsame Zukunft immer unwahrscheinlicher werden. Jane Campions historischer Liebesfilm beruht auf Andrew Motions Keats-Biografie, rückt jedoch Fannys Perspektive ins Zentrum. Die Sinnlichkeit und Dramatik der Gedichte des erst nach seinem Tod gefeierten Keats spiegeln sich im Film wider: von den zartesten Küssen im Frühlingsblumenmeer bis zur größten Verzweiflung, die Abbie Cornish beeindruckend auf die Leinwand bringt. (S.Z.)",
+   "imdb": "tt0810784",
+   "rating": 6.9,
+   "votes": 30096,
+   "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+   ],
+   "score": 39
+  },
+  {
    "slug": "broken-english-marianne-faithfull",
    "title": "Broken English: Marianne Faithfull",
    "url": "https://nonstopkino.at/movies/broken-english-marianne-faithfull/",
@@ -709,6 +888,26 @@
    "votes": 0,
    "genres": [],
    "score": 0
+  },
+  {
+   "slug": "camila-das-maedchen-und-der-priester",
+   "title": "Camila (Das Mädchen und der Priester)",
+   "url": "https://nonstopkino.at/movies/camila-das-maedchen-und-der-priester/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8572ead0-0834-47de-8a4c-70c85e016e86.jpeg?fit=max&w=120",
+   "director": "María Luisa Bemberg",
+   "cast": "Susú Pecoraro, Imanol Arias, Héctor Alterio, Elena Tasisto, Mona Maris",
+   "year": 1984,
+   "runtime": 107,
+   "spoken": "Spanisch",
+   "synopsis": "Viele Jahre lang hatte Bemberg die in Argentinien tragisch berühmte Liebesgeschichte von Camila O'Gorman und dem Jesuitenpater Ladislao Gutiérrez verfilmen wollen. Beide waren am 18. August 1848 auf direkten Befehl des damals diktatorisch regierenden Gouverneurs der Provinz Buenos Aires exekutiert worden. Die Filmemacherin und ihre künstlerischen Partner*innen sahen in diesem Stoff eine unmittelbare Parallele zu der kurz zuvor untergegangenen Militärjunta. So wurde der Film zu einer aufwühlenden, berührenden Sensation in Argentinien, die Bemberg auch weltweit bekannt machte. \"Ich wollte ein kühnes, mutiges Wesen, eine 'befreite' Frau par excellence\", formulierte Bemberg ihre Motivation in klaren Worten. \"Als Feministin, die ich bin, interessiert es mich, Frauenbilder zu entwerfen, die sich von den traditionellen Stereotypen unterscheiden, an denen die Historiker nicht unwesentlich beteiligt waren.\" (G.V.)",
+   "imdb": "tt0087027",
+   "rating": 6.9,
+   "votes": 1713,
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "score": 3
   },
   {
    "slug": "carabali-todos-los-peces",
@@ -796,6 +995,27 @@
     "Documentary"
    ],
    "score": 0
+  },
+  {
+   "slug": "chungking-express",
+   "title": "Chungking Express",
+   "url": "https://nonstopkino.at/movies/chungking-express/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/de1bc94a-c0de-49c9-8731-d83da78971a9.jpg?fit=max&w=120",
+   "director": "Wong Kar-wai",
+   "cast": "Takeshi Kaneshiro, Brigitte Lin, Tony Leung, Faye Wong, Valerie Chow u.a.",
+   "year": 1994,
+   "runtime": 102,
+   "spoken": "Chinesisch",
+   "synopsis": "Eine traumhaft-stylische Auseinandersetzung mit Liebe und Einsamkeit im nie schlafenden Hongkong. Mein liebster Wong Kar-Wai Film.",
+   "imdb": "tt0109424",
+   "rating": 7.9,
+   "votes": 115106,
+   "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "score": 58
   },
   {
    "slug": "city-lights-lichter-der-grossstadt",
@@ -932,6 +1152,27 @@
    "score": 0
   },
   {
+   "slug": "das-cabinet-des-dr-caligari-dt-fassung-stummfilm-mit-live-musik",
+   "title": "Das Cabinet des Dr. Caligari (dt. Fassung; Stummfilm mit Live Musik)",
+   "url": "https://nonstopkino.at/movies/das-cabinet-des-dr-caligari-dt-fassung-stummfilm-mit-live-musik/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/7f27852b-bf74-4f0c-bfc8-75e9e9974907.jpg?fit=max&w=120",
+   "director": "Robert Wiene",
+   "cast": "Werner Krauß, Conrad Veidt",
+   "year": 1919,
+   "runtime": 55,
+   "spoken": "",
+   "synopsis": "Der wahnsinnige Dr. Caligari versetzt mit Hilfe eines mordenden Somnambulen namens Cesare eine kleine norddeutsche Stadt in Angst und Schrecken. Einer der ersten Psychothriller und ein Musterbeispiel des expressionistischen Film, getragen vom kongenialen Zusammenspiel von Werner Krauß und Conrad Veidt. Musikalisch begleitet wird dieser Film von Stefan Sterzinger (Akkordeon) und Franz Schaden (Kontrabass)",
+   "imdb": "tt0010323",
+   "rating": 8.0,
+   "votes": 77522,
+   "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "score": 56
+  },
+  {
    "slug": "das-indische-grabmal",
    "title": "Das indische Grabmal",
    "url": "https://nonstopkino.at/movies/das-indische-grabmal/",
@@ -1006,6 +1247,26 @@
     "Family"
    ],
    "score": 68
+  },
+  {
+   "slug": "de-eso-no-se-habla-i-dont-want-to-talk-about-it",
+   "title": "De eso no se habla (I Don’t Want to Talk About It)",
+   "url": "https://nonstopkino.at/movies/de-eso-no-se-habla-i-dont-want-to-talk-about-it/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/139ca51b-58cf-40aa-bf87-911199dd5367.jpeg?fit=max&w=120",
+   "director": "María Luisa Bemberg",
+   "cast": "Alejandra Podestá, Luisina Brando, Marcello Mastroianni, Jorge Luz, Mónica Villa",
+   "year": 1993,
+   "runtime": 106,
+   "spoken": "Spanisch",
+   "synopsis": "\"Allen Menschen gewidmet, die den Mut haben, anders zu sein, um so sie selbst zu sein.\" So der Vorspann von Bembergs letztem Film, der auf einem surrealistischen Text von Julio Llinás basiert. Die Handlung spielt in den 1930er Jahren in der argentinischen Provinz. Erzählt wird die Geschichte einer kleinwüchsigen Frau, über deren sichtbares Anderssein man in der Kleinstadt nicht spricht. Unter dem von der Mutter errichteten Tabu wird die Heranwachsende in die Gesellschaft eingefügt, bis sie am Ende ausbricht: Sie zeigt sich in ihrer Einzigartigkeit und erhebt sich über alle Konventionen des Sprechens und Schweigens. Alejandra Podestá beweist in ihrer ersten Rolle den Mut, sie selbst zu sein und ihre Besonderheit auszuspielen. Filmkritikerin Silvia Hallensleben: \"Wenn die Heldin am Schluss in einer sturmdurchtosten Nacht auf einem Schimmel mit dem Zirkus davonreitet, ist das auch heute ein träumerischer Akt der Befreiung aus der Umklammerung durch Mutter und Ehemann.\" (K.G.)",
+   "imdb": "tt0106678",
+   "rating": 6.9,
+   "votes": 427,
+   "genres": [
+    "Drama",
+    "Romance"
+   ],
+   "score": 0
   },
   {
    "slug": "der-dieb-von-bagdad",
@@ -1143,25 +1404,6 @@
     "Romance"
    ],
    "score": 19
-  },
-  {
-   "slug": "der-verlorene-mann",
-   "title": "Der verlorene Mann",
-   "url": "https://nonstopkino.at/movies/der-verlorene-mann/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/9c54bbfb-c443-4757-9015-7ce4b01b96c3.jpg?fit=max&w=120",
-   "director": "Welf Reinhart",
-   "cast": "Dagmar Manzel, Harald Krassnitzer, August Zirner, Lena Dax, Dionne Wudu, Marion Freundorfer",
-   "year": 2026,
-   "runtime": 102,
-   "spoken": "Deutsch",
-   "synopsis": "Die Künstlerin Hanne (Dagmar Manzel) und der pensionierte Pfarrer Bernd (August Zirner) führen eine glückliche, nach Jahren etwas eingefahrene Ehe, als wie aus dem Nichts Hannes früherer Ehemann Kurt (Harald Krassnitzer) vor ihrer Tür steht. Durch seine Demenzerkrankung kann sich Kurt nicht mehr erinnern, dass er und Hanne bereits seit 20 Jahren geschieden sind. Als das Paar ihn vorübergehend bei sich aufnimmt, kehrt eine verloren geglaubte Leichtigkeit in ihre Ehe zurück. Doch je mehr Zeit vergeht, desto stärker gerät ihr gemeinsames Leben aus den Fugen.",
-   "imdb": "tt39602467",
-   "rating": 7.6,
-   "votes": 79,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
   },
   {
    "slug": "der-zauberer-von-oz",
@@ -1333,21 +1575,21 @@
    "score": 1
   },
   {
-   "slug": "die-noch-unbekannten-tage",
-   "title": "Die noch unbekannten Tage",
-   "url": "https://nonstopkino.at/movies/die-noch-unbekannten-tage/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/e98f9b52-9e14-41a3-abfb-d61899cad201.jpg?fit=max&w=120",
-   "director": "Jola Wieczorek",
-   "cast": "Wiesława Wieczorek, Romuald Wieczorek, Kacper Wieczorek-Oppenauer",
-   "year": 2026,
-   "runtime": 81,
-   "spoken": "Deutsch, Polnisch",
-   "synopsis": "Manche Filme suchen ihre Erinnerungen im Archiv – dieser baut sich selbst eines. Mit der beginnenden Demenz der eigenen Mutter tritt dem Erinnern zugleich das Vergessen entgegen. Ein stiller, berührender Film über die Hoffnung, dass Geschichten weiterleben, auch wenn ihre Erzähler:innen langsam verschwinden. (Florian Widegger)",
-   "imdb": "tt38840657",
-   "rating": null,
-   "votes": 0,
+   "slug": "die-nacht-singt-ihre-lieder",
+   "title": "Die Nacht singt ihre Lieder",
+   "url": "https://nonstopkino.at/movies/die-nacht-singt-ihre-lieder/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8e02115f-bed9-418b-a6d9-2183741173c6.jpg?fit=max&w=120",
+   "director": "Romuald Karmakar",
+   "cast": "Frank Giering, Anne Ratte-Polle, Sebastian Schipper, Manfred Zapatka, Marthe Keller, Captain Comatose",
+   "year": 2004,
+   "runtime": 95,
+   "spoken": "Deutsch",
+   "synopsis": "Ein klaustrophobisches Kammerspiel über die Beziehungshölle, die Verzweiflung der Unentschlossenheit und die furchtbare Poesie der gestörten Kommunikation, formvollendet lyrisch arrangiert und mit makelloser Präzision gespielt. Ein Paar in der Krise: Er ist erfolgloser Schriftsteller und zieht sich zunehmend zurück, sie fühlt sich in der gemeinsamen Wohnung eingesperrt. Ein Besuch seiner Eltern, zwecks Anschauung des neugeborenen Enkels, verschärft die Situation. Die junge Frau geht aus und kommt lange nicht heim. Sprache als Musik – und als Gefängnis: Die Sätze verlieren sich kunstvoll im bewusst artifiziellen Klang, die Bedeutung entleert sich. Zur Erforschung der Seelen bieten Karmarkar und Fred Schuler überdies eine eisig-geschärfte Bildraumgestaltung auf: In der Platzierung der Figuren zueinander und zum Dekor verdichten sich ganze Romane zum Haiku. (C.H.)",
+   "imdb": "tt0349865",
+   "rating": 6.4,
+   "votes": 296,
    "genres": [
-    "Documentary"
+    "Drama"
    ],
    "score": 0
   },
@@ -1474,6 +1716,26 @@
    "score": null
   },
   {
+   "slug": "duck-soup",
+   "title": "Duck Soup",
+   "url": "https://nonstopkino.at/movies/duck-soup/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/780d2709-ae49-4832-9558-646119c12789.jpeg?fit=max&w=120",
+   "director": "Leo McCarey",
+   "cast": "Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx, Margaret Dumont, Louis Calhern",
+   "year": 1933,
+   "runtime": 69,
+   "spoken": "",
+   "synopsis": "Die Marx Brothers im Krieg, der hier nur logische Extension des allumfassenden Wahnsinns ist und den am Ende zwingend derjenige verliert, der gerade am peinlichsten dasteht. Ein zeitloses Meisterwerk. Hito Steyerl: „Eine alternative marxistische Theorie existiert schon lange, und zwar genau seit 1933. Sie wird nur gewöhnlich weder als marxistisch noch als Theorie verstanden. Die Rede ist von Duck Soup. Obwohl jeder der Beteiligten später vehement abstritt, dass dieser Film auch nur das Geringste mit Politik zu tun habe, kann er nicht nur als Theorie der Polarisierung verstanden werden, sondern als apokalyptische Beschreibung jenes massiven Terrors, den die liberale Demokratie als ihr Abbild im Spiegel entdeckt.“ (Christoph Huber) Foto: Österreichisches Filmmuseum",
+   "imdb": "tt0023969",
+   "rating": 7.7,
+   "votes": 64679,
+   "genres": [
+    "Comedy",
+    "Musical"
+   ],
+   "score": 38
+  },
+  {
    "slug": "dune-part-three",
    "title": "Dune: Part Three",
    "url": "https://nonstopkino.at/movies/dune-part-three/",
@@ -1558,19 +1820,6 @@
    "score": 0
   },
   {
-   "slug": "ein-helles-funkeln",
-   "title": "Ein Helles Funkeln",
-   "url": "https://nonstopkino.at/movies/ein-helles-funkeln/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/40426e06-033a-415f-94c5-84e23149a293.jpg?fit=max&w=120",
-   "director": "Ida Sagmo Tvedten",
-   "cast": "Luiza Idrizi, Anna D. Sverrisdóttir, Bartek Kaminski, Staffan Göthe",
-   "year": 2025,
-   "runtime": 90,
-   "spoken": "Norwegisch (Nynorsk)",
-   "synopsis": "An guten Tagen ist Ronjas Vater der lustigste, liebste Papa der Welt. Kurz vor Weihnachten bekommt er sogar einen Job als Christbaumverkäufer. An schlechten Tagen, wenn Papa getrunken hat, kommt er nicht aus dem Bett und der Kühlschrank bleibt leer. Dann kümmert sich die ältere Schwester Melissa um die 10-Jährige, die Schwestern geben einander Halt. Doch Ronja erkennt immer mehr, dass das Festhalten an ihren Träumen und das Verheimlichen des Problems nicht die Lösung für ein Leben mit einem alkoholkranken Vater sein kann. Konsequent aus Ronjas Blickwinkel erzählt, wohnt dieser Weihnachtsgeschichte mit bewundernswert starken Mädchenfiguren ein helles Funkeln von Liebe, Zusammenhalt und Mitmenschlichkeit inne. Im Rahmen des internationalen Kinderfilmfestivals 2026 wird die Originalfassung gezeigt und live im Kino deutsch eingesprochen.",
-   "score": null
-  },
-  {
    "slug": "ein-talent-fuers-morden",
    "title": "Ein Talent fürs Morden",
    "url": "https://nonstopkino.at/movies/ein-talent-fuers-morden/",
@@ -1612,25 +1861,6 @@
    "score": 0
   },
   {
-   "slug": "ein-wiener-sport-club",
-   "title": "Ein Wiener Sport Club",
-   "url": "https://nonstopkino.at/movies/ein-wiener-sport-club/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/a913f85b-eb99-45ad-bb3b-2d84da3943a5.jpeg?fit=max&w=120",
-   "director": "Gerald Baumann, Matteo Molina",
-   "cast": "",
-   "year": 2025,
-   "runtime": 72,
-   "spoken": "Deutsch",
-   "synopsis": "Ein Wiener Sport Club ist ein filmisches Kaleidoskop – ein essayistisches Porträt eines Vereins, der mehr Fragen stellt, als er beantwortet. Eine Erzählung von Transformation, radikaler Inklusion und der Hoffnung, dass Sport mehr sein kann als Tore und Punkte. In einer Stadt, die oft zwischen Melancholie und Revolte schwankt, ist der WSC ein Raum, in dem beides existieren kann – und in dem die Zukunft bereits erdacht wird.",
-   "imdb": "tt50901688",
-   "rating": null,
-   "votes": 0,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 0
-  },
-  {
    "slug": "emperor-of-the-north",
    "title": "Emperor of the North",
    "url": "https://nonstopkino.at/movies/emperor-of-the-north/",
@@ -1650,19 +1880,6 @@
     "Drama"
    ],
    "score": 30
-  },
-  {
-   "slug": "entre-la-nostalgia-y-la-esperanza-una-mirada-a-la-justicia-de-guatemala-en-el-exilio-sinfronteras-la-raiz-del-alba-el-reinado-de-antoine",
-   "title": "ENTRE LA NOSTALGIA Y LA ESPERANZA. UNA MIRADA A LA JUSTICIA DE GUATEMALA EN EL EXILIO; SINFRONTERAS; LA RAÍZ DEL ALBA; EL REINADO DE ANTOINE",
-   "url": "https://nonstopkino.at/movies/entre-la-nostalgia-y-la-esperanza-una-mirada-a-la-justicia-de-guatemala-en-el-exilio-sinfronteras-la-raiz-del-alba-el-reinado-de-antoine/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/1109ac6c-37ed-49f9-a088-ea64d591b8d6.jpg?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": null,
-   "spoken": "Spanisch",
-   "synopsis": "Programm: ENTRE LA NOSTALGIA Y LA ESPERANZA. UNA MIRADA A LA JUSTICIA DE GUATEMALA EN EL EXILIO Sergi Tarín, Spanien / Guatemala, 2026, Kurzdokumentarfilm BUCH, KAMERA Sergi Tarín | SCHNITT Esther Albert und Sergi Tarín | TON, MUSIK Pixabay | MIT Gloria Porras, Eva Sosa, Alfredo Tejeda, Pablo Barrios, Luis Gaitán, Augusto Jordan, Paola Escobar de Rosales, Miguel Ángel Gálvez 29 min | Farbe, span. OmeU, DCP Seit 2019 sehen sich in Guatemala Richter:innen, Staatsanwält:innen, Anwält:innen und Menschenrechtsverteidiger:innen, die gegen Korruption und Straflosigkeit vorgehen, zunehmend politischer Verfolgung und strafrechtlicher Verfolgung ausgesetzt. Viele von ihnen wurden aus ihren Ämtern gedrängt oder ins Exil gezwungen. Was als Einsatz für Rechtsstaatlichkeit begann, hat für sie den Verlust ihrer beruflichen Existenz, ihrer Heimat und oft auch ihrer Nähe zu Familie und Freund:innen bedeutet. Ende 2025 kommt eine Gruppe dieser Jurist:innen im spanischen Castelló zusammen. Sie sprechen über das Leben im Exil, über das, was sie zurücklassen mussten, und über die Möglichkeit, eines Tages nach Guatemala zurückzukehren – in ein Land, in dem unabhängige Justiz und Rechtsstaatlichkeit wieder möglich sind. Aus diesem Treffen entsteht ein persönliches Porträt über Heimat und Entwurzelung, über Verlust und Hoffnung. Die Stimmen der Exilierten erzählen von der Sehnsucht nach Guatemala, vom Weiterkämpfen aus der Ferne und von der Frage, wie eine Rückkehr aussehen könnte. Ein Dokumentarfilm über Menschen, die ihr Land verlassen mussten, um für die Werte einzustehen, die sie dort verteidigen wollten. SIN FRONTERAS Wainer Méndez Solano, Costa Rica, 2025, Kurzdokumentarfilm BUCH, KAMERA, SCHNITT Wainer Méndez | TON Carlos Guadamuz Vargas | MUSIK Frank Noguera | MIT Jacqueline Rúiz, Ever Ávalos, Nerys 28 min | Farbe, span. OmeU, DCP Drei Nicaraguaner, die in Costa Rica leben. Drei Geschichten über Migration, Durchhaltevermögen und den Versuch, sich ein neues Leben aufzubauen. Sie haben ihre Heimat nicht aus Abenteuerlust verlassen, sondern aus Notwendigkeit – und die Hoffnung auf eine bessere Zukunft mitgenommen. Der Dokumentarfilm begleitet sie durch ihren Alltag: bei der Arbeit, in ihrem Zuhause und in den Begegnungen mit einer Gesellschaft, in der sie nicht immer willkommen sind. Neben den Herausforderungen des Ankommens zeigt er auch die Beziehungen, die ihnen Halt geben – die gegenseitige Unterstützung, kleine Gesten der Solidarität und die Freundschaften, die dort entstehen, wo zunächst Fremde aufeinandertreffen. Sin Fronteras erzählt von Menschen, die mehr sind als ihre Migrationserfahrung: von ihren Erinnerungen, ihren Träumen und ihrem Wunsch, sich eine Zukunft aufzubauen, ohne ihre Herkunft hinter sich lassen zu müssen. LA RAÍZ DEL ALBA Diego Barquero Babuglia, Kuba, 2025, Kurzdokumentarfilm BUCH Aicüna Gómez | KAMERA Danúzia Chavez | SCHNITT Rocío Salima | TON Molé Balstar | MIT Jesús Martínez 11 min | Farbe, span. OmeU, DCP In einem kleinen Haus in San Antonio de los Baños kümmert sich der 75-jährige Jesús jeden Morgen um seinen aquatischen Garten. Die Pflanzen im Wasser bestimmen seinen Alltag und geben ihm Halt. Doch die Stille im Haus erzählt auch von dem, was fehlt: Seine Kinder sind ausgewandert, auf der Suche nach besseren Möglichkeiten. Zurück bleiben ein zunehmend leeres Haus und ein Mann, der an seiner vertrauten Umgebung festhält. Zwischen Wasserpflanzen und Erinnerungen entfaltet sich das Porträt eines Menschen, dessen Leben von der Abwesenheit derer geprägt ist, die ihm nahestehen. La Raíz del Alba ist ein stiller, berührender Film über Alter, Einsamkeit und die Frage, was uns Halt gibt, wenn sich unsere vertraute Welt verändert. EL REINADO DE ANTOINE José Luis Jiménez Gómez, Kuba / Dominikanische Republik, 2024, Kurzdokumentarfilm BUCH José Luis Jiménez | KAMERA Isaac Fabricio | SCHNITT Verónica Díaz | TON Nabil Severo | MIT Vismán Pacheco Linares, Alejandro Pacheco Linares, Vismán Pacheco Rodríguez 18 min | Farbe, span. OmeU, DCP In einem kleinen Ort in Kuba lebt Visman, ein Junge, der sich in seiner Fantasie eine andere Welt erschafft. Während er sich allein um seinen behinderten Vater kümmert, arbeitet er an seinem epischen Werk El Reinado de Antoine und versucht, seine Geschichte zum Leben zu erwecken. Die Fantasie wird für ihn zu einem Ausweg aus einem Alltag, der von Entbehrungen, fehlenden Perspektiven und der Verantwortung für seinen Vater geprägt ist. Je tiefer Visman in seine Geschichte eintaucht, desto mehr verschwimmen die Grenzen zwischen Realität und Fiktion. Was zunächst wie eine Flucht aus dem Alltag erscheint, wird zu einer eigenen Welt, in der er sich Handlungsspielraum und eine Zukunft erschafft. El Reinado de Antoine ist ein intimes Porträt über das Erwachsenwerden unter schwierigen Bedingungen, die Kraft der Vorstellung und die Zerbrechlichkeit familiärer Bindungen. Ein Film über die Geschichten, die wir erfinden, um mit der Wirklichkeit leben zu können.",
-   "score": null
   },
   {
    "slug": "eo",
@@ -1695,25 +1912,6 @@
    "spoken": "Rumänisch, Englisch, Deutsch, Ungarisch, Italienisch",
    "synopsis": "Radu Judes neuester satirisch-experimenteller Streich ist ein kapitalismuskritisches Porträt des heutigen Rumänien: Angela arbeitet als Produktionsassistentin für ein österreichisches, multinationales Medienunternehmen in Bukarest. Ihre aktuelle Aufgabe ist es, Menschen zu finden, die von Arbeitsunfällen versehrt wurden. Dafür ist sie, ständig überarbeitet und unterbezahlt, immerzu mit dem Auto unterwegs. Zwischendurch lässt sie Druck ab, indem sie auf Instagram mit einem Filter, der sie als Mann zeigt, obszöne Videos aufnimmt. Eine wilde Fahrt durch die moderne Gig-Economy. (FALTER)",
    "score": null
-  },
-  {
-   "slug": "everyones-child",
-   "title": "Everyone’s Child",
-   "url": "https://nonstopkino.at/movies/everyones-child/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/f07008e5-3bc3-4a72-b796-8fd31cbe871d.jpg?fit=max&w=120",
-   "director": "Tsitsi Dangarembga",
-   "cast": "Nomsa Mlambo, Thulani Sandhla, Walter Maparutsa, Elijah Madzikatire, Killness Nyati",
-   "year": 1996,
-   "runtime": 90,
-   "spoken": "Englisch, Shona",
-   "synopsis": "Tsitsi Dangarembgas Spielfilmdebüt erzählt die Geschichte von vier Geschwistern, deren Eltern beide an AIDS gestorben sind. Nach einer traditionellen Beerdigung meidet die Dorfgemeinschaft die Waisenkinder – entgegen aller Bräuche – aufgrund des mit der Krankheit verbundenen Stigmas. Ohne Lebensunterhalt zerfällt die Familie unweigerlich. Everyone's Child ist ein eindringlicher Aufruf zum Handeln zugunsten der Millionen elternloser Kinder in Afrika. Anhand der tragischen Geschichte einer durch AIDS zerrütteten Familie aus Sim­babwe fordert der Film dazu auf, die Tradition aufrechtzuerhalten, wonach ein Waisenkind \"das Kind aller\" wird. Produziert vom simbabwischen Media for Development Trust (MFD), steht der Film stellvertretend für eine wichtige Strömung im afrikanischen Filmschaffen: die Produktion von Spielfilmen, um sich explizit in drängende gesellschaftliche Probleme einzumischen. Der außergewöhnliche Soundtrack enthält zwölf Originalsongs von Simbabwes beliebtesten Musiker*innen, darunter Chiwoniso Maraire, Thomas Mapfumo, Leonard Zhakata und Andy \"Tomato Sauce\" Brown. (California Newsreel)",
-   "imdb": "tt0116243",
-   "rating": 5.5,
-   "votes": 132,
-   "genres": [
-    "Drama"
-   ],
-   "score": 6
   },
   {
    "slug": "everytime",
@@ -1882,25 +2080,6 @@
     "Romance"
    ],
    "score": 57
-  },
-  {
-   "slug": "frau-winkler-verlaesst-das-haus",
-   "title": "Frau Winkler verlässt das Haus",
-   "url": "https://nonstopkino.at/movies/frau-winkler-verlaesst-das-haus/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/e957d279-1939-4fc3-9e2d-0d6896465ec8.jpg?fit=max&w=120",
-   "director": "Doris Dörrie",
-   "cast": "Angela Winkler, Laura Tonke, Josef Ellers, Via Jikeli, Eugene Boateng, Zoë Baier",
-   "year": 2026,
-   "runtime": 108,
-   "spoken": "Deutsch",
-   "synopsis": "Im Jahr 2030 ist der ehemaligen Schauspielerin Frau Winkler (Angela Winkler) nichts mehr geblieben als ihre Tochter Emi (Laura Tonke) und Enkelin Billie (Zoë Baier). Ihr geliebter Ehemann und Bühnenpartner ist viel zu früh verstorben; aus ihrer Trauer hat Frau Winkler nie ganz herausgefunden und sich immer ganz auf Emi verlassen. Als diese, ebenfalls Schauspielerin, ein Theaterengagement annimmt und endlich ihr eigenes Leben in die Hand nehmen will, ist ihre Mutter nach einem Unfall plötzlich auf intensive Hilfe angewiesen, und es muss schnell eine Lösung her: ein Pflegeroboter, den die Krankenkasse stellt. Frau Winkler fühlt sich gedemütigt und wehrt sich vehement gegen die maschinelle Zuwendung. Doch dann entwickelt sich eine unerwartete Freundschaft zwischen der 80-Jährigen und dem äußerst „belesenen“ Roboter, den sie Pawlowitsch nennt und der zu ihrer Verzückung wunderbar Tschechow rezitieren kann. Aber Pawlowitsch ist nicht nur eine interessante neue Gesellschaft für Frau Winkler, er übermittelt auch ihre sich stetig verschlechternden Vitalwerte an ein auf Effizienz bedachtes Gesundheitssystem. Pawlowitsch verspricht, ihr beizustehen, aber kann eine künstliche Intelligenz einem Menschen ein Versprechen geben, das auch zu halten ist?",
-   "imdb": "tt39400348",
-   "rating": 6.9,
-   "votes": 68,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
   },
   {
    "slug": "froesche-und-kroeten",
@@ -2185,26 +2364,6 @@
    "score": 61
   },
   {
-   "slug": "gugus-welt",
-   "title": "Gugus Welt",
-   "url": "https://nonstopkino.at/movies/gugus-welt/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/60affd5c-3a45-4c90-a3d9-25a1f2fa09ae.jpg?fit=max&w=120",
-   "director": "Allan Deberton",
-   "cast": "Yuri Gomes, Teca Pereira, Lázaro Ramos, Carlos Francisco",
-   "year": 2026,
-   "runtime": 93,
-   "spoken": "Portugiesisch",
-   "synopsis": "Gugu liebt Fußball, und er liebt Glitzersteine, Schminke und Discotanzen. Der 11-Jährige lebt bei seiner lebenslustigen Großmutter Dilma, bei der er so sein kann, wie er ist. Denn sein Vater und einige Mitschüler lassen Gugu auf harte Weise spüren, dass sich Jungen in einem brasilianischen Dorf anders – angepasster und männlicher – zu verhalten haben. Aus gutem Grund verheimlicht Gugu also, dass Oma Dilma immer vergesslicher und verwirrter wird, da er sonst zum Vater ziehen muss. Gleichzeitig erfährt Gugu mehr über den Tod seiner Mutter. In poetischen, wunderschönen Bildern erzählt dieser berührende Film von einem starken Protagonisten, der in einer landschaftlich wie emotional kargen Umgebung um Selbstbestimmung und Wertschätzung kämpft. GUGUS WELT war der große Gewinner der Sektion Generation Kplus bei der Berlinale 2026 und wurde sowohl von der Kinderjury mit dem Gläsernen Bären als auch von der Internationalen Jury mit dem Großen Preis für den Besten Film in der Sektion Generation Kplus ausgezeichnet. Im Rahmen des internationalen Kinderfilmfestivals 2026 wird die Originalfassung gezeigt und live im Kino deutsch eingesprochen.",
-   "imdb": "tt11826250",
-   "rating": 7.6,
-   "votes": 404,
-   "genres": [
-    "Drama",
-    "Family"
-   ],
-   "score": 0
-  },
-  {
    "slug": "gyakufunusha-kazuko",
    "title": "Gyakufunsha kazoku (The Crazy Family)",
    "url": "https://nonstopkino.at/movies/gyakufunusha-kazuko/",
@@ -2263,27 +2422,6 @@
     "History"
    ],
    "score": 8
-  },
-  {
-   "slug": "her-private-hell",
-   "title": "Her Private Hell",
-   "url": "https://nonstopkino.at/movies/her-private-hell/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/4748def6-14cd-4753-8dab-02e14981f2a3.jpeg?fit=max&w=120",
-   "director": "Nicolas Winding Refn",
-   "cast": "Sophie Thatcher, Charles Melton, Havana Rose Liu, Kristine Froseth",
-   "year": 2026,
-   "runtime": 109,
-   "spoken": "Englisch",
-   "synopsis": "Eine Frau (Sophie Thatcher) kommt in eine Stadt, die es nicht gibt. Der Soldat K. (Charles Melton) sucht nach seiner Tochter und ist bereit, dafür in die Hölle zu steigen. Irgendwo dazwischen treibt ein Serienmörder sein Unwesen. Her Private Hell ist Nicolas Winding Refns erster Langfilm seit knapp zehn Jahren. Neben allen schon bekannten Trademarks wird hier jedoch noch einmal ordentlich an der Surrealitätsschraube gedreht. So steht eine verträumte Atmosphäre neben retrofuturistischen Sci-Fi-Einlagen und die gewohnte Hyper-Ästhetik paart sich mit dem Schmuddelkino des Genrefilms. Nach Refns Ausflug ins Serienformat sollte, nein, muss dieser Trip auf der großen Leinwand gesehen werden! (Amadeus Mader)",
-   "imdb": "tt36629665",
-   "rating": 4.5,
-   "votes": 5077,
-   "genres": [
-    "Crime",
-    "Drama",
-    "Horror"
-   ],
-   "score": 34
   },
   {
    "slug": "highlander",
@@ -2347,6 +2485,26 @@
    "score": 26
   },
   {
+   "slug": "holy-smoke",
+   "title": "Holy Smoke",
+   "url": "https://nonstopkino.at/movies/holy-smoke/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/71604dd4-45a1-4f69-82dd-355b86d4207b.jpg?fit=max&w=120",
+   "director": "Jane Campion",
+   "cast": "Kate Winslet, Harvey Keitel, Julie Hamilton, Dan Wyllie, Paul Goddard",
+   "year": 1999,
+   "runtime": 115,
+   "spoken": "Englisch",
+   "synopsis": "Die junge Australierin Ruth (Kate Winslet) reist nach Indien, wo sie unter den Einfluss eines charismatischen religiösen Führers gerät und sich seiner Sekte anschließt. Ihre Familie holt sie nach Hause zurück und beauftragt einen amerikanischen Experten (Harvey Keitel), ihre Tochter von ihrer kultischen Abhängigkeit zu befreien und ihre indoktrinierte Gedankenwelt neu zu programmieren. Der selbstbewusste Psychologe und die eigensinnige Ruth schließen sich drei Tage lang in einer Hütte in der Wüste ein; an dieser Stelle legt der Film seinen spielerischen Ton ab und verwandelt sich in eine kühne Analyse der Geschlechterverhältnisse, wobei er gleichzeitig Konzepte wie Heimat, Familie und Religion feministisch dekonstruiert. Jane Campion und Kate Winslet erhielten für Holy Smoke 1999 bei den Filmfestspielen von Venedig den nach der italienischen Pionierin des frühen Kinos benannten Elvira-Notari-Preis. (J.M.)",
+   "imdb": "tt0144715",
+   "rating": 5.9,
+   "votes": 16544,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "score": 25
+  },
+  {
    "slug": "honeyland",
    "title": "Land des Honigs (Medena zemja)",
    "url": "https://nonstopkino.at/movies/honeyland/",
@@ -2364,6 +2522,27 @@
     "Documentary"
    ],
    "score": 19
+  },
+  {
+   "slug": "horse-feathers",
+   "title": "Horse Feathers",
+   "url": "https://nonstopkino.at/movies/horse-feathers/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/4a2173db-548d-4ff9-aa5c-16c0bffbc888.jpg?fit=max&w=120",
+   "director": "Norman Z. McLeod",
+   "cast": "Groucho Marx, Harpo Marx,nChico Marx, Zeppo Marx, Thelma Todd, David Landau",
+   "year": 1932,
+   "runtime": 67,
+   "spoken": "",
+   "synopsis": "»Whatever it is«, so Groucho Marx in diesem satirischen Depressionsära-Rundumschlag, »I’m against it!« Simone de Beauvoir dazu: »Mit Hochgenuss sah ich zu, wie die Marx Brothers jetzt dem Film den ­ Garaus machten. Wütend zerfetzten sie nicht nur die gesellschaftliche Routine, das gesteuerte Denken, die Sprache, sogar den Sinn der Dinge und schufen sie dadurch neu. Zerstörung und Poesie: Was für ein schönes Programm.« Oder wie es Groucho hier, als professioneller Wortverdreher und die Konzeptlosigkeit zum Konzept erhebender College-Leiter Prof. Quincy Adams Wagstaff auf den Punkt bringt: »Could you all stand up, so I can see my son rise?« (C. H.) Foto: Österreichisches Filmmuseum",
+   "imdb": "tt0023027",
+   "rating": 7.5,
+   "votes": 14342,
+   "genres": [
+    "Comedy",
+    "Family",
+    "Musical"
+   ],
+   "score": 7
   },
   {
    "slug": "hotel",
@@ -2797,6 +2976,19 @@
    "score": null
   },
   {
+   "slug": "kino-fuer-die-kleinsten-sonne-mond-und-sterne",
+   "title": "Kino für die Kleinsten: Sonne, Mond und Sterne",
+   "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-sonne-mond-und-sterne/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f6568e6a-3fb1-4e03-8336-5064f6c804f1.jpg?fit=max&w=120",
+   "director": "Diverse",
+   "cast": "",
+   "year": 2025,
+   "runtime": 60,
+   "spoken": "Deutsch",
+   "synopsis": "Ein leuchtendes Filmprogramm für kleine und große Träumer*innen! Was passiert, wenn die Sonne aufgeht, der Mond sich rundet und die Sterne flimmern? In diesem Kurzfilmprogramm tanzt das Sonnenlicht durch den Himmel, der Mond dient als Konzert-Kulisse, Viktoria Schmid zeigt, wie aus Schatten Kino wird, und bei Johann Lurf funkeln alle Sterne der Filmgeschichte. Mal verspielt, mal geheimnisvoll, immer voller Wunder. (Stefanie Weberhofer)",
+   "score": null
+  },
+  {
    "slug": "kino-fuer-die-kleinsten-vom-huepfem-schlittern-und-hinfallen",
    "title": "Kino für die Kleinsten: Vom Hüpfen, Schlittern und Hinfallen",
    "url": "https://nonstopkino.at/movies/kino-fuer-die-kleinsten-vom-huepfem-schlittern-und-hinfallen/",
@@ -2928,6 +3120,19 @@
     "Drama"
    ],
    "score": 0
+  },
+  {
+   "slug": "kurzfilmprogramm-filme-von-shane-vermooten-palesa-nomanzi-shongwe-tsepiso-mahase-athi-patra-ruga-retang-sebeka",
+   "title": "Kurzfilmprogramm: Filme von Shane Vermooten, Palesa Nomanzi Shongwe, Tsepiso Mahase, Athi-Patra Ruga, Retang Sebeka",
+   "url": "https://nonstopkino.at/movies/kurzfilmprogramm-filme-von-shane-vermooten-palesa-nomanzi-shongwe-tsepiso-mahase-athi-patra-ruga-retang-sebeka/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/7bc83d63-9e50-4434-a609-d7db8f431a98.jpeg?fit=max&w=120",
+   "director": "",
+   "cast": "",
+   "year": null,
+   "runtime": 70,
+   "spoken": "",
+   "synopsis": "Kurzfilmprogramm #WeAreDyingHere Shane Vermooten, ZA 2021; Drehbuch: Siphokazi Jonas, Hope Netshivhambe, Babalwa Makwetu; Kamera: Devin Toselli; Schnitt: Chris Van Der Burgh; Musik: Babalwa Makwetu; Darsteller*innen: Siphokazi Jonas, Hope Netshivhambe, Babalwa Makwetu. DCP, Farbe, 25 min. Englisch uNomalanga and the Witch Palesa Nomanzi Shongwe, ZA 2015; Drehbuch: Palesa Nomanzi Shongwe; Kamera: Amelia Henning; Schnitt: Tim Hade-be, Spho Mdhluli; Darsteller*innen: Mmabatho Montsho, Ferry Jele, Yonda Thomas, Charmaine Mtinta. DCP, Farbe, 27 min. Zulu mit engl. UT Birds of a Feather Tsepiso Mahase, ZA 2024; Drehbuch: Tsepiso Mahase; Kamera: Liteboho Molato; Musik: Matlali Matabane; Darsteller*innen: Matlali Matabane. DCP, Farbe, 5 min. Sesotho/Englisch mit engl. UT Over the Rainbow (Queens in Exile Series) Athi-Patra Ruga, ZA 2017. DCP, Farbe, 9 min Siyazondana Siyathandana (A Zulu Love Letter) Retang Sebeka, ZA 2025; Drehbuch: Siyabonga \"Siyababa\" Mtshali; Darsteller*innen: Siyabonga \"Siyababa\" Mtshali. DCP, sw, 4 min. Zulu mit engl. UT Diese fünf Kurzfilme behandeln so unterschiedliche Themen wie Gewalt, Fantasie, Exil, Intimität und Liebe. #WeAreDyingHere setzt sich mit der Gewalt gegen Frauen auseinander, während uNomalanga and the Witch sich dem Geheimnisvollen und Unheimlichen zuwendet. In Athi-Patra Rugas Over the Rainbow (Queens in Exile Series) verschmelzen Glamour, Performance und historisches Gedächtnis zu einer pointierten Auseinandersetzung mit den Versprechungen der südafrikanischen \"Rainbow Nation\". In Birds of a Feather und Siyazondana Siyathandana (A Zulu Love Letter) stehen intimere Begegnungen im Mittelpunkt. Gemeinsam schaffen die Filme Raum sowohl für Zartheit als auch für Konfrontation und beschreiben unterschiedliche Aspekte queeren Lebens: Widerstand, Träume, Erinnerung, Begehren und Zuneigung. (K.M.)",
+   "score": null
   },
   {
    "slug": "la-bola-negra",
@@ -3390,6 +3595,25 @@
    "score": 0
   },
   {
+   "slug": "miss-mary-die-leidenschaft-der-miss-mary",
+   "title": "Miss Mary (Die Leidenschaft der Miss Mary)",
+   "url": "https://nonstopkino.at/movies/miss-mary-die-leidenschaft-der-miss-mary/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/c4c22613-a8e6-43bb-81c1-c65d6603013d.jpg?fit=max&w=120",
+   "director": "María Luisa Bemberg",
+   "cast": "Julie Christie, Nacha Guevara, Eduardo Pavlovsky, Gerardo Romano, Luisina Brando",
+   "year": 1986,
+   "runtime": 100,
+   "spoken": "Spanisch, Englisch",
+   "synopsis": "Miss Mary weist von allen Filmen Bembergs die augenfälligsten autobiografischen Bezüge auf: Die Geschichte einer argentinischen Familie in den Jahren 1938 bis 1945, als Symbol für die Oligarchie und deren Allmachtsfantasien, die mit der Machtübernahme von Perón 1945 abrupt endeten. Eine außergewöhnliche Frau, die englische Gouvernante Miss Mary, erinnert sich an die Ereignisse dieser Jahre auf dem Landsitz der Familie Martinez. Es entsteht das Spiegelbild einer erstarrten und patriarchalischen Gesellschaft, in der gesellschaftliche Konventionen mehr zählen als Liebe. Julie Christie, die Miss Mary kongenial verkörpert, über die Arbeit mit Bemberg: \"Ein vielschichtiger und komplexer Film, voller Ideenreichtum, wie alle ihre Filme. Ich liebte die Art, wie er gedreht wurde, die Intelligenz, von der er durchdrungen war, Bembergs Vermögen, Themen zu setzen, sie auf den Punkt zu bringen – wie sexuelle Unterdrückung, Oligarchie, Imperialismus, Klassenunterschiede.\" (K.G.)",
+   "imdb": "tt0091528",
+   "rating": 6.4,
+   "votes": 405,
+   "genres": [
+    "Drama"
+   ],
+   "score": 6
+  },
+  {
    "slug": "mission-maeusejagd-chaos-unterm-weihnachtsbaum",
    "title": "Mission Mäusejagd: Chaos unterm Weihnachtsbaum",
    "url": "https://nonstopkino.at/movies/mission-maeusejagd-chaos-unterm-weihnachtsbaum/",
@@ -3442,23 +3666,44 @@
    "score": 0
   },
   {
-   "slug": "mon-pere-le-diable-our-father-the-devil",
-   "title": "Mon Père, le Diable (Our Father, the Devil)",
-   "url": "https://nonstopkino.at/movies/mon-pere-le-diable-our-father-the-devil/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/15c47068-e82a-4037-a6c2-89231ae69cc3.jpg?fit=max&w=120",
-   "director": "Ellie Foumbi",
-   "cast": "Babetida Sadjo, Souleymane Sy Savané, Jennifer Tchiakpe, Franck Saurel, Martine Amisse",
-   "year": 2021,
-   "runtime": 107,
-   "spoken": "Französisch",
-   "synopsis": "Marie Cissé arbeitet als Küchenchefin in einem Seniorenheim einer französischen Kleinstadt. Ihr unbeschwerter Alltag – sie kümmert sich um die Bewohner*innen, verbringt Zeit mit ihrer Kollegin und besten Freundin Nadia und blickt einer möglichen neuen Romanze entgegen – droht durch die Ankunft von Pater Patrick aus den Fugen zu geraten: Sie erkennt in dem afrikanischen Priester den Verantwortlichen für ein schreckliches Ereignis in ihrer afrikanischen Heimat wieder. Während er sich bei den Bewohner*innen und Mitarbeiter*innen immer beliebter macht, muss Marie entscheiden, wie sie mit dieser traumatischen Erinnerung an ihre Vergangenheit umgehen soll. \"Drehbuchautorin und Regisseurin Ellie Foumbi gelingt es in ihrem fesselnden Debütfilm, Themen wie Identität, Erinnerung, Trauma und die Möglichkeit einer zweiten Chance kraftvoll miteinander zu verbinden.\" (Alliance of Women Film Journalists)",
-   "imdb": "tt13892558",
+   "slug": "momentos-moments",
+   "title": "Momentos (Moments)",
+   "url": "https://nonstopkino.at/movies/momentos-moments/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f4d60943-267b-490f-9acf-5e50e0b5d992.jpg?fit=max&w=120",
+   "director": "María Luisa Bemberg",
+   "cast": "Graciela Dufau, Miguel Ángel Solá, Héctor Bidonde",
+   "year": 1981,
+   "runtime": 90,
+   "spoken": "Spanisch",
+   "synopsis": "\"Unser Zusammenleben ist so einfach wie das Atmen. Es ist so ruhig heute Abend, ohne Konflikte, ohne Überraschungen\", sagt Lucía eines Tages zu Mauricio, mit dem sie seit über 20 Jahren verheiratet ist. Zu diesem Zeitpunkt ist die erfolgreiche, selbstständige Landschaftsarchitektin bei einem Auftrag bereits Nicolás begegnet. Dieser ist ebenfalls verheiratet, Vater zweier Kinder und umwirbt sie leidenschaftlich, bis sie bereit ist, sich auf ihn einzulassen. Von Graciela Dufau mit herausragendem Feingefühl gespielt, ist Lucía die erste von Bembergs \"entfremdeten Frauen\", die ein neues Leben beginnen, indem sie selbstbestimmte Entscheidungen treffen, deren soziale Folgen sie ignorieren. Vorab läuft Bembergs erste Regiearbeit, ein auf der Konsumausstellung Femimundo gedrehtes kongeniales Pamphlet gegen das dort verbreitete Ideal einer domestizierten Frau. (G.V.)",
+   "imdb": "tt0081174",
    "rating": 6.9,
-   "votes": 573,
+   "votes": 59,
    "genres": [
-    "Thriller"
+    "Drama"
    ],
-   "score": 4
+   "score": 0
+  },
+  {
+   "slug": "monkey-business",
+   "title": "Monkey Business (1931)",
+   "url": "https://nonstopkino.at/movies/monkey-business/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/fe2f3963-e9b8-4932-a8ec-92feb2974703.jpg?fit=max&w=120",
+   "director": "Norman Z. McLeod",
+   "cast": "Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx, Rockcliffe Fellowes, Thelma Todd",
+   "year": 1931,
+   "runtime": 77,
+   "spoken": "",
+   "synopsis": "Die Gebrüder Marx als blinde Passagiere auf einem Schiff – und als eminenter Störfaktor im Tagesablauf des Kapitäns sowie diverser rivalisierender Banden: Monkey Business ist eine der ersten direkt fürs Kino konzipierten Marx-Brothers-Komödien, die ultimative Vorstudie zur endgültigen surrealistischen Explosion Duck Soup. Zu den gigantischen Sequenzen dieses Wahnwitz-Meisterwerks gehört der eindrucksvoll unsinnige Versuch aller Brüder, sich als Maurice Chevalier auszugeben, um von Bord zu kommen. Raymond Durgnat: »Die Marx Brothers haben etwas Unbezähmbares, Instinkthaftes, Freies und Triumphierendes, das ihre Filme über die Satire hinaus zu einem Manifest der Lebensfreude macht.« (C. H.) Foto: Österreichisches Filmmuseum",
+   "imdb": "tt0022158",
+   "rating": 7.4,
+   "votes": 13920,
+   "genres": [
+    "Comedy",
+    "Family",
+    "Musical"
+   ],
+   "score": 6
   },
   {
    "slug": "monster-mia",
@@ -3560,6 +3805,19 @@
     "Drama"
    ],
    "score": 0
+  },
+  {
+   "slug": "nachtschichten",
+   "title": "Nachtschichten",
+   "url": "https://nonstopkino.at/movies/nachtschichten/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/6f07d6a7-d898-4d51-8e3f-3400319bc192.jpg?fit=max&w=120",
+   "director": "Ivette Löcker",
+   "cast": "",
+   "year": 2010,
+   "runtime": 98,
+   "spoken": "Deutsch, Englisch",
+   "synopsis": "Wenn es Nacht wird in Berlin, beginnt für manche der Tag. In ihrem ersten Langdokumentarfilm durchstreift Ivette Löcker die nächtlichen Straßen und Winkel der Großstadt: Zwei junge Graffitikünstler erklimmen heimlich Hausdächer; eine Wachbeamtin, die sich selbst nur in der Nacht sicher fühlt, kontrolliert ein Industriegelände; zwei Frauen kümmern sich mit ihrem Kleinbus um frierende Obdachlose und eine als DJ arbeitende Japanerin philosophiert über den Gegensatz der Kulturen. Dazwischen lassen Bilder aus einem Polizeihelikopter auf nächtlichem Überwachungsflug die Lichter der Stadt zu einem gelben Teppich verschmelzen. Während Kamera und Montage dem Rhythmus der Nachtschwärmer folgen, lässt Löcker auch die Stadt selbst sprechen: eine Straßenlaterne im Schneegestöber, ein spärlich beleuchteter Parkweg, eine leere Fotokabine, die alle paar Sekunden automatisch ein Bild schießt. Dann wird etwas von der besonderen Anziehungskraft der Nacht spürbar – einer dunklen Schönheit. Die nächtlichen, vom Mond beleuchteten Winterlandschaften des Dachsteingebirges vermisst Elke Groen in NightStill auf poetische Weise. (M.P.)",
+   "score": null
   },
   {
    "slug": "nausicaae-aus-dem-tal-der-winde",
@@ -3810,16 +4068,16 @@
    "score": 24
   },
   {
-   "slug": "penne-a-la-putanesca-la-mecanica-de-los-fluidos-si-tienes-que-partir-un-jarron-no-se-rompe-dos-veces-viernes-decide-morir-norheimsund",
-   "title": "PENNE A LA PUTANESCA; LA MECÁNICA DE LOS FLUIDOS; SI TIENES QUE PARTIR; UN JARRÓN NO SE ROMPE DOS VECES; VIERNES DECIDE MORIR; NORHEIMSUND",
-   "url": "https://nonstopkino.at/movies/penne-a-la-putanesca-la-mecanica-de-los-fluidos-si-tienes-que-partir-un-jarron-no-se-rompe-dos-veces-viernes-decide-morir-norheimsund/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/ec0b071f-9fb2-4024-b4af-6274d9183626.jpeg?fit=max&w=120",
-   "director": "",
-   "cast": "",
-   "year": null,
-   "runtime": null,
-   "spoken": "Spanisch",
-   "synopsis": "Programm: PENNE A LA PUTANESCA Patricia Rodda, Kuba, 2026, Kurzfilm BUCH Patricia Rodda | KAMERA Yorkiel Mirabal, Ernesto Granados | SCHNITT Pedro Díaz | TON Juan Carlos Herrera | MUSIK José María Vitier | MIT Yordy Morejón, Osvaldo Doimeadiós, Ariana Delgado, Anareliys Ruíz, Mar Inclán Rodda 24 min | Farbe, span. OmeU, DCP Samira ist eine Frau, die das Leben hart getroffen hat. Nach einem verhängnisvollen Unfall, der ihre Träume zunichte machte, beginnt sie, Menschen zu betrügen, um über die Runden zu kommen. Gemeinsam mit ihrem besten Freund und Komplizen beobachtet sie die Menschen in den Warteschlangen und erkennt ihre Ängste und Wünsche. Anschließend verspricht sie ihnen mithilfe von Tarotkarten die „Zukunft ihrer Träume“. Ein Überlebensmodell, das funktioniert – bis eine mysteriöse Präsenz auftaucht und Samira zwingt, sich ihrer eigenen Vergangenheit zu stellen. Was zunächst wie eine äußere Bedrohung erscheint, führt sie zurück zu alten Traumata und zu den Entscheidungen, die ihr Leben geprägt haben. Dabei beginnt Samira, ihre Gegenwart mit anderen Augen zu sehen. In ihrem Regiedebüt verbindet Patricia Rodda, Schauspielerin, Produzentin und Dichterin, Drama und Humor mit einem ausgeprägten Sinn für das Absurde. Penne nach Puttanesca-Art erzählt von der Kunst, nach einem Fall wieder aufzustehen, und von einem Leben, das sich nicht eindeutig in Tragödie oder Komödie einteilen lässt. LA MECÁNICA DE LOS FLUIDOS Fady Gamal Soliman, Kuba, 2026, Kurzfilm BUCH Stefano Lopes | KAMERA Joseline Urco | SCHNITT Geo Souza | TON Lilliam Chacón | MIT Ariel Zamora, Daniel David Cabrera, Daniel Amat 12 min | Farbe, span. OmeU, DCP In einem Haus, in dem Repression die einzige Sprache ist, wagt Iván (15) den ersten Schritt: Er will seinen ersten Kuss. Sein Bruder Ricardo (13) soll ihm dabei helfen – aus Loyalität, aus Neugier, vielleicht auch aus dem Wunsch, selbst zu verstehen, was in ihm vorgeht. Doch was als Akt der Verbundenheit beginnt, wird zur Katastrophe. Als Ricardo versucht, Iván bei der Konfrontation mit seinem Verlangen beizustehen, zerbricht das Band zwischen den Brüdern. Was bleibt, ist die Gewalt, die sie von ihrem Vater geerbt haben – und ein Junge, der plötzlich allein ist, nicht weinen kann und nicht weiß, wie er ohne die Nähe seines Bruders weiterleben soll. Ein kurzer, intensiver Film über die Zerbrechlichkeit von Geschwisterliebe, über das Erbe väterlicher Gewalt und über die unmögliche Kunst, Gefühle zu zeigen, wenn die Welt um einen herum nur Härte kennt. SI TIENES QUE PARTIR Emilia Ánderson, Kuba / Honduras, 2024, Kurzfilm BUCH Emilia Ánderson | KAMERA Marco Machaca | SCHNITT Adelaida Sancristóbal | TON José Carlos Valencia | MUSIK Horacio G. Cadalzo, Guillermo Ánderson | MIT Víctor Cruz, Alejandra de Jesús Garcell, Sydney Alexander Lingle 17 min | Farbe, span. OmeU, DCP Am Ende einer Schicht am Flughafen begegnet ein junger Mann, der davon träumt, Schriftsteller zu werden, einer Frau, die von ihrem ausländischen Freund am Terminal zurückgelassen wurde. Sie bittet ihn um Hilfe, um mit ihm in Kontakt zu treten – ihr Telefon ist kaputt. Gemeinsam kehren sie in die Stadt zurück, und während sie auf eine Nachricht des Fremden wartet, vertraut sie ihm an, dass sie davon träumt, das Land zu verlassen, und dass ihre Beziehung nur virtuell existiert. Im Laufe der Nacht entsteht eine starke Verbindung zwischen ihnen. Der junge Mann beginnt zu hoffen, sich etwas vorzumachen. Doch mit der Morgendämmerung kommt die lang erwartete Antwort – und sie entscheidet sich, ihrem Traum zu folgen. Zurück bleibt ein Schriftsteller, allein, aber mit einer Geschichte. Ein zarter, melancholischer Film über die flüchtigen Begegnungen, die unser Leben verändern, über die Sehnsucht nach einem Ort, den es noch nicht gibt, und über die Kunst, aus dem Verlust eine Erzählung zu machen. UN JARRÓN NO SE ROMPE DOS VECES Julián Ortiz González, Kuba, 2024, Kurzfilm BUCH Aria Sánchez | KAMERA Valeria Moraima Berríos | SCHNITT Jaime Carmona Ortiz | TON Lucía Cárdenas | MUSIK Peer Music | MIT Doreen Granados, Andros Perugorría, Joserraul Ortiz, Juanma López 11 min | Farbe, span. OmeU, DCP Amauris arbeitet unermüdlich an einem kleinen Modell, das sein Haus und sein Geschäft mit seiner Frau Rocío exakt reproduziert. Jede Wand, jedes Möbelstück, jeder Winkel wird mit einer Sorgfalt nachgebildet, die fast einer Obsession gleicht. Es ist ein Versuch, die Welt da draußen zu kontrollieren – oder vielleicht die Welt da drinnen zu bewahren. Während Amauris in seiner Miniaturwirklichkeit lebt, sucht Rocío nach sich selbst: innerhalb ihrer Ehe, außerhalb des Modells. Sie will nicht länger nur ein Teil seiner Konstruktion sein. Zwischen den beiden entfaltet sich ein stiller, schmerzhafter Kampf um Nähe und Freiheit, um das Festhalten und das Loslassen. Ein kurzer, eindringlicher Film über die unsichtbaren Grenzen, die wir in Beziehungen errichten, und über die Frage, ob Liebe bedeuten muss, sich selbst aufzugeben. VIERNES DECIDE MORIR Ailton Jesus, Kuba, 2025, Kurzfilm BUCH Ailton Jesus | KAMERA Deborah Hernández | SCHNITT Beatriz Leal | TON Fabiana Mansur | MUSIK Lilliam Chacón | MIT Aracelis Castañeda, Elena Berelowitsch, Diego Barquero, Luciano Raulino 4 min | Farbe, span. OmeU, DCP Viernes hat eine Entscheidung getroffen: Sie will sterben. Nicht aus Verzweiflung, nicht aus Schwäche – sondern weil sie es so will, zu ihren eigenen Bedingungen, in ihrem eigenen Tempo. Doch die Welt da draußen hat andere Pläne. Was als existenzieller Akt der Selbstbestimmung beginnt, wird zum absurden Kampf gegen eine Bürokratie, die für den Tod zuständig ist, aber nicht für den Menschen, der ihn wählt. Formulare, Fristen, Zuständigkeiten: Das System, das Leben verwaltet, verweigert sich dem letzten Wunsch einer Frau, die einfach nur in Frieden gehen möchte. Zwischen schwarzem Humor und stiller Tragik entfaltet sich ein kurzer, pointierter Film über die Macht der Institutionen über unseren Körper – und über die absurde Erkenntnis, dass selbst der Tod nicht ohne Genehmigung stattfinden darf. Ein Film, der in wenigen Minuten eine universelle Frage aufwirft: Wem gehört eigentlich unser Leben, wenn wir es loslassen wollen? NORHEIMSUND Ana Alpizar, Kuba / USA, 2025, Kurzfilm BUCH, SCHNITT Ana Alpizar | KAMERA Yuqian Zhang | TON Yaser Canals Quintana, Denis Colina | MIT Yaité Ruiz, Paula Massó Varela, Darianis Palenzuela, Kiriam Gutiérrez, Alexandra González Corrales, Elizabeth Castro Cedeño, Isabel Lluis Ibonet, Liliana Bárbara Guevara 12 min | Farbe, span. OmeU, DCP In einem stickigen Zimmer in Havanna sitzt Yaímita vor ihrem Handy. Auf dem Bildschirm: ein Mann in Norwegen, ein Dorf namens Norheimsund, die Verheißung eines anderen Lebens. Sven ist über sechzig, sie ist Teenagerin. Ihre Mutter Yaíma weiß um den Altersunterschied, doch sie weiß auch, was auf dem Spiel steht: die Möglichkeit, der Armut zu entkommen, die das Leben der beiden seit Jahren bestimmt. Also hilft sie mit, macht Fotos von ihrer Tochter, arrangiert Posen, schmiedet Pläne für eine Zukunft in Europa. Der Traum hat eine Adresse, einen Namen, eine Telefonnummer. Doch je näher die ersehnte Ausreise rückt, desto deutlicher wird, dass Sven nicht der Mann ist, für den er sich ausgibt. Im Friseursalon des Viertels, wo der Klatsch der Nachbarschaft zirkuliert, erreicht Yaímita eine Warnung: Sie ist nicht die Einzige, die er umwirbt. Und irgendwo in den Erzählungen der Frauen taucht die Legende von einem Mädchen auf, das mit einem Europäer fortging und blind zurückkehrte. Zwischen den stickigen Straßen von Havanna und den leuchtenden Bildern eines fremden Landes entfaltet sich ein stilles, eindringliches Drama über die Sehnsucht nach einem besseren Leben und den Preis, den sie fordert. Regisseurin Ana Alpizar, die erste kubanische Filmemacherin, die nach Venedig eingeladen wurde, erzählt mit großer Zärtlichkeit und schonungsloser Klarheit von einer Realität, die viele junge Kubanerinnen teilen – und von der Kraft einer Mutter-Tochter-Beziehung, die selbst in aussichtslosen Momenten nicht zerbricht. Ein Film über Hoffnung, Täuschung und die Frage, wie weit man geht, wenn das eigene Land keine Perspektive mehr bietet.",
+   "slug": "phaidros",
+   "title": "Phaidros",
+   "url": "https://nonstopkino.at/movies/phaidros/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/40133eb0-3f9c-45d7-9ab9-d9946523ff26.jpg?fit=max&w=120",
+   "director": "Mara Mattuschka",
+   "cast": "Julian Sharp, May Teodosio, Tamara Mascara, Nicola Filippelli, Alexander E. Fennon",
+   "year": 2018,
+   "runtime": 98,
+   "spoken": "Deutsch",
+   "synopsis": "Filmemacherin, Malerin und Performerin Mara Mattuschka hat mit ihrem jüngsten Film einen Wirbelwind von einem Genre-Hybriden erschaffen, in dem nichts straight, sondern alles quer gedacht und gemacht ist. Der gleichnamige platonische Dialog über die Vorzüge und Nachteile der (homo)erotischen Liebe wird zum Backstage-Drama an der Sprechbühne, zur beklemmenden Faustiade und schließlich als Krimi-whodunnit neu imaginiert. Dazu glänzende Setpieces eines queeren, ins Traumhaft-Surreale verschobenen Wiens der Bars, Cafés und Nachtclubs, bevölkert von einem Ensemble artifizieller, tragikomischer Figuren. In Gently Down the Stream formt Experimentalfilmemacherin Su Friedrich aus Träumen, die sie in ihrem Tagebuch notiert hat, einen visuellen Bewusstseinsstrom aus Schrift und Bild. (M.L.)",
    "score": null
   },
   {
@@ -4080,25 +4338,23 @@
    "score": 14
   },
   {
-   "slug": "secret-beyond-the-door",
-   "title": "Secret Beyond the Door",
-   "url": "https://nonstopkino.at/movies/secret-beyond-the-door/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/b452ed63-5f30-4d0c-9c07-d59a7578aa71.jpeg?fit=max&w=120",
-   "director": "Fritz Lang",
-   "cast": "Joan Bennett, Michael Redgrave, Anne Revere, Barbara O’Neil, Natalie Schafer, Paul Cavanagh",
-   "year": 1947,
-   "runtime": 99,
-   "spoken": "Englisch",
-   "synopsis": "Auf einer Mexiko-Reise begegnet die wohlhabende Celia einem architekturbegeisterten Zeitschriftenverleger, den sie innerhalb weniger Tage heiratet. Zurück in der Heimat erfährt sie, dass ihr Mann bereits verwitwet ist und ein besonders morbides Faible hat: Die Zimmer seines Anwesens lässt er nach berühmten Mordfällen einrichten. Eine verschlossene Tür ist jedoch für Celia tabu … Langs letzte Zusammenarbeit mit Produzent Walter Wanger und dessen Gattin und Hauptdarstellerin Joan Bennett ist von Konflikten geprägt und wird gern in einem Atemzug mit Hitchcocks REBECCA genannt. Was wie ein klassisches Mysterium beginnt, entwickelt sich immer mehr zu einer labyrinthischen Geschichte, in der hinter der sichtbaren Ordnung eine andere Wirklichkeit lauert: »The way a place is built determines what happens in it.« (Florian Widegger)",
-   "imdb": "tt0040766",
-   "rating": 6.6,
-   "votes": 6580,
+   "slug": "senora-de-nadie-ich-gehoere-niemand",
+   "title": "Señora de nadie (Ich gehöre niemand)",
+   "url": "https://nonstopkino.at/movies/senora-de-nadie-ich-gehoere-niemand/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/d012a558-798f-4957-8788-980484d47f9e.jpg?fit=max&w=120",
+   "director": "María Luisa Bemberg",
+   "cast": "Luisina Brando, Rodolfo Ranni, Julio Chávez, Gabriela Acher, Susú Pecoraro",
+   "year": 1982,
+   "runtime": 92,
+   "spoken": "Spanisch",
+   "synopsis": "Als Leonor, Mutter zweier Kinder, herausfindet, dass ihr Mann seit Längerem andere Frauen trifft, zieht sie zu ihren Eltern. Obwohl ihr Umfeld sie dazu drängt, ihrem Mann zu verzeihen, stürzt sie sich in das freie Leben und zieht mit dem offen homosexuellen Pablo in eine Wohngemeinschaft. Bemberg hatte das Drehbuch zu Señora de nadie noch vor Momentos geschrieben, doch die Zensur der seit 1976 herrschenden Militärdiktatur hatte vor allem wegen der Figur Pablos eine Verfilmung untersagt. Unvorhersehbar in seinen Wendungen, eindringlich gespielt und ein Rundumschlag gegen eine rückständige Gesellschaft, ist Señora de nadie – uraufgeführt am Vorabend des Falklandkriegs – ein erster Höhepunkt in Bembergs Werk. Juguetes illustriert, wie Spielzeug früh Rollenbilder prägt: Mädchen bekommen Puppen und Miniküchen, Jungen tragen Waffen und spielen Helden. (G.V.)",
+   "imdb": "tt0084664",
+   "rating": 7.1,
+   "votes": 195,
    "genres": [
-    "Drama",
-    "Film-Noir",
-    "Mystery"
+    "Drama"
    ],
-   "score": 35
+   "score": 0
   },
   {
    "slug": "sense-and-sensibility-2026",
@@ -4159,19 +4415,6 @@
     "Documentary"
    ],
    "score": 0
-  },
-  {
-   "slug": "sichtbares-und-verborgenes",
-   "title": "Sichtbares und Verborgenes",
-   "url": "https://nonstopkino.at/movies/sichtbares-und-verborgenes/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/a9432160-7cae-42b7-9cb2-5e790ef26c70.jpg?fit=max&w=120",
-   "director": "Anja Salomonowitzn",
-   "cast": "",
-   "year": null,
-   "runtime": 88,
-   "spoken": "Deutsch",
-   "synopsis": "Ein Familienporträt zwischen Erinnern und Verdrängen, Wissen und Nichtwissen. Drei Frauen lässt Anja Salomonowitz von ihrer Jugend während der NS-Zeit erzählen: Großtante Hanka hat Auschwitz überlebt und findet keine Worte für das, was sie nicht vergessen kann. Kindermädchen Gertrude war Sozialistin und erinnert sich an die Deportation jüdischer Bekannter. Großmutter Margit lebte in Graz und sagt zunächst, sie könne sich an vieles nicht mehr erinnern. In ruhigen Einstellungen und mit bewusster Kadrierung gibt die Filmemacherin den Gesprächen Raum, ohne Widersprüche aufzulösen. ÜBER DIE JÜDISCHE PERÜCKE entstand 2026 für das Jüdische Museum Wien und widmet sich den vielen Fragen rund um den Scheitel, die Perücke, mit der orthodoxe Jüdinnen nach der Hochzeit ihr Haar bedecken. (Florian Widegger) Programm: Über die jüdische Perücke Regie: Anja Salomonowitz Land: AT Jahr: 2026 Das wirst du nie verstehen Regie: Anja Salomonowitz Land: AT Jahr: 2003 Vorfilm: Es ist genau genug Zeit Regie: Oskar Salomonowitz/Virgil Widrich Land: AT Jahr: 2021",
-   "score": null
   },
   {
    "slug": "skiff",
@@ -4371,6 +4614,26 @@
     "Drama"
    ],
    "score": 8
+  },
+  {
+   "slug": "sweetie",
+   "title": "Sweetie",
+   "url": "https://nonstopkino.at/movies/sweetie/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/fe0e41a6-e46b-4f43-9e04-de48e16255e4.jpeg?fit=max&w=120",
+   "director": "Jane Campion",
+   "cast": "Geneviève Lemon, Karen Colston, Tom Lycos, Jon Darling, Dorothy Barry",
+   "year": 1989,
+   "runtime": 97,
+   "spoken": "Englisch",
+   "synopsis": "Welch ein Glück für die junge Sweetie: Da sagt ihr ein teeblattlesendes Orakel voraus, dass die große Liebe auf sie wartet, in der Gestalt eines Mannes, der ein Fragezeichen im Gesicht trägt. Kurz darauf trifft sie jemanden mit einer satzzeichenförmigen Kombination aus Schmalzlocke und Leberfleck. Die wundervoll verwobene Neurosenpoesie, in der die fabelhafte Welt der Sweetie mit virtuosen Schrägperspektiven-Verrenkungen und Weitwinkel-Looks (Kamera: Sally Bongers) zum Leben erweckt wird, markiert das Spielfilmdebüt von Campion, das 1989 beim Festival in Cannes in der Sektion \"Un Certain Regard\" reüssierte. Als die gelinde gesagt schwierige, um die Gunst der Eltern konkurrierende Schwester das neue und äußerst wackelige Glück stört, kippt der Film endgültig in eine zauberhafte Mystik, durch die alles ein bisschen verschroben erscheint und man dadurch umso tiefer und empathischer in die psychosexuellen Welten der Protagonistin abtaucht. (P.H.)",
+   "imdb": "tt0098725",
+   "rating": 6.7,
+   "votes": 5971,
+   "genres": [
+    "Comedy",
+    "Drama"
+   ],
+   "score": 30
   },
   {
    "slug": "szegenylegenyek",
@@ -4822,6 +5085,25 @@
    "score": 73
   },
   {
+   "slug": "the-ice-storm",
+   "title": "The Ice Storm",
+   "url": "https://nonstopkino.at/movies/the-ice-storm/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/6f5bf803-9535-4034-8de4-94b80999ce5a.jpeg?fit=max&w=120",
+   "director": "Ang Lee",
+   "cast": "Joan Allen, Sigourney Weaver, Kevin Kline, Christina Ricci, Elijah Wood",
+   "year": 1997,
+   "runtime": 112,
+   "spoken": "Englisch",
+   "synopsis": "New Canaan, Connecticut, 1973. In dieser Nacht scheint die Zeit stillzustehen. Denn wenn es friert, erklärt Mikey Carver (Elijah Wood) seinem jüngeren Bruder, bewegen sich die Moleküle nicht mehr. Wenn man im Eissturm atmet, sei nichts in der Luft. Woraufhin sich Mikey seinen roten Anorak anzieht und das Haus verlässt. Es ist Vollmond, und klirrendes Eis hängt von den Zweigen. Die kahlen Bäume sehen aus wie ein Zauberwald. Doch der Eissturm kommt ebenso wenig überraschend wie die Katastrophe, in die die Ehepaare Hood (Kevin Kline, Joan Allen) und Carver (Jamey Sheridan, Sigourney Weaver) in dieser Partynacht zu Thanksgiving sehenden Auges schlittern. Mit The Ice Storm verfilmt Ang Lee zum ersten Mal einen zeitgenössischen US-Autor und verwandelt die semi-autobiografische Erzählung Rick Moodys, angesiedelt vor dem historischen Hintergrund von Vietnam und Watergate, in ein gewaltiges Familiendrama. Ein eisiger Nachtfilm über ramponierte und verschlissene Herzen. Im Vorfilm fängt Marie Menken die weihnachtlichen Lichter der Großstadt ein. (M.P.)",
+   "imdb": "tt0119349",
+   "rating": 7.3,
+   "votes": 64367,
+   "genres": [
+    "Drama"
+   ],
+   "score": 55
+  },
+  {
    "slug": "the-invite",
    "title": "The Invite",
    "url": "https://nonstopkino.at/movies/the-invite/",
@@ -4900,6 +5182,27 @@
    ],
    "favorite": true,
    "score": 119
+  },
+  {
+   "slug": "the-piano",
+   "title": "The Piano",
+   "url": "https://nonstopkino.at/movies/the-piano/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/137cfb8c-ed9c-4335-a2d1-34c4180c0d0f.jpg?fit=max&w=120",
+   "director": "Jane Campion",
+   "cast": "Holly Hunter, Harvey Keitel, Sam Neill, Anna Paquin, Cliff Curtis, u.a.",
+   "year": 1993,
+   "runtime": 121,
+   "spoken": "Englisch",
+   "synopsis": "Nach einer langen Reise von Schottland aus werden die Pianistin Ada McGrath und ihre kleine Tochter Flora mit ihrem gesamten Hab und Gut, einschließlich eines Klaviers, an einem neuseeländischen Strand zurückgelassen. Ada, die seit ihrer Kindheit stumm ist, wurde in die Ehe mit einem einheimischen Mann namens Alisdair Stewart verkauft. Ada macht kaum Anstalten, sich mit Alisdair anzufreunden, wird aber bald von seinem Maori-Bekannten George Baines fasziniert, was zu spannungsgeladenen, lebensverändernden Konflikten führt.",
+   "imdb": "tt0107822",
+   "rating": 7.5,
+   "votes": 102976,
+   "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "score": 55
   },
   {
    "slug": "the-piano-tuner",
@@ -5005,6 +5308,27 @@
    "score": 74
   },
   {
+   "slug": "the-wizard-of-oz",
+   "title": "Der Zauberer von Oz (The Wizard of Oz)",
+   "url": "https://nonstopkino.at/movies/the-wizard-of-oz/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8346b8fd-4967-4460-8772-bbca1152d557.jpg?fit=max&w=120",
+   "director": "Victor Fleming, George Cukor, Mervyn LeRoy, Norman Taurog, King Vidor",
+   "cast": "Judy Garland, Frank Morgan, Ray Bolger, Bert Lahr, Jack Haley",
+   "year": 1939,
+   "runtime": 102,
+   "spoken": "Englisch",
+   "synopsis": "Ein unzählige Male zitierter Urtext des amerikanischen Kinos: ein Selbstfindungsmythos, ein Technicolor-Rausch, ein (abseits der offiziellen Credits-Nennung) von mehreren Regisseuren und noch viel mehr Drehbuchautoren bis zur Traumfabrik-Kenntlichkeit entstellter Horrortrip, also: ein Märchen. Judy Garland wird aus dem sepiabraunen Frieden des bäuerlichen Kansas per Wirbelsturm ins Wunderland Oz katapultiert, wo sie neue, furchtsame Freunde, böse und gute Hexen, die ebenso niedlichen wie grauenvollen Munchkins und viele andere Seltsamkeiten findet. In Begleitung von Vogelscheuche, Löwe und Blechmann zieht sie los, dem mächtigen Zauberer von Oz ihre Bitten vorzutragen. Dessen Ruf verdankt sich aber, ganz wie beim Hollywood-Spektakel selbst, bloß Mundpropaganda und Illusionsmaschinerie – das Glück muss man schon selber finden, somewhere over the rainbow. Und sei es nur im Traum. (C.H.)",
+   "imdb": "tt0032138",
+   "rating": 8.1,
+   "votes": 474962,
+   "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "score": 70
+  },
+  {
    "slug": "tony-shelly-und-das-magische-licht",
    "title": "Tony, Shelly und das magische Licht",
    "url": "https://nonstopkino.at/movies/tony-shelly-und-das-magische-licht/",
@@ -5045,6 +5369,25 @@
     "War"
    ],
    "score": 22
+  },
+  {
+   "slug": "toute-une-nuit",
+   "title": "TOUTE UNE NUIT",
+   "url": "https://nonstopkino.at/movies/toute-une-nuit/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/0804408d-b6b4-462e-baad-5876f2c92dc9.jpg?fit=max&w=120",
+   "director": "Chantal Ackerman",
+   "cast": "Aurore Clément, Tchéky Karyo",
+   "year": 1982,
+   "runtime": 90,
+   "spoken": "Französisch",
+   "synopsis": "Brüssel in einer heißen Sommernacht. Als der Film beginnt, ist bereits die Dunkelheit hereingebrochen. In der Mitte der Nacht, ein Gewitter. Der Film endet in der Morgendämmerung des nächsten Tages. Zu sehen: einzelne Momente und kurze Szenen, manche Figuren nur für einen Moment, nur in einer Szene, andere über die Dauer der Nacht ein paar Male, sodass sich daraus einige wenige kurze Geschichten ergeben. Nur wenige Menschen können schlafen in der Hitze dieser Nacht. Die meisten drängt es hinaus, in die Straßen oder in Bars. Paare finden sich in Wiederbegegnungen oder spontan zum Tanz. Andere Paare trennen sich. Eine Frau verlässt ihren Mann, geht ins Hotel und kehrt doch am Ende der Nacht nach Hause zurück. Ein älterer Mann sitzt bis spät nachts am Schreibtisch und arbeitet, ein anderer sitzt in seiner Einsamkeit am offenen Fenster und lauscht den Geräuschen der schlaflosen Stadt. “Viele der Begegnungen dieser Nacht kommen nur kurz zur Geltung, während bei anderen immer wieder neue Situationen porträtiert werden, wodurch sich ein bunter Reigen der Begegnungen und Trennungen, der Hoffnungen und Enttäuschungen ergibt, ein Reigen, der durch die direkte, aber zugleich auch wieder zarte Annäherung Chantal Akermans an ihre Gestalten Authentizität, ja geradezu dokumentarischen Charakter gewinnt. Ein Spielfilm dennoch, wenn auch einer von sehr eigenwilliger Art, der Spiel ist und Experiment, der nüchtern beobachtet und gelöst interpretiert, der nichts erzählt, und doch zugleich so viele Erlebnisse parat hält.” (Volker Baer «Tagesspiegel», 7. April 1983)",
+   "imdb": "tt0084808",
+   "rating": 6.8,
+   "votes": 1421,
+   "genres": [
+    "Drama"
+   ],
+   "score": 5
   },
   {
    "slug": "trainspotting-4k-restauration",
@@ -5174,6 +5517,25 @@
    "score": 15
   },
   {
+   "slug": "valley-of-a-thousand-hills",
+   "title": "Valley of a Thousand Hills",
+   "url": "https://nonstopkino.at/movies/valley-of-a-thousand-hills/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8e8102d5-210e-49c8-b6b0-02747cbf0aaf.jpeg?fit=max&w=120",
+   "director": "Bonie Sithebe",
+   "cast": "Mandisa Vilakazi, Sibongokuhle Nkosi, Glen Gabela, Wiseman Mncube, Cabangile Gumede, Philani Sithebe",
+   "year": 2022,
+   "runtime": 98,
+   "spoken": "Zulu",
+   "synopsis": "Die junge Nosipho lebt in einer konservativen Zulu-Gemeinde. Ihr Vater hat einen Ehemann für sie ausgesucht, doch sie liebt eine Frau. Valley of a Thousand Hills thematisiert den Konflikt zwischen den gesellschaftlichen Erwartungen, die an Nosipho herangetragen werden, und ihren eigenen Wünschen nach Selbstbestimmung. Der Film verhandelt die Frage, welchen Preis es kostet, als \"gute\" Tochter anerkannt zu werden, und was passiert, wenn diese Anerkennung davon abhängt, einen wesentlichen Teil der eigenen Persönlichkeit verbergen zu müssen. Vor der Kulisse der Provinz KwaZulu-Natal erzählt Regisseurin Bonie Sithebe von einer queeren Liebe und den Möglichkeiten eines autonomen Lebens, wenn Familie, Tradition, Religion und Zugehörigkeit darüber bestimmen möchten. (K.M.)",
+   "imdb": "tt21437200",
+   "rating": 5.7,
+   "votes": 129,
+   "genres": [
+    "Drama"
+   ],
+   "score": 0
+  },
+  {
    "slug": "vaterland",
    "title": "Vaterland (Fatherland)",
    "url": "https://nonstopkino.at/movies/vaterland/",
@@ -5214,19 +5576,6 @@
     "Mystery"
    ],
    "score": 33
-  },
-  {
-   "slug": "vienna-screenings-film-festival-2026",
-   "title": "Vienna Screenings Film Festival 2026",
-   "url": "https://nonstopkino.at/movies/vienna-screenings-film-festival-2026/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/07a2816e-bc73-4f60-a645-4f25ea830a7e.jpeg?fit=max&w=120",
-   "director": "div.",
-   "cast": "div.",
-   "year": 2026,
-   "runtime": null,
-   "spoken": "",
-   "synopsis": "Aus der Liebe zum Kino und zu den Menschen dahinter entstand Vienna Screenings, ein unabhängiges Filmfestival, das Geschichten jenseits des Mainstreams eine Bühne geben möchte. Wir sind überzeugt, dass großartiges Kino keine großen Budgets oder Kontakte in der Filmbranche braucht, sondern vor allem kreative Stimmen mit Geschichten, die erzählt werden wollen. Unser Ziel ist es, einen offenen und niederschwelligen Raum zu schaffen, in dem unabhängige Filmschaffende ihre Arbeiten präsentieren, mit dem Publikum in Austausch treten und Teil einer wachsenden kreativen Community in Wien werden können. Feiert mit uns das unabhängige Kino, neue Perspektiven und die Menschen, die Geschichten zum Leben erwecken. OFFIZIELLE AUSWAHL 2026 World’s Best Dad...Sometimes — Julia Benczak The Broken Act — Sebastian Gerhard Strondl & Danny Rösslhumer Guinea pig — Lucas Jankoschek & Eva Lenk Wir schwenkten keine Fahnen — Mario Dengler Rattling — Gracia Ester Dumančić Beginning of Eternity — Franziskus Ahmed Ehmeir Bite or Bark — David B Carey",
-   "score": null
   },
   {
    "slug": "viridiana",
@@ -5297,6 +5646,133 @@
    "runtime": 225,
    "spoken": "",
    "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 21: Doppelprojektionen Paul Sharits Razor Blades 1968, 16mm, 25 min Andy Warhol The Chelsea Girls 1966, 16mm, ca. 200 min. Englisch ☼ Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-22",
+   "title": "Was ist Film – Programm 22",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-22/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/434c4bd6-e8be-490b-8750-86c19df6859c.jpeg?fit=max&w=120",
+   "director": "Aleksandr Dovženko",
+   "cast": "Semen Svašenko, Nikolaj Kuinskij",
+   "year": 1929,
+   "runtime": 86,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 22 Aleksandr Dovženko Arsenal 1929, 35mm, 86 min. (18 B/Sek) Drehbuch: Aleksandr Dovženko; Kamera: Daniil Demuckij; Darsteller*innen: Semen Svašenko, Nikolaj Kuinskij. Russische ZT/Übersetzung liegt auf Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-23",
+   "title": "Was ist Film – Programm 23",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-23/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/246b3fba-30b3-4444-873a-7b0e6db1106e.jpeg?fit=max&w=120",
+   "director": "Diverse",
+   "cast": "",
+   "year": 1966,
+   "runtime": 89,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 23 Peter Hutton July ’71 in San Francisco, Living at Beach Street, Working at Canyon Cinema, Swimming in the Valley of the Moon 1971, 16mm, 33 min George Kuchar Mosholu Holiday 1966, 16mm, 7 min Pat O’Neill Runs Good 1970, 16mm, 15 min Paul Sharits Epileptic Seizure Comparison 1976, 16mm, 34 min Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-24",
+   "title": "Was ist Film – Programm 24",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-24/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/fd651d69-c400-46c7-b906-05e3323c50a4.jpeg?fit=max&w=120",
+   "director": "Michael Snow",
+   "cast": "",
+   "year": null,
+   "runtime": 263,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 24 Di 17.12. / 18.00 Michael Snow Rameau’s Nephew By Diderot (Thanx To Dennis Young) By Wilma Schoen 1972–74, 16mm, 263 min Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-25",
+   "title": "Was ist Film – Programm 25",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-25/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/02efae95-e86d-496b-94c3-57c0677f808b.jpeg?fit=max&w=120",
+   "director": "Gregory J. Markopoulos",
+   "cast": "",
+   "year": 1947,
+   "runtime": 113,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 25 Gregory J. Markopoulos Du sang de la volupté et de la mort (Psyche, Lysis, Charmides) 1947–48, 16mm, 59 min Gammelion 1967, 16mm, 54 min Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-26",
+   "title": "Was ist Film – Programm 26",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-26/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8016294d-a0b6-4484-8f8c-e37c851030fc.jpeg?fit=max&w=120",
+   "director": "Diverse",
+   "cast": "",
+   "year": 1949,
+   "runtime": 74,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Österreichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 26 Kenneth Anger Puce Moment 1949, 16mm, 6 min Georges Franju Le Sang des bêtes 1948, 35mm, 22 min. Drehbuch: Georges Franju; Kamera: Marcel Fradétal, assistiert von Henri Champion; Musik: Joseph Kosma; Schnitt: André Joseph. Französisch/Englische Übersetzung liegt auf Stan Brakhage The Act of Seeing With One’s Own Eyes 1971, 16mm, 32 min Robert Breer Pat’s Birthday 1962, 16mm, 14 min Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-27",
+   "title": "Was ist Film – Programm 27",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-27/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/adf7951e-87a5-4420-8e2a-96cbf1817be6.jpeg?fit=max&w=120",
+   "director": "Michael Snow",
+   "cast": "",
+   "year": 1980,
+   "runtime": 98,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Öster reichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 27 Michael Snow Presents 1980–81, 16mm, 98 min. Foto: Österreichisches Filmmuseum",
+   "imdb": "tt0127151",
+   "rating": 6.6,
+   "votes": 128,
+   "genres": [],
+   "score": 0
+  },
+  {
+   "slug": "was-ist-film-programm-28",
+   "title": "Was ist Film – Programm 28",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-28/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/6379ec8f-ff13-4819-bef6-c567915c78e5.jpeg?fit=max&w=120",
+   "director": "Michael Snow",
+   "cast": "",
+   "year": 1988,
+   "runtime": 87,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Öster reichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 28 Michael Snow So Is This 1982, 16mm, 47 min. Engl. ZT ☼ Seated Figures 1988, 16mm, 40 min. Engl. ZT ☼ Foto: Österreichisches Filmmuseum",
+   "score": null
+  },
+  {
+   "slug": "was-ist-film-programm-29",
+   "title": "Was ist Film – Programm 29",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-29/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/9f39863e-504e-4957-9107-09d3b8ce4085.jpeg?fit=max&w=120",
+   "director": "Jonas Mekas",
+   "cast": "",
+   "year": 1971,
+   "runtime": 117,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Öster reichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. Programm 29 Jonas Mekas Scenes From the Life of Andy Warhol 1963–90, 16mm, 36 min Reminiscences of a Journey to Lithuania 1971, 16mm, 81 min. Englisch ☼ Foto: Österreichisches Filmmuseum",
+   "imdb": "tt0069172",
+   "rating": 7.6,
+   "votes": 1414,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
+   "slug": "was-ist-film-programm-30",
+   "title": "Was ist Film – Programm 30",
+   "url": "https://nonstopkino.at/movies/was-ist-film-programm-30/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5d2f5945-531c-4008-86f2-88cc96d2083c.jpeg?fit=max&w=120",
+   "director": "Diverse",
+   "cast": "",
+   "year": 1974,
+   "runtime": 77,
+   "spoken": "",
+   "synopsis": "Peter Kubelka gestaltete 1996 aus Anlass der Hundertjahrfeier des Kinos das Zyklische Programm Was ist Film. Das Programm definiert, so Kubelka, „durch Beispiele den Film als eigenständige Kunstgattung, als Werkzeug, welches neue Denkweisen vermittelt. Es wird damit jungen Filmemachern und allen, die sich ernsthaft mit dem Medium Film auseinandersetzen, in 63 Programmen ein grundlegender Überblick geboten.“ Das Buch zum Zyklus – Was ist Film: Peter Kubelkas Zyklisches Programm im Öster reichischen Filmmuseum – ist an der Kassa des Filmmuseums zum Sonderpreis von 9 Euro erhältlich. **Programm 30** Cinématographe Lumière Démolition d’un mur (à l’envers) 1896, 35mm, 2 min (16 B/Sek) Charles Ridley Germany Calling 1941, 35mm, 2 min Stan Brakhage & Joseph Cornell Wonder Ring 1955, 16mm, 5 min Joseph Cornell & Stan Brakhage Gnir Rednow 1955, 16mm, 5 min Ernie Gehr Eureka 1974, 16mm, 30 min Martin Arnold pièce touchée 1989, 16mm, 16 min Michael Snow See You Later / Au revoir 1990, 16mm, 16 min 32 sek. Mit: Michael Snow und Peggy Gale Foto: Österreichisches Filmmuseum",
    "score": null
   },
   {
@@ -5387,6 +5863,25 @@
    "score": 38
   },
   {
+   "slug": "while-you-werent-looking",
+   "title": "While You Weren’t Looking",
+   "url": "https://nonstopkino.at/movies/while-you-werent-looking/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/d1bd2ef8-2e11-4ed9-b605-ec9f15faf9e4.jpg?fit=max&w=120",
+   "director": "Catherine Stewart",
+   "cast": "Camilla Waldman, Sandi Schultz, Fezile Mpela, Lionel Newton, Petronella Tshuma",
+   "year": 2015,
+   "runtime": 104,
+   "spoken": "Englisch, Afrikaans",
+   "synopsis": "Kurzfilmprogramm Davor: Ke wena ya tsebang Thato \"Fela Gucci\" Ramasia, ZA 2022; Drehbuch, Musik: Thato \"Fela Gucci\" Ramasia; Schnitt: Naledi Chai; Darsteller*innen: Thato \"Fela Gucci\" Ramasia, Erika Khumalo, Caley Nkosi, Azi Bundi. DCP, Farbe, 5 min. Sesotho mit engl. UT Indudu Dein-Conrad O'Toole, ZA 2026; Drehbuch: Siyabonga \"Siyababa\" Mtshali; Kamera: Mninizo Sitho Bandez; Musik: DJ Nowhere; Darsteller*innen: Mbali Msith, Tshidiso Seme, Siyabonga \"Siyababa\" Mtshali. DCP, sw, 4 min Raging Bull Retang Sebeka, ZA 2025; Drehbuch: Siyabonga \"Siyababa\" Mtshali; Kamera: Marty Bleazard; Schnitt: Mthandeni Khambule; Darsteller*innen: Siyabonga \"Siyababa\" Mtshali, Mbuyiselo Dhlamini, Tracy Mokgopo, MR Allofit. DCP, sw, 2 min Das Abschlussprogramm versammelt vier sehr unterschiedliche Sichtweisen. Die Kurzfilme ermöglichen flüchtige Begegnungen mit Körpern, Identitäten, Bewegung und Gefühlen. Catherine Stewarts in Kapstadt angesiedelter Spielfilm While You Weren't Looking folgt Beziehungen über sehr unterschiedliche soziale und wirtschaftliche Räume hinweg und formuliert Fragen zu Sexualität, Rasse, Klasse und Zugehörigkeit. Der Titel deutet ein Spannungsverhältnis an: Während wir eine Sache betrachten, geschieht etwas anderes, das sich unserer Aufmerksamkeit entzieht. Diese Filme fordern uns auf, noch einmal hinzuschauen – auf das Sichtbare, auf das Übersehene und auf die unterschiedlichen Leben, die in derselben Stadt zu finden sind. Um einander sehen zu können, müssen wir auch wahrnehmen, was wir gelernt haben, nicht zu sehen. (K.M.)",
+   "imdb": "tt4353990",
+   "rating": 6.5,
+   "votes": 55,
+   "genres": [
+    "Drama"
+   ],
+   "score": 6
+  },
+  {
    "slug": "wild-horse-nine",
    "title": "Wild Horse Nine",
    "url": "https://nonstopkino.at/movies/wild-horse-nine/",
@@ -5469,6 +5964,27 @@
    "score": 0
   },
   {
+   "slug": "yo-la-peor-de-todas-ich-die-unwuerdigste-von-allen",
+   "title": "Yo, la peor de todas (Ich, die Unwürdigste von allen)",
+   "url": "https://nonstopkino.at/movies/yo-la-peor-de-todas-ich-die-unwuerdigste-von-allen/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/6e503009-ceda-44fe-8efb-411fe69dc1b6.jpg?fit=max&w=120",
+   "director": "María Luisa Bemberg",
+   "cast": "Assumpta Serna, Dominique Sanda, Héctor Alterio, Lautaro Murúa",
+   "year": 1990,
+   "runtime": 105,
+   "spoken": "Spanisch",
+   "synopsis": "Im Mexiko der Barockzeit war sie bekannt als die \"Zehnte Muse\", Schwester Juana Inés de la Cruz, die sich mit 20 Jahren in ein Kloster zurückzog, um ihren Studien der Astronomie, der Poesie, der Philosophie und Theologie nachgehen zu können. Der Film erzählt die Geschichte und das bittere Ende der gelehrten Ordensfrau. Mexiko wird in der Kolonialzeit von zwei konfligierenden Mächten beherrscht: der spanischen Krone und der katholischen Kirche. Schwester Juana steht unter dem Schutz der Vizekönigin. Trotz der räumlich streng getrennten Welten entwickelt sich zwischen den beiden Frauen ein inniges und sinnliches Verhältnis, eine leidenschaftliche Zuneigung, bei aller Gegensätzlichkeit ihrer Lebensentwürfe. In einer Schlüsselszene kommen diese nicht nur im Dialog zur Sprache, sondern werden auch in der Körpersprache von Dominique Sanda und Assumpta Serna in ihrer radikalen Unterschiedlichkeit sichtbar. (K.G.)",
+   "imdb": "tt0100990",
+   "rating": 7.1,
+   "votes": 789,
+   "genres": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "score": 0
+  },
+  {
    "slug": "you-can-see-everything",
    "title": "You Can See Everything",
    "url": "https://nonstopkino.at/movies/you-can-see-everything/",
@@ -5534,757 +6050,11 @@
  ],
  "screenings": [
   {
-   "film": "los-mosquitos-no-esta-a-la-venta-modos-de-verme",
-   "start": "2026-11-18T14:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-18T14:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sterben-fuer-anfaenger",
-   "start": "2026-11-18T14:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "kinderfilmfestival-kurzfilmprogramm-zusammen-finden",
-   "start": "2026-11-18T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "DF",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-18T15:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "frau-winkler-verlaesst-das-haus",
-   "start": "2026-11-18T15:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T15:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-18T15:15:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-18T15:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-18T15:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-18T15:45:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "geister",
-   "start": "2026-11-18T15:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-18T16:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "konrad-aus-der-konservenbuechse",
-   "start": "2026-11-18T16:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [
-    "Q&A",
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-18T16:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sterben-fuer-anfaenger",
-   "start": "2026-11-18T16:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-18T16:50:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-18T17:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T17:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-18T17:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "noestlinger-sowieso-und-ueberhaupt",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sichtbares-und-verborgenes",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ein-wiener-sport-club",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sacrifice",
-   "start": "2026-11-18T17:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-18T17:40:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-18T17:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-18T17:45:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-18T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T17:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "everyones-child",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OmeU",
-   "tags": [
-    "Retrospektive",
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "other-mommy",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "entre-la-nostalgia-y-la-esperanza-una-mirada-a-la-justicia-de-guatemala-en-el-exilio-sinfronteras-la-raiz-del-alba-el-reinado-de-antoine",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-noch-unbekannten-tage",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gugus-welt",
-   "start": "2026-11-18T18:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "DF",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-18T18:10:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-18T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-18T18:30:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "secret-beyond-the-door",
-   "start": "2026-11-18T18:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-18T18:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-18T18:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vienna-screenings-film-festival-2026",
-   "start": "2026-11-18T19:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-18T19:10:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-18T19:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "mary-poppins",
-   "start": "2026-11-18T19:30:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "abschied-von-gestern",
-   "start": "2026-11-18T19:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-18T19:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-18T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-18T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-18T19:45:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "meeting-the-buddha",
-   "start": "2026-11-18T19:45:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "ein-talent-fuers-morden",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "club-kid",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "her-private-hell",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-hunger-games-sunrise-on-the-reaping",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "penne-a-la-putanesca-la-mecanica-de-los-fluidos-si-tienes-que-partir-un-jarron-no-se-rompe-dos-veces-viernes-decide-morir-norheimsund",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-18T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T20:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T20:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "geister",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "mon-pere-le-diable-our-father-the-devil",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OmeU",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "i-play-rocky",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-hurt-locker",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-18T20:30:00+01:00",
-   "cinema": "Stadtkino Wien",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-18T20:35:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-18T20:45:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "primetime",
-   "start": "2026-11-18T20:55:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-11-18T21:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bernadette-will-toeten",
-   "start": "2026-11-18T21:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-11-18T22:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "rocky",
-   "start": "2026-11-19T06:30:00+01:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OmdU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "ein-helles-funkeln",
-   "start": "2026-11-19T09:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "der-verlorene-mann",
-   "start": "2026-11-19T09:15:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
    "film": "wild-horse-nine",
    "start": "2026-11-19T14:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6530,9 +6300,7 @@
    "start": "2026-11-19T17:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -6572,9 +6340,7 @@
    "start": "2026-11-19T17:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6600,9 +6366,7 @@
    "start": "2026-11-19T18:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6610,9 +6374,7 @@
    "start": "2026-11-19T18:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6873,9 +6635,7 @@
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6883,9 +6643,7 @@
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6901,9 +6659,7 @@
    "start": "2026-11-19T20:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -6955,9 +6711,7 @@
    "start": "2026-11-19T20:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -6983,9 +6737,7 @@
    "start": "2026-11-19T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7211,9 +6963,7 @@
    "start": "2026-11-20T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7237,9 +6987,7 @@
    "start": "2026-11-20T17:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7255,9 +7003,7 @@
    "start": "2026-11-20T17:20:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7337,9 +7083,7 @@
    "start": "2026-11-20T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7363,9 +7107,7 @@
    "start": "2026-11-20T18:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7523,9 +7265,7 @@
    "start": "2026-11-20T20:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7591,9 +7331,7 @@
    "start": "2026-11-20T20:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7651,9 +7389,7 @@
    "start": "2026-11-20T20:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -7661,9 +7397,7 @@
    "start": "2026-11-20T20:35:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7671,9 +7405,7 @@
    "start": "2026-11-20T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7718,7 +7450,7 @@
    "film": "vaterland",
    "start": "2026-11-21T12:15:00+01:00",
    "cinema": "CineCenter",
-   "lang": "OmdU",
+   "lang": "DF",
    "tags": [],
    "booking": ""
   },
@@ -7815,9 +7547,7 @@
    "start": "2026-11-21T14:10:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7849,9 +7579,7 @@
    "start": "2026-11-21T14:45:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7859,7 +7587,9 @@
    "start": "2026-11-21T15:00:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [],
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -8069,9 +7799,7 @@
    "start": "2026-11-21T17:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8095,9 +7823,7 @@
    "start": "2026-11-21T17:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8153,9 +7879,7 @@
    "start": "2026-11-21T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8223,9 +7947,7 @@
    "start": "2026-11-21T18:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8421,9 +8143,7 @@
    "start": "2026-11-21T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8491,9 +8211,7 @@
    "start": "2026-11-21T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8501,9 +8219,7 @@
    "start": "2026-11-21T20:35:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8511,9 +8227,7 @@
    "start": "2026-11-21T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8521,9 +8235,7 @@
    "start": "2026-11-21T20:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -8565,7 +8277,9 @@
    "start": "2026-11-22T11:00:00+01:00",
    "cinema": "CineCenter",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -8647,9 +8361,7 @@
    "start": "2026-11-22T12:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8809,9 +8521,7 @@
    "start": "2026-11-22T15:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9053,9 +8763,7 @@
    "start": "2026-11-22T17:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -9071,9 +8779,7 @@
    "start": "2026-11-22T17:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9121,9 +8827,7 @@
    "start": "2026-11-22T17:45:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9191,9 +8895,7 @@
    "start": "2026-11-22T18:15:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9225,9 +8927,7 @@
    "start": "2026-11-22T19:00:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -9391,9 +9091,7 @@
    "start": "2026-11-22T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9425,9 +9123,7 @@
    "start": "2026-11-22T20:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9463,9 +9159,7 @@
    "start": "2026-11-22T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9473,9 +9167,7 @@
    "start": "2026-11-22T21:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9533,9 +9225,7 @@
    "start": "2026-11-23T15:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9623,9 +9313,7 @@
    "start": "2026-11-23T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9657,9 +9345,7 @@
    "start": "2026-11-23T17:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9731,9 +9417,7 @@
    "start": "2026-11-23T17:45:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9741,9 +9425,7 @@
    "start": "2026-11-23T17:45:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -9759,9 +9441,7 @@
    "start": "2026-11-23T18:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9959,9 +9639,7 @@
    "start": "2026-11-23T20:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9985,9 +9663,7 @@
    "start": "2026-11-23T20:15:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10037,9 +9713,7 @@
    "start": "2026-11-23T20:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10063,9 +9737,7 @@
    "start": "2026-11-23T20:35:00+01:00",
    "cinema": "CineCenter",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10073,9 +9745,7 @@
    "start": "2026-11-23T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10109,9 +9779,7 @@
    "start": "2026-11-24T11:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10265,9 +9933,7 @@
    "start": "2026-11-24T17:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10347,9 +10013,7 @@
    "start": "2026-11-24T17:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10383,9 +10047,7 @@
    "start": "2026-11-24T17:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10409,9 +10071,7 @@
    "start": "2026-11-24T18:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10659,9 +10319,7 @@
    "start": "2026-11-24T20:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10669,9 +10327,7 @@
    "start": "2026-11-24T20:30:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10679,9 +10335,7 @@
    "start": "2026-11-24T20:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10697,9 +10351,7 @@
    "start": "2026-11-24T20:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10715,9 +10367,7 @@
    "start": "2026-11-24T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10841,9 +10491,7 @@
    "start": "2026-11-25T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10893,9 +10541,7 @@
    "start": "2026-11-25T17:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10911,9 +10557,7 @@
    "start": "2026-11-25T17:15:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -10985,9 +10629,7 @@
    "start": "2026-11-25T18:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11232,9 +10874,7 @@
    "start": "2026-11-25T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11276,9 +10916,7 @@
    "start": "2026-11-25T20:30:00+01:00",
    "cinema": "Haydn Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
   },
   {
@@ -11296,9 +10934,7 @@
    "start": "2026-11-25T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11314,9 +10950,7 @@
    "start": "2026-11-25T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11568,9 +11202,7 @@
    "start": "2026-11-26T17:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11654,9 +11286,7 @@
    "start": "2026-11-26T18:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11806,9 +11436,7 @@
    "start": "2026-11-26T20:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11816,9 +11444,7 @@
    "start": "2026-11-26T20:15:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11850,9 +11476,7 @@
    "start": "2026-11-26T20:30:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11870,9 +11494,7 @@
    "start": "2026-11-26T20:45:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OV",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12010,9 +11632,7 @@
    "start": "2026-11-27T19:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12670,6 +12290,14 @@
    "booking": ""
   },
   {
+   "film": "was-ist-film-programm-22",
+   "start": "2026-12-01T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "ternitz-tennessee",
    "start": "2026-12-01T18:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -12744,6 +12372,14 @@
    "booking": ""
   },
   {
+   "film": "was-ist-film-programm-23",
+   "start": "2026-12-01T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "point-break",
    "start": "2026-12-01T20:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -12768,9 +12404,7 @@
    "start": "2026-12-02T10:00:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12786,6 +12420,14 @@
    "start": "2026-12-02T17:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "a-normal-daughter-the-life-and-times-of-kewpie-of-district-six-stories-of-our-lives",
+   "start": "2026-12-02T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
    "tags": [],
    "booking": ""
   },
@@ -12852,6 +12494,14 @@
    "booking": ""
   },
   {
+   "film": "kurzfilmprogramm-filme-von-shane-vermooten-palesa-nomanzi-shongwe-tsepiso-mahase-athi-patra-ruga-retang-sebeka",
+   "start": "2026-12-02T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "bohemian-rhapsody",
    "start": "2026-12-02T20:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -12888,6 +12538,14 @@
    "booking": ""
   },
   {
+   "film": "everytime",
+   "start": "2026-12-03T17:30:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-grinch",
    "start": "2026-12-03T18:00:00+01:00",
    "cinema": "Admiral Kino",
@@ -12895,6 +12553,14 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "valley-of-a-thousand-hills",
+   "start": "2026-12-03T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -12968,6 +12634,14 @@
    "booking": ""
   },
   {
+   "film": "while-you-werent-looking",
+   "start": "2026-12-03T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "mit-einem-tiger-schlafen",
    "start": "2026-12-03T20:30:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -13020,6 +12694,16 @@
    "booking": ""
   },
   {
+   "film": "sweetie",
+   "start": "2026-12-04T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "you-can-see-everything",
    "start": "2026-12-04T20:00:00+01:00",
    "cinema": "Burg Kino",
@@ -13036,11 +12720,29 @@
    "booking": ""
   },
   {
+   "film": "an-angel-at-my-table",
+   "start": "2026-12-04T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "auf-der-suche-nach-der-weihnachtswerkstatt",
    "start": "2026-12-05T14:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-piano",
+   "start": "2026-12-05T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13057,6 +12759,16 @@
    "cinema": "Filmcasino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "holy-smoke",
+   "start": "2026-12-05T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13110,6 +12822,14 @@
    "booking": ""
   },
   {
+   "film": "das-cabinet-des-dr-caligari-dt-fassung-stummfilm-mit-live-musik",
+   "start": "2026-12-06T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-12-06T18:00:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -13123,6 +12843,24 @@
    "cinema": "Filmcasino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "bright-star",
+   "start": "2026-12-06T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-ice-storm",
+   "start": "2026-12-07T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13149,6 +12887,24 @@
    "cinema": "Filmhaus",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "chungking-express",
+   "start": "2026-12-07T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-24",
+   "start": "2026-12-08T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13194,6 +12950,16 @@
    "booking": ""
   },
   {
+   "film": "before-sunrise",
+   "start": "2026-12-09T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "chronicle",
    "start": "2026-12-09T20:00:00+01:00",
    "cinema": "Admiral Kino",
@@ -13217,6 +12983,26 @@
    "cinema": "Burg Kino",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alien",
+   "start": "2026-12-09T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "de-eso-no-se-habla-i-dont-want-to-talk-about-it",
+   "start": "2026-12-10T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13252,11 +13038,29 @@
    "booking": ""
   },
   {
+   "film": "die-nacht-singt-ihre-lieder",
+   "start": "2026-12-10T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "mission-maeusejagd-chaos-unterm-weihnachtsbaum",
    "start": "2026-12-11T15:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "momentos-moments",
+   "start": "2026-12-11T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13268,18 +13072,10 @@
    "booking": ""
   },
   {
-   "film": "lieblingsmenschen",
-   "start": "2026-12-12T12:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "histoires-paralleles-parallele-leben",
-   "start": "2026-12-12T12:15:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
+   "film": "nachtschichten",
+   "start": "2026-12-11T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
    "tags": [],
    "booking": ""
   },
@@ -13295,6 +13091,16 @@
    "film": "kikis-kleiner-lieferservice",
    "start": "2026-12-12T14:00:00+01:00",
    "cinema": "Filmhaus",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "senora-de-nadie-ich-gehoere-niemand",
+   "start": "2026-12-12T18:00:00+01:00",
+   "cinema": "Filmmuseum",
    "lang": "OmeU",
    "tags": [
     "Retrospektive"
@@ -13318,6 +13124,14 @@
    "booking": ""
   },
   {
+   "film": "phaidros",
+   "start": "2026-12-12T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "kino-fuer-die-kleinsten-oh-was-hast-du-denn-entdeckt",
    "start": "2026-12-13T11:00:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -13326,10 +13140,34 @@
    "booking": ""
   },
   {
+   "film": "lieblingsmenschen",
+   "start": "2026-12-13T12:00:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "histoires-paralleles-parallele-leben",
+   "start": "2026-12-13T12:15:00+01:00",
+   "cinema": "Votiv Kino",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "no-good-men",
    "start": "2026-12-13T12:30:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "kino-fuer-die-kleinsten-sonne-mond-und-sterne",
+   "start": "2026-12-13T14:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -13352,9 +13190,37 @@
    "booking": ""
   },
   {
+   "film": "camila-das-maedchen-und-der-priester",
+   "start": "2026-12-13T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "female-trouble",
    "start": "2026-12-13T20:30:00+01:00",
    "cinema": "Filmhaus",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "toute-une-nuit",
+   "start": "2026-12-13T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "das-cabinet-des-dr-caligari-dt-fassung-stummfilm-mit-live-musik",
+   "start": "2026-12-14T18:00:00+01:00",
+   "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -13384,6 +13250,24 @@
    "booking": ""
   },
   {
+   "film": "miss-mary-die-leidenschaft-der-miss-mary",
+   "start": "2026-12-14T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-25",
+   "start": "2026-12-15T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "buoni-a-nulla",
    "start": "2026-12-15T18:30:00+01:00",
    "cinema": "Votiv Kino",
@@ -13395,6 +13279,14 @@
    "film": "dune-part-three",
    "start": "2026-12-15T19:00:00+01:00",
    "cinema": "Burg Kino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-26",
+   "start": "2026-12-15T20:30:00+01:00",
+   "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -13424,6 +13316,26 @@
    "booking": ""
   },
   {
+   "film": "yo-la-peor-de-todas-ich-die-unwuerdigste-von-allen",
+   "start": "2026-12-16T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "momentos-moments",
+   "start": "2026-12-17T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "the-rocky-horror-picture-show-3",
    "start": "2026-12-17T19:30:00+01:00",
    "cinema": "Admiral Kino",
@@ -13439,6 +13351,16 @@
    "cinema": "Burg Kino",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "senora-de-nadie-ich-gehoere-niemand",
+   "start": "2026-12-17T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13458,6 +13380,16 @@
    "booking": ""
   },
   {
+   "film": "camila-das-maedchen-und-der-priester",
+   "start": "2026-12-18T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "the-holdovers-nicht-universal",
    "start": "2026-12-18T19:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -13466,11 +13398,41 @@
    "booking": ""
   },
   {
+   "film": "miss-mary-die-leidenschaft-der-miss-mary",
+   "start": "2026-12-18T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "auf-der-suche-nach-der-weihnachtswerkstatt",
    "start": "2026-12-19T14:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "DF",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "alien",
+   "start": "2026-12-19T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "after-hours",
+   "start": "2026-12-19T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13498,6 +13460,34 @@
    "booking": ""
   },
   {
+   "film": "yo-la-peor-de-todas-ich-die-unwuerdigste-von-allen",
+   "start": "2026-12-20T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "de-eso-no-se-habla-i-dont-want-to-talk-about-it",
+   "start": "2026-12-20T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "bright-star",
+   "start": "2026-12-21T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "the-rocky-horror-picture-show-3",
    "start": "2026-12-21T20:30:00+01:00",
    "cinema": "Filmcasino",
@@ -13505,6 +13495,52 @@
    "tags": [
     "Retrospektive"
    ],
+   "booking": ""
+  },
+  {
+   "film": "%e2%98%85",
+   "start": "2026-12-21T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-27",
+   "start": "2026-12-22T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-28",
+   "start": "2026-12-22T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "near-dark",
+   "start": "2026-12-23T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "chungking-express",
+   "start": "2026-12-23T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [],
    "booking": ""
   },
   {
@@ -13537,6 +13573,16 @@
    "cinema": "Filmcasino",
    "lang": "OmeU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-wizard-of-oz",
+   "start": "2026-12-24T14:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13574,6 +13620,24 @@
    "booking": ""
   },
   {
+   "film": "horse-feathers",
+   "start": "2026-12-26T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "duck-soup",
+   "start": "2026-12-26T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "trainspotting-4k-restauration",
    "start": "2026-12-26T22:00:00+01:00",
    "cinema": "Filmcasino",
@@ -13600,6 +13664,26 @@
    "booking": ""
   },
   {
+   "film": "a-night-at-the-opera",
+   "start": "2026-12-27T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-ice-storm",
+   "start": "2026-12-27T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "charlie-und-die-schokoladenfabrik",
    "start": "2026-12-28T15:00:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -13613,6 +13697,24 @@
    "cinema": "Votiv Kino",
    "lang": "DF",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "monkey-business",
+   "start": "2026-12-28T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "before-sunrise",
+   "start": "2026-12-28T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -13634,6 +13736,26 @@
    "booking": ""
   },
   {
+   "film": "animal-crackers",
+   "start": "2026-12-29T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "after-hours",
+   "start": "2026-12-29T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "der-zauberer-von-oz",
    "start": "2026-12-30T15:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -13642,9 +13764,27 @@
    "booking": ""
   },
   {
+   "film": "a-night-in-casablanca",
+   "start": "2026-12-30T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "classic-sneak",
    "start": "2026-12-30T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "phaidros",
+   "start": "2026-12-30T20:30:00+01:00",
+   "cinema": "Filmmuseum",
    "lang": "OV",
    "tags": [],
    "booking": ""
@@ -13684,10 +13824,50 @@
    "booking": ""
   },
   {
+   "film": "near-dark",
+   "start": "2027-01-01T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "the-piano",
+   "start": "2027-01-01T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "ronja-raeubertochter",
    "start": "2027-01-02T15:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "DF",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "toute-une-nuit",
+   "start": "2027-01-02T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "sweetie",
+   "start": "2027-01-02T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
    "tags": [
     "Retrospektive"
    ],
@@ -13702,6 +13882,24 @@
    "booking": ""
   },
   {
+   "film": "die-nacht-singt-ihre-lieder",
+   "start": "2027-01-03T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "sweetie",
+   "start": "2027-01-03T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "das-kleine-gespenst",
    "start": "2027-01-04T15:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -13710,10 +13908,44 @@
    "booking": ""
   },
   {
+   "film": "holy-smoke",
+   "start": "2027-01-04T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "nachtschichten",
+   "start": "2027-01-04T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "der-zauberer-von-oz",
    "start": "2027-01-05T15:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-29",
+   "start": "2027-01-05T18:00:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "was-ist-film-programm-30",
+   "start": "2027-01-05T20:30:00+01:00",
+   "cinema": "Filmmuseum",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
