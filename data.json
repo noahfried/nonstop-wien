@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:16+01:00",
+ "updated": "2026-11-26T13:57+01:00",
  "source": "https://nonstopkino.at/programm/",
  "films": [
   {
@@ -27,6 +27,25 @@
    "spoken": "Deutsch",
    "synopsis": "Im Sommer 1976 lief der allererste Kottan-Film „Hartlgasse 16a“ im österreichischen Fernsehen. Diesem Jubiläum widmen die Breitenseer Lichtspiele, gemeinsam mit Helmuth M. Wolf („Wiener Drehorte“), einen besonderen Abend: Wir zeigen „Hartlgasse 16a“, die bis heute unübertroffene Milieustudie eines Zinshauses im Wien der 70er Jahre (Regie: Peter Patzak / Buch: Helmut Zenker) und im Anschluss daran, den Wiener Drehorte-Kurzfilm „Mord in der Hartlgasse / 50 Jahre danach“. Und weil Georg Danzer heuer 80 Jahre alt geworden wäre, wird seine Platte aufgelegt: 1975 erschien das legendäre Danzer-Album „Ollas leiwaund“, das den ersten beiden Kottan-Filmen den perfekten Soundtrack bot.",
    "score": null
+  },
+  {
+   "slug": "80-angry-journalists",
+   "title": "80 Angry Journalists",
+   "url": "https://nonstopkino.at/movies/80-angry-journalists/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/f79ce4d2-31fb-4b68-8f72-514b17259506.jpeg?fit=max&w=120",
+   "director": "András Földes, Anna Kis",
+   "cast": "",
+   "year": 2026,
+   "runtime": 94,
+   "spoken": "Ungarisch, Englisch",
+   "synopsis": "Nach dem Massenrücktritt von mehr als 80 Journalist:innen, die 2020 geschlossen die Redaktion von Index.hu, dem größten Nachrichtenportal in Orbáns Ungarn verlassen, geht eine Erschütterung durch die ungarische Medienlandschaft. Was passiert nach dem Zerfall eines der wichtigsten Newsrooms Ungarns? Der Kriegsreporter András Földes hält mit der Kamera fest wie die Redaktion erst auseinanderbricht, um dann einen Neuanfang zu wagen. Gemeinsam wird Telex.hu gegründet, ein Medium, das mit Idealismus und dem Versuch, journalistische Integrität zu bewahren durchstarten soll. Doch politischer Druck und interne Spannungen erschweren den Aufbau des engagierten widerständigen Projekts. Letztlich geht es um die Frage was Pressefreiheit eigentlich bedeutet.",
+   "imdb": "tt39537448",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "a-blaxploitation-christmas",
@@ -186,6 +205,25 @@
    "score": 6
   },
   {
+   "slug": "a-song-without-home",
+   "title": "A Song Without Home",
+   "url": "https://nonstopkino.at/movies/a-song-without-home/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/ebf0b07b-8907-4d87-98b2-d5a94edd20df.jpeg?fit=max&w=120",
+   "director": "Rati Tsiteladze",
+   "cast": "",
+   "year": 2026,
+   "runtime": 75,
+   "spoken": "Georgisch, Deutsch, Englisch",
+   "synopsis": "\"Mein Leben ist ein Gefängnis“, sagt Adelina. Elf Jahre verbringt die junge Transfrau im Hausarrest bei ihren Eltern in einem georgischen Dorf, wo ihre Identität nicht anerkannt wird. Schließlich wagt sie den Aufbruch nach Wien, in der Hoffnung, ein freies Leben führen zu können. Doch neben neuen Möglichkeiten erwarten sie finanzielle und gesundheitliche Probleme, sprachliche Hürden und Einsamkeit. Auch die Vergangenheit und die schwierige Beziehung zu ihrer Mutter lassen sie nicht los. A Song Without Home ist ein intimes, impressionistisch erzähltes Langzeit-Porträt einer Person, die sich selbst entwerfen möchte und an einer unerschütterlichen Überzeugung festhält: „Kein Gesetz kann auslöschen, wer wir sind.\"",
+   "imdb": "tt35625318",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "abschied-von-gestern",
    "title": "Abschied von gestern",
    "url": "https://nonstopkino.at/movies/abschied-von-gestern/",
@@ -225,6 +263,27 @@
    ],
    "favorite": true,
    "score": 88
+  },
+  {
+   "slug": "agridulce-bittersweet",
+   "title": "Agridulce (Bittersweet)",
+   "url": "https://nonstopkino.at/movies/agridulce-bittersweet/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/4346571b-2567-4008-8e2f-c2ad3ddc33aa.jpeg?fit=max&w=120",
+   "director": "Frank Pavich",
+   "cast": "",
+   "year": 2026,
+   "runtime": 98,
+   "spoken": "Spanisch",
+   "synopsis": "In der dominikanischen Stadt Cabarete ist Bachata eine Lebensart – weit entfernt von den Nachtclubs, in denen der Tanz heute weltweit gefeiert wird. Über einen Zeitraum von mehr als fünf Jahren begleitet Regisseur Frank Pavich („Jodorowskys Dune“) eine Gruppe junger Musiker beim Erwachsenwerden und zeigt hautnah, wie die Musik sie auf ihrem Weg zur Selbstfindung prägt und begleitet. Unterstützt werden sie von Mártires de León, dem Gitarristen von Romeo Santos und Lehrer an der „Academia de Bachata“ – der weltweit einzigen Schule, die sich ganz einer Musikrichtung widmet, die zu einem der wichtigsten kulturellen Exportgüter der Dominikanischen Republik geworden ist. Zwischen den Generationen entstehen Spannungen, während die Jugendlichen versuchen, das Erbe der Vergangenheit mit dem Leben in Einklang zu bringen, das sie sich für die Zukunft aufbauen wollen.",
+   "imdb": "tt38940030",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary",
+    "Drama",
+    "Music"
+   ],
+   "score": 1
   },
   {
    "slug": "alice-im-wunderland",
@@ -299,6 +358,27 @@
     "Drama"
    ],
    "score": 0
+  },
+  {
+   "slug": "amy-und-die-wildgaense",
+   "title": "Amy und die Wildgänse",
+   "url": "https://nonstopkino.at/movies/amy-und-die-wildgaense/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/37ae5166-b2c7-49c2-8dd2-26cc6ea8884f.jpeg?fit=max&w=120",
+   "director": "Carroll Ballard",
+   "cast": "",
+   "year": 1997,
+   "runtime": 107,
+   "spoken": "Englisch",
+   "synopsis": "Amy, aufgewachsen in Neuseeland, zieht nach dem Tod der Mutter zu ihrem Vater ins kalte Kanada. Das gemeinsame Leben gestaltet sich schwierig, erst als das Mädchen ein Nest mit verwaisten Wildgänsen findet, gewinnt es seine Freude am Leben zurück. Ganz schönes Jugendabenteuer (nach einer wahren Geschichte). Pias Lieblingsfilm: Magisch dieses Eier-Ausbrüten in Amy‘s Kinderzimmer-Schublade. Purer Nervenkitzel (wann schlüpfen sie endlich?!) und ein absoluter Wunschtraum dieses Szenario! 16 klitzekleine, flauschige, piepsende Küken zuerst zu retten, nonstop kuscheln zu können und aufzuziehen war als Vorstellung für mich echt kaum zu toppen. Mein Spitzname daheim war passenderweise Piepsi.",
+   "imdb": "tt0116329",
+   "rating": 6.9,
+   "votes": 29294,
+   "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "score": 18
   },
   {
    "slug": "an-angel-at-my-table",
@@ -476,19 +556,6 @@
    "score": 12
   },
   {
-   "slug": "baaf-2026-auftragsarbeiten",
-   "title": "BAAF 2026: Auftragsarbeiten",
-   "url": "https://nonstopkino.at/movies/baaf-2026-auftragsarbeiten/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/cdc3db25-09e0-4f47-9a83-55bc34bc2927.png?fit=max&w=120",
-   "director": "div.",
-   "cast": "",
-   "year": 2026,
-   "runtime": 90,
-   "spoken": "",
-   "synopsis": "Alle Infos zum Programm findest du auf baaf.at Mix 1 „Best of Animation – Angewandte“ | Leo Roithner | 03:04 | 2026 „Listen to each Oida“ | Markus Wagner | 00:32 | 2025 „Das Mikrobiom“ | Leopold Maurer | 05:41 | 2026 „Summit“ | Arthur Gutmann, Louis Michot | 01:02 | 2026 „Fuchsfarben“| Annika Ruske, Nadine Hilbert | 04:39 | 2026 „KNAPP shop your elephant“ | Unter freiem Himmel | 01:33 | 2026 „Explore. Fail. Repeat – PIXEL 18“ | Andreas Niedermayer, Gregor Lechner, Maria Kondratieva | 01:46 | 2025 Mix 2 „Frame für Frame“ | Maresch & Sturm, Studio Wesen | 00:17 | 2025 „Sheep – Höhlenmalerei“ | Alexander Gratzer, Alex Reinberg & Leni Gruber | 02:18 | 2026 „Die Heilige Schar – Schwule Krieger der Antike“| Effie Pappa, Benjamin Swiczinsky | 03:40 | 2025 „Ars Erotica – Die Kunst der Enthüllung“ | Patrick Catuz, Sarah Braid, Kristina „Chai“ Haidinger, Verena Schrattenecker | 07:29 | 2025 „Verliebt in eine Heldin“ | bounty.studio | 00:21 | 2026 „Gartenbaukino // Öst. Umweltzeichen“ | Tim Knoche | 00:48 | 2026 „SLASH Filmfestival Trailer 2026“ | Klara Rabl | 01:38 | 2026 Mix 3 „Neulich in LE“ | Muzak & Riha | 08:10 | 2026 „WSE sportliche Weihnachten 2025“ | Barbara Nedved | 00:39 | 2025 „Statistik Austria Mikrozensus“ | Studio Citron – Barbara Mitterer | 01:47 | 2025 „Loxone Wireless Speaker Launch Animation“ | Rainer Rossgoderer | 00:28 | 2026 „CUP – Finetime 2026“ | Benno Hanke, Paul Lechmann | 00:21 | 2026 „Tierwohl – Fred Maulowitz berichtet“ | Maria Otter | 00:39 | 2026 „Kunstraum Innsbruck: Fishing“ | Oscar Zickler | 00:29 | 2026 „Kunstraum Innsbruck: Breakfast“ | Oscar Zickler | 00:40 | 2026 „Lebensgefühl in Austria: Grow your Austrian Synapse!“ | Pia Graf, Sascha Vernik, Sebastian Freudenschuss, Roland Schafek | 01:44 | 2025",
-   "score": null
-  },
-  {
    "slug": "baaf-2026-wettbewerb-musikvideos",
    "title": "BAAF 2026: Wettbewerb: Musikvideos",
    "url": "https://nonstopkino.at/movies/baaf-2026-wettbewerb-musikvideos/",
@@ -502,19 +569,6 @@
    "score": null
   },
   {
-   "slug": "baaf-2026-wettbewerb-studentische-arbeiten-1",
-   "title": "BAAF 2026: Wettbewerb: Studentische Arbeiten 1",
-   "url": "https://nonstopkino.at/movies/baaf-2026-wettbewerb-studentische-arbeiten-1/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/9448c87a-37e4-4b7e-b35e-bbc1b6998cbb.png?fit=max&w=120",
-   "director": "div.",
-   "cast": "",
-   "year": 2026,
-   "runtime": 90,
-   "spoken": "",
-   "synopsis": "Alle Infos zum Programm findest du auf baaf.at Schlafwandeln“ | Magda Zinner | 00:53 | 2026 | Die Graphische – Multimedia „The Snailing“ | Lukas Kiesewetter | 01:58 | 2026 | FH Salzburg – MultiMediaArt „Esco – Out of Time“ | Franziska Bischof, Marianne Fuchs, Joachim Hagen, Andreas Knabel, Pia Krimmel, Elena Mitrovic, Julia Mrskos, Timon Steiner | 05:03 | 2026 | USTP St. Pölten „Curiosity Killed The Cat“ | Mikhail Maznikov | 05:10 | 2025 | HTL Spengergasse „There Is No Light Without Darkness“ | Sandra Ye, Sarah Lindinger, Anna Ludwig, Philipp Wenisch, Renee Kerschbaumer, Thuy Duong Nguyen | 01:24 | 2020 | FH OÖ Wels – Digital Arts „Mara“ | Martin Aichberger, Katharina Bauer, Selina Türk, Zulfia Abdulaziyeva, Emily Roth | 03:36 | 2026 | FH Salzburg – MultiMediaArt „Motte“| Leonard Kofler | 02:12 | 2026 | Die Graphische – Multimedia „The Morgue“ | Vanessa Akalovic | 02:51 | 2026 | FH Salzburg – MultiMediaArt „Right on your Tail“ | Moses Varga | 01:39 | 2026 | USTP St. Pölten „Atrophy“ | Gregor Jakob, Lena Schibany | 00:48 | 2026 | FH Salzburg – MultiMediaArt „Beans“ | Thorin Neuberger, Ferdinand Saiko | 05:07 | 2026 | HTL Spengergasse „Echo Chamber“ | Celine Kovacs, Amelie Henninger, Marlene Waldner | 03:38 | 2026 | HTL Spengergasse „Upstaged“ | Anastasiia Pashutina, Elijah Bretbacher, Michael Radl | 02:18 | 2026 | FH Salzburg – MultiMediaArt „Fensterfilm“ | Antonia Weissenbacher, Jana Kalauszek, Mia Sinzinger, Matheo Oberholzner | 02:21 | 2026 | Kunstschule Wien „Myopia“ | Delia Sandholzer, Hana Stein, Johanna Winter, Benedikt Karl | 01:27 | 2026 | FH Salzburg – MultiMediaArt „Meerschweinchen“ | Eva Lenk & Lucas Jankoschek | 01:34 | 2026 | HTL Spengergasse „How to abolish the audience“ | Mimi Schmidl | 03:42 | 2025 | Angewandte „Minigolf server“ | Oscar Zickler | 05:03 | 2026 | Angewandte – Digitale Kunst „Wo Niemand Fragt“ | Mia Sečen | 07:50 | 2026 | FH Salzburg – MultiMediaArt",
-   "score": null
-  },
-  {
    "slug": "baaf-2026-wettbewerb-studentische-arbeiten-2",
    "title": "BAAF 2026: Wettbewerb: Studentische Arbeiten 2",
    "url": "https://nonstopkino.at/movies/baaf-2026-wettbewerb-studentische-arbeiten-2/",
@@ -525,19 +579,6 @@
    "runtime": 90,
    "spoken": "",
    "synopsis": "Alle Infos zum Programm findest du auf baaf.at „Everyday entanglement“ | Meta Kuzmany | 04:28 | 2026 | Angewandte – Malerei und Animationsfilm „I know it.“ | Lea Obermair | 02:26 | 2026 | FH OÖ Campus Hagenberg – Digital Arts „Lucerna“ | Judith Maria Veis, Fiona Gruber | 03:58 | 2026 | HTL Spengergasse „ANTRISCH Ice Heart“ | Noah Keim | 04:04 | 2026 | FH Salzburg – MultiMediaArt „Wound up“ | Marie Peiskammer, Christ Tian Burg, Lena Fischbacher, Carina Vollenbröker, Mario Milicevic | 02:18 | 2026 | FH Salzburg – MultiMediaArt „Coming of Age Online“ | Flora Nimue Hollinetz, Lea Pauer, Lilli Vogl | 03:01 | 2026 | FH OÖ Campus Hagenberg – Digital Arts „Nachtmahr“ | Luis Lackner, Leonie Obermann, Emily Zach, Lilian Eath | 05:06 | 2026 | HTL Spengergasse „Keep Your Deus Ex Machina“ | Leonard Spelbrink, Aurelian Lenger, Sara Macho | 02:25 | 2026 | HTL Spengergasse „Hush“ | Krista Waldner, Fanny Nurschinger, Kiara Paßecker, Larissa Obert, Jack Schmied |02:26 | 2026 | HTL Spengergasse „Washed out“ | Hannes Oberparleiter | 11:59 | 2026 | Angewandte – Malerei und Animationsfilm „Grump N Roll“ | Alex Ferstl | 02:20 | 2026 | FH OÖ Campus Hagenberg – Digital Arts „A Few Grapefruits a Day“ | Sarah Braid | 05:49 | 2026 | Angewandte – Malerei und Animationsfilm „Soft Targets“ | Rosemarie Haider | 01:26 | 2026 | FH Salzburg – MultiMediaArt „S P I N E S“ | Alexandra Gašparovičová, Sebastian Konzett | 02:43 | 2026 | Angewandte – Experimental Game Cultures „ICH BIN das FLEISCH“ | Kieren Tockner | 06:00 | 2026 | Bildende",
-   "score": null
-  },
-  {
-   "slug": "baaf-2026-wettbewerb-unabhaengige-arbeiten-1",
-   "title": "BAAF 2026: Wettbewerb: Unabhängige Arbeiten 1",
-   "url": "https://nonstopkino.at/movies/baaf-2026-wettbewerb-unabhaengige-arbeiten-1/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/cd31f397-a166-4306-9f19-ace1836e98c0.jpg?fit=max&w=120",
-   "director": "div.",
-   "cast": "",
-   "year": 2026,
-   "runtime": 90,
-   "spoken": "",
-   "synopsis": "Alle Infos zum Programm findest du auf baaf.at „Dominium Terrae“ | Wilhelm Scherübl | 07:18 | 2026 „Alpine Threnody“ | Patrick Schabus | 05:03 | 2026 „The Command of Origin“ | Hong Chen | 06:34 | 2025 „Unfinished decay“ | Juergen Hagler, Celine Pham | 04:49 | 2026 „Das Pool Paradoxon“ | Dominik Hruza | 11:14 | 2026 „The Valley where LOAB lives“ | Georg Tiller | 21:11 | 2026",
    "score": null
   },
   {
@@ -599,26 +640,6 @@
    "score": null
   },
   {
-   "slug": "beau-travail",
-   "title": "Beau Travail",
-   "url": "https://nonstopkino.at/movies/beau-travail/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/cf4208cf-c15a-41cc-8a8c-5030be6483ed.jpg?fit=max&w=120",
-   "director": "Claire Denis",
-   "cast": "Denis Lavant, Michel Subor, Grégoire Colin, Richard Courcet u.a.",
-   "year": 1999,
-   "runtime": 92,
-   "spoken": "",
-   "synopsis": "Der Offizier der Fremdenlegion Galoup erinnert sich an sein einst glorreiches Leben als Truppenausbilder im Golf von Dschibuti. Sein Leben dort war glücklich, streng und reglementiert, bis die Ankunft eines vielversprechenden jungen Rekruten, Sentain, die Saat der Eifersucht in Galoups Geist sät.",
-   "imdb": "tt0209933",
-   "rating": 7.3,
-   "votes": 18967,
-   "genres": [
-    "Drama",
-    "War"
-   ],
-   "score": 26
-  },
-  {
    "slug": "before-sunrise",
    "title": "Before Sunrise",
    "url": "https://nonstopkino.at/movies/before-sunrise/",
@@ -638,6 +659,25 @@
     "Romance"
    ],
    "score": 78
+  },
+  {
+   "slug": "beginning-while-ending-a-life-like-most-others",
+   "title": "Beginning While Ending: A Life Like Most Others",
+   "url": "https://nonstopkino.at/movies/beginning-while-ending-a-life-like-most-others/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/7b1b2d0c-12d7-4726-b3d0-92ce6354b0e7.jpeg?fit=max&w=120",
+   "director": "Dain Percifield",
+   "cast": "",
+   "year": 2026,
+   "runtime": 102,
+   "spoken": "Englisch",
+   "synopsis": "Was machst du mit deinem einzigen wilden und kostbaren Leben? Dieser inspirierende, Dokumentarfilm begleitet einen temperamentvollen, nicht-binären Achtzigjährigen und dessen selbst gewählte LGBTQ+-Familie dabei, wie sie mit Humor, Widerstandskraft und Zielstrebigkeit den Alterungsprozess meistern. Eine herzliche Hommage an die Liebe, die Identität und den Mut, in jeder Lebensphase Freude, Heilung und Hoffnung zu finden. Das universelle Streben nach Zweck, die Forderung nach sozialer Gerechtigkeit und die Umwandlung von Traumata in Stärke treiben die Motive des Films an, wenn sie die Kraft der Suche nach Freiheit und Frieden in jedem Alter offenbaren.",
+   "imdb": "tt38126926",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "behemoth",
@@ -1063,17 +1103,25 @@
    "score": null
   },
   {
-   "slug": "charlie-und-die-schokoladenfabrik",
-   "title": "Charlie und die Schokoladenfabrik (1971)",
-   "url": "https://nonstopkino.at/movies/charlie-und-die-schokoladenfabrik/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/d42a482f-2433-4e23-95f7-3621a8940a2b.jpg?fit=max&w=120",
-   "director": "Mel Stuart",
-   "cast": "Gene Wilder, Peter Ostrum, Jack Albertson, Diana Sowle, Roy Kinnear",
-   "year": 1971,
-   "runtime": 100,
-   "spoken": "",
-   "synopsis": "In dieser ersten Verfilmung der berühmten literarischen Vorlage von Roald Dahl spielt Gene Wilder den Schokoladenfabrikanten Willy Wonka, der über ein Gewinnspiel fünf Kindern aus aller Welt die Möglichkeit gibt, seine mysteriöse und sagenumwobene Fabrik zu besichtigen. Die steckt nämlich voller Zauber und Wunder, süßer Geheimnisse und emsiger Umpah Lumpahs. Neben dem herzensguten aber bettelarmen Blondschopf Charlie haben vier sehr unterschiedliche und nicht nur angenehme und sympathische Kinder das große Los gezogen. Was sie alle nicht wissen: In seiner bunten Schokoladenwelt will Wonka den Charakter der Kinder testen und setzt sie jeder Menge unwiderstehlicher süßer Verführungen aus. Nur ein Kind soll den großen, überraschenden Preis am Ende gewinnen…",
-   "score": null
+   "slug": "charlie-und-die-schokoladenfabrik-3",
+   "title": "Charlie und die Schokoladenfabrik",
+   "url": "https://nonstopkino.at/movies/charlie-und-die-schokoladenfabrik-3/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8b3a1d66-8d9e-4259-a169-8135251d8d63.jpeg?fit=max&w=120",
+   "director": "Tim Burton",
+   "cast": "Johnny Depp, Freddie Highmore, David Kelly, Helena Bonham Carter:",
+   "year": 2005,
+   "runtime": 115,
+   "spoken": "Englisch",
+   "synopsis": "Charlie gewinnt eines der begehrten goldenen Tickets und darf zusammen mit vier anderen Kindern die geheimnisvolle Schokoladenfabrik des exzentrischen Willy Wonka besuchen. Während der Führung geraten die anderen Kinder durch ihr Verhalten in skurrile, aber lehrreiche Schwierigkeiten, sodass am Ende nur Charlie übrig bleibt. Schließlich wählt Wonka ihn zu seinem Nachfolger, und Charlie hilft ihm, wieder den Wert von Familie zu erkennen. Marcos Lieblingsfilm: Ich kann mich noch gut daran erinnern, als ich den Film das erste Mal gesehen habe Es hat sich ein bisschen angefühlt wie ein dystopisches Lazy Town. Die grundsätzliche Idee, dass Schokolade damals auf eine derarte Weise hergestellt wird, war für den 5-jährigen Marco gar nicht mal so abwegig, die Erwachsenenwelt war ja ohnehin komisch genug. Aber trotz all der unangenehmen Dinge, die im Laufe des Films passieren, habe ich die DVD verrückterweise dann immer wieder eingelegt, und mittlerweile kann ich den Film auch schon fast ohne in mir aufstoßende Übelkeit ansehen.",
+   "imdb": "tt0367594",
+   "rating": 6.7,
+   "votes": 582570,
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "score": 45
   },
   {
    "slug": "chopin-eine-sonate-in-paris",
@@ -1156,27 +1204,6 @@
     "Romance"
    ],
    "score": 71
-  },
-  {
-   "slug": "clash-by-night",
-   "title": "Clash By Night",
-   "url": "https://nonstopkino.at/movies/clash-by-night/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/4965f3b5-4e8e-4a70-b410-856698a34e78.jpg?fit=max&w=120",
-   "director": "Fritz Lang",
-   "cast": "Barbara Stanwyck, Paul Douglas, Robert Ryan, Marilyn Monroe",
-   "year": 1952,
-   "runtime": 105,
-   "spoken": "Englisch",
-   "synopsis": "Fritz Lang verlegt seine düstere Weltsicht aus den urbanen Schattenräumen des Film noir in einen kleinen Fischerort an der kalifornischen Küste. Dorthin kehrt die vom Leben und ihren Träumen enttäuschte Mae zurück, um bei ihrem jüngeren Bruder zu leben. Der fürchtet nun, dass die aufreizende Peggy, auf die er ein Auge geworfen hat, sich zu viel von Maes Selbstständigkeit abschauen könnte, die indes versucht, häuslich zu werden … Es gibt kein richtiges Leben im falschen – das arbeiten Lang und Hayes aus der sozialkritischen Vorlage gnadenlos heraus. Skandalös war, dass sie einer Frau sympathische Züge verliehen, die sich nicht an die Moralvorstellungen ihrer Zeit hielt. Marilyn Monroe hingegen beein- druckte alle – auch Barbara Stanwyck: »Sie ist der kommende Star!« (Florian Widegger)",
-   "imdb": "tt0044502",
-   "rating": 7.0,
-   "votes": 8523,
-   "genres": [
-    "Drama",
-    "Film-Noir",
-    "Romance"
-   ],
-   "score": 36
   },
   {
    "slug": "classic-sneak",
@@ -1608,6 +1635,25 @@
    "score": 30
   },
   {
+   "slug": "detention",
+   "title": "Detention",
+   "url": "https://nonstopkino.at/movies/detention/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b0256b04-5dc3-4262-bb11-6173ee2dcb56.jpeg?fit=max&w=120",
+   "director": "Guillaume Massart",
+   "cast": "",
+   "year": 2026,
+   "runtime": 132,
+   "spoken": "Französisch",
+   "synopsis": "An der französischen Justizvollzugsakademie werden angehende Gefängnisbeamte auf ihren zukünftigen Berufsalltag vorbereitet. Zwischen theoretischem Unterricht und praktischen Übungen lernen sie, Autorität auszuüben, Krisen zu bewältigen und mit Konflikten umzugehen. Doch je konkreter die Ausbildung wird, desto deutlicher zeigt sich die Kluft zwischen den institutionellen Lehrinhalten und der widersprüchlichen Realität des Strafvollzugs. Ohne jemals ein echtes Gefängnis zu betreten, beobachtet Guillaume Massart den Alltag der Ausbildung und wirft grundlegende Fragen nach Macht, Kontrolle und Gehorsam auf. Ein ebenso faszinierender wie beunruhigender Blick hinter die Kulissen einer staatlichen Institution.",
+   "imdb": "tt42435292",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "detroit",
    "title": "Detroit",
    "url": "https://nonstopkino.at/movies/detroit/",
@@ -1785,6 +1831,27 @@
    "score": 1
   },
   {
+   "slug": "die-muppets-weihnachtsgeschichte",
+   "title": "Die Muppets Weihnachtsgeschichte",
+   "url": "https://nonstopkino.at/movies/die-muppets-weihnachtsgeschichte/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/ed7e0ec8-c6e7-4b12-8f6a-23eda4021f3b.jpeg?fit=max&w=120",
+   "director": "Brian Henson",
+   "cast": "",
+   "year": 1992,
+   "runtime": 82,
+   "spoken": "Englisch",
+   "synopsis": "Die Muppets-Version von Charles Dickens' klassischer Erzählung über den Heiligen Abend, an dem Scrooge Besuch von drei Geistern bekommt, die ihm zusammen mit Bob Cratchit (Kermit der Frosch) Augen und Herz für die wahre Bedeutung von Weihnachten öffnen. Lucas Lieblingsfilm: Als ich ein Kind war gab es bei uns in der Familie die Tradition, viele verschiedene Verfilmungen der Weihnachtsgeschichte von Charles Dickens zu schauen. Jedes Jahr fanden wir neue Verfilmungen, jedoch war meine Lieblingsversion nie eine der zahlreichen Realverfilmungen oder Animationsfilme sondern das Jim Henson Weihnachts-Muppets-Meisterwerk. Das Puppen-Design ist genau so kreativ und aufwendig wie teilweise schon creepy und ich liebs noch immer wie furchtbar ernst die Realschauspieler mit den Muppets gemeinsam performen.",
+   "imdb": "tt0104940",
+   "rating": 7.8,
+   "votes": 83268,
+   "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "score": 42
+  },
+  {
    "slug": "die-nacht-singt-ihre-lieder",
    "title": "Die Nacht singt ihre Lieder",
    "url": "https://nonstopkino.at/movies/die-nacht-singt-ihre-lieder/",
@@ -1953,6 +2020,19 @@
     "War"
    ],
    "score": 16
+  },
+  {
+   "slug": "drei-filme-von-ueber-und-mit-franz-west",
+   "title": "Drei Filme von, über und mit Franz West",
+   "url": "https://nonstopkino.at/movies/drei-filme-von-ueber-und-mit-franz-west/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/9c51c367-12af-4da4-aef9-bcac449e4914.jpeg?fit=max&w=120",
+   "director": "Franz West, Bernhard Riff, Andreas Reiter Raabe, Heimo Zobernig",
+   "cast": "",
+   "year": 2026,
+   "runtime": 68,
+   "spoken": "",
+   "synopsis": "Zum zweiten Mal machen die Karlsplatz-Nachbar*innen Stadtkino und Wien Museum gemeinsame Sache und verbinden Museum und Kino mit einem spannenden Programm! Im Rahmen der Ausstellung „Franz West und Wien“ im Wien Museum zeigen wir drei Filme von, über und mit Franz West mit anschließendem Gespräch: Fareed Armaly - you still live in Karl Marx Hof, R: Franz West, Bernhard Riff, AT 1996, 12 min, Originalsprache: dt/engl Die Dekonstruktion und Transformation eines Gesprächsfragments zwischen Fareed Armaly und Franz West: Ausgehend von einer Bildstörung beim Abschalten des Videomonitors wird das Dialoggefüge YOU STILL LIVE IN KARL MARX HOF - NOT A(T ALL) zum Ausgangspunkt einer Diskussion zwischen Franz West, Bernhard Riff und Jürgen Walter, wie lange es dauert, den berühmten Wiener Gemeindebau abzuschreiten und die Gehgeschwindigkeit auf das Störsignal des Videobildes zu übertragen. a film about Franz West, R: Andreas Reiter Raabe, AT 2018, 43’17 min, Deutsch mit engl. Uts Andreas Reiter Raabe begleitete Franz West zwischen 2007 und 2012 mit der Kamera in seinem Atelier am Wiener Esteplatz. Der daraus entstandene Dokumentarfilm \"a film about Franz West“ gibt intime Einblicke in die intuitive Arbeitsweise Wests und die Zusammenarbeit mit Assistent*innen im Atelier. PREMIERE: Bernhard Riff / Franz West / Heimo Zobernig, R: Bernhard Riff, Franz West, Heimo Zobernig, AT 1999/2026, 12’26 min, Deutsch Video in drei Teilen: A - VORBESPRECHUNG. Gemeinsame Gedanken. Mit Franz West (Co-Initiator), Christian Meyer (Produzent), Doris Krumpl (Tänzerin), Janc Szeniczei (Grundwasser und U-Bahn), Getraut Gürtler (Tänzerin) und Bernhard Riff (Kameramann). B - Ankunft Heimo Zobernig (Initiator und Tänzer). TANZ-COLLAGE. C - AUSKLANG. Voller Hoffnung, tanzend (2. Kamera: Franz West).",
+   "score": null
   },
   {
    "slug": "duck-soup",
@@ -2192,27 +2272,6 @@
    "score": null
   },
   {
-   "slug": "emperor-of-the-north",
-   "title": "Emperor of the North",
-   "url": "https://nonstopkino.at/movies/emperor-of-the-north/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/fa440378-5806-4b9e-8290-d2bff4ecc055.jpeg?fit=max&w=120",
-   "director": "Robert Aldrich",
-   "cast": "Lee Marvin, Ernest Borgnine, Keith Carradine, Charles Tyner, Harry Caesar",
-   "year": 1973,
-   "runtime": 121,
-   "spoken": "Englisch",
-   "synopsis": "1933: Während der großen Depression kommt es zum Duell zwischen dem \"König der Hobos\" A-No.-1 (Lee Marvin) und dem sadistischen Zugführer Shack (Ernest Borgnine), der vor nichts zurückschreckt, um Landstreicher zu vertreiben. Aldrich erbte das Projekt von Sam Peckinpah und inszenierte eine Serie von atemberaubenden Actionszenen, die in einem veritablen Gladiatorenkampf auf dem fahrenden Zug kulminieren. Doch in typischer Aldrich-Manier ist Emperor of the North darüber hinaus ein erstaunlicher Genremix mit sozialem Tiefgang, der damals an der Kassa enttäuschte, aber inzwischen als populärer Klassiker gilt. In idyllischen Altweibersommer-Bildern entfaltet sich ein Roadmovie mit komödiantischen Einlagen und poetischen Dialogen als sarkastische politische Allegorie: Shack steht für das reaktionäre Establishment, A-No.-1 für den anarchistischen Individualismus, dazwischen die opportunistische Jugend in Gestalt von Keith Carradines Hobo-Begleiter. (C.H.)",
-   "imdb": "tt0070030",
-   "rating": 7.2,
-   "votes": 7883,
-   "genres": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "score": 30
-  },
-  {
    "slug": "empire-of-the-sun",
    "title": "Empire of the Sun",
    "url": "https://nonstopkino.at/movies/empire-of-the-sun/",
@@ -2304,13 +2363,13 @@
    "slug": "everytime",
    "title": "Everytime",
    "url": "https://nonstopkino.at/movies/everytime/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/8362cb8c-fce5-4661-8818-657c76c14964.jpg?fit=max&w=120",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/3cb39e20-7663-4348-9dbd-9d5af57d01b6.jpeg?fit=max&w=120",
    "director": "Sandra Wollner",
    "cast": "Birgit Minichmayr, Tristán López, Lotte Shirin Keiling, Carla Hüttermann",
    "year": 2026,
    "runtime": 123,
    "spoken": "Deutsch",
-   "synopsis": "Das letzte Foto, das Jessie gemacht hat, zeigt die Sonne über Berlin. Sie hängt da, als wäre nichts geschehen. Aber Ella hat ihre Tochter verloren. Was ihr bleibt, ist Jessies kleine Schwester und die komplizierte Beziehung zu dem Jungen, dem alle die Schuld geben. Das merkwürdige Trio landet in einem Familienurlaub, den es so nie gab. Unter der flirrenden Sonne Teneriffas verweben sich Erinnerung und Gegenwart unauflöslich ineinander. Die Geister sind überall.",
+   "synopsis": "Everytime ist faszinierend, traurig und tröstend. Am Ende löst er sich in surrealen Bildern von AFTERSUN Kameramann Gregory Oke auf, die man nie mehr vergisst. Einer der besten Filme der letzten Jahre.",
    "imdb": "tt41592057",
    "rating": 7.2,
    "votes": 988,
@@ -2465,6 +2524,19 @@
    "score": 35
   },
   {
+   "slug": "flow-my-tears",
+   "title": "Flow my Tears",
+   "url": "https://nonstopkino.at/movies/flow-my-tears/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/a9fd3980-fbb4-468a-acb5-ac8d60951cbc.jpeg?fit=max&w=120",
+   "director": "Alexander Melach",
+   "cast": "Lena Rothstein, Alexander Melach, Harri Stojka, Christian Qualtinger u.a.",
+   "year": 2026,
+   "runtime": 96,
+   "spoken": "Deutsch",
+   "synopsis": "Was bedeutet es, als Kind von Eltern aufzuwachsen, die in einem Konzentrationslager ermordet wurden oder dieses überlebt haben? Alexander Melachs setzt sich mit dem Holocaust aus der Perspektive der zweiten Generation auseinander. Melach, der Sohn eines KZ-Überlebenden aus Buchenwald ist, bietet einen Blick auf das Leben mit der Vergangenheit der eignen Familie, das Schweigen von Nachkommen und auf die generationenübergreifende Trauer und Traumata. Über einen Zeitraum von 26 Jahren filmte Melach jeweils an den Tagen der offiziellen, großen Gedenkfeiern in KZ-Gedenkstätten, dazu kommen Bilder aus 6 Jahrzehnten und Begegnungen mit Zeitzeugen und Nachkommen die viele überraschende und kluge Antworten liefern.",
+   "score": null
+  },
+  {
    "slug": "force-of-evil",
    "title": "Force of Evil",
    "url": "https://nonstopkino.at/movies/force-of-evil/",
@@ -2587,6 +2659,19 @@
    "score": 10
   },
   {
+   "slug": "gerhard-gruber-am-klavier-lustiges-von-laurel-hardy-und-keaton",
+   "title": "Gerhard Gruber am Klavier: Lustiges von Laurel, Hardy und Keaton",
+   "url": "https://nonstopkino.at/movies/gerhard-gruber-am-klavier-lustiges-von-laurel-hardy-und-keaton/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/45338acd-1ec9-47aa-8624-648ffbf98d4b.jpeg?fit=max&w=120",
+   "director": "div.",
+   "cast": "Stan Laurel, Oliver Hardy, Buster Keaton",
+   "year": 1922,
+   "runtime": 82,
+   "spoken": "",
+   "synopsis": "Damals wie heute ist hier Lachen garantiert! Die kurzen Komödien der 1920- und 30er Jahre sind auch 100 Jahre nach ihrem Entstehen pures Vergnügen und sowohl für Kinder, als auch für Erwachsene ein großer Spaß. Zudem wirkt der ganz besondere Zauber, wenn man so weit in der Zeit zurückschauen kann: Als würde man durch ein Fenster in die Vergangenheit blicken! Dabei begleitet der großartige Stummfilmpianist Gerhard Gruber die Stummfilm-Komödien live am Klavier. Ein wirklich einzigartiges Kinoerlebnis für Groß und Klein! Laurel & Hardy, hierzulande auch als Dick und Doof bekannt, stolpern von einem Abenteuer ins nächste. Mal schlagen sie sich als Straßenmusikanten durch, mal wollen sie mitten im Sommer Christbäume verkaufen… Und Buster Keaton erhält in The Electric House unabsichtlich das falsche Diplom und wird prompt zum Ingenieur, obwohl er doch Botaniker ist! Mit den Filmen: Below Zero (Dick und Doof in tausend Nöten), US 1930, 20 min., mit Stan Laurel, Oliver Hardy The Finishing Touch (Das unfertige Fertighaus), US 1928, 19 min., mit Stan Laurel, Oliver Hardy The Electric House (Das vollelektrische Haus), US 1922, 23 min., mit Buster Keaton Big Business (Große Geschäfte), US 1929, 20 min, mit Stan Laurel, Oliver Hardy",
+   "score": null
+  },
+  {
    "slug": "getaway",
    "title": "Getaway",
    "url": "https://nonstopkino.at/movies/getaway/",
@@ -2706,12 +2791,12 @@
    "title": "Gremlins",
    "url": "https://nonstopkino.at/movies/gremlins/",
    "poster": "https://culturekit-assets.imgix.net/4/assets/7d54d783-dfd2-42cf-b1e9-9d8d1afd594a.jpg?fit=max&w=120",
-   "director": "JOE DANTE",
+   "director": "Joe Dante",
    "cast": "",
    "year": 1984,
    "runtime": 106,
    "spoken": "Englisch",
-   "synopsis": "Der Teenager Billy Peltzer wohnt in der idyllischen Kleinstadt Kingston Fall, die in Weihachtsbeleuchtung und Schnee glänzt. Billy hat ein ungewöhnliches Geschenk von seinem Vater bekommen: ein kleines pelziges Wesen namens Gizmo. Drei einfachen Regeln muss Billy folgen: er muss Gizmo von Wasser und von hellem Licht fern halten und – am wichtigsten – darf ihn niemals nach Mitternacht füttern.",
+   "synopsis": "Der Teenager Billy Peltzer wohnt in der idyllischen Kleinstadt Kingston Fall, die in Weihachtsbeleuchtung und Schnee glänzt. Billy hat ein ungewöhnliches Geschenk von seinem Vater bekommen: ein kleines pelziges Wesen namens Gizmo. Drei einfachen Regeln muss Billy folgen: er muss Gizmo von Wasser und von hellem Licht fern halten und – am wichtigsten – darf ihn niemals nach Mitternacht füttern. Wolles Lieblingsfilm: Fluffy und chaotisch: Ein Gremlin als Haustier klang für mich interessanter als jeder Hamster. Ich habe nie einen gefunden, aber die Hoffnung noch nicht ganz aufgegeben.",
    "imdb": "tt0087363",
    "rating": 7.3,
    "votes": 280050,
@@ -3376,6 +3461,19 @@
    "score": 0
   },
   {
+   "slug": "kick-off",
+   "title": "Kick Off",
+   "url": "https://nonstopkino.at/movies/kick-off/",
+   "poster": "",
+   "director": "",
+   "cast": "",
+   "year": null,
+   "runtime": null,
+   "spoken": "",
+   "synopsis": "",
+   "score": null
+  },
+  {
    "slug": "kikis-kleiner-lieferservice",
    "title": "Kikis kleiner Lieferservice",
    "url": "https://nonstopkino.at/movies/kikis-kleiner-lieferservice/",
@@ -3554,6 +3652,25 @@
     "Animation",
     "Documentary",
     "Drama"
+   ],
+   "score": 0
+  },
+  {
+   "slug": "la-belle-annee",
+   "title": "La belle année",
+   "url": "https://nonstopkino.at/movies/la-belle-annee/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b7832a3e-6a8e-4306-9545-89be4c1c132a.jpeg?fit=max&w=120",
+   "director": "Angelica Ruffier",
+   "cast": "",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Französisch, Schwedisch, Englisch",
+   "synopsis": "Nach dem Tod ihres entfremdeten Vaters kehrt Angelica gemeinsam mit ihrem Bruder in das Elternhaus auf dem französischen Land zurück. Während sie versucht, das vollgestopfte Haus zu entrümpeln und sich von den Spuren ihrer Vergangenheit zu befreien, entdeckt sie ihre Tagebücher aus Teenagerzeiten. Darin erwacht die Erinnerung an eine heimliche, leidenschaftliche Liebe zu ihrer damaligen Geschichtslehrerin Mademoiselle B. erneut zum Leben. Zwischen Erinnerungen, Fantasien und dokumentarischen Momenten verschwimmen Vergangenheit und Gegenwart. Während Angelica das Erbe ihrer Familie aufarbeitet, wächst in ihr der Wunsch, ihrer einstigen großen Liebe wieder zu begegnen. Eine autobiografische Reise über Familie, Erinnerung, Begehren und die prägenden Leidenschaften unseres Lebens.",
+   "imdb": "tt30958418",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
    ],
    "score": 0
   },
@@ -3823,19 +3940,6 @@
    "score": 84
   },
   {
-   "slug": "listening-with-anthropocene",
-   "title": "Listening with Anthropocene",
-   "url": "https://nonstopkino.at/movies/listening-with-anthropocene/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/f7a4d9eb-64eb-4de7-8029-78d2a4624ce5.jpeg?fit=max&w=120",
-   "director": "div.",
-   "cast": "",
-   "year": 2026,
-   "runtime": null,
-   "spoken": "",
-   "synopsis": "Aufpreis: 7 € Filmvorführungen & Record-Release-Konzert Eliana Otta, Olia Sosnovskaya, Katrin Euller, Zosia Hołubowska Listening with Anthropocene vereint experimentelle Filme und Musik, die sich Landschaften widmen, die von Gewalt, Ausbeutung, radioaktiver Strahlung und tiefen ökologischen Zeiträumen geprägt sind. Am 25. November um 19:00 präsentiert das Programm Eliana Ottas Asking Trees, Birds, and Ghosts about Future Images and Sound, eine poetische 360-Grad-Videoarbeit, die indigene Gemeinschaften und Umweltschützer*innen im peruanischen Amazonasgebiet würdigt. Olia Sosnovskayas Fog is the bison of history erkundet den Białowieża-Wald und die polnisch-belarussische Grenze anhand von Wanderungen, Erinnerungen und umkämpften Geschichtsbildern. Katrin Eullers Leftovers ist ein choreografischer Videoessay, der in Österreichs einziger Nuklearanlage gedreht wurde. Den Abschluss des Abends bildet Future Ruins, ein quadrophonisches Konzert mit Record Release von Zosia Hołubowska. Darin verwandelt sie ihre Recherchen zu den Nachwirkungen von Atomtests in immersive, spekulative Klanglandschaften. Gemeinsam laden die Arbeiten zu einer Form des Zuhörens ein, die dem Beschädigten, Verborgenen und dennoch weiterhin Regenerierenden Aufmerksamkeit schenkt. Filme: Asking Trees, Birds, and Ghosts about Future Images and Sound (Österreich / Peru), Eliana Otta, 30 Min., 2025 Fog is the bison of history (Österreich / Polen / Belarus), Olia Sosnovskaya, 23 Min., 2026 Leftovers (Österreich), Katrin Euller, 11 Min., 2021 Musik: Future Ruins, quadrophonisches Konzert und Record Release von Zosia Hołubowska",
-   "score": null
-  },
-  {
    "slug": "little-women",
    "title": "Little Women",
    "url": "https://nonstopkino.at/movies/little-women/",
@@ -3914,6 +4018,27 @@
    "score": 6
   },
   {
+   "slug": "madagascar",
+   "title": "Madagascar",
+   "url": "https://nonstopkino.at/movies/madagascar/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/e1b01cba-f818-41ef-a638-da99d7fa64cf.jpeg?fit=max&w=120",
+   "director": "Eric Darnell Darnell, Tom McGrath",
+   "cast": "",
+   "year": 2005,
+   "runtime": 86,
+   "spoken": "Englisch",
+   "synopsis": "Vier tierische Freunde erleben den totalen Kulturschock, als sie aus der Gefangenschaft im New Yorker Zoo ausbrechen und auf der Insel Madagaskar an Land gehen. Valentins Lieblingsfilm: Madagascar, Was brauch ich mehr sagen? Absoluter Klassiker, geht immer, egal ob groß oder klein, jung oder alt. Eine perfekte Mischung aller Emotionen in einem Gesamtpaket + Dance Musik, ‘cause: we like to move it! Außerdem schafft es kaum eine Filmreihe in 3 Teilen absolut abzuliefern, und weiterhin Ikonisch zu bleiben, von Moto-Moto bis zu Edith Piaf, es wurde an alles gedacht. Wenn ich an Filme aus meiner Kindheit denke, dann denke ich an Madagascar, und wer das nicht tut, hat etwas verpasst!",
+   "imdb": "tt0351283",
+   "rating": 7.0,
+   "votes": 490530,
+   "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+   ],
+   "score": 55
+  },
+  {
    "slug": "magical-mystery-movie-ueberraschungsfilm",
    "title": "Magical Mystery Movie",
    "url": "https://nonstopkino.at/movies/magical-mystery-movie-ueberraschungsfilm/",
@@ -3979,6 +4104,19 @@
    "runtime": 86,
    "spoken": "",
    "synopsis": "Die kleine Mei und ihre etwas ältere Schwester Satsuki ziehen mit ihrem Vater in ein Haus am Land, unweit vom Sanatorium, in dem ihre kranke Mutter untergebracht ist. Die neue Umgebung, die knirschenden Balken des Hauses, die dunklen Ecken im Gebüsch und der benachbarte Wald sind eine einzige große Spielwiese für die Mädchen. Während Satsuki in der Schule ist und ihr Vater arbeitet, läuft die gelangweilte Mei zwei drolligen kleinen Wesen nach, die sich vor ihr ins Gehölz unter einem gewaltigen Baum flüchten. Mei lässt sich jedoch nicht aufhalten und triff im Dickicht auf das riesige pelzige und freundlichen Waldwesen Totoro. Es ist der Beginn einer wunderbaren Freundschaft. Die große Leistung von MEIN NACHBAR TOTORO ist es, einer der ganz wenigen Filme zu sein, die auf unübertreffliche Weise die universelle Erfahrung der Kindheit wiedergeben. Die Zeit, in der die Wunder der Welt und die der eigenen Fantasie so viel Abenteuer liefern, wie man sich nur wünschen kann.",
+   "score": null
+  },
+  {
+   "slug": "minotaurus",
+   "title": "Minotaurus",
+   "url": "https://nonstopkino.at/movies/minotaurus/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5f4698a8-c6ac-49b6-8dcb-e60e1c63698c.jpeg?fit=max&w=120",
+   "director": "Andreï Zviaguintsev",
+   "cast": "Dmitriy Mazurov, Iris Lebedeva, Boris Kudrin",
+   "year": 2026,
+   "runtime": 140,
+   "spoken": "Russisch",
+   "synopsis": "Russland, 2022. Als Gleb, ein erfolgreicher Firmenchef, sich zunehmend von beruflichem Druck, einer immer instabileren Welt und der Entdeckung der Affäre seiner Frau bedrängt fühlt, gerät sein sorgfältig geordnetes Leben aus den Fugen – und steuert mit wachsender Geschwindigkeit auf einen gewaltsamen Zusammenbruch zu.",
    "score": null
   },
   {
@@ -4287,6 +4425,19 @@
    "score": 87
   },
   {
+   "slug": "nine-little-indians",
+   "title": "Nine Little Indians",
+   "url": "https://nonstopkino.at/movies/nine-little-indians/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/0727ed61-ea80-40d7-9b2e-46371b2dfefd.jpeg?fit=max&w=120",
+   "director": "Shannon Kring",
+   "cast": "",
+   "year": 2026,
+   "runtime": 100,
+   "spoken": "Englisch",
+   "synopsis": "Nine Little Indians begleitet die Charbonneau-Schwestern, die dem Stamm der Turtle Mountain Band of Chippewa Indians angehören. Sie besuchten die St. Paul’s Indian Mission School, auch bekannt als Marty Indian School, in Marty, South Dakota. Alle neun Schwestern gaben an, an der Schule Missbrauch durch Priester und Nonnen erlebt zu haben. Kinder der amerikanischen Ureinwohner wurden bereits seit Mitte des 19. Jahrhunderts in Internate geschickt. Viele dieser Internate standen in Verbindung mit religiösen Gruppen, und viele wurden durch den „Indian Civilization Fund Act“ direkt von der Bundesregierung finanziert oder unterstützt. Dieses Gesetz ermöglichte die Finanzierung religiöser Gruppen, die Schulen für amerikanische Ureinwohner eröffnen wollten, um den Stämmen die „Künste der Zivilisation“ näherzubringen.",
+   "score": null
+  },
+  {
    "slug": "no-good-men",
    "title": "No Good Men",
    "url": "https://nonstopkino.at/movies/no-good-men/",
@@ -4321,6 +4472,27 @@
    "score": null
   },
   {
+   "slug": "nobodys-violence",
+   "title": "Nobody’s Violence",
+   "url": "https://nonstopkino.at/movies/nobodys-violence/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/bb7aada6-fe5e-4f7e-acba-e9866a26bf55.jpeg?fit=max&w=120",
+   "director": "Denis Côté",
+   "cast": "Larissa Corriveau, Xavier Bergeron, Philippe Rebbot",
+   "year": 2026,
+   "runtime": 118,
+   "spoken": "Französisch",
+   "synopsis": "In einer dystopischen Welt reist die schweigsame Mira im Auftrag einer zwielichtigen Organisation durch die verschneiten Landschaften Kanadas, um Menschen bei ihrem selbstgewählten Tod zu begleiten. Distanziert und scheinbar unberührt erledigt sie ihre Aufgabe, bis sie dem lebenshungrigen Freigeist Pierric auf einer winterlichen Rave-Party begegnet. Seine unkonventionelle Lebensweise bringt Mira dazu, ihre eigene Existenz und die Regeln, denen sie folgt, zu hinterfragen. Auch die Begegnung mit ihrem exzentrischen, Chef Ludo wirft neue Fragen auf. Zwischen Science-Fiction-Parabel, Verschwörungsthriller und schwarzer Komödie entfaltet sich eine ebenso verstörende wie absurde Geschichte über Selbstbestimmung, Lebenswillen und die Suche nach Freiheit.",
+   "imdb": "tt38512625",
+   "rating": 6.0,
+   "votes": 62,
+   "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "score": 7
+  },
+  {
    "slug": "noestlinger-sowieso-und-ueberhaupt",
    "title": "Nöstlinger – Sowieso und überhaupt",
    "url": "https://nonstopkino.at/movies/noestlinger-sowieso-und-ueberhaupt/",
@@ -4351,27 +4523,6 @@
     "Documentary"
    ],
    "score": 0
-  },
-  {
-   "slug": "obsession",
-   "title": "Obsession",
-   "url": "https://nonstopkino.at/movies/obsession/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/1ac716ca-b39a-498a-9152-e34d0b84aadc.jpg?fit=max&w=120",
-   "director": "Curry Barker",
-   "cast": "Michael Johnston, Inde Navarrette, Megan Lawless",
-   "year": 2026,
-   "runtime": 108,
-   "spoken": "Englisch",
-   "synopsis": "Der schüchterne Bear ist in seine beste Freundin Nikki verschossen. Da seine eskalierenden Gefühle nicht erwidert werden, deponiert er seinen Liebeswunsch via magischer One Wish Willow bei einer höheren Macht, die flugs dafür sorgt, dass sich die junge Frau haltlos nach ihm verzehrt. Wie die Gebrüder Philippou (Talk To Me) hat auch Curry Barker mit Internet-Sketchen sein Gespür für Timing und Rhythmus geschärft, was es ihm jetzt erlaubt, aus einer generischen Prämisse einen mächtig effektiven Horrorthriller heraus zu stampfen, der fantastische Elemente mit psychologischem Realismus kreuzt und mit unvermittelter Härte, diabolischer Schmähführung und nahbaren Figuren das Herz jedes Genre-Fans zum Hüpfen bringt. (Markus Keuschnigg)",
-   "imdb": "tt37287335",
-   "rating": 7.8,
-   "votes": 436941,
-   "genres": [
-    "Fantasy",
-    "Horror",
-    "Thriller"
-   ],
-   "score": 74
   },
   {
    "slug": "oeroekbefogadas-adoption",
@@ -4453,6 +4604,25 @@
     "Musical"
    ],
    "score": 15
+  },
+  {
+   "slug": "on-our-own",
+   "title": "On our Own",
+   "url": "https://nonstopkino.at/movies/on-our-own/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/fdfea319-297c-4268-a509-539e74705bd6.jpeg?fit=max&w=120",
+   "director": "Tudor Cristian Jurgiu",
+   "cast": "Denisa Vraja, Vlad Furtună, Mara Diaconu-Ducica, Sofia Vasiliu, Dominique Toma",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Rumänisch",
+   "synopsis": "Dieser Coming-of-Age-Film erzählt von den Herausforderungen des Erwachsenwerdens, wenn die Erwachsenen fehlen. Die 14-jährige Flavia lebt allein in einer rumänischen Kleinstadt. Während ihre Mutter als Pflegekraft in Italien arbeitet und ihr Vater auf wechselnden Baustellen unterwegs ist, muss sie selbstständig zurechtkommen. Dabei hat sie einen scharfen Sarkasmus und eine schützende Distanziertheit entwickelt, die auch ihre Beziehungen zu anderen prägen. Ihr Freund Luca kennt diese Situation nur zu gut: Auch er ist auf sich allein gestellt und übernimmt die Verantwortung für seine jüngere Schwester. Als diese eines Tages zwei weitere Kinder mit nach Hause bringt, entstehen neue Beziehungen und eine ungewöhnliche Gemeinschaft, in der die Jugendlichen und Kinder beginnen, füreinander da zu sein.",
+   "imdb": "tt34766794",
+   "rating": 6.0,
+   "votes": 141,
+   "genres": [
+    "Drama"
+   ],
+   "score": 0
   },
   {
    "slug": "once-upon-a-time-in-gaza",
@@ -4588,6 +4758,19 @@
    "score": 10
   },
   {
+   "slug": "plaza-romani",
+   "title": "Plaza Romani",
+   "url": "https://nonstopkino.at/movies/plaza-romani/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/3b7ef492-92ad-49ec-bab0-82ffae05b47f.jpeg?fit=max&w=120",
+   "director": "Jella Bethmann",
+   "cast": "",
+   "year": 2026,
+   "runtime": 90,
+   "spoken": "",
+   "synopsis": "Auf einem Platz vor einer Kirche im Zentrum Kopenhagens lebt eine Gruppe von Roma in einem provisorischen Lager. Während sich Anwohnerinnen durch ihre Anwesenheit verunsichert fühlen und die Polizei den Platz immer wieder räumt, versuchen zwei idealistische Künstler, zwischen den Konfliktparteien zu vermitteln. Mit gemeinsamen Treffen wollen sie Anwohnerinnen und marginalisierte Flaschensammler:innen für den Kampf um bessere Lebensbedingungen gewinnen. Doch ihre Bemühungen scheitern am Widerstand der Nachbarschaft. Schließlich greifen die Künstler zu einer drastischen Maßnahme: Sie laden die obdachlosen Roma ein, den Platz erneut zu besetzen, und lösen damit eine unerwartete Entwicklung aus. Die Dinge kommen endlich ins Rollen.",
+   "score": null
+  },
+  {
    "slug": "point-break",
    "title": "Point Break",
    "url": "https://nonstopkino.at/movies/point-break/",
@@ -4710,6 +4893,25 @@
    ],
    "favorite": true,
    "score": 118
+  },
+  {
+   "slug": "robots",
+   "title": "Robots",
+   "url": "https://nonstopkino.at/movies/robots/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/c40dceb0-f52a-4f4a-95c7-2c0357994215.jpeg?fit=max&w=120",
+   "director": "Yaseen J. Khan",
+   "cast": "",
+   "year": 2026,
+   "runtime": 65,
+   "spoken": "",
+   "synopsis": "Vor dem Hintergrund der Ampelkreuzungen Johannesburgs, die lokal „Robots“ genannt werden, erkundet Yaseen J Khan jene Orte, an denen Ungleichheit, Identität und Überlebenskampf aufeinandertreffen. Sobald die Ampel auf Rot schaltet und die Autos zum Stillstand kommen, erwacht eine eigene Welt zum Leben. Tänzer:innen, Jongleur:innen Straßenhändler:innen und Performer:innen nutzen die wenigen Sekunden, bevor der Verkehr wieder anrollt. An einer dieser Kreuzungen präsentiert “Gift”, bekannt als „Marshmallows“, seine spektakuläre Nummer „Headless Man“. Abseits der Straße jongliert “Gift” mit seinen Rollen als Ehemann, Vater und Bruder und kämpft darum, seinen Lebensunterhalt zu sichern. Zwischen Hoffnung und Unsicherheit steht er schließlich vor einer unerwarteten Wendung, die sein Leben grundlegend verändern könnte.",
+   "imdb": "tt40595445",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "rocky",
@@ -4993,25 +5195,6 @@
    "score": 4
   },
   {
-   "slug": "slidin-alles-bunt-und-wunderbar",
-   "title": "Slidin‘ – Alles bunt und wunderbar",
-   "url": "https://nonstopkino.at/movies/slidin-alles-bunt-und-wunderbar/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/b4b9b1f7-2f29-4be9-a71a-be34ef532373.png?fit=max&w=120",
-   "director": "BARBARA ALBERT/MICHAEL GRIMM/REINHARD JUD",
-   "cast": "MARIA KASTNER, CORNELIA STASTNY, GEORG FRIEDRICH, MARTINA PÖLTL, MARKUS ZEINDLINGER, NINA PROLL, MARTIN SCHÖNDELING",
-   "year": 1998,
-   "runtime": 97,
-   "spoken": "",
-   "synopsis": "Drei Geschichten von Jugendlichen, die durch die Wiener Nächte ziehen. Petra und Nicole treffen sich an der U-Bahn, wo sie erfolglos von jungen Italienern angeflirtet werden. Eine von ihnen wird wenig später ausgerechnet bei Mike schwach, ein Kaugummi kauender Modeexperte aus dem Einkaufscenter. Die 20-jährige Billie zieht von Club zu Club, stets auf der Suche nach dem nächsten Kick. Und schließlich verendet das Auto einer Clique auf dem Weg zu einem Rave irgendwo in der Pampa. Junge Städter im dörflichen Milieu – ob das gut geht? Der Shabby Chic der Großstadt hat sich ins Lebensgefühl dieser jungen Menschen eingeschrieben, die sich jene Orte zu eigen machen, die ihre besten Zeiten hinter sich haben. Kleine und große Dramen des Erwachsenwerdens, eindrucksvoll zum Leuchten gebracht.",
-   "imdb": "tt0139013",
-   "rating": 6.0,
-   "votes": 51,
-   "genres": [
-    "Drama"
-   ],
-   "score": 0
-  },
-  {
    "slug": "sodom-and-gomorrah",
    "title": "Sodom and Gomorrah",
    "url": "https://nonstopkino.at/movies/sodom-and-gomorrah/",
@@ -5120,6 +5303,25 @@
    "score": 70
   },
   {
+   "slug": "stand-up",
+   "title": "Stand Up",
+   "url": "https://nonstopkino.at/movies/stand-up/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/5a8f9099-f525-493e-92b0-0665c09e741c.jpeg?fit=max&w=120",
+   "director": "Mari Sanders",
+   "cast": "Lucia Zemene, Daan Buringa",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Niederländisch, Englisch",
+   "synopsis": "Die 23-jährige Vera liebt Partys, das Fahrradfahren und das Risiko – bis ein Unfall ihr Leben von einem Moment auf den anderen verändert. Plötzlich muss sie sich mit nur mehr einem Bein und in einer völlig neuen Situation zurechtfinden. Während sie darum kämpft, mit ihrer neuen Realität als behinderte Person zurechtzukommen, lernt sie Xander kennen, einen anderen jungen Mann im Rollstuhl, der mit einer großen Clique von Menschen mit Behinderungen und einer noch größeren Portion Selbstbewusstsein unterwegs ist. Zwischen ihren alten, nichtbehinderten Freunden und ihrem neuen Umfeld sucht Vera nach ihrem Platz im Leben. „Stand Up“ erzählt mit Optimismus und Feingefühl von einem schwierigen Neuanfang, von Freundschaft und der Herausforderung, den eigenen Weg zu finden.",
+   "imdb": "tt14690630",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Drama"
+   ],
+   "score": 6
+  },
+  {
    "slug": "sterben-fuer-anfaenger",
    "title": "Sterben für Anfänger",
    "url": "https://nonstopkino.at/movies/sterben-fuer-anfaenger/",
@@ -5131,6 +5333,25 @@
    "spoken": "Deutsch",
    "synopsis": "Wir alle wissen, dass wir sterben werden. Und doch leben wir, als ginge uns diese Gewissheit nichts an. Wir verdrängen, vertagen, überlassen das Sterben den Krankenhäusern, den Expert:innen, den anderen. Erst wenn Krankheit, Verlust oder die eigene Diagnose ins Leben brechen, wird aus einer abstrakten Wahrheit eine persönliche Frage. Mit STERBEN FÜR ANFÄNGER widmet sich der vielfach ausgezeichnete Wissenschaftsjournalist und Dokumentarfilmer Kurt Langbein einem Thema, das uns alle betrifft — und über das trotzdem kaum gesprochen wird: dem Sterben. Der Film beginnt mit seiner eigenen Krebserkrankung und wird damit zu einer sehr persönlichen Suche nach Orientierung, Wissen und Halt. Aus dem Reporter wird ein Betroffener, aus der Recherche ein existenzieller Selbstversuch.",
    "imdb": "tt43228299",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
+   "slug": "still-living",
+   "title": "Still Living",
+   "url": "https://nonstopkino.at/movies/still-living/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8ff1e8b7-cd4a-407e-9b8c-a2205d953045.jpeg?fit=max&w=120",
+   "director": "Agnès Lejeune, Gaëlle Hardy",
+   "cast": "",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Französisch",
+   "synopsis": "In einem entscheidenden Moment des Lebens, wenn die Selbstständigkeit schwindet, begeben sich ältere Menschen, ihre Angehörigen, Betreuer:innen und Pflegekräfte auf eine gemeinsame Reise durch das Alter. Sie ist geprägt von Konflikten und Verlusten, aber auch von Solidarität, Zärtlichkeit und Freude – und erzählt von der Tiefe und Vielschichtigkeit eines langen Lebens. Der Film taucht in individuelle Lebensgeschichten ein, in denen der unerschütterliche Willen des Einzelnen auf die Logik institutioneller Strukturen trifft. Im Spannungsfeld zwischen persönlichen Bedürfnissen und gesellschaftlichen Rahmenbedingungen werden Kämpfe ausgefochten, die manchmal gewonnen werden – und manchmal verloren gehen.",
+   "imdb": "tt50509045",
    "rating": null,
    "votes": 0,
    "genres": [
@@ -5198,6 +5419,25 @@
     "Drama"
    ],
    "score": 30
+  },
+  {
+   "slug": "synthetic-sincerity",
+   "title": "Synthetic Sincerity",
+   "url": "https://nonstopkino.at/movies/synthetic-sincerity/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/d0f9d7a9-eccb-48ce-82f5-bed652aca5d7.jpeg?fit=max&w=120",
+   "director": "Marc Isaacs",
+   "cast": "",
+   "year": 2025,
+   "runtime": 71,
+   "spoken": "Englisch",
+   "synopsis": "In diesem unterhaltsamen Film lässt Marc Isaacs dokumentarische Fakten mit Fiktion verschwimmen. Der Filmemacher arbeitet in Vereinbarung mit dem „Synthetic Sincerity Lab“, einem KI-Forschungsprojekt der University of Southern England. Dort werden, anhand der Figuren aus Isaacs’ Dokumentarfilmen Möglichkeiten erforscht KI-Charakteren Authentizität beizubringen, während Isaacs diesen Prozess filmisch begleitet. „Synthetic Sincerity“ untersucht die Beziehung zwischen Mensch und Maschine mit schrägem Humor. Wie beeinflusst die Entwicklung der KI die Art und Weise, in der wir menschliche Gesichter betrachten und wie werden diese Technologien das Kino der Zukunft beeinflussen?",
+   "imdb": "tt38732132",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "szegenylegenyek",
@@ -5279,27 +5519,6 @@
    "score": 1
   },
   {
-   "slug": "teenage-sex-and-death-at-camp-misma",
-   "title": "Teenage Sex and Death at Camp Miasma",
-   "url": "https://nonstopkino.at/movies/teenage-sex-and-death-at-camp-misma/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/ff2881e5-46b5-422b-a785-dda1bc71b12c.jpg?fit=max&w=120",
-   "director": "Jane Schoenbrun",
-   "cast": "Hannah Einbinder, Gillian Anderson, Amanda Fix, Arthur Conti",
-   "year": 2026,
-   "runtime": 112,
-   "spoken": "Englisch",
-   "synopsis": "You had me at Gillian Anderson.",
-   "imdb": "tt35298123",
-   "rating": 6.4,
-   "votes": 27996,
-   "genres": [
-    "Comedy",
-    "Drama",
-    "Horror"
-   ],
-   "score": 26
-  },
-  {
    "slug": "tempo",
    "title": "Tempo",
    "url": "https://nonstopkino.at/movies/tempo/",
@@ -5379,6 +5598,25 @@
     "Drama"
    ],
    "score": 2
+  },
+  {
+   "slug": "the-balkan-cowboy",
+   "title": "The Balkan Cowboy",
+   "url": "https://nonstopkino.at/movies/the-balkan-cowboy/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/9df526e9-4f16-49db-ac48-68c59a8bd9bb.jpeg?fit=max&w=120",
+   "director": "Dragana Jurišić",
+   "cast": "",
+   "year": 2026,
+   "runtime": 93,
+   "spoken": "Kroatisch, Serbisch, Englisch",
+   "synopsis": "Eine im Exil lebende kroatische Filmemacherin kehrt in diesem bezaubernden, zutiefst persönlichen Liebesbrief an einen vergessenen Pionier der Low-Budget-Balkan-Western in den „Wilden Osten“ ihrer vom Krieg gezeichneten Kindheit zurück. Dort erforscht sie die Geschichte eines exzentrischen Kultfilmemachers, die seltsamer ist als jede Fiktion. The Balkan Cowboy ist eine sentimentale Reise, die zu einer bittersüßen Auseinandersetzung mit den eigenen Wurzeln, dem Exil und den bleibenden Narben des Krieges wird. Doch diese schweren Themen sind in einen amüsanten, fesselnden und kunstvoll inszenierten Reisebericht mit einer sympathisch bunten Besetzung verpackt.",
+   "imdb": "tt44122403",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "the-big-heat",
@@ -5546,27 +5784,6 @@
    "score": 8
   },
   {
-   "slug": "the-greatest-showman-sing-along",
-   "title": "The Greatest Showman Sing-Along",
-   "url": "https://nonstopkino.at/movies/the-greatest-showman-sing-along/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/7619f9d9-4f4f-46c8-88ad-a4b32c495412.jpeg?fit=max&w=120",
-   "director": "Michael Gracey",
-   "cast": "Hugh Jackman, Zendaya, Zach Efron, Rebecca Ferguson",
-   "year": 2017,
-   "runtime": 106,
-   "spoken": "Englisch",
-   "synopsis": "THE GREATEST SHOWMAN (2017) Sing-Along Inspiriert vom Leben von P.T. Barnum, erzählt dieses schillernde Musical von seinem Aufstieg aus bescheidenen Verhältnissen zum Gründer eines spektakulären Zirkus. Barnum und seine Artisten feiern Fantasie, Vielfalt und Widerstandsfähigkeit, überwinden Vorurteile und Schwierigkeiten und beweisen, dass Träume, Familie und Akzeptanz Ruhm und Reichtum überstrahlen können.",
-   "imdb": "tt1485796",
-   "rating": 7.5,
-   "votes": 356158,
-   "genres": [
-    "Biography",
-    "Drama",
-    "Musical"
-   ],
-   "score": 62
-  },
-  {
    "slug": "the-grinch",
    "title": "The Grinch",
    "url": "https://nonstopkino.at/movies/the-grinch/",
@@ -5588,24 +5805,23 @@
    "score": 39
   },
   {
-   "slug": "the-grissom-gang",
-   "title": "The Grissom Gang",
-   "url": "https://nonstopkino.at/movies/the-grissom-gang/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/f73b4f7d-4d41-4326-8f14-bc2afe9efb6a.jpeg?fit=max&w=120",
-   "director": "Robert Aldrich",
-   "cast": "Kim Darby, Scott Wilson, Tony Musante, Robert Lansing, Irene Dailey",
-   "year": 1971,
-   "runtime": 113,
-   "spoken": "Englisch",
-   "synopsis": "Als die reiche Erbin Barbara Blandish (Kim Darby) in den Fängen der gefährlichen Grissom-Bande landet, scheint ihr Schicksal besiegelt: Nach Bezahlung des Lösegelds soll sie sterben. Doch dann verliebt sich der labile jüngste Bandensohn Slim Grissom (Scott Wilson) in sie. Obwohl Depressionszeit-Gangsterfilme mit Outlaw-Romantik nach dem Erfolg von Bonnie and Clyde (1967) in Mode waren, wurde auch der letzte Aldrich-Film für sein eigenes Studio (das bald darauf verkauft werden musste) ein Flop. Statt Nostalgie und Genreformeln zu bedienen, kombinierte er den Krimiexzess mit einer unmöglichen Liebesgeschichte, sodass eine unwahrscheinliche Tragödie herauskam: eine erneute Herausforderung der Publikumserwartungen. In seinen satirischen Seitenhieben betont Aldrich vor allem die Klassenunterschiede: Als schlimmstes Monster in einem monströsen Film entpuppt sich ein Millionär (Wesley Addy). (C.H.)",
-   "imdb": "tt0067162",
-   "rating": 6.7,
-   "votes": 1646,
+   "slug": "the-guest-gaesten",
+   "title": "The Guest (Gæsten)",
+   "url": "https://nonstopkino.at/movies/the-guest-gaesten/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/4e296b1c-aa4f-4645-ae00-241b70211636.jpeg?fit=max&w=120",
+   "director": "Mads Mengel",
+   "cast": "Trine Dyrholm, Simon Bennebjerg, Josephine Park, Mette Klakstein Wiberg",
+   "year": 2026,
+   "runtime": 99,
+   "spoken": "Dänisch",
+   "synopsis": "Karl und Emilie reisen mit ihrem neugeborenen Sohn in ein luxuriöses Küstenhotel, um gemeinsam mit der Familie dessen Taufe zu feiern. Doch die Vorfreude auf das Fest wird getrübt, als Karls entfremdete Mutter, zu der er seit Jahren keinen Kontakt hatte, unangekündigt auftaucht. Während Karl sie am liebsten sofort wieder loswerden würde, versucht seine Schwester Rikke zu vermitteln. Zwischen den Geschwistern brechen alte Konflikte auf, verdrängte Verletzungen kommen ans Licht und aus dem geplanten Familienfest entwickelt sich eine zunehmend absurde Konfrontation mit der Vergangenheit. Mit feinem Gespür für zwischenmenschliche Abgründe und einer Prise schwarzem Humor erzählt der Film von familiären Verstrickungen und der trügerischen Hoffnung auf Harmonie.",
+   "imdb": "tt39378214",
+   "rating": 7.3,
+   "votes": 84,
    "genres": [
-    "Crime",
     "Drama"
    ],
-   "score": 21
+   "score": 0
   },
   {
    "slug": "the-happening",
@@ -5768,25 +5984,6 @@
     "Music"
    ],
    "score": 37
-  },
-  {
-   "slug": "the-queen-and-the-smokehouse",
-   "title": "The Queen and the Smokehouse (Bałtyk)",
-   "url": "https://nonstopkino.at/movies/the-queen-and-the-smokehouse/",
-   "poster": "https://culturekit-assets.imgix.net/4/assets/3378a594-46a9-485a-8f1f-631992847d58.jpg?fit=max&w=120",
-   "director": "Iga Lis",
-   "cast": "",
-   "year": 2025,
-   "runtime": 65,
-   "spoken": "Polnisch",
-   "synopsis": "Frau Miecia gilt als die „Königin von Łeba“ in Polen. Seit Jahrzehnten führt sie ihre legendäre Fischräucherei „U Mieci“ – ein Ort, der weit mehr ist als ein Geschäft: Treffpunkt, Lebensinhalt und Identität zugleich. Trotz ihres fortgeschrittenen Alters und der gesundheitsschädlichen Arbeitsbedingungen denkt sie nicht ans Aufhören. Zu tief ist ihre Verbindung zu diesem Ort, zu den Menschen, zu den Routinen, die ihr Leben geprägt haben.Der Dokumentarfilm begleitet Miecia in einer Phase des Umbruchs. Unter dem wachsenden Einfluss ihrer Familie und Mitarbeitenden wird sie erstmals gezwungen, innezuhalten und sich selbst in den Blick zu nehmen. Zwischen Fürsorge und Widerstand entfaltet sich ein vielschichtiges Porträt einer Frau, die ihr Leben der Arbeit gewidmet hat und nun mit den körperlichen und emotionalen Folgen konfrontiert wird. Das Dokumentarfilmdebüt von Iga Lis eröffnete 2025 das 65. Krakauer Filmfestival. Mit großer Wärme und feinem Gespür zeichnet die Regisseurin das Bild einer charismatischen, eigensinnigen Persönlichkeit. Eingebettet in die raue Schönheit der Ostseeküste und durchzogen von baltischer Folklore entsteht eine eindringliche Geschichte über Hingabe, Vergänglichkeit und die Frage, wann es Zeit ist, loszulassen.",
-   "imdb": "tt38016585",
-   "rating": 7.0,
-   "votes": 172,
-   "genres": [
-    "Documentary"
-   ],
-   "score": 0
   },
   {
    "slug": "the-rocky-horror-picture-show-3",
@@ -6019,6 +6216,38 @@
    "score": 70
   },
   {
+   "slug": "this-human-world-expanded-shorts-blind-eye",
+   "title": "this human world: Expanded Shorts: Blind Eye",
+   "url": "https://nonstopkino.at/movies/this-human-world-expanded-shorts-blind-eye/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/780c6672-b6d7-42af-a128-3d1b44392bd3.jpeg?fit=max&w=120",
+   "director": "div.",
+   "cast": "",
+   "year": 2026,
+   "runtime": 72,
+   "spoken": "",
+   "synopsis": "ALI Adnan Al Rajeev - BD/PH 2026, 15 min., OmeU THE SECRET ASSISTANTS Katey Lee Carson - FR/DE/GB 2026, 20 min., OmeU washed out Hannes Oberparleiter - AT/IT 2026, 12 min., OmeU GUARDIANA Lady Vinces Cruz - PE 2026, 11 min., OmeU SOFOREM Alejandro Fertero - ES 2026, 14 min., OmeU",
+   "score": null
+  },
+  {
+   "slug": "this-human-world-expanded-shorts-edge",
+   "title": "this human world: Expanded Shorts: Edge",
+   "url": "https://nonstopkino.at/movies/this-human-world-expanded-shorts-edge/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/8f6c7c21-f134-4a77-b3ab-5270674486f1.jpeg?fit=max&w=120",
+   "director": "div.",
+   "cast": "",
+   "year": 2026,
+   "runtime": 68,
+   "spoken": "",
+   "synopsis": "BYE SOPHIE Agata Larionova - UA 2026, 11 min., OmeU DISPERSAL Astrid Rothaug - AT 2026, 3 min., OV NOTHING HAPPENS AFTER YOUR ABSENCE Ibrahim Omar - SD 2026, 15 min., OmEU NOWHERE SQUARE Tarlan Lotfizadeh - UK 2026, 8 min., OmEU REEF (Arrecife) Ángel Morales Ballesta - ES 2026, 13 min., OmEU GREY ZONE Astrid Ardagh - LT/NO 2026, 18 min., OmeU",
+   "imdb": "tt40231740",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Short"
+   ],
+   "score": 0
+  },
+  {
    "slug": "too-late-the-hero",
    "title": "Too Late the Hero",
    "url": "https://nonstopkino.at/movies/too-late-the-hero/",
@@ -6142,6 +6371,19 @@
    "score": 27
   },
   {
+   "slug": "under-the-dancefloor",
+   "title": "Under the Dancefloor",
+   "url": "https://nonstopkino.at/movies/under-the-dancefloor/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/a0779fff-92f0-4fe0-a811-b5b65f481ff2.jpeg?fit=max&w=120",
+   "director": "Sára Timará",
+   "cast": "",
+   "year": 2026,
+   "runtime": 80,
+   "spoken": "Ungarisch, Englisch",
+   "synopsis": "Hinter den Mauern einer Budapester Villa verbergen sich Erinnerungen, über die jahrzehntelang geschwiegen wurde. Seit ihre Eltern das Haus 1989 entdeckten, ist Sára Timárs Kindheit von ungarischem Volkstanz geprägt – doch die Vergangenheit des Hauses wirft dunkle Schatten. Als ihr Vater verstummt und die gemeinsame Geschichte unerreichbar zu werden droht, begibt sich Sára auf eine Spurensuche zwischen Familienerinnerungen, Archivaufnahmen und den Stimmen von Zeitzeug:innen. Dabei entfaltet sich nach und nach ein verborgenes Kapitel politischer Verfolgung, in dem sich das Schicksal eines Hauses mit der Geschichte Ungarns verbindet. Eine persönliche Reise in die Tiefen des kollektiven Gedächtnisses – und zu den Geschichten, die auch dann weiterwirken, wenn niemand mehr über sie spricht.",
+   "score": null
+  },
+  {
    "slug": "unrwa",
    "title": "UNRWA",
    "url": "https://nonstopkino.at/movies/unrwa/",
@@ -6260,6 +6502,25 @@
     "Drama"
    ],
    "score": 36
+  },
+  {
+   "slug": "virtual-girlfriends",
+   "title": "Virtual Girlfriends",
+   "url": "https://nonstopkino.at/movies/virtual-girlfriends/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/dfac3394-780c-4bf8-bf40-ed78faefeca4.jpeg?fit=max&w=120",
+   "director": "Barbora Chalupová",
+   "cast": "",
+   "year": 2026,
+   "runtime": 90,
+   "spoken": "Tschechisch",
+   "synopsis": "Man sagt, Liebe sei unbezahlbar – auf OnlyFans bekommt sie einen Preis. Die Dokumentation wirft einen Blick hinter die Kulissen einer weltweit wachsenden Plattform für Erwachseneninhalte und erzählt anhand von vier Geschichten von Menschen, die ihre Intimität, ihren Körper und Teile ihrer Identität online vermarkten, und von jenen, die dafür bezahlen. Zwischen finanzieller Unabhängigkeit, dem Wunsch nach Anerkennung und der Sehnsucht nach Nähe entstehen virtuelle Beziehungen, die weit über den Bildschirm hinausreichen können. Der Film untersucht die Grenzen zwischen Inszenierung und Authentizität, Intimität und Geschäft, Privatsphäre und öffentlicher Selbstdarstellung. Dabei stellt er grundlegende Fragen nach dem Wert von Nähe in einer digitalisierten Welt.",
+   "imdb": "tt38776886",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
   },
   {
    "slug": "war-of-the-worlds",
@@ -6525,6 +6786,25 @@
    "score": 53
   },
   {
+   "slug": "where-to",
+   "title": "Where to?",
+   "url": "https://nonstopkino.at/movies/where-to/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/01e61235-5fc4-4e1a-ab04-f1d336db8c1a.jpeg?fit=max&w=120",
+   "director": "Assaf Machnes",
+   "cast": "Ehab Salami, Ido Tako, Milan Peschel, Rama Nasrallah",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Englisch, Arabisch, Deutsch, Hebräisch",
+   "synopsis": "In den endlosen Berliner Nächten chauffiert der 55-jährige palästinensische Taxi-Fahrer Hassan Partygänger:innen durch die Stadt. Eines Nachts steigt der 25-jährige Israeli Amir in sein Auto, der fern seiner Heimat seine sexuelle Identität erkundet. Über zwei Jahre hinweg begegnen die Beiden einander in Hassans Taxi und die nächtlichen Fahrten werden zu einem Ort des Vertrauens. Amir erzählt von seinem Liebeskummer und Hassan erkennt zunehmend eigene, tief verdrängte Verletzungen und beginnt sich mit seiner Vergangenheit und mit den Gründen, die ihn vor 30 Jahren dazu brachten, seine Heimat zu verlassen. Ein einfühlsames Porträt über Verlust, Entwurzelung und die heilende Kraft menschlicher Begegnungen.",
+   "imdb": "tt35253781",
+   "rating": 7.3,
+   "votes": 82,
+   "genres": [
+    "Drama"
+   ],
+   "score": 6
+  },
+  {
    "slug": "while-the-city-sleeps",
    "title": "While the City Sleeps",
    "url": "https://nonstopkino.at/movies/while-the-city-sleeps/",
@@ -6563,6 +6843,25 @@
     "Drama"
    ],
    "score": 6
+  },
+  {
+   "slug": "whispers-in-may",
+   "title": "Whispers in May",
+   "url": "https://nonstopkino.at/movies/whispers-in-may/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/d06cf2ac-c4e4-4fe8-a635-e492e5d04c97.jpeg?fit=max&w=120",
+   "director": "Dongnan Chen",
+   "cast": "",
+   "year": 2026,
+   "runtime": 95,
+   "spoken": "Chinesisch",
+   "synopsis": "Qihuo hat ein Geheimnis: Sie hat gerade ihre erste Menstruation bekommen. Das kündigt das „Rockwechsel-Fest“ an, ein traditionelles Übergangsritual, das signalisiert, dass sie kein Kind mehr ist, sondern eine Frau, die an die gemeinschaftlichen Pflichten von Ehe und Arbeit gebunden ist. Da ihre Eltern als Wanderarbeiter fort sind und ihr Großvater vor Kurzem verstorben ist, bricht Qihuo zusammen mit ihren zwei besten Freundinnen zu einem Roadtrip auf, um einen Rock für ihr Ritual des Erwachsenwerdens zu kaufen. Die Mischung aus ungeschönter Dokumentation und improvisierter Spielfilmreise erschafft eine Welt der Mädchen, die jenseits gesellschaftlicher Normen existiert. Während die Tage vergehen und die Landschaften wechseln, durchquert das Trio die rauhen Berge, jagt Schatten hinterher und genießt flüchtige Augenblicke. Als Zeitkapsel klammert sich Whispers in May an die letzten Momente der Kindheit – direkt bevor die Realität Einzug hält.",
+   "imdb": "tt39793111",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Drama"
+   ],
+   "score": 0
   },
   {
    "slug": "who-is-still-alive-qui-vit-encore",
@@ -6714,6 +7013,25 @@
    "score": 97
   },
   {
+   "slug": "women-of-sin",
+   "title": "Women of Sin",
+   "url": "https://nonstopkino.at/movies/women-of-sin/",
+   "poster": "https://culturekit-assets.imgix.net/4/assets/b7531852-d39d-4e39-8a6d-ffa697426fe6.jpeg?fit=max&w=120",
+   "director": "Noufissa Charaï",
+   "cast": "",
+   "year": 2026,
+   "runtime": 73,
+   "spoken": "Arabisch, Französisch",
+   "synopsis": "Noufissa Charaï begleitet Karima Nadir, eine Basisaktivistin und alleinerziehende Mutter in Marokko bei ihrem Kampf gegen Gesetze, die Sex außerhalb der Ehe verbieten und alleinerziehende Mütter an den Rand der Gesellschaft drängen. Gemäß Artikel 490 gilt in Marokko jede sexuelle Beziehung außerhalb der Ehe als Unzucht und wird mit bis zu einem Jahr Haft bestraft. Selbst Vergewaltigungsopfer können strafrechtlich verfolgt werden. Obwohl das Gesetz offiziell sowohl für Männer als auch für Frauen gilt, wird es in der Praxis mehrheitlich gegen Frauen angewendet. Mit Humor, Durchhaltevermögen und mit ihrem „Sohn der Sünde“ setzt sich Karima für Veränderung und Frauenrechte ein. Während Marokko eine lang erwartete Reform des Familienrechts vorbereitet, wird Karima mit ihrer Gruppe „KIF MAMA KIF BABA “ ins Parlament eingeladen, um für die Rechte der Frauen einzutreten.",
+   "imdb": "tt46082181",
+   "rating": null,
+   "votes": 0,
+   "genres": [
+    "Documentary"
+   ],
+   "score": 0
+  },
+  {
    "slug": "yo-la-peor-de-todas-ich-die-unwuerdigste-von-allen",
    "title": "Yo, la peor de todas (Ich, die Unwürdigste von allen)",
    "url": "https://nonstopkino.at/movies/yo-la-peor-de-todas-ich-die-unwuerdigste-von-allen/",
@@ -6778,695 +7096,6 @@
   }
  ],
  "screenings": [
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-25T14:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T15:00:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-25T15:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "alte-liebe",
-   "start": "2026-11-25T15:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-25T15:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-25T15:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "atmosphere",
-   "start": "2026-11-25T15:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sense-and-sensibility-2026",
-   "start": "2026-11-25T15:45:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-25T15:45:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-25T16:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-lieben-eltern",
-   "start": "2026-11-25T16:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T16:30:00+01:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T17:00:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "baaf-2026-auftragsarbeiten",
-   "start": "2026-11-25T17:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OV",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "slidin-alles-bunt-und-wunderbar",
-   "start": "2026-11-25T17:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T17:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "bruno-der-junge-kreisky",
-   "start": "2026-11-25T17:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T17:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T17:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-25T17:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T17:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-25T17:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "the-hunger-games-sunrise-on-the-reaping",
-   "start": "2026-11-25T17:20:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-25T17:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-25T17:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "teenage-sex-and-death-at-camp-misma",
-   "start": "2026-11-25T17:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "vaterland",
-   "start": "2026-11-25T17:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "sterben-fuer-anfaenger",
-   "start": "2026-11-25T17:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-25T17:45:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "identitti",
-   "start": "2026-11-25T17:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-al-cook-gala",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-grissom-gang",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "beau-travail",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-queen-and-the-smokehouse",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-25T18:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-25T18:15:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "biermann",
-   "start": "2026-11-25T18:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "die-lieben-eltern",
-   "start": "2026-11-25T18:15:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "london",
-   "start": "2026-11-25T18:15:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "listening-with-anthropocene",
-   "start": "2026-11-25T19:00:00+01:00",
-   "cinema": "Breitenseer Lichtspiele",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "baaf-2026-wettbewerb-studentische-arbeiten-1",
-   "start": "2026-11-25T19:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OV",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "clash-by-night",
-   "start": "2026-11-25T19:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "naza",
-   "start": "2026-11-25T19:10:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "gentle-monster",
-   "start": "2026-11-25T19:15:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "De France",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "moscas",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "Gartenbaukino",
-   "lang": "OmeU",
-   "tags": [
-    "Festival",
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wildwood",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "explanation-for-everything",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "URANIA CEE🧡NEMA",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "biermann",
-   "start": "2026-11-25T19:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "digger",
-   "start": "2026-11-25T19:45:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-11-25T19:45:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-piano-tuner",
-   "start": "2026-11-25T19:45:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-invite",
-   "start": "2026-11-25T20:00:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-25T20:00:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-25T20:00:00+01:00",
-   "cinema": "De France",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-greatest-showman-sing-along",
-   "start": "2026-11-25T20:00:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "getaway",
-   "start": "2026-11-25T20:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "DF",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "die-blutgraefin",
-   "start": "2026-11-25T20:00:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [
-    "Q&A"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "la-gradiva",
-   "start": "2026-11-25T20:15:00+01:00",
-   "cinema": "Admiral Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T20:15:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T20:15:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "DF",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "the-hunger-games-sunrise-on-the-reaping",
-   "start": "2026-11-25T20:15:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "jim-queen",
-   "start": "2026-11-25T20:30:00+01:00",
-   "cinema": "Bellaria Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "la-bola-negra",
-   "start": "2026-11-25T20:30:00+01:00",
-   "cinema": "Filmhaus",
-   "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "emperor-of-the-north",
-   "start": "2026-11-25T20:30:00+01:00",
-   "cinema": "Filmmuseum",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T20:30:00+01:00",
-   "cinema": "Haydn Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://www.haydnkino.at/Cinema/Overview"
-  },
-  {
-   "film": "gyakufunusha-kazuko",
-   "start": "2026-11-25T20:30:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OmdU",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T20:30:00+01:00",
-   "cinema": "Votiv Kino",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-25T20:35:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "wild-horse-nine",
-   "start": "2026-11-25T20:45:00+01:00",
-   "cinema": "Burg Kino",
-   "lang": "OV",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "baaf-2026-wettbewerb-unabhaengige-arbeiten-1",
-   "start": "2026-11-25T21:00:00+01:00",
-   "cinema": "Filmcasino",
-   "lang": "OV",
-   "tags": [
-    "Festival"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "abschied-von-gestern",
-   "start": "2026-11-25T21:00:00+01:00",
-   "cinema": "Metro Kinokulturhaus",
-   "lang": "OV",
-   "tags": [
-    "Retrospektive"
-   ],
-   "booking": ""
-  },
-  {
-   "film": "obsession",
-   "start": "2026-11-25T21:30:00+01:00",
-   "cinema": "Schikaneder",
-   "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "ingeborg-bachmann-jemand-der-einmal-ich-war",
-   "start": "2026-11-25T21:30:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "liebhaberinnen",
-   "start": "2026-11-25T22:00:00+01:00",
-   "cinema": "Top Kino",
-   "lang": "OmeU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "heimsuchung-eine-jahrhundergeschichte",
-   "start": "2026-11-26T07:15:00+01:00",
-   "cinema": "Actors Studio",
-   "lang": "OV",
-   "tags": [],
-   "booking": "https://cineplexx.at/cinemas/Actors-Studio"
-  },
   {
    "film": "die-blutgraefin",
    "start": "2026-11-26T14:15:00+01:00",
@@ -7644,9 +7273,7 @@
    "start": "2026-11-26T17:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7682,9 +7309,7 @@
    "start": "2026-11-26T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7692,9 +7317,7 @@
    "start": "2026-11-26T17:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -7875,9 +7498,7 @@
    "start": "2026-11-26T19:00:00+01:00",
    "cinema": "Actors Studio",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
@@ -7911,9 +7532,7 @@
    "start": "2026-11-26T19:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8019,9 +7638,7 @@
    "start": "2026-11-26T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8194,6 +7811,7 @@
    "cinema": "Admiral Kino",
    "lang": "OV",
    "tags": [
+    "Film der Woche",
     "Q&A"
    ],
    "booking": ""
@@ -8321,6 +7939,16 @@
    "booking": ""
   },
   {
+   "film": "robots",
+   "start": "2026-11-27T16:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "ein-tag-ohne-frauen",
    "start": "2026-11-27T16:00:00+01:00",
    "cinema": "Top Kino",
@@ -8333,9 +7961,7 @@
    "start": "2026-11-27T16:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8371,11 +7997,23 @@
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
+   "film": "whispers-in-may",
+   "start": "2026-11-27T17:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "everytime",
    "start": "2026-11-27T17:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8399,9 +8037,7 @@
    "start": "2026-11-27T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8417,9 +8053,7 @@
    "start": "2026-11-27T17:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8435,9 +8069,7 @@
    "start": "2026-11-27T17:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8541,6 +8173,17 @@
    "booking": ""
   },
   {
+   "film": "women-of-sin",
+   "start": "2026-11-27T18:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-11-27T18:00:00+01:00",
    "cinema": "Stadtkino Wien",
@@ -8585,7 +8228,9 @@
    "start": "2026-11-27T18:20:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -8619,10 +8264,18 @@
    "start": "2026-11-27T19:00:00+01:00",
    "cinema": "Actors Studio",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
+  },
+  {
+   "film": "the-guest-gaesten",
+   "start": "2026-11-27T19:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
   },
   {
    "film": "wild-horse-nine",
@@ -8645,9 +8298,7 @@
    "start": "2026-11-27T19:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8704,6 +8355,7 @@
    "cinema": "Stadtkino Wien",
    "lang": "OV",
    "tags": [
+    "Film der Woche",
     "Q&A"
    ],
    "booking": ""
@@ -8737,9 +8389,7 @@
    "start": "2026-11-27T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8803,9 +8453,7 @@
    "start": "2026-11-27T20:30:00+01:00",
    "cinema": "Filmcasino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -8833,6 +8481,16 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "the-balkan-cowboy",
+   "start": "2026-11-27T20:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
   },
   {
    "film": "wild-horse-nine",
@@ -8866,6 +8524,16 @@
    "cinema": "Admiral Kino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "stand-up",
+   "start": "2026-11-27T21:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -8981,9 +8649,7 @@
    "start": "2026-11-28T14:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9068,9 +8734,7 @@
    "start": "2026-11-28T15:15:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9119,6 +8783,16 @@
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "this-human-world-expanded-shorts-blind-eye",
+   "start": "2026-11-28T15:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -9222,7 +8896,9 @@
    "start": "2026-11-28T17:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9238,9 +8914,7 @@
    "start": "2026-11-28T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9290,6 +8964,17 @@
    "lang": "OV",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "on-our-own",
+   "start": "2026-11-28T17:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
    ],
    "booking": ""
   },
@@ -9432,6 +9117,17 @@
    "booking": ""
   },
   {
+   "film": "80-angry-journalists",
+   "start": "2026-11-28T18:15:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "wild-horse-nine",
    "start": "2026-11-28T18:15:00+01:00",
    "cinema": "Votiv Kino",
@@ -9470,9 +9166,7 @@
    "start": "2026-11-28T19:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9480,9 +9174,7 @@
    "start": "2026-11-28T19:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9498,9 +9190,7 @@
    "start": "2026-11-28T19:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9508,9 +9198,7 @@
    "start": "2026-11-28T20:00:00+01:00",
    "cinema": "Actors Studio",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
@@ -9528,9 +9216,7 @@
    "start": "2026-11-28T20:00:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9558,6 +9244,17 @@
    "booking": ""
   },
   {
+   "film": "agridulce-bittersweet",
+   "start": "2026-11-28T20:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "heimsuchung-eine-jahrhundergeschichte",
    "start": "2026-11-28T20:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -9578,9 +9275,7 @@
    "start": "2026-11-28T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9604,7 +9299,9 @@
    "start": "2026-11-28T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -9620,14 +9317,6 @@
    "start": "2026-11-28T20:30:00+01:00",
    "cinema": "Bellaria Kino",
    "lang": "OmdU",
-   "tags": [],
-   "booking": ""
-  },
-  {
-   "film": "der-perfekte-urlaub",
-   "start": "2026-11-28T20:30:00+01:00",
-   "cinema": "CineCenter",
-   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -9688,6 +9377,16 @@
    "start": "2026-11-28T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "der-perfekte-urlaub",
+   "start": "2026-11-28T20:35:00+01:00",
+   "cinema": "CineCenter",
+   "lang": "OV",
    "tags": [],
    "booking": ""
   },
@@ -9714,6 +9413,16 @@
    "lang": "OV",
    "tags": [],
    "booking": "https://www.haydnkino.at/Cinema/Overview"
+  },
+  {
+   "film": "beginning-while-ending-a-life-like-most-others",
+   "start": "2026-11-28T20:45:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
   },
   {
    "film": "flash-gordon",
@@ -9780,9 +9489,7 @@
    "start": "2026-11-29T12:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9798,9 +9505,7 @@
    "start": "2026-11-29T12:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -9865,6 +9570,16 @@
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "80-angry-journalists",
+   "start": "2026-11-29T13:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -10038,6 +9753,16 @@
    "booking": ""
   },
   {
+   "film": "this-human-world-expanded-shorts-edge",
+   "start": "2026-11-29T15:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "sense-and-sensibility-2026",
    "start": "2026-11-29T15:35:00+01:00",
    "cinema": "Burg Kino",
@@ -10112,6 +9837,16 @@
    "booking": ""
   },
   {
+   "film": "kick-off",
+   "start": "2026-11-29T16:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "from-inside-out-die-architektur-von-peter-zumthor",
    "start": "2026-11-29T16:15:00+01:00",
    "cinema": "Filmcasino",
@@ -10156,9 +9891,7 @@
    "start": "2026-11-29T16:45:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10190,9 +9923,7 @@
    "start": "2026-11-29T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10216,9 +9947,7 @@
    "start": "2026-11-29T17:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10253,6 +9982,16 @@
    "cinema": "Metro Kinokulturhaus",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "nobodys-violence",
+   "start": "2026-11-29T17:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -10316,7 +10055,9 @@
    "start": "2026-11-29T18:00:00+01:00",
    "cinema": "De France",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10334,7 +10075,9 @@
    "start": "2026-11-29T18:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10378,6 +10121,16 @@
    "booking": ""
   },
   {
+   "film": "where-to",
+   "start": "2026-11-29T18:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-11-29T19:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -10398,9 +10151,7 @@
    "start": "2026-11-29T19:30:00+01:00",
    "cinema": "Actors Studio",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
@@ -10408,9 +10159,7 @@
    "start": "2026-11-29T19:30:00+01:00",
    "cinema": "Bellaria Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10426,9 +10175,7 @@
    "start": "2026-11-29T19:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10508,9 +10255,7 @@
    "start": "2026-11-29T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10527,6 +10272,17 @@
    "cinema": "CineCenter",
    "lang": "DF",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "a-song-without-home",
+   "start": "2026-11-29T20:15:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -10594,7 +10350,9 @@
    "start": "2026-11-29T20:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -10636,6 +10394,16 @@
    "lang": "OmdU",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "moscas",
+   "start": "2026-11-29T21:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
    ],
    "booking": ""
   },
@@ -10782,7 +10550,20 @@
    "start": "2026-11-30T17:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "flow-my-tears",
+   "start": "2026-11-30T17:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -10798,9 +10579,7 @@
    "start": "2026-11-30T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -10840,8 +10619,16 @@
    "start": "2026-11-30T17:30:00+01:00",
    "cinema": "Bellaria Kino",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "synthetic-sincerity",
+   "start": "2026-11-30T17:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OV",
    "tags": [
-    "Film der Woche"
+    "Festival"
    ],
    "booking": ""
   },
@@ -10974,7 +10761,9 @@
    "start": "2026-11-30T18:20:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11026,8 +10815,16 @@
    "start": "2026-11-30T19:30:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "plaza-romani",
+   "start": "2026-11-30T19:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
    "tags": [
-    "Film der Woche"
+    "Festival"
    ],
    "booking": ""
   },
@@ -11038,6 +10835,16 @@
    "lang": "OmeU",
    "tags": [
     "Q&A"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "detention",
+   "start": "2026-11-30T19:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
    ],
    "booking": ""
   },
@@ -11065,9 +10872,7 @@
    "start": "2026-11-30T19:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11115,7 +10920,9 @@
    "start": "2026-11-30T20:05:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11133,9 +10940,7 @@
    "start": "2026-11-30T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11191,9 +10996,7 @@
    "start": "2026-11-30T20:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11257,6 +11060,16 @@
    "booking": ""
   },
   {
+   "film": "on-our-own",
+   "start": "2026-11-30T22:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "die-al-cook-gala",
    "start": "2026-12-01T10:00:00+01:00",
    "cinema": "Admiral Kino",
@@ -11269,7 +11082,9 @@
    "start": "2026-12-01T11:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11401,6 +11216,26 @@
    "booking": ""
   },
   {
+   "film": "synthetic-sincerity",
+   "start": "2026-12-01T16:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OV",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "still-living",
+   "start": "2026-12-01T16:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "alte-liebe",
    "start": "2026-12-01T17:00:00+01:00",
    "cinema": "Actors Studio",
@@ -11413,9 +11248,7 @@
    "start": "2026-12-01T17:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11457,9 +11290,7 @@
    "start": "2026-12-01T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11507,9 +11338,7 @@
    "start": "2026-12-01T17:30:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11607,6 +11436,17 @@
    "booking": ""
   },
   {
+   "film": "nine-little-indians",
+   "start": "2026-12-01T18:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OV",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "iron-winter",
    "start": "2026-12-01T18:00:00+01:00",
    "cinema": "URANIA CEE🧡NEMA",
@@ -11643,7 +11483,9 @@
    "start": "2026-12-01T18:20:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11667,13 +11509,22 @@
    "booking": ""
   },
   {
+   "film": "under-the-dancefloor",
+   "start": "2026-12-01T19:00:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "la-bola-negra",
    "start": "2026-12-01T19:15:00+01:00",
    "cinema": "Actors Studio",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
@@ -11689,9 +11540,7 @@
    "start": "2026-12-01T19:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11699,9 +11548,7 @@
    "start": "2026-12-01T19:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11795,9 +11642,7 @@
    "start": "2026-12-01T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -11829,7 +11674,9 @@
    "start": "2026-12-01T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11897,11 +11744,24 @@
    "booking": ""
   },
   {
+   "film": "virtual-girlfriends",
+   "start": "2026-12-01T20:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Q&A",
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "everytime",
    "start": "2026-12-01T20:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -11927,6 +11787,16 @@
    "lang": "OmeU",
    "tags": [
     "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "stand-up",
+   "start": "2026-12-01T21:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
    ],
    "booking": ""
   },
@@ -12027,6 +11897,16 @@
    "booking": ""
   },
   {
+   "film": "nobodys-violence",
+   "start": "2026-12-02T15:30:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "sterben-fuer-anfaenger",
    "start": "2026-12-02T16:00:00+01:00",
    "cinema": "CineCenter",
@@ -12055,9 +11935,7 @@
    "start": "2026-12-02T17:00:00+01:00",
    "cinema": "Actors Studio",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
@@ -12081,7 +11959,9 @@
    "start": "2026-12-02T17:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12105,9 +11985,7 @@
    "start": "2026-12-02T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12115,9 +11993,7 @@
    "start": "2026-12-02T17:15:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12149,9 +12025,7 @@
    "start": "2026-12-02T17:30:00+01:00",
    "cinema": "Bellaria Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12261,6 +12135,16 @@
    "booking": ""
   },
   {
+   "film": "la-belle-annee",
+   "start": "2026-12-02T18:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "unrwa",
    "start": "2026-12-02T18:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -12283,7 +12167,9 @@
    "start": "2026-12-02T18:20:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12330,6 +12216,7 @@
    "cinema": "Stadtkino Wien",
    "lang": "OV",
    "tags": [
+    "Film der Woche",
     "Q&A"
    ],
    "booking": ""
@@ -12347,9 +12234,7 @@
    "start": "2026-12-02T19:30:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12409,6 +12294,16 @@
    "booking": ""
   },
   {
+   "film": "beginning-while-ending-a-life-like-most-others",
+   "start": "2026-12-02T20:00:00+01:00",
+   "cinema": "Schikaneder",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
+   "booking": ""
+  },
+  {
    "film": "who-is-still-alive-qui-vit-encore",
    "start": "2026-12-02T20:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -12431,9 +12326,7 @@
    "start": "2026-12-02T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12505,9 +12398,7 @@
    "start": "2026-12-02T20:30:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12523,9 +12414,7 @@
    "start": "2026-12-02T20:30:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12542,6 +12431,16 @@
    "cinema": "Metro Kinokulturhaus",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "the-guest-gaesten",
+   "start": "2026-12-02T20:30:00+01:00",
+   "cinema": "Top Kino",
+   "lang": "OmeU",
+   "tags": [
+    "Festival"
+   ],
    "booking": ""
   },
   {
@@ -12599,7 +12498,9 @@
    "start": "2026-12-03T14:45:00+01:00",
    "cinema": "De France",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12607,7 +12508,9 @@
    "start": "2026-12-03T15:00:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -12695,9 +12598,7 @@
    "start": "2026-12-03T16:45:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12705,9 +12606,7 @@
    "start": "2026-12-03T16:45:00+01:00",
    "cinema": "Gartenbaukino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12731,9 +12630,7 @@
    "start": "2026-12-03T17:00:00+01:00",
    "cinema": "De France",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12765,9 +12662,7 @@
    "start": "2026-12-03T17:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -12809,14 +12704,16 @@
    "start": "2026-12-03T17:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
    "film": "passing-dreams",
    "start": "2026-12-03T17:30:00+01:00",
    "cinema": "Votiv Kino",
-   "lang": "OmdU",
+   "lang": "OmeU",
    "tags": [
     "Festival"
    ],
@@ -12937,9 +12834,7 @@
    "start": "2026-12-03T19:30:00+01:00",
    "cinema": "Actors Studio",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": "https://cineplexx.at/cinemas/Actors-Studio"
   },
   {
@@ -12979,9 +12874,7 @@
    "start": "2026-12-03T19:45:00+01:00",
    "cinema": "CineCenter",
    "lang": "DF",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -13067,9 +12960,7 @@
    "start": "2026-12-03T20:15:00+01:00",
    "cinema": "Burg Kino",
    "lang": "OmeU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -13203,6 +13094,16 @@
    "start": "2026-12-04T18:00:00+01:00",
    "cinema": "Admiral Kino",
    "lang": "OV",
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "minotaurus",
+   "start": "2026-12-04T18:00:00+01:00",
+   "cinema": "Burg Kino",
+   "lang": "OmeU",
    "tags": [],
    "booking": ""
   },
@@ -13283,7 +13184,9 @@
    "start": "2026-12-04T20:15:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -13313,9 +13216,25 @@
    "booking": ""
   },
   {
+   "film": "gerhard-gruber-am-klavier-lustiges-von-laurel-hardy-und-keaton",
+   "start": "2026-12-05T14:00:00+01:00",
+   "cinema": "Filmcasino",
+   "lang": "OV",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "auf-der-suche-nach-der-weihnachtswerkstatt",
    "start": "2026-12-05T14:00:00+01:00",
    "cinema": "Filmhaus",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "madagascar",
+   "start": "2026-12-05T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
    "lang": "DF",
    "tags": [],
    "booking": ""
@@ -13435,7 +13354,9 @@
    "start": "2026-12-05T20:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -13503,7 +13424,19 @@
    "start": "2026-12-06T13:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "drei-filme-von-ueber-und-mit-franz-west",
+   "start": "2026-12-06T13:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OV",
+   "tags": [
+    "Q&A"
+   ],
    "booking": ""
   },
   {
@@ -13511,7 +13444,9 @@
    "start": "2026-12-06T15:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -13613,7 +13548,9 @@
    "start": "2026-12-06T20:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -13997,7 +13934,9 @@
    "start": "2026-12-10T19:30:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -14151,6 +14090,16 @@
    "start": "2026-12-12T14:00:00+01:00",
    "cinema": "Filmhaus",
    "lang": "OmeU",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
+   "film": "amy-und-die-wildgaense",
+   "start": "2026-12-12T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
    "tags": [
     "Retrospektive"
    ],
@@ -14503,7 +14452,9 @@
    "start": "2026-12-14T20:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OV",
-   "tags": [],
+   "tags": [
+    "Film der Woche"
+   ],
    "booking": ""
   },
   {
@@ -14889,6 +14840,14 @@
    "booking": ""
   },
   {
+   "film": "charlie-und-die-schokoladenfabrik-3",
+   "start": "2026-12-19T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "DF",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "aufregung-um-weihnachten",
    "start": "2026-12-19T16:00:00+01:00",
    "cinema": "Metro Kinokulturhaus",
@@ -14977,9 +14936,7 @@
    "start": "2026-12-20T12:00:00+01:00",
    "cinema": "Votiv Kino",
    "lang": "OmdU",
-   "tags": [
-    "Film der Woche"
-   ],
+   "tags": [],
    "booking": ""
   },
   {
@@ -15371,6 +15328,14 @@
    "booking": ""
   },
   {
+   "film": "madagascar",
+   "start": "2026-12-25T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [],
+   "booking": ""
+  },
+  {
    "film": "morgen-findus-wirds-was-geben",
    "start": "2026-12-25T15:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -15443,7 +15408,9 @@
    "start": "2026-12-26T15:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -15641,7 +15608,7 @@
    "booking": ""
   },
   {
-   "film": "charlie-und-die-schokoladenfabrik",
+   "film": "charlie-und-die-schokoladenfabrik-3",
    "start": "2026-12-28T15:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
@@ -15945,7 +15912,9 @@
    "start": "2027-01-01T15:00:00+01:00",
    "cinema": "Stadtkino Wien",
    "lang": "OmdU",
-   "tags": [],
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -16028,6 +15997,16 @@
    "cinema": "Burg Kino",
    "lang": "OV",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "die-muppets-weihnachtsgeschichte",
+   "start": "2027-01-02T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "OmdU",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
@@ -16317,6 +16296,16 @@
    "booking": ""
   },
   {
+   "film": "die-muppets-weihnachtsgeschichte",
+   "start": "2027-01-05T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "DF",
+   "tags": [
+    "Retrospektive"
+   ],
+   "booking": ""
+  },
+  {
    "film": "der-zauberer-von-oz",
    "start": "2027-01-05T15:00:00+01:00",
    "cinema": "Votiv Kino",
@@ -16408,6 +16397,16 @@
    "cinema": "Filmcasino",
    "lang": "OmdU",
    "tags": [],
+   "booking": ""
+  },
+  {
+   "film": "amy-und-die-wildgaense",
+   "start": "2027-01-06T15:00:00+01:00",
+   "cinema": "Stadtkino Wien",
+   "lang": "DF",
+   "tags": [
+    "Retrospektive"
+   ],
    "booking": ""
   },
   {
